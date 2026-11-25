@@ -9,8 +9,8 @@
   "id": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f4efe6",
-  "theme_color": "#9c4527",
+  "background_color": "#17120f",
+  "theme_color": "#17120f",
   "categories": ["travel", "education"],
   "icons": [
     { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },

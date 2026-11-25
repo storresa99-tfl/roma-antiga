@@ -4,7 +4,7 @@ export const TIPUS = {
   monument: "Monument", museu: "Museu", via: "Via", esglesia: "Església", excursio: "Excursió", zona: "Zona",
 };
 export const TIPUS_COLOR = {
-  monument: "#b98a2e", museu: "#2f5d9e", via: "#6a8a2e", esglesia: "#8a3fa0", excursio: "#1f8a76", zona: "#b0652a",
+  monument: "#8c2a22", museu: "#1f4d6e", via: "#5d6b2a", esglesia: "#5a2f5e", excursio: "#1d6b5c", zona: "#a8472a",
 };
 export const PERIODES = {
   monarquia: "Monarquia", republica: "República", imperi: "Imperi", "antiguitat-tardana": "Antiguitat tardana", posterior: "Posterior",
@@ -46,7 +46,7 @@ export function commonsPage(fitxer) {
 }
 export function img(fitxer, alt, width = 1200, cls = "") {
   if (!fitxer) return "";
-  return `<img src="${esc(commonsUrl(fitxer, width))}" alt="${esc(alt || "")}" loading="lazy" decoding="async"${cls ? ` class="${cls}"` : ""}>`;
+  return `<img src="${esc(commonsUrl(fitxer, width))}" alt="${esc(alt || "")}" loading="lazy" decoding="async" class="im${cls ? " " + cls : ""}">`;
 }
 // Imatge ampliable (lightbox): s'obre en tocar-la o amb Enter/Espai
 export function lbAttrs(fitxer, titol, text, credit, lic) {
@@ -54,7 +54,7 @@ export function lbAttrs(fitxer, titol, text, credit, lic) {
 }
 export function zoomImg(fitxer, alt, titol, text, credit, lic, width = 1200) {
   if (!fitxer) return "";
-  return `<img src="${esc(commonsUrl(fitxer, width))}" alt="${esc(alt || "")}" loading="lazy" decoding="async" role="button" tabindex="0" ${lbAttrs(fitxer, titol, text, credit, lic)}>`;
+  return `<img src="${esc(commonsUrl(fitxer, width))}" alt="${esc(alt || "")}" loading="lazy" decoding="async" class="im" role="button" tabindex="0" ${lbAttrs(fitxer, titol, text, credit, lic)}>`;
 }
 export function creditLine(c, lic) {
   const parts = [c, lic].filter(Boolean).map(esc);
@@ -70,6 +70,22 @@ export function fmtRange(a, b) {
   if (a < 0 && b < 0) return `${Math.abs(a)} – ${Math.abs(b)} aC`;
   if (a > 0 && b > 0) return `${a} – ${b} dC`;
   return `${fmtYear(a)} – ${fmtYear(b)}`;
+}
+
+export function roman(n) {
+  n = Math.floor(n); if (n < 1 || n > 3999) return String(n);
+  const m = [[1000, "M"], [900, "CM"], [500, "D"], [400, "CD"], [100, "C"], [90, "XC"], [50, "L"], [40, "XL"], [10, "X"], [9, "IX"], [5, "V"], [4, "IV"], [1, "I"]];
+  let r = ""; for (const [v, s] of m) while (n >= v) { r += s; n -= v; } return r;
+}
+// Imatge de lloc per a miniatures
+export function placeThumb(l) {
+  const im = l?.imatges || {};
+  return im.despres?.fitxer || im.galeria?.[0]?.fitxer || im.abans?.fitxer || l?.obres?.find((o) => o.imatge)?.imatge || "";
+}
+// Primera frase (per a títols curts)
+export function firstSentence(s, max = 90) {
+  const t = String(s ?? "").replace(/\*\*/g, "").trim(); const m = /^(.+?[.!?])(\s|$)/.exec(t); const x = m ? m[1] : t;
+  return x.length > max ? x.slice(0, max - 1).replace(/\s+\S*$/, "") + "…" : x;
 }
 
 export function distKm(a, b) {

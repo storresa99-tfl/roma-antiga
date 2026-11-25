@@ -1,0 +1,2398 @@
+{
+ "on_es": [
+  {
+   "id": "o001",
+   "imatge": {
+    "fitxer": "Panoramic photograph of interior of Colosseum.jpg",
+    "descripcio": "Panoràmica de l'interior del Colosseu.",
+    "credit": "ThePhotografer",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "colosseu",
+   "pista": "Per aquí van passar desenes de milers d'espectadors en una sola jornada de jocs.",
+   "distractors": [
+    "casa-vestals",
+    "basilica-maxenci",
+    "forum-pau"
+   ]
+  },
+  {
+   "id": "o002",
+   "imatge": {
+    "fitxer": "Arch of Constantine (Rome) - South side, from Via triumphalis.jpg",
+    "descripcio": "L'Arc de Constantí, cara sud, des de la Via Triumphalis.",
+    "credit": "NikonZ7II (Paris Orlando)",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "arc-constanti",
+   "pista": "Un arc triomfal amb tres passatges, el més gran de la ciutat, a tocar d'un amfiteatre famós.",
+   "distractors": [
+    "palati",
+    "circ-maxim",
+    "forum-pau"
+   ]
+  },
+  {
+   "id": "o003",
+   "imatge": {
+    "fitxer": "Foro Romano Musei Capitolini Roma.jpg",
+    "descripcio": "El Fòrum Romà vist des del Capitoli.",
+    "credit": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copy",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "forum-roma",
+   "pista": "Vista des d'un turó veí: el centre cívic, polític i religiós de la ciutat antiga.",
+   "distractors": [
+    "domus-augusti",
+    "arc-constanti",
+    "illa-tiberina"
+   ]
+  },
+  {
+   "id": "o004",
+   "imatge": {
+    "fitxer": "Arch Titus, Forum Romanum, Rome, Italy.jpg",
+    "descripcio": "L'Arc de Titus a la Via Sacra.",
+    "credit": "Jebulon",
+    "llicencia": "CC0"
+   },
+   "lloc": "arc-titus",
+   "pista": "Un arc de passatge únic al començament de la Via Sacra, aixecat per un emperador flavi.",
+   "distractors": [
+    "ludus-magnus",
+    "domus-augusti",
+    "catacumbes"
+   ]
+  },
+  {
+   "id": "o005",
+   "imatge": {
+    "fitxer": "20211110.Maxentiusbasilika.Forum Romanum.-012.jpg",
+    "descripcio": "Detall de les voltes amb cassetons.",
+    "credit": "Bybbisch94, Christian Gebhardt",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "basilica-maxenci",
+   "pista": "Voltes de formigó amb cassetons: les restes d'un gran edifici públic acabat per Constantí.",
+   "distractors": [
+    "colosseu",
+    "ludus-magnus",
+    "tomba-cecilia-metella"
+   ]
+  },
+  {
+   "id": "o006",
+   "imatge": {
+    "fitxer": "The peristyle garden court of the House of the Vestal Virgins (Atrium Vestae) with a double pool, Upper Via Sacra, Rome (9114122461).jpg",
+    "descripcio": "Pati amb piscina doble.",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "casa-vestals",
+   "pista": "Un pati amb piscines allargades, on vivien sacerdotesses que guardaven un foc.",
+   "distractors": [
+    "domus-aurea",
+    "circ-maxim",
+    "forum-august"
+   ]
+  },
+  {
+   "id": "o007",
+   "imatge": {
+    "fitxer": "Palatine Hill from across the Circus Maximus April 2019.jpg",
+    "descripcio": "El Palatí vist des del Circ Màxim.",
+    "credit": "Lil Herodotus",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "palati",
+   "pista": "El turó des d'on, segons la llegenda, Ròmul va fundar la ciutat, vist des d'una pista de curses.",
+   "distractors": [
+    "colosseu",
+    "arc-constanti",
+    "capitoli"
+   ]
+  },
+  {
+   "id": "o008",
+   "imatge": {
+    "fitxer": "Augustus-Maskenraum01b.jpg",
+    "descripcio": "La Sala de les Màscares, Casa d'August.",
+    "credit": "Unknown author",
+    "llicencia": "Public domain"
+   },
+   "lloc": "domus-augusti",
+   "pista": "Frescos antics de color intens en una sala de la casa del primer emperador.",
+   "distractors": [
+    "colosseu",
+    "arc-titus",
+    "columna-trajana"
+   ]
+  },
+  {
+   "id": "o009",
+   "imatge": {
+    "fitxer": "Circus Maximus 2025.jpg",
+    "descripcio": "El Circ Màxim avui.",
+    "credit": "Rione Colonna",
+    "llicencia": "CC BY 4.0"
+   },
+   "lloc": "circ-maxim",
+   "pista": "Una gran esplanada d'herba on abans rugien els carros: queda només la forma.",
+   "distractors": [
+    "temple-venus-roma",
+    "palati",
+    "porta-maggiore"
+   ]
+  },
+  {
+   "id": "o010",
+   "imatge": {
+    "fitxer": "Oculus of Octagonal Room, Domus Aurea (43004369972).jpg",
+    "descripcio": "L'òcul de la Sala Octogonal.",
+    "credit": "Tyler Bell",
+    "llicencia": "CC BY 2.0"
+   },
+   "lloc": "domus-aurea",
+   "pista": "Una sala amb un forat al sostre, enterrada sota un parc: el palau d'un emperador polèmic.",
+   "distractors": [
+    "colosseu",
+    "casa-vestals",
+    "mur-aurelia"
+   ]
+  },
+  {
+   "id": "o011",
+   "imatge": {
+    "fitxer": "Ludus magnus Rome 2006.jpg",
+    "descripcio": "Restes del Ludus Magnus.",
+    "credit": "Jastrow",
+    "llicencia": "Public domain"
+   },
+   "lloc": "ludus-magnus",
+   "pista": "Restes d'una gran arena el·líptica d'entrenament, connectada a un amfiteatre.",
+   "distractors": [
+    "circ-maxim",
+    "basilica-maxenci",
+    "tomba-cecilia-metella"
+   ]
+  },
+  {
+   "id": "o012",
+   "imatge": {
+    "fitxer": "Templum Veneris et Romae Rom 2012.jpg",
+    "descripcio": "El temple i la plataforma.",
+    "credit": "Felix König",
+    "llicencia": "CC BY 3.0"
+   },
+   "lloc": "temple-venus-roma",
+   "pista": "Una plataforma gegant i columnes del temple més gran de Roma, entre el Colosseu i el Fòrum.",
+   "distractors": [
+    "domus-aurea",
+    "ludus-magnus",
+    "forum-cesar"
+   ]
+  },
+  {
+   "id": "o013",
+   "imatge": {
+    "fitxer": "Forum of Trajan — Exedra (14837260426).jpg",
+    "descripcio": "Una de les exedres del Fòrum de Trajà vista des dels Mercats.",
+    "credit": "Amphipolis",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "forum-traja",
+   "pista": "Una exedra semicircular que es veu des dels pisos d'un conjunt de botigues.",
+   "distractors": [
+    "forum-pau",
+    "forum-cesar",
+    "pantheon"
+   ]
+  },
+  {
+   "id": "o014",
+   "imatge": {
+    "fitxer": "Inside Trajans Market, Museo dei Fori Imperiali, Rome (8070759878).jpg",
+    "descripcio": "Interior dels Mercats de Trajà.",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "mercats-traja",
+   "pista": "Passadissos amb voltes de maó on es comerciava fa uns 1.900 anys.",
+   "distractors": [
+    "forum-cesar",
+    "forum-august",
+    "galleria-borghese"
+   ]
+  },
+  {
+   "id": "o015",
+   "imatge": {
+    "fitxer": "Dacian ambassadors ask Traianus for mercy (Detail from Trajan's Column in Rome).jpg",
+    "descripcio": "Detall del relleu: ambaixadors dacis demanant clemència a Trajà.",
+    "credit": "Unknown author",
+    "llicencia": "Public domain"
+   },
+   "lloc": "columna-trajana",
+   "pista": "Un relleu en espiral que explica una guerra a l'actual Romania.",
+   "distractors": [
+    "forum-cesar",
+    "forum-pau",
+    "tomba-cecilia-metella"
+   ]
+  },
+  {
+   "id": "o016",
+   "imatge": {
+    "fitxer": "Forum of Augustus, Temple of Mars Ultor 2013.jpg",
+    "descripcio": "El temple de Mart Ultor al Fòrum d'August, avui.",
+    "credit": "Szilas",
+    "llicencia": "Public domain"
+   },
+   "lloc": "forum-august",
+   "pista": "Tres columnes altes d'un temple dedicat a Mart el Venjador.",
+   "distractors": [
+    "mercats-traja",
+    "forum-traja",
+    "mausoleu-august"
+   ]
+  },
+  {
+   "id": "o017",
+   "imatge": {
+    "fitxer": "Temple of Venus Genetrix in Rome (1).jpg",
+    "descripcio": "Les columnes del temple de Venus Genetrix.",
+    "credit": "Tournasol7",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-cesar",
+   "pista": "Columnes d'un temple de Venus, mare mítica dels romans, dins d'un fòrum del dictador.",
+   "distractors": [
+    "columna-trajana",
+    "mercats-traja",
+    "teatre-marcel"
+   ]
+  },
+  {
+   "id": "o018",
+   "imatge": {
+    "fitxer": "Basilica dei Santi Cosma e Damiano.jpg",
+    "descripcio": "Entrada de la basílica dels Sants Cosme i Damià, vora el mur de la Forma Urbis.",
+    "credit": "Hugo DK",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-pau",
+   "pista": "Una entrada de basílica cristiana que s'aprofita d'un edifici romà del Fòrum de la Pau.",
+   "distractors": [
+    "columna-trajana",
+    "forum-traja",
+    "portic-octavia"
+   ]
+  },
+  {
+   "id": "o019",
+   "imatge": {
+    "fitxer": "Roman Forum Tabularium exterior.jpg",
+    "descripcio": "La façana del Tabularium sobre el Fòrum Romà.",
+    "credit": "Nicholas Hartmann",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "capitoli",
+   "pista": "Una façana d'arcades sobre el Fòrum, sota una plaça de Miquel Àngel.",
+   "distractors": [
+    "forum-boari",
+    "portic-octavia",
+    "palati"
+   ]
+  },
+  {
+   "id": "o020",
+   "imatge": {
+    "fitxer": "CarcerTullianusTullianum.jpg",
+    "descripcio": "La cambra inferior, el Tullianum.",
+    "credit": "Rabax63",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "carcer-tullianum",
+   "pista": "Una cel·la rodona soterrada, la presó més antiga de la ciutat, sota una església.",
+   "distractors": [
+    "teatre-marcel",
+    "illa-tiberina",
+    "estadi-domicia"
+   ]
+  },
+  {
+   "id": "o021",
+   "imatge": {
+    "fitxer": "Rome Theatre of Marcellus 2020 P01.jpg",
+    "descripcio": "El Teatre de Marcel avui.",
+    "credit": "Fallaner",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "teatre-marcel",
+   "pista": "Dues files d'arcs que van inspirar el Colosseu, amb un palau modern a sobre.",
+   "distractors": [
+    "boca-veritat",
+    "forum-boari",
+    "circ-maxenci"
+   ]
+  },
+  {
+   "id": "o022",
+   "imatge": {
+    "fitxer": "Portico di Ottavia and Sant'Angelo in Pescheria.jpg",
+    "descripcio": "El Portico d'Ottavia i Sant'Angelo in Pescheria.",
+    "credit": "Dudva",
+    "llicencia": "CC0"
+   },
+   "lloc": "portic-octavia",
+   "pista": "Restes d'un pòrtic dedicat a la germana d'August, que més tard va ser un mercat de peix.",
+   "distractors": [
+    "carcer-tullianum",
+    "illa-tiberina",
+    "pantheon"
+   ]
+  },
+  {
+   "id": "o023",
+   "imatge": {
+    "fitxer": "Temple of Portunus in Rome (1).jpg",
+    "descripcio": "El temple de Portú.",
+    "credit": "Krzysztof Golik",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-boari",
+   "pista": "Un petit temple rectangular d'època republicana, a prop d'un antic mercat de bous.",
+   "distractors": [
+    "carcer-tullianum",
+    "capitoli",
+    "parc-aqueductes"
+   ]
+  },
+  {
+   "id": "o024",
+   "imatge": {
+    "fitxer": "Lining up for the Bocca della Verità - Santa Maria in Cosmedin - Rome, Italy - DSC00530.jpg",
+    "descripcio": "La cua per fotografiar-se amb la Bocca.",
+    "credit": "Daderot",
+    "llicencia": "Public domain"
+   },
+   "lloc": "boca-veritat",
+   "pista": "Una cua de turistes per ficar la mà dins d'una cara de pedra.",
+   "distractors": [
+    "portic-octavia",
+    "illa-tiberina",
+    "basilica-maxenci"
+   ]
+  },
+  {
+   "id": "o025",
+   "imatge": {
+    "fitxer": "Pons Fabricius.jpg",
+    "descripcio": "El Pons Fabricius, el pont més antic de Roma.",
+    "credit": "User:MatthiasKabel",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "illa-tiberina",
+   "pista": "El pont més antic de Roma, que encara es fa servir, porta a una illa al riu.",
+   "distractors": [
+    "carcer-tullianum",
+    "forum-boari",
+    "forum-roma"
+   ]
+  },
+  {
+   "id": "o026",
+   "imatge": {
+    "fitxer": "Pantheon (Rome) - Interior 01.jpg",
+    "descripcio": "Interior de la rotonda.",
+    "credit": "John Samuel",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "pantheon",
+   "pista": "Una cúpula amb cassetons i un forat al mig: l'interior d'un temple convertit en església.",
+   "distractors": [
+    "temple-adria",
+    "largo-argentina",
+    "boca-veritat"
+   ]
+  },
+  {
+   "id": "o027",
+   "imatge": {
+    "fitxer": "Interior oculus of the Rome Pantheon.jpg",
+    "descripcio": "L'oculus de la cúpula.",
+    "credit": "T. Le Berre",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "pantheon",
+   "pista": "Un forat de gairebé nou metres al cim de la cúpula, sense vidre.",
+   "distractors": [
+    "columna-marc-aureli",
+    "largo-argentina",
+    "ludus-magnus"
+   ]
+  },
+  {
+   "id": "o028",
+   "imatge": {
+    "fitxer": "Largo Argentina — Temple B (14878172532).jpg",
+    "descripcio": "Temple B, la tholos circular.",
+    "credit": "Amphipolis",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "largo-argentina",
+   "pista": "Un temple rodó entre restes de la República, en una plaça habitada per gats.",
+   "distractors": [
+    "columna-marc-aureli",
+    "estadi-domicia",
+    "monte-testaccio"
+   ]
+  },
+  {
+   "id": "o029",
+   "imatge": {
+    "fitxer": "Rome Ara Pacis swag relief.jpg",
+    "descripcio": "Relleu de garlandes i bucranis.",
+    "credit": "Nicholas Hartmann",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "ara-pacis",
+   "pista": "Garlandes de fruites i caps de bou, al relleu d'un altar dedicat a la Pau.",
+   "distractors": [
+    "largo-argentina",
+    "columna-marc-aureli",
+    "centrale-montemartini"
+   ]
+  },
+  {
+   "id": "o030",
+   "imatge": {
+    "fitxer": "Augustea Piazza Augusto Imperatore Roma - Mausoleo di Augusto.jpg",
+    "descripcio": "El mausoleu a la Piazza Augusto Imperatore.",
+    "credit": "Marco952",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "mausoleu-august",
+   "pista": "Una massa circular de maó envoltada d'edificis moderns, un cop tomba d'un emperador.",
+   "distractors": [
+    "columna-marc-aureli",
+    "temple-adria",
+    "mur-aurelia"
+   ]
+  },
+  {
+   "id": "o031",
+   "imatge": {
+    "fitxer": "Piazza Navona Underground Ruins of Stadium of Domitian (48493100687).jpg",
+    "descripcio": "Ruïnes de l'estadi al subsòl de Piazza Navona.",
+    "credit": "Gary Todd from Xinzheng, China",
+    "llicencia": "Public domain"
+   },
+   "lloc": "estadi-domicia",
+   "pista": "Graderies i arcs al subsòl d'una plaça famosa per la forma allargada.",
+   "distractors": [
+    "mausoleu-august",
+    "obelisc-montecitorio",
+    "columna-trajana"
+   ]
+  },
+  {
+   "id": "o032",
+   "imatge": {
+    "fitxer": "Column of Marcus Aurelius - detail1.jpg",
+    "descripcio": "Detall del relleu en espiral.",
+    "credit": "Nico Kokkonen",
+    "llicencia": "CC BY 3.0"
+   },
+   "lloc": "columna-marc-aureli",
+   "pista": "Un relleu en espiral que narra les guerres d'un emperador filòsof al Danubi.",
+   "distractors": [
+    "estadi-domicia",
+    "obelisc-montecitorio",
+    "tomba-cecilia-metella"
+   ]
+  },
+  {
+   "id": "o033",
+   "imatge": {
+    "fitxer": "Rome Temple of Hadrian 1.jpg",
+    "descripcio": "Detall de les columnes i l'edifici.",
+    "credit": "Nicholas Hartmann",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "temple-adria",
+   "pista": "Onze columnes enormes encastades en una façana moderna.",
+   "distractors": [
+    "castell-sant-angelo",
+    "largo-argentina",
+    "columna-trajana"
+   ]
+  },
+  {
+   "id": "o034",
+   "imatge": {
+    "fitxer": "Solare, Obelisk of Montecitorio, Rome (26458018951).jpg",
+    "descripcio": "Obelisc i Palazzo Montecitorio.",
+    "credit": "Andy Montgomery from Birmingham, AL",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "obelisc-montecitorio",
+   "pista": "Un obelisc egipci amb un palau al darrere; antigament marcava les hores del dia.",
+   "distractors": [
+    "temple-adria",
+    "estadi-domicia",
+    "columna-trajana"
+   ]
+  },
+  {
+   "id": "o035",
+   "imatge": {
+    "fitxer": "Castel Sant'Angelo - angel.jpg",
+    "descripcio": "L'àngel del cim.",
+    "credit": "F l a n k e r",
+    "llicencia": "CC BY 3.0"
+   },
+   "lloc": "castell-sant-angelo",
+   "pista": "Un àngel al cim d'una fortalesa cilíndrica, que en el seu origen era una tomba.",
+   "distractors": [
+    "largo-argentina",
+    "temple-adria",
+    "museu-termes-diocleci"
+   ]
+  },
+  {
+   "id": "o036",
+   "imatge": {
+    "fitxer": "Part of the Baths of Caracalla November 2013.jpg",
+    "descripcio": "Part del bloc central de les termes.",
+    "credit": "Nick-D",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "termes-caracalla",
+   "pista": "Parets de maó immenses d'uns banys que un dia van estar folrats de marbre.",
+   "distractors": [
+    "catacumbes",
+    "ostia-antica",
+    "arc-constanti"
+   ]
+  },
+  {
+   "id": "o037",
+   "imatge": {
+    "fitxer": "Appian Way.jpg",
+    "descripcio": "La Via Àppia a prop del Casal Rotondo.",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "via-appia",
+   "pista": "Lloses poligonals de basalt amb rodades de carro, a la «reina de les vies».",
+   "distractors": [
+    "ostia-antica",
+    "san-clemente",
+    "capitoli"
+   ]
+  },
+  {
+   "id": "o038",
+   "imatge": {
+    "fitxer": "Titulus cecilia metella.jpg",
+    "descripcio": "Inscripció de dedicatòria de la tomba.",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "tomba-cecilia-metella",
+   "pista": "Un mausoleu cilíndric amb merlets medievals afegits a la Via Àppia.",
+   "distractors": [
+    "termes-caracalla",
+    "piramide-cestia",
+    "forum-traja"
+   ]
+  },
+  {
+   "id": "o039",
+   "imatge": {
+    "fitxer": "Circus of Maxentius.jpg",
+    "descripcio": "Vista de la pista i de l'espina.",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "circ-maxenci",
+   "pista": "La pista i l'espina d'un circ ben conservat, fora de les muralles.",
+   "distractors": [
+    "villa-adriana",
+    "parc-aqueductes",
+    "portic-octavia"
+   ]
+  },
+  {
+   "id": "o040",
+   "imatge": {
+    "fitxer": "Roma, Catacombe di San Sebastiano (3).jpg",
+    "descripcio": "Interior de les catacumbes de Sant Sebastià.",
+    "credit": "Palickap",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "catacumbes",
+   "pista": "Passadissos subterranis amb nínxols a les parets a la Via Àppia.",
+   "distractors": [
+    "ostia-antica",
+    "piramide-cestia",
+    "temple-venus-roma"
+   ]
+  },
+  {
+   "id": "o041",
+   "imatge": {
+    "fitxer": "Parco degli Acquedotti Rome sunset.jpg",
+    "descripcio": "El parc al capvespre.",
+    "credit": "Emmeca",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "parc-aqueductes",
+   "pista": "Arcades d'un aqüeducte a la posta de sol, enmig d'un parc de la ciutat.",
+   "distractors": [
+    "san-clemente",
+    "via-appia",
+    "capitoli"
+   ]
+  },
+  {
+   "id": "o042",
+   "imatge": {
+    "fitxer": "Basilica di Santa Maria degli Angeli e dei Martiri 37.jpg",
+    "descripcio": "Detall de la basílica.",
+    "credit": "Nicholas Gemini",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "termes-diocleci",
+   "pista": "Un detall d'una església renaixentista nascuda d'unes termes immenses.",
+   "distractors": [
+    "via-appia",
+    "ostia-antica",
+    "basilica-maxenci"
+   ]
+  },
+  {
+   "id": "o043",
+   "imatge": {
+    "fitxer": "Celio - le mura tra porta san Sebastiano e porta Ardeatina 2004.JPG",
+    "descripcio": "Tram de la muralla entre Porta San Sebastiano i Porta Ardeatina.",
+    "credit": "user:Lalupa",
+    "llicencia": "Public domain"
+   },
+   "lloc": "mur-aurelia",
+   "pista": "Un tram de muralla de maó, amb torres, que encara envolta la ciutat.",
+   "distractors": [
+    "porta-maggiore",
+    "tomba-cecilia-metella",
+    "teatre-marcel"
+   ]
+  },
+  {
+   "id": "o044",
+   "imatge": {
+    "fitxer": "Piramide Cestia.jpg",
+    "descripcio": "La piràmide de Cesti.",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "piramide-cestia",
+   "pista": "Una piràmide de marbre blanc a la muralla, molt lluny d'Egipte.",
+   "distractors": [
+    "termes-diocleci",
+    "parc-aqueductes",
+    "temple-venus-roma"
+   ]
+  },
+  {
+   "id": "o045",
+   "imatge": {
+    "fitxer": "Monte Testaccio Particolare.jpg",
+    "descripcio": "Capes de fragments d'àmfora.",
+    "credit": "Flazaza",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "monte-testaccio",
+   "pista": "Un turó artificial fet de milions de fragments de ceràmica.",
+   "distractors": [
+    "san-clemente",
+    "circ-maxenci",
+    "capitoli"
+   ]
+  },
+  {
+   "id": "o046",
+   "imatge": {
+    "fitxer": "Rom, San Clemente, Mithraeum.jpg",
+    "descripcio": "Altar del mitreu.",
+    "credit": "Dnalor 01",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "san-clemente",
+   "pista": "Un altar de culte oriental sota una església medieval, a un nivell inferior.",
+   "distractors": [
+    "ostia-antica",
+    "mur-aurelia",
+    "crypta-balbi"
+   ]
+  },
+  {
+   "id": "o047",
+   "imatge": {
+    "fitxer": "Stucchi della volta della basilica sotterranea di porta maggiore.jpg",
+    "descripcio": "Estucs de la volta de la basílica subterrània.",
+    "credit": "Unknown author",
+    "llicencia": "Public domain"
+   },
+   "lloc": "porta-maggiore",
+   "pista": "Estucs blancs d'una sala subterrània, descoberta per casualitat quan es feien obres a les vies del tren.",
+   "distractors": [
+    "circ-maxenci",
+    "piramide-cestia",
+    "colosseu"
+   ]
+  },
+  {
+   "id": "o048",
+   "imatge": {
+    "fitxer": "Theater (Ostia Antica).jpg",
+    "descripcio": "El Teatre.",
+    "credit": "Rabax63",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "ostia-antica",
+   "pista": "Una graderia de teatre a l'antic port de Roma, avui ciutat abandonada.",
+   "distractors": [
+    "monte-testaccio",
+    "parc-aqueductes",
+    "museu-termes-diocleci"
+   ]
+  },
+  {
+   "id": "o049",
+   "imatge": {
+    "fitxer": "The Maritime Theatre, Hadrian's Villa (38343195816).jpg",
+    "descripcio": "El Teatre Marítim.",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "villa-adriana",
+   "pista": "Un edifici circular envoltat d'un canal, una mena de refugi privat d'un emperador, a Tívoli.",
+   "distractors": [
+    "parc-aqueductes",
+    "via-appia",
+    "castell-sant-angelo"
+   ]
+  },
+  {
+   "id": "o050",
+   "imatge": {
+    "fitxer": "0 Marforio - Cortile del Palazzo Nuovo - Musei Capitolini (MC0001).jpg",
+    "descripcio": "El pati del Palazzo Nuovo amb la font del Marforio, colossal estàtua de l'Oceà.",
+    "credit": "Unknown artist",
+    "llicencia": "CC BY 3.0"
+   },
+   "lloc": "musei-capitolins",
+   "pista": "Un pati amb una colossal figura reclinada, dins d'uns museus sobre un turó.",
+   "distractors": [
+    "musei-vaticans",
+    "palazzo-massimo",
+    "castell-sant-angelo"
+   ]
+  },
+  {
+   "id": "o051",
+   "imatge": {
+    "fitxer": "Vatican Museums Spiral Staircase 2012.jpg",
+    "descripcio": "L'escala de cargol de l'entrada actual dels museus.",
+    "credit": "Colin",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "musei-vaticans",
+   "pista": "Una escala de cargol de doble hèlix, a l'entrada d'uns museus molt visitats.",
+   "distractors": [
+    "centrale-montemartini",
+    "palazzo-altemps",
+    "ara-pacis"
+   ]
+  },
+  {
+   "id": "o052",
+   "imatge": {
+    "fitxer": "Villa of Livia - Garden fresco 005.jpg",
+    "descripcio": "El jardí pintat de la Vil·la de Lívia, la sala més celebrada del museu.",
+    "credit": "Gleb Simonov",
+    "llicencia": "CC0"
+   },
+   "lloc": "palazzo-massimo",
+   "pista": "Un jardí pintat amb arbres i ocells, d'una vil·la imperial; avui és en un museu a prop de l'estació.",
+   "distractors": [
+    "galleria-borghese",
+    "palazzo-altemps",
+    "ara-pacis"
+   ]
+  },
+  {
+   "id": "o053",
+   "imatge": {
+    "fitxer": "Palazzo Altemps (Rome) - courtyard.jpg",
+    "descripcio": "El pati amb arcades del Palazzo Altemps.",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "palazzo-altemps",
+   "pista": "Un pati amb arcades d'un palau renaixentista que acull escultura antiga.",
+   "distractors": [
+    "musei-capitolins",
+    "museu-civilta-romana",
+    "ara-pacis"
+   ]
+  },
+  {
+   "id": "o054",
+   "imatge": {
+    "fitxer": "MNR Terme di Diocleziano - chiostro grande, testa di ariete P1150472.jpg",
+    "descripcio": "El Gran Claustre amb decoració de caps d'animals.",
+    "credit": "Lalupa",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "museu-termes-diocleci",
+   "pista": "Un claustre gran amb caps d'animals decorant els arcs, dins d'unes termes.",
+   "distractors": [
+    "centrale-montemartini",
+    "galleria-borghese",
+    "castell-sant-angelo"
+   ]
+  },
+  {
+   "id": "o055",
+   "imatge": {
+    "fitxer": "Crypta Balbi, courtyard.jpg",
+    "descripcio": "El pati del museu.",
+    "credit": "Self-photographed by Szilas in the Crypta Balbi",
+    "llicencia": "Public domain"
+   },
+   "lloc": "crypta-balbi",
+   "pista": "Un pati interior d'un museu on es veuen les capes de la ciutat al llarg dels segles.",
+   "distractors": [
+    "museu-termes-diocleci",
+    "museu-civilta-romana",
+    "mercats-traja"
+   ]
+  },
+  {
+   "id": "o056",
+   "imatge": {
+    "fitxer": "Montemartini - sala macchine 1030430.JPG",
+    "descripcio": "La Sala Màquines amb els motors i les escultures.",
+    "credit": "Lalupa",
+    "llicencia": "CC BY 2.5"
+   },
+   "lloc": "centrale-montemartini",
+   "pista": "Estàtues clàssiques entre motors d'una antiga central elèctrica.",
+   "distractors": [
+    "palazzo-altemps",
+    "musei-vaticans",
+    "mercats-traja"
+   ]
+  },
+  {
+   "id": "o057",
+   "imatge": {
+    "fitxer": "02 Villa Giulia Nymphaeum.jpg",
+    "descripcio": "El ninfeu de la vil·la.",
+    "credit": "NateBergin",
+    "llicencia": "CC BY 4.0"
+   },
+   "lloc": "villa-giulia",
+   "pista": "Una font-ninfeu renaixentista, al jardí d'un museu dedicat als etruscs.",
+   "distractors": [
+    "museu-civilta-romana",
+    "museu-termes-diocleci",
+    "castell-sant-angelo"
+   ]
+  },
+  {
+   "id": "o058",
+   "imatge": {
+    "fitxer": "Corso Vittorio Emanuele II - Museo Barracco - panoramio.jpg",
+    "descripcio": "Façana del Museo Barracco a Corso Vittorio Emanuele II.",
+    "credit": "Mister No",
+    "llicencia": "CC BY 3.0"
+   },
+   "lloc": "museu-barracco",
+   "pista": "La façana d'un petit museu d'escultura egípcia, assíria i grega, sobre una avinguda llarga.",
+   "distractors": [
+    "musei-vaticans",
+    "palazzo-massimo",
+    "ara-pacis"
+   ]
+  },
+  {
+   "id": "o059",
+   "imatge": {
+    "fitxer": "Sala degli Imperatori, Galleria Borghese (46451478432).jpg",
+    "descripcio": "La Sala degli Imperatori.",
+    "credit": "Sonse",
+    "llicencia": "CC BY 2.0"
+   },
+   "lloc": "galleria-borghese",
+   "pista": "Bustos d'emperadors en una sala d'un museu amb obres de Bernini.",
+   "distractors": [
+    "museu-termes-diocleci",
+    "crypta-balbi",
+    "ara-pacis"
+   ]
+  },
+  {
+   "id": "o060",
+   "imatge": {
+    "fitxer": "Museo della Civiltà Romana - Plastico di Villa Adriana.JPG",
+    "descripcio": "Plastico de la Vil·la d'Hadrià.",
+    "credit": "Giorgio Eusebio Petetti",
+    "llicencia": "Public domain"
+   },
+   "lloc": "museu-civilta-romana",
+   "pista": "Una maqueta d'una gran vil·la imperial en un museu del barri de l'EUR.",
+   "distractors": [
+    "crypta-balbi",
+    "museu-barracco",
+    "castell-sant-angelo"
+   ]
+  }
+ ],
+ "ordena": [
+  {
+   "id": "r001",
+   "titol": "Ordena aquests emperadors de la dinastia Julioclàudia",
+   "items": [
+    {
+     "text": "August",
+     "any": -27
+    },
+    {
+     "text": "Tiberi",
+     "any": 14
+    },
+    {
+     "text": "Calígula",
+     "any": 37
+    },
+    {
+     "text": "Claudi",
+     "any": 41
+    },
+    {
+     "text": "Neró",
+     "any": 54
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Julio-Claudian dynasty",
+    "url": "https://en.wikipedia.org/wiki/Julio-Claudian_dynasty"
+   }
+  },
+  {
+   "id": "r002",
+   "titol": "Ordena els cinc bons emperadors",
+   "items": [
+    {
+     "text": "Nerva",
+     "any": 96
+    },
+    {
+     "text": "Trajà",
+     "any": 98
+    },
+    {
+     "text": "Hadrià",
+     "any": 117
+    },
+    {
+     "text": "Antoní Pius",
+     "any": 138
+    },
+    {
+     "text": "Marc Aureli",
+     "any": 161
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Five Good Emperors",
+    "url": "https://en.wikipedia.org/wiki/Five_Good_Emperors"
+   }
+  },
+  {
+   "id": "r003",
+   "titol": "Ordena els Flavis i el seu successor immediat",
+   "items": [
+    {
+     "text": "Vespasià",
+     "any": 69
+    },
+    {
+     "text": "Titus",
+     "any": 79
+    },
+    {
+     "text": "Domicià",
+     "any": 81
+    },
+    {
+     "text": "Nerva",
+     "any": 96
+    },
+    {
+     "text": "Trajà",
+     "any": 98
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Flavian dynasty",
+    "url": "https://en.wikipedia.org/wiki/Flavian_dynasty"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Nerva",
+     "url": "https://en.wikipedia.org/wiki/Nerva"
+    },
+    {
+     "titol": "Wikipedia: Trajan",
+     "url": "https://en.wikipedia.org/wiki/Trajan"
+    }
+   ]
+  },
+  {
+   "id": "r004",
+   "titol": "Ordena els reis de Roma (dates tradicionals)",
+   "items": [
+    {
+     "text": "Ròmul",
+     "any": -753
+    },
+    {
+     "text": "Numa Pompili",
+     "any": -715
+    },
+    {
+     "text": "Tarquini Prisc",
+     "any": -616
+    },
+    {
+     "text": "Servi Tul·li",
+     "any": -578
+    },
+    {
+     "text": "Tarquini el Superb",
+     "any": -535
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman Kingdom",
+    "url": "https://en.wikipedia.org/wiki/Roman_Kingdom"
+   }
+  },
+  {
+   "id": "r005",
+   "titol": "Ordena aquests fets de les guerres púniques",
+   "items": [
+    {
+     "text": "Comença la Primera Guerra Púnica",
+     "any": -264
+    },
+    {
+     "text": "Anníbal creua els Alps",
+     "any": -218
+    },
+    {
+     "text": "Batalla de Canes",
+     "any": -216
+    },
+    {
+     "text": "Batalla de Zama",
+     "any": -202
+    },
+    {
+     "text": "Destrucció de Cartago",
+     "any": -146
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Punic Wars",
+    "url": "https://en.wikipedia.org/wiki/Punic_Wars"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Battle of Cannae",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Cannae"
+    },
+    {
+     "titol": "Wikipedia: Battle of Zama",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Zama"
+    }
+   ]
+  },
+  {
+   "id": "r006",
+   "titol": "Ordena els fets del final de la República",
+   "items": [
+    {
+     "text": "Revolta d'Espàrtac",
+     "any": -73
+    },
+    {
+     "text": "Cèsar creua el Rubicó",
+     "any": -49
+    },
+    {
+     "text": "Assassinat de Cèsar",
+     "any": -44
+    },
+    {
+     "text": "Batalla d'Àctium",
+     "any": -31
+    },
+    {
+     "text": "August rep el títol d'August",
+     "any": -27
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Spartacus",
+     "url": "https://en.wikipedia.org/wiki/Spartacus"
+    },
+    {
+     "titol": "Wikipedia: Crossing the Rubicon",
+     "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon"
+    },
+    {
+     "titol": "Wikipedia: Battle of Actium",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_Actium"
+    }
+   ]
+  },
+  {
+   "id": "r007",
+   "titol": "Ordena aquests monuments per l'any de construcció o inauguració",
+   "items": [
+    {
+     "text": "Via Àppia",
+     "any": -312
+    },
+    {
+     "text": "Pont Fabrici",
+     "any": -62
+    },
+    {
+     "text": "Teatre de Pompeu",
+     "any": -55
+    },
+    {
+     "text": "Mausoleu d'August (inici)",
+     "any": -28
+    },
+    {
+     "text": "Ara Pacis",
+     "any": -9
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Appian Way",
+    "url": "https://en.wikipedia.org/wiki/Appian_Way"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Ponte Fabricio",
+     "url": "https://en.wikipedia.org/wiki/Ponte_Fabricio"
+    },
+    {
+     "titol": "Wikipedia: Theatre of Pompey",
+     "url": "https://en.wikipedia.org/wiki/Theatre_of_Pompey"
+    },
+    {
+     "titol": "Wikipedia: Mausoleum of Augustus",
+     "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus"
+    },
+    {
+     "titol": "Wikipedia: Ara Pacis",
+     "url": "https://en.wikipedia.org/wiki/Ara_Pacis"
+    }
+   ]
+  },
+  {
+   "id": "r008",
+   "titol": "Ordena els fòrums imperials",
+   "items": [
+    {
+     "text": "Fòrum de Cèsar",
+     "any": -46
+    },
+    {
+     "text": "Fòrum d'August",
+     "any": -2
+    },
+    {
+     "text": "Fòrum de la Pau",
+     "any": 75
+    },
+    {
+     "text": "Fòrum de Nerva",
+     "any": 97
+    },
+    {
+     "text": "Fòrum de Trajà",
+     "any": 112
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Imperial fora",
+    "url": "https://en.wikipedia.org/wiki/Imperial_fora"
+   }
+  },
+  {
+   "id": "r009",
+   "titol": "Ordena aquests monuments de l'època dels Flavis i els Antonins",
+   "items": [
+    {
+     "text": "Fòrum de la Pau",
+     "any": 75
+    },
+    {
+     "text": "Colosseu",
+     "any": 80
+    },
+    {
+     "text": "Arc de Titus",
+     "any": 81
+    },
+    {
+     "text": "Columna Trajana",
+     "any": 113
+    },
+    {
+     "text": "Panteó d'Hadrià",
+     "any": 126
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Arch of Titus",
+     "url": "https://en.wikipedia.org/wiki/Arch_of_Titus"
+    },
+    {
+     "titol": "Wikipedia: Trajan's Column",
+     "url": "https://en.wikipedia.org/wiki/Trajan's_Column"
+    },
+    {
+     "titol": "Wikipedia: Pantheon, Rome",
+     "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+    },
+    {
+     "titol": "Wikipedia: Temple of Peace, Rome",
+     "url": "https://en.wikipedia.org/wiki/Temple_of_Peace,_Rome"
+    }
+   ]
+  },
+  {
+   "id": "r010",
+   "titol": "Ordena aquestes termes imperials",
+   "items": [
+    {
+     "text": "Termes de Neró",
+     "any": 62
+    },
+    {
+     "text": "Termes de Trajà",
+     "any": 109
+    },
+    {
+     "text": "Termes de Caracal·la",
+     "any": 216
+    },
+    {
+     "text": "Termes de Dioclecià",
+     "any": 306
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Baths of Caracalla",
+    "url": "https://en.wikipedia.org/wiki/Baths_of_Caracalla"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Baths of Nero",
+     "url": "https://en.wikipedia.org/wiki/Baths_of_Nero"
+    },
+    {
+     "titol": "Wikipedia: Baths of Trajan",
+     "url": "https://en.wikipedia.org/wiki/Baths_of_Trajan"
+    },
+    {
+     "titol": "Wikipedia: Baths of Diocletian",
+     "url": "https://en.wikipedia.org/wiki/Baths_of_Diocletian"
+    }
+   ]
+  },
+  {
+   "id": "r011",
+   "titol": "Ordena aquests aqüeductes de Roma",
+   "items": [
+    {
+     "text": "Aqua Appia",
+     "any": -312
+    },
+    {
+     "text": "Aqua Marcia",
+     "any": -144
+    },
+    {
+     "text": "Aqua Virgo",
+     "any": -19
+    },
+    {
+     "text": "Aqua Claudia",
+     "any": 52
+    },
+    {
+     "text": "Aqua Traiana",
+     "any": 109
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman aqueduct",
+    "url": "https://en.wikipedia.org/wiki/Roman_aqueduct"
+   }
+  },
+  {
+   "id": "r012",
+   "titol": "Ordena aquestes muralles",
+   "items": [
+    {
+     "text": "Muralla Serviana",
+     "any": -378
+    },
+    {
+     "text": "Mur d'Hadrià",
+     "any": 122
+    },
+    {
+     "text": "Mur d'Antoní",
+     "any": 142
+    },
+    {
+     "text": "Muralla Aureliana",
+     "any": 271
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Aurelian Walls",
+    "url": "https://en.wikipedia.org/wiki/Aurelian_Walls"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Servian Wall",
+     "url": "https://en.wikipedia.org/wiki/Servian_Wall"
+    },
+    {
+     "titol": "Wikipedia: Hadrian's Wall",
+     "url": "https://en.wikipedia.org/wiki/Hadrian's_Wall"
+    },
+    {
+     "titol": "Wikipedia: Antonine Wall",
+     "url": "https://en.wikipedia.org/wiki/Antonine_Wall"
+    }
+   ]
+  },
+  {
+   "id": "r013",
+   "titol": "Ordena els fets de l'època de Dioclecià i Constantí",
+   "items": [
+    {
+     "text": "Dioclecià esdevé emperador",
+     "any": 284
+    },
+    {
+     "text": "Es crea la tetrarquia",
+     "any": 293
+    },
+    {
+     "text": "Dioclecià abdica",
+     "any": 305
+    },
+    {
+     "text": "Batalla del Pont Milvi",
+     "any": 312
+    },
+    {
+     "text": "Edicte de Milà",
+     "any": 313
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Tetrarchy",
+    "url": "https://en.wikipedia.org/wiki/Tetrarchy"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Diocletian",
+     "url": "https://en.wikipedia.org/wiki/Diocletian"
+    },
+    {
+     "titol": "Wikipedia: Battle of the Milvian Bridge",
+     "url": "https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge"
+    },
+    {
+     "titol": "Wikipedia: Edict of Milan",
+     "url": "https://en.wikipedia.org/wiki/Edict_of_Milan"
+    }
+   ]
+  },
+  {
+   "id": "r014",
+   "titol": "Ordena el final de l'Imperi romà",
+   "items": [
+    {
+     "text": "Edicte de Milà",
+     "any": 313
+    },
+    {
+     "text": "Inauguració de Constantinoble",
+     "any": 330
+    },
+    {
+     "text": "Mort de Teodosi I",
+     "any": 395
+    },
+    {
+     "text": "Saqueig de Roma per Alaric",
+     "any": 410
+    },
+    {
+     "text": "Odoacre deposa Ròmul Augústul",
+     "any": 476
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Fall of the Western Roman Empire",
+    "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+   }
+  },
+  {
+   "id": "r015",
+   "titol": "Ordena aquests autors llatins per any de naixement",
+   "items": [
+    {
+     "text": "Ciceró",
+     "any": -106
+    },
+    {
+     "text": "Virgili",
+     "any": -70
+    },
+    {
+     "text": "Horaci",
+     "any": -65
+    },
+    {
+     "text": "Titus Livi",
+     "any": -59
+    },
+    {
+     "text": "Ovidi",
+     "any": -43
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Latin literature",
+    "url": "https://en.wikipedia.org/wiki/Latin_literature"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Cicero",
+     "url": "https://en.wikipedia.org/wiki/Cicero"
+    },
+    {
+     "titol": "Wikipedia: Virgil",
+     "url": "https://en.wikipedia.org/wiki/Virgil"
+    },
+    {
+     "titol": "Wikipedia: Horace",
+     "url": "https://en.wikipedia.org/wiki/Horace"
+    },
+    {
+     "titol": "Wikipedia: Livy",
+     "url": "https://en.wikipedia.org/wiki/Livy"
+    },
+    {
+     "titol": "Wikipedia: Ovid",
+     "url": "https://en.wikipedia.org/wiki/Ovid"
+    }
+   ]
+  },
+  {
+   "id": "r016",
+   "titol": "Ordena aquests emperadors del segle III",
+   "items": [
+    {
+     "text": "Septimi Sever",
+     "any": 193
+    },
+    {
+     "text": "Caracal·la",
+     "any": 211
+    },
+    {
+     "text": "Elagàbal",
+     "any": 218
+    },
+    {
+     "text": "Alexandre Sever",
+     "any": 222
+    },
+    {
+     "text": "Aurelià",
+     "any": 270
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Crisis of the Third Century",
+    "url": "https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Septimius Severus",
+     "url": "https://en.wikipedia.org/wiki/Septimius_Severus"
+    },
+    {
+     "titol": "Wikipedia: Caracalla",
+     "url": "https://en.wikipedia.org/wiki/Caracalla"
+    },
+    {
+     "titol": "Wikipedia: Elagabalus",
+     "url": "https://en.wikipedia.org/wiki/Elagabalus"
+    },
+    {
+     "titol": "Wikipedia: Alexander Severus",
+     "url": "https://en.wikipedia.org/wiki/Alexander_Severus"
+    },
+    {
+     "titol": "Wikipedia: Aurelian",
+     "url": "https://en.wikipedia.org/wiki/Aurelian"
+    }
+   ]
+  },
+  {
+   "id": "r017",
+   "titol": "Ordena aquests fets del segle I dC",
+   "items": [
+    {
+     "text": "Gran incendi de Roma",
+     "any": 64
+    },
+    {
+     "text": "Any dels quatre emperadors",
+     "any": 69
+    },
+    {
+     "text": "Erupció del Vesuvi",
+     "any": 79
+    },
+    {
+     "text": "Inauguració del Colosseu",
+     "any": 80
+    },
+    {
+     "text": "Mort de Domicià",
+     "any": 96
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Year of the Four Emperors",
+    "url": "https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Great Fire of Rome",
+     "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome"
+    },
+    {
+     "titol": "Wikipedia: Eruption of Mount Vesuvius in 79 AD",
+     "url": "https://en.wikipedia.org/wiki/Eruption_of_Mount_Vesuvius_in_79_AD"
+    },
+    {
+     "titol": "Wikipedia: Colosseum",
+     "url": "https://en.wikipedia.org/wiki/Colosseum"
+    },
+    {
+     "titol": "Wikipedia: Domitian",
+     "url": "https://en.wikipedia.org/wiki/Domitian"
+    }
+   ]
+  },
+  {
+   "id": "r018",
+   "titol": "Ordena aquests fets de gladiadors i jocs",
+   "items": [
+    {
+     "text": "Primer combat de gladiadors a Roma",
+     "any": -264
+    },
+    {
+     "text": "Revolta d'Espàrtac",
+     "any": -73
+    },
+    {
+     "text": "Inauguració del Colosseu",
+     "any": 80
+    },
+    {
+     "text": "Jocs de Trajà després de la Dàcia",
+     "any": 107
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Spartacus",
+     "url": "https://en.wikipedia.org/wiki/Spartacus"
+    },
+    {
+     "titol": "Wikipedia: Colosseum",
+     "url": "https://en.wikipedia.org/wiki/Colosseum"
+    },
+    {
+     "titol": "Wikipedia: Trajan",
+     "url": "https://en.wikipedia.org/wiki/Trajan"
+    }
+   ]
+  },
+  {
+   "id": "r019",
+   "titol": "Ordena aquests papes i els monuments que van reaprofitar",
+   "items": [
+    {
+     "text": "Gregori I i la visió de l'àngel al Mausoleu d'Hadrià",
+     "any": 590
+    },
+    {
+     "text": "Bonifaci IV consagra el Panteó com a església",
+     "any": 609
+    },
+    {
+     "text": "Sixt V posa Sant Pere a la Columna Trajana",
+     "any": 1587
+    },
+    {
+     "text": "Sixt V posa Sant Pau a la Columna de Marc Aureli",
+     "any": 1589
+    },
+    {
+     "text": "Benet XIV consagra el Colosseu a la Passió",
+     "any": 1749
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Castel Sant'Angelo",
+     "url": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo"
+    },
+    {
+     "titol": "Wikipedia: Trajan's Column",
+     "url": "https://en.wikipedia.org/wiki/Trajan's_Column"
+    },
+    {
+     "titol": "Wikipedia: Column of Marcus Aurelius",
+     "url": "https://en.wikipedia.org/wiki/Column_of_Marcus_Aurelius"
+    },
+    {
+     "titol": "Wikipedia: Colosseum",
+     "url": "https://en.wikipedia.org/wiki/Colosseum"
+    }
+   ]
+  },
+  {
+   "id": "r020",
+   "titol": "Ordena aquests fets del Renaixement a Roma",
+   "items": [
+    {
+     "text": "Es troba el Laocoont",
+     "any": 1506
+    },
+    {
+     "text": "Miquel Àngel acaba el sostre de la Capella Sixtina",
+     "any": 1512
+    },
+    {
+     "text": "Marc Aureli, al Campidoglio",
+     "any": 1538
+    },
+    {
+     "text": "S'aixeca l'obelisc de Sant Pere",
+     "any": 1586
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Laocoön and His Sons",
+    "url": "https://en.wikipedia.org/wiki/Laoco%C3%B6n_and_His_Sons"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Sistine Chapel ceiling",
+     "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling"
+    },
+    {
+     "titol": "Wikipedia: Equestrian Statue of Marcus Aurelius",
+     "url": "https://en.wikipedia.org/wiki/Equestrian_Statue_of_Marcus_Aurelius"
+    },
+    {
+     "titol": "Wikipedia: Vatican obelisk",
+     "url": "https://en.wikipedia.org/wiki/Vatican_obelisk"
+    }
+   ]
+  },
+  {
+   "id": "r021",
+   "titol": "Ordena aquests fets de la Roma contemporània",
+   "items": [
+    {
+     "text": "Roma, capital d'Itàlia",
+     "any": 1871
+    },
+    {
+     "text": "S'obre la Via dei Fori Imperiali",
+     "any": 1932
+    },
+    {
+     "text": "Reconstrucció de l'Ara Pacis",
+     "any": 1938
+    },
+    {
+     "text": "Tractats de Roma",
+     "any": 1957
+    },
+    {
+     "text": "Inauguració del museu de l'Ara Pacis",
+     "any": 2006
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Via dei Fori Imperiali",
+     "url": "https://en.wikipedia.org/wiki/Via_dei_Fori_Imperiali"
+    },
+    {
+     "titol": "Wikipedia: Ara Pacis",
+     "url": "https://en.wikipedia.org/wiki/Ara_Pacis"
+    },
+    {
+     "titol": "Wikipedia: Treaty of Rome",
+     "url": "https://en.wikipedia.org/wiki/Treaty_of_Rome"
+    }
+   ]
+  },
+  {
+   "id": "r022",
+   "titol": "Ordena aquests fets de la primera República",
+   "items": [
+    {
+     "text": "Inici de la República",
+     "any": -509
+    },
+    {
+     "text": "Els gals saquegen Roma",
+     "any": -390
+    },
+    {
+     "text": "Muralla Serviana",
+     "any": -378
+    },
+    {
+     "text": "Via Àppia",
+     "any": -312
+    },
+    {
+     "text": "Comença la Primera Guerra Púnica",
+     "any": -264
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman Republic",
+    "url": "https://en.wikipedia.org/wiki/Roman_Republic"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Sack of Rome (390 BC)",
+     "url": "https://en.wikipedia.org/wiki/Sack_of_Rome_(390_BC)"
+    },
+    {
+     "titol": "Wikipedia: Servian Wall",
+     "url": "https://en.wikipedia.org/wiki/Servian_Wall"
+    },
+    {
+     "titol": "Wikipedia: Appian Way",
+     "url": "https://en.wikipedia.org/wiki/Appian_Way"
+    }
+   ]
+  },
+  {
+   "id": "r023",
+   "titol": "Ordena aquests fundadors de cada etapa",
+   "items": [
+    {
+     "text": "August (Alt Imperi)",
+     "any": -27
+    },
+    {
+     "text": "Vespasià (Flavis)",
+     "any": 69
+    },
+    {
+     "text": "Nerva (Antonins)",
+     "any": 96
+    },
+    {
+     "text": "Septimi Sever (Severs)",
+     "any": 193
+    },
+    {
+     "text": "Dioclecià (Baix Imperi)",
+     "any": 284
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: List of Roman emperors",
+    "url": "https://en.wikipedia.org/wiki/List_of_Roman_emperors"
+   }
+  },
+  {
+   "id": "r024",
+   "titol": "Ordena aquests ponts i vies de Roma",
+   "items": [
+    {
+     "text": "Via Àppia",
+     "any": -312
+    },
+    {
+     "text": "Pont Milvi (primer pont)",
+     "any": -206
+    },
+    {
+     "text": "Pont Fabrici",
+     "any": -62
+    },
+    {
+     "text": "Pont d'Eli (Pons Aelius)",
+     "any": 134
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: Pons Aelius",
+    "url": "https://en.wikipedia.org/wiki/Pons_Aelius"
+   },
+   "fonts_addicionals": [
+    {
+     "titol": "Wikipedia: Appian Way",
+     "url": "https://en.wikipedia.org/wiki/Appian_Way"
+    },
+    {
+     "titol": "Wikipedia: Milvian Bridge",
+     "url": "https://en.wikipedia.org/wiki/Milvian_Bridge"
+    },
+    {
+     "titol": "Wikipedia: Ponte Fabricio",
+     "url": "https://en.wikipedia.org/wiki/Ponte_Fabricio"
+    }
+   ]
+  },
+  {
+   "id": "r025",
+   "titol": "Ordena aquests emperadors del segle IV",
+   "items": [
+    {
+     "text": "Constantí",
+     "any": 306
+    },
+    {
+     "text": "Constanci II",
+     "any": 337
+    },
+    {
+     "text": "Julià",
+     "any": 361
+    },
+    {
+     "text": "Valentinià I",
+     "any": 364
+    },
+    {
+     "text": "Teodosi I",
+     "any": 379
+    }
+   ],
+   "font": {
+    "titol": "Wikipedia: List of Roman emperors",
+    "url": "https://en.wikipedia.org/wiki/List_of_Roman_emperors"
+   }
+  }
+ ],
+ "assoliments": [
+  {
+   "id": "a001",
+   "nom": "Tiro",
+   "descripcio": "Encerta la primera pregunta del quiz.",
+   "icona": "laurel",
+   "condicio": {
+    "tipus": "quiz_encerts",
+    "valor": 1
+   }
+  },
+  {
+   "id": "a002",
+   "nom": "Legionari del quiz",
+   "descripcio": "Encerta 10 preguntes.",
+   "icona": "helmet",
+   "condicio": {
+    "tipus": "quiz_encerts",
+    "valor": 10
+   }
+  },
+  {
+   "id": "a003",
+   "nom": "Centurió del quiz",
+   "descripcio": "Encerta 25 preguntes.",
+   "icona": "shield",
+   "condicio": {
+    "tipus": "quiz_encerts",
+    "valor": 25
+   }
+  },
+  {
+   "id": "a004",
+   "nom": "Tribú de la sapiència",
+   "descripcio": "Encerta 50 preguntes.",
+   "icona": "sword",
+   "condicio": {
+    "tipus": "quiz_encerts",
+    "valor": 50
+   }
+  },
+  {
+   "id": "a005",
+   "nom": "Senador sapient",
+   "descripcio": "Encerta 100 preguntes.",
+   "icona": "scroll",
+   "condicio": {
+    "tipus": "quiz_encerts",
+    "valor": 100
+   }
+  },
+  {
+   "id": "a006",
+   "nom": "Cònsol de l'erudició",
+   "descripcio": "Encerta 250 preguntes.",
+   "icona": "crown",
+   "condicio": {
+    "tipus": "quiz_encerts",
+    "valor": 250
+   }
+  },
+  {
+   "id": "a007",
+   "nom": "Lector de papirs",
+   "descripcio": "Mira 10 targetes de curiositats.",
+   "icona": "scroll",
+   "condicio": {
+    "tipus": "targetes_vistes",
+    "valor": 10
+   }
+  },
+  {
+   "id": "a008",
+   "nom": "Escriba de la biblioteca d'Ulpi",
+   "descripcio": "Mira 50 targetes de curiositats.",
+   "icona": "owl",
+   "condicio": {
+    "tipus": "targetes_vistes",
+    "valor": 50
+   }
+  },
+  {
+   "id": "a009",
+   "nom": "Cronista de Tàcit",
+   "descripcio": "Mira 150 targetes de curiositats.",
+   "icona": "star",
+   "condicio": {
+    "tipus": "targetes_vistes",
+    "valor": 150
+   }
+  },
+  {
+   "id": "a010",
+   "nom": "Ull d'àguila",
+   "descripcio": "Resol el primer repte «Endevina el lloc».",
+   "icona": "eagle",
+   "condicio": {
+    "tipus": "jocs_on_es",
+    "valor": 1
+   }
+  },
+  {
+   "id": "a011",
+   "nom": "Auspex",
+   "descripcio": "Resol 10 reptes «Endevina el lloc».",
+   "icona": "owl",
+   "condicio": {
+    "tipus": "jocs_on_es",
+    "valor": 10
+   }
+  },
+  {
+   "id": "a012",
+   "nom": "Aquilífer",
+   "descripcio": "Resol 30 reptes «Endevina el lloc».",
+   "icona": "map",
+   "condicio": {
+    "tipus": "jocs_on_es",
+    "valor": 30
+   }
+  },
+  {
+   "id": "a013",
+   "nom": "Cronista novell",
+   "descripcio": "Ordena perfectament un repte cronològic.",
+   "icona": "scroll",
+   "condicio": {
+    "tipus": "ordena_perfecte",
+    "valor": 1
+   }
+  },
+  {
+   "id": "a014",
+   "nom": "Guardià dels Fasti",
+   "descripcio": "Ordena perfectament 10 reptes cronològics.",
+   "icona": "column",
+   "condicio": {
+    "tipus": "ordena_perfecte",
+    "valor": 10
+   }
+  },
+  {
+   "id": "a015",
+   "nom": "Pontífex del temps",
+   "descripcio": "Ordena perfectament 25 reptes cronològics.",
+   "icona": "torch",
+   "condicio": {
+    "tipus": "ordena_perfecte",
+    "valor": 25
+   }
+  },
+  {
+   "id": "a016",
+   "nom": "Primer denari",
+   "descripcio": "Marca el primer lloc com a preferit.",
+   "icona": "coin",
+   "condicio": {
+    "tipus": "preferits",
+    "valor": 1
+   }
+  },
+  {
+   "id": "a017",
+   "nom": "Tresorer de Cras",
+   "descripcio": "Marca 10 llocs com a preferits.",
+   "icona": "amphora",
+   "condicio": {
+    "tipus": "preferits",
+    "valor": 10
+   }
+  },
+  {
+   "id": "a018",
+   "nom": "Sandàlia nova",
+   "descripcio": "Fes el primer check-in a un lloc (a menys de 150 m).",
+   "icona": "sandal",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 1
+   }
+  },
+  {
+   "id": "a019",
+   "nom": "Viator",
+   "descripcio": "Visita 10 llocs diferents amb check-in GPS.",
+   "icona": "sandal",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 10
+   }
+  },
+  {
+   "id": "a020",
+   "nom": "Cursus honorum",
+   "descripcio": "Visita 30 llocs diferents amb check-in GPS.",
+   "icona": "chariot",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 30
+   }
+  },
+  {
+   "id": "a021",
+   "nom": "Senador del Fòrum",
+   "descripcio": "Visita els 7 llocs del Fòrum Romà i el Palatí.",
+   "icona": "column",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 7,
+    "llocs": [
+     "forum-roma",
+     "arc-titus",
+     "basilica-maxenci",
+     "casa-vestals",
+     "palati",
+     "domus-augusti",
+     "temple-venus-roma"
+    ]
+   }
+  },
+  {
+   "id": "a022",
+   "nom": "Gladiador de l'arena",
+   "descripcio": "Visita 3 dels llocs del Colosseu i el Celi.",
+   "icona": "sword",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 3,
+    "llocs": [
+     "colosseu",
+     "arc-constanti",
+     "ludus-magnus",
+     "domus-aurea"
+    ]
+   }
+  },
+  {
+   "id": "a023",
+   "nom": "Cònsol dels Fòrums Imperials",
+   "descripcio": "Visita els 6 fòrums i monuments imperials.",
+   "icona": "arch",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 6,
+    "llocs": [
+     "forum-traja",
+     "mercats-traja",
+     "columna-trajana",
+     "forum-august",
+     "forum-cesar",
+     "forum-pau"
+    ]
+   }
+  },
+  {
+   "id": "a024",
+   "nom": "Fill del Camp de Mart",
+   "descripcio": "Visita 7 dels llocs del Camp de Mart.",
+   "icona": "temple",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 7,
+    "llocs": [
+     "pantheon",
+     "largo-argentina",
+     "teatre-pompeu",
+     "ara-pacis",
+     "mausoleu-august",
+     "estadi-domicia",
+     "columna-marc-aureli",
+     "temple-adria",
+     "obelisc-montecitorio"
+    ]
+   }
+  },
+  {
+   "id": "a025",
+   "nom": "Barquer del Tíber",
+   "descripcio": "Visita 5 dels llocs del Capitoli i la riba del Tíber.",
+   "icona": "wolf",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 5,
+    "llocs": [
+     "capitoli",
+     "carcer-tullianum",
+     "teatre-marcel",
+     "portic-octavia",
+     "forum-boari",
+     "boca-veritat",
+     "illa-tiberina"
+    ]
+   }
+  },
+  {
+   "id": "a026",
+   "nom": "Pelegrí de la Via Àppia",
+   "descripcio": "Visita 3 dels llocs de la Via Àppia Antiga.",
+   "icona": "mosaic",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 3,
+    "llocs": [
+     "via-appia",
+     "tomba-cecilia-metella",
+     "circ-maxenci",
+     "catacumbes"
+    ]
+   }
+  },
+  {
+   "id": "a027",
+   "nom": "Viatger d'Hadrià",
+   "descripcio": "Visita Òstia Antiga i la Vil·la Adriana.",
+   "icona": "torch",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 2,
+    "llocs": [
+     "ostia-antica",
+     "villa-adriana"
+    ]
+   }
+  },
+  {
+   "id": "a028",
+   "nom": "Triomfador del Camp de Mart",
+   "descripcio": "Completa tots els llocs del dia 1 de la ruta.",
+   "icona": "laurel",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 4,
+    "llocs": [
+     "pantheon",
+     "largo-argentina",
+     "teatre-pompeu",
+     "estadi-domicia"
+    ],
+    "ruta_dia": 1
+   }
+  },
+  {
+   "id": "a029",
+   "nom": "Triomfador de Roma",
+   "descripcio": "Completa tots els llocs del dia 3 de la ruta (Colosseu, Fòrum i Fòrums Imperials).",
+   "icona": "crown",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 13,
+    "llocs": [
+     "colosseu",
+     "arc-constanti",
+     "arc-titus",
+     "forum-roma",
+     "basilica-maxenci",
+     "casa-vestals",
+     "palati",
+     "domus-augusti",
+     "circ-maxim",
+     "mercats-traja",
+     "columna-trajana",
+     "forum-august",
+     "forum-cesar"
+    ],
+    "ruta_dia": 3
+   }
+  },
+  {
+   "id": "a030",
+   "nom": "Peregrí del Capitoli",
+   "descripcio": "Completa tots els llocs del dia 5 de la ruta.",
+   "icona": "eagle",
+   "condicio": {
+    "tipus": "llocs_visitats",
+    "valor": 9,
+    "llocs": [
+     "capitoli",
+     "musei-capitolins",
+     "carcer-tullianum",
+     "teatre-marcel",
+     "portic-octavia",
+     "forum-boari",
+     "boca-veritat",
+     "illa-tiberina",
+     "castell-sant-angelo"
+    ],
+    "ruta_dia": 5
+   }
+  }
+ ],
+ "rangs": [
+  {
+   "id": "tiro",
+   "nom": "Tiro",
+   "xp_min": 0,
+   "descripcio": "Recluta novell, acabat d'arribar a Roma."
+  },
+  {
+   "id": "legionari",
+   "nom": "Legionari",
+   "xp_min": 100,
+   "descripcio": "Soldat ras de la legió."
+  },
+  {
+   "id": "optio",
+   "nom": "Optio",
+   "xp_min": 300,
+   "descripcio": "Segon d'un centurió."
+  },
+  {
+   "id": "centurio",
+   "nom": "Centurió",
+   "xp_min": 700,
+   "descripcio": "Comanda una centúria."
+  },
+  {
+   "id": "tribu",
+   "nom": "Tribú",
+   "xp_min": 1500,
+   "descripcio": "Oficial d'una legió."
+  },
+  {
+   "id": "legat",
+   "nom": "Legat",
+   "xp_min": 3000,
+   "descripcio": "Comanda una legió sencera."
+  },
+  {
+   "id": "consol",
+   "nom": "Cònsol",
+   "xp_min": 6000,
+   "descripcio": "Màxima magistratura de la República."
+  },
+  {
+   "id": "emperador",
+   "nom": "Emperador",
+   "xp_min": 10000,
+   "descripcio": "Senyor de Roma."
+  }
+ ]
+}

@@ -47,7 +47,7 @@
     {
      "any": -600,
      "titol": "La Cloaca Màxima i el naixement del Fòrum",
-     "text": "Un col·lector de drenatge va assecar la zona pantanosa entre els turons i va fer possible convertir-la en plaça pública. Aquest espai es va convertir en el cor polític, comercial i religiós de Roma. La Cloaca Màxima, ampliada després, encara desguassa al Tíber.",
+     "text": "Segons la tradició, cap al 600 aC el rei Tarquini Prisc va fer drenar la zona pantanosa entre els turons amb un col·lector, i així va ser possible convertir-la en plaça pública. Aquest espai es va convertir en el cor polític, comercial i religiós de Roma. La Cloaca Màxima, ampliada després, encara desguassa al Tíber.",
      "llocs": [
       "forum-roma"
      ],
@@ -66,7 +66,7 @@
     {
      "any": -600,
      "titol": "Regia i Lapis Niger",
-     "text": "Al Fòrum, la Regia (residència del cap religiós, 'rex sacrorum') i el Lapis Niger (pedra negra amb una inscripció molt antiga en llatí arcaic) són els testimonis materials de l'època monàrquica a la ciutat.",
+     "text": "Al Fòrum, la Regia (la «casa reial», residència o seu dels reis de Roma i, més tard, oficina del pontífex màxim) i el Lapis Niger (pedra negra amb una inscripció molt antiga en llatí arcaic) són els testimonis materials de l'època monàrquica a la ciutat.",
      "llocs": [
       "forum-roma"
      ],
@@ -98,7 +98,7 @@
      "llocs": [
       "forum-roma"
      ],
-     "font": "https://www.britannica.com/biography/Tarquinius-Superbus"
+     "font": "https://en.wikipedia.org/wiki/Lucius_Tarquinius_Superbus"
     }
    ]
   },
@@ -117,7 +117,7 @@
       "capitoli",
       "forum-roma"
      ],
-     "font": "https://www.britannica.com/place/Roman-Republic"
+     "font": "https://en.wikipedia.org/wiki/Roman_Republic"
     },
     {
      "any": -451,
@@ -156,15 +156,6 @@
      "font": "https://en.wikipedia.org/wiki/Gladiator"
     },
     {
-     "any": -146,
-     "titol": "Temples de Hèrcules al Fòrum Boari",
-     "text": "En aquests anys d'expansió mediterrània (destrucció de Cartago i Corint), el Fòrum Boari es va omplir de temples nous. El de Hèrcules Victor, circular i de marbre grec, és un dels edificis romans més antics que s'han conservat sencers.",
-     "llocs": [
-      "forum-boari"
-     ],
-     "font": "https://en.wikipedia.org/wiki/Temple_of_Hercules_Victor"
-    },
-    {
      "any": -144,
      "titol": "L'aqüeducte Aqua Marcia",
      "text": "El pretor Quint Marci Rex va dur a la ciutat l'aigua de les muntanyes de l'est. Les arcades d'aquests aqüeductes es conserven al parc dels Aqüeductes, al sud-est de Roma.",
@@ -172,6 +163,15 @@
       "parc-aqueductes"
      ],
      "font": "https://en.wikipedia.org/wiki/Aqua_Marcia"
+    },
+    {
+     "any": -120,
+     "titol": "Temple d'Hèrcules Victor",
+     "text": "Cap al 120–100 aC, a finals del segle II aC, el Fòrum Boari es va omplir de temples nous. El d'Hèrcules Victor, circular i de marbre grec, és l'edifici de marbre romà més antic que es conserva sencer a Roma; l'atribueixen a Marc Octavi Herenni o a Mummi, el destructor de Corint.",
+     "llocs": [
+      "forum-boari"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Temple_of_Hercules_Victor"
     },
     {
      "any": -63,
@@ -209,12 +209,12 @@
       "largo-argentina",
       "teatre-pompeu"
      ],
-     "font": "https://www.britannica.com/biography/Julius-Caesar-Roman-ruler"
+     "font": "https://en.wikipedia.org/wiki/Julius_Caesar"
     },
     {
      "any": -29,
      "titol": "Temple del Diví Juli",
-     "text": "Octavià va dedicar al Fòrum un temple al Cèsar divinitzat, al lloc on s'havia cremat el seu cos. Era la primera vegada que un mortal romà rebia culte oficial.",
+     "text": "El Senat havia divinitzat Cèsar el 42 aC. Octavià va dedicar el temple al Fòrum el 18 d'agost del 29 aC, al lloc on s'havia cremat el cos de Cèsar, durant el seu triple triomf.",
      "llocs": [
       "forum-roma"
      ],
@@ -236,7 +236,7 @@
    "nom": "Alt Imperi",
    "inici": -27,
    "fi": 235,
-   "intro": "Amb August, Roma va passar a ser una monarquia de fet amb façana republicana. Després de dues dinasties (Julioclàudia i Flàvia) va venir el 'segle d'or' dels emperadors adoptius, amb Trajà, Adrià i Marc Aureli, i l'Imperi va assolir la màxima extensió.\n\nLa ciutat es va omplir d'edificis monumentals: fòrums imperials, el Colosseu, les termes, el Panteó. Amb aproximadament un milió d'habitants, era una capital amb aqüeductes, clavegueram, blocs de pisos (insulae) i espectacles gratuïts.\n\nEl període acaba amb l'assassinat de Sever Alexandre, el 235, en què comença una etapa d'inestabilitat política.",
+   "intro": "Amb August, Roma va passar a ser una monarquia de fet amb façana republicana. Després de dues dinasties (Julioclàudia i Flàvia) va venir el 'segle d'or' dels emperadors adoptius, amb Trajà, Hadrià i Marc Aureli, i l'Imperi va assolir la màxima extensió.\n\nLa ciutat es va omplir d'edificis monumentals: fòrums imperials, el Colosseu, les termes, el Panteó. Amb una població que les estimacions més altes situen prop del milió d'habitants, era una capital amb aqüeductes, clavegueram, blocs de pisos (insulae) i espectacles gratuïts.\n\nEl període acaba amb l'assassinat d'Alexandre Sever, el 235, en què comença una etapa d'inestabilitat política.",
    "esdeveniments": [
     {
      "any": -27,
@@ -246,12 +246,12 @@
       "domus-augusti",
       "palati"
      ],
-     "font": "https://www.britannica.com/biography/Augustus-Roman-emperor"
+     "font": "https://en.wikipedia.org/wiki/Augustus"
     },
     {
      "any": -13,
      "titol": "El teatre de Marcel",
-     "text": "Planejat per Cèsar i acabat per August, va dedicar-se al seu nebot Marcel. És el model de la façana d'arcades que el Colosseu va fer servir i, a l'edat mitjana, es va reutilitzar com a fortalesa i palau.",
+     "text": "Planejat per Cèsar i acabat el 13 aC, es va inaugurar el 12 aC sota August i es va dedicar al seu nebot Marcel. Va servir de model de façana d'arcades per al Colosseu i, a l'edat mitjana, es va reutilitzar com a fortalesa i palau.",
      "llocs": [
       "teatre-marcel",
       "portic-octavia"
@@ -335,8 +335,8 @@
     },
     {
      "any": 126,
-     "titol": "El Panteó d'Adrià",
-     "text": "L'actual Panteó és una reconstrucció d'Adrià (vers 126), que va conservar la inscripció d'Agripa de l'edifici anterior. La cúpula de formigó sense armadura continua sent la major del seu tipus.",
+     "titol": "El Panteó d'Hadrià",
+     "text": "L'actual Panteó és una reconstrucció d'Hadrià (vers 126), que va conservar la inscripció d'Agripa de l'edifici anterior. La cúpula de formigó sense armadura continua sent la major del seu tipus.",
      "llocs": [
       "pantheon"
      ],
@@ -345,7 +345,7 @@
     {
      "any": 135,
      "titol": "Temple de Venus i Roma",
-     "text": "Adrià va dissenyar personalment el major temple de Roma, entre el Fòrum i el Colosseu, dedicat a les deesses Venus i Roma. Es va acabar després de la seva mort, sota Antoní Pius.",
+     "text": "Hadrià va dissenyar personalment el major temple de Roma, entre el Fòrum i el Colosseu, dedicat a les deesses Venus i Roma. Es va acabar després de la seva mort, sota Antoní Pius.",
      "llocs": [
       "temple-venus-roma"
      ],
@@ -353,8 +353,8 @@
     },
     {
      "any": 139,
-     "titol": "Mausoleu d'Adrià",
-     "text": "Adrià va fer bastir un gran sepulcre de la seva dinastia a la riba dreta del Tíber. A l'edat mitjana es va convertir en la fortalesa que avui coneixem com a Castel Sant'Angelo.",
+     "titol": "Mausoleu d'Hadrià",
+     "text": "Hadrià va fer bastir un gran sepulcre de la seva dinastia a la riba dreta del Tíber. A l'edat mitjana es va convertir en la fortalesa que avui coneixem com a Castel Sant'Angelo.",
      "llocs": [
       "castell-sant-angelo"
      ],
@@ -389,15 +389,15 @@
    "esdeveniments": [
     {
      "any": 235,
-     "titol": "Mort de Sever Alexandre",
+     "titol": "Mort de Alexandre Sever",
      "text": "L'assassinat de l'últim emperador de la dinastia dels Sever, per part de les seves pròpies tropes, obre mig segle d'inestabilitat, de generals proclamats per les legions i d'usurpacions constants.",
      "llocs": [],
-     "font": "https://www.britannica.com/event/Crisis-of-the-Third-Century"
+     "font": "https://en.wikipedia.org/wiki/Crisis_of_the_Third_Century"
     },
     {
      "any": 238,
      "titol": "L'any dels sis emperadors",
-     "text": "Aquest any, la revolta contra Maximí Traci va portar al poder Gordià I i II, Pupè i Balbí, i finalment Gordià III. El Senat va intentar recuperar protagonisme, però els militars van acabar imposant-se.",
+     "text": "Aquest any, la revolta contra Maximí el Traci va portar al poder Gordià I i II, Pupè i Balbí, i finalment Gordià III. El Senat va intentar recuperar protagonisme, però els militars van acabar imposant-se.",
      "llocs": [
       "forum-roma"
      ],
@@ -497,9 +497,9 @@
      "font": "https://en.wikipedia.org/wiki/Baths_of_Diocletian"
     },
     {
-     "any": 308,
-     "titol": "Maxenci i els seus monuments",
-     "text": "Maxenci, proclamat a Roma el 306, va emprendre obres a la ciutat: una gran basílica al Fòrum, un temple de Roma, un circ a la Via Àpia i un mausoleu familiar.",
+     "any": 306,
+     "titol": "Maxenci i les seves obres",
+     "text": "Maxenci, proclamat a Roma el 306, va emprendre obres a la ciutat entre el 306 i el 312: una gran basílica al Fòrum, la restauració del temple de Venus i Roma després d'un incendi (307), un circ a la Via Àpia i un mausoleu familiar.",
      "llocs": [
       "basilica-maxenci",
       "circ-maxenci"
@@ -549,9 +549,9 @@
      "font": "https://en.wikipedia.org/wiki/Edict_of_Thessalonica"
     },
     {
-     "any": 394,
-     "titol": "Fi del culte de Vesta",
-     "text": "Amb la prohibició dels cultes pagans, es va extingir el col·legi de les vestals i es va apagar el foc sagrat. La casa de les vestals del Fòrum es va reaprofitar com a habitatge.",
+     "any": 382,
+     "titol": "Gracià retira els fons del culte de Vesta",
+     "text": "El 382 l'emperador cristià Gracià va confiscar els ingressos públics assignats al culte de Vesta, i poc després les vestals desapareixen de les fonts històriques. La data tradicional del 394 (una anècdota de Zosim sobre Teodosi) és dubtosa: els historiadors actuals no la donen per segura.",
      "llocs": [
       "casa-vestals",
       "forum-roma"
@@ -612,9 +612,9 @@
      "font": "https://en.wikipedia.org/wiki/Colosseum"
     },
     {
-     "any": 608,
+     "any": 609,
      "titol": "El Panteó esdevé església",
-     "text": "L'emperador bizantí Focas va donar l'edifici al papa Bonifaci IV, que el va consagrar com a Santa Maria dels Màrtirs. Va ser aquesta conversió la que el va salvar de l'espoli.",
+     "text": "L'emperador bizantí Focas va donar l'edifici al papa Bonifaci IV, que el va convertir en església (Santa Maria dels Màrtirs). Aquesta conversió va ajudar que l'edifici es conservés.",
      "llocs": [
       "pantheon"
      ],
@@ -642,7 +642,7 @@
     {
      "any": 1480,
      "titol": "Redescobriment de la Domus Àuria",
-     "text": "Uns joves van caure per una esquerda al turó i hi van trobar sales pintades. Artistes del Renaixement hi van baixar a copiar els motius, que van batejar 'grotescos'.",
+     "text": "Cap a finals del segle XV (vers 1480), un jove romà va caure per una esquerda al vessant de l'Esquilí i va trobar una cova plena de figures pintades. Artistes del Renaixement s'hi van fer baixar amb cordes per copiar-ne els motius, que van anomenar «grotescos».",
      "llocs": [
       "domus-aurea"
      ],
@@ -671,7 +671,7 @@
     {
      "any": 1587,
      "titol": "Sant Pere i Sant Pau sobre les columnes",
-     "text": "Sixt V va fer coronar la columna de Trajà amb una estàtua de sant Pere, i la de Marc Aureli amb una de sant Pau, en un gest d'apropiació cristiana dels monuments imperials.",
+     "text": "El 1587 Sixt V va fer coronar la columna de Trajà amb una estàtua de sant Pere, i el 1589 la de Marc Aureli amb una de sant Pau, en un gest d'apropiació cristiana dels monuments imperials.",
      "llocs": [
       "columna-trajana",
       "columna-marc-aureli"
@@ -681,7 +681,7 @@
     {
      "any": 1749,
      "titol": "El Colosseu, lloc de martiri",
-     "text": "El papa Benet XIV el va consagrar a la Passió de Crist, amb l'argument que hi havien mort màrtirs. Aquesta decisió va frenar l'espoli de pedra i va donar origen a la tradició del Viacrucis.",
+     "text": "El papa Benet XIV el va consagrar a la Passió de Crist, defensant que hi havien mort màrtirs, i hi va instal·lar les estacions del Viacrucis. Va prohibir també que s'hi continués traient pedra.",
      "llocs": [
       "colosseu"
      ],
@@ -750,16 +750,18 @@
     "forum-august",
     "mausoleu-august",
     "domus-augusti"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Augustus"
   },
   {
    "nom": "Tiberi",
    "regnat": "14 – 37",
    "dinastia": "Julioclàudia",
-   "text": "Fillastre d'August; va governar amb prudència però es va retirar a Capri. Va passar els últims anys retirat a Capri.",
+   "text": "Fillastre d'August; va governar amb prudència i, als darrers anys, es va retirar a Capri, des d'on va dirigir l'Imperi.",
    "llocs": [
     "palati"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Tiberius"
   },
   {
    "nom": "Calígula",
@@ -768,7 +770,8 @@
    "text": "Jove i autoritari, va tenir un regnat curt i violent acabat per un complot de la guàrdia pretoriana.",
    "llocs": [
     "palati"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Caligula"
   },
   {
    "nom": "Claudi",
@@ -778,7 +781,8 @@
    "llocs": [
     "ostia-antica",
     "porta-maggiore"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Claudius"
   },
   {
    "nom": "Neró",
@@ -788,7 +792,8 @@
    "llocs": [
     "domus-aurea",
     "circ-maxim"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Nero"
   },
   {
    "nom": "Galba",
@@ -797,14 +802,16 @@
    "text": "Governador d'Hispània, proclamat per les legions. Va ser assassinat pels pretorians als pocs mesos.",
    "llocs": [
     "forum-roma"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Galba"
   },
   {
    "nom": "Otó",
    "regnat": "69",
    "dinastia": "Any dels quatre emperadors",
    "text": "Va prendre el poder amb un cop contra Galba i es va suïcidar després d'una derrota militar.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Otho"
   },
   {
    "nom": "Vitel·li",
@@ -813,7 +820,8 @@
    "text": "Proclamat per les legions del Rin, va regnar uns mesos fins a la victòria dels partidaris de Vespasià.",
    "llocs": [
     "forum-roma"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Vitellius"
   },
   {
    "nom": "Vespasià",
@@ -823,7 +831,8 @@
    "llocs": [
     "colosseu",
     "forum-pau"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Vespasian"
   },
   {
    "nom": "Titus",
@@ -833,7 +842,8 @@
    "llocs": [
     "colosseu",
     "arc-titus"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Titus"
   },
   {
    "nom": "Domicià",
@@ -844,7 +854,8 @@
     "palati",
     "estadi-domicia",
     "ludus-magnus"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Domitian"
   },
   {
    "nom": "Nerva",
@@ -853,7 +864,8 @@
    "text": "Elegit pel Senat de gran, va adoptar Trajà per assegurar la successió.",
    "llocs": [
     "forum-roma"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Nerva"
   },
   {
    "nom": "Trajà",
@@ -864,10 +876,11 @@
     "forum-traja",
     "mercats-traja",
     "columna-trajana"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Trajan"
   },
   {
-   "nom": "Adrià",
+   "nom": "Hadrià",
    "regnat": "117 – 138",
    "dinastia": "Nerva-Antonina",
    "text": "Emperador viatger i arquitecte aficionat. Va reconstruir el Panteó i va deixar la seva vil·la a Tívoli.",
@@ -876,7 +889,8 @@
     "temple-venus-roma",
     "castell-sant-angelo",
     "villa-adriana"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Hadrian"
   },
   {
    "nom": "Antoní Pius",
@@ -885,7 +899,8 @@
    "text": "Regnat llarg i tranquil, sense grans guerres. Va completar el temple de Venus i Roma.",
    "llocs": [
     "temple-venus-roma"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Antoninus_Pius"
   },
   {
    "nom": "Marc Aureli",
@@ -894,7 +909,8 @@
    "text": "Emperador filòsof; va viure guerres al Danubi i la pesta antonina. La seva columna narra les campanyes.",
    "llocs": [
     "columna-marc-aureli"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
   },
   {
    "nom": "Còmmode",
@@ -904,21 +920,24 @@
    "llocs": [
     "colosseu",
     "ludus-magnus"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Commodus"
   },
   {
-   "nom": "Pertinax",
+   "nom": "Pèrtinax",
    "regnat": "193",
    "dinastia": "Any dels cinc emperadors",
    "text": "Va ser proclamat després de l'assassinat de Còmmode i mort pels pretorians al cap de tres mesos.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Pertinax"
   },
   {
-   "nom": "Dídiu Julià",
+   "nom": "Didi Julià",
    "regnat": "193",
    "dinastia": "Any dels cinc emperadors",
    "text": "Va 'comprar' l'Imperi als pretorians en una subhasta i va ser enderrocat en poques setmanes.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Didius_Julianus"
   },
   {
    "nom": "Septimi Sever",
@@ -928,7 +947,8 @@
    "llocs": [
     "forum-roma",
     "palati"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Septimius_Severus"
   },
   {
    "nom": "Caracal·la",
@@ -937,51 +957,58 @@
    "text": "Va estendre la ciutadania romana a gairebé tots els homes lliures i va fer construir uns grans banys públics.",
    "llocs": [
     "termes-caracalla"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Caracalla"
   },
   {
    "nom": "Geta",
    "regnat": "211",
    "dinastia": "Severiana",
    "text": "Coemperador amb el seu germà Caracal·la, que el va assassinar al cap de pocs mesos.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Geta_(emperor)"
   },
   {
    "nom": "Macrí",
    "regnat": "217 – 218",
    "dinastia": "Severiana",
-   "text": "Primer emperador que no era senador. Va ser derrotat pels partidaris d'Heliogàbal.",
-   "llocs": []
+   "text": "Primer emperador que no era senador. Va ser derrotat pels partidaris d'Elagàbal.",
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Macrinus"
   },
   {
-   "nom": "Heliogàbal",
+   "nom": "Elagàbal",
    "regnat": "218 – 222",
    "dinastia": "Severiana",
-   "text": "Sacerdot del déu sirià Elagàbal, va intentar imposar-ne el culte a Roma. Va ser assassinat.",
+   "text": "Sacerdot del déu sirià Elagàbal (d'aquí el sobrenom d'Elagàbal), va intentar imposar-ne el culte a Roma. Va ser assassinat.",
    "llocs": [
     "palati"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Elagabalus"
   },
   {
-   "nom": "Sever Alexandre",
+   "nom": "Alexandre Sever",
    "regnat": "222 – 235",
    "dinastia": "Severiana",
    "text": "Últim Sever. La seva mort a mans de les tropes va obrir la crisi del segle III.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Severus_Alexander"
   },
   {
-   "nom": "Maximí Traci",
+   "nom": "Maximí el Traci",
    "regnat": "235 – 238",
    "dinastia": "Crisi del segle III",
    "text": "Primer 'emperador soldat', procedent de la tropa. No va entrar mai a Roma durant el regnat.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Maximinus_Thrax"
   },
   {
    "nom": "Gordià III",
    "regnat": "238 – 244",
    "dinastia": "Crisi del segle III",
    "text": "Emperador molt jove amb un regnat dominat pel seu prefecte. Va morir durant la campanya contra els perses.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Gordian_III"
   },
   {
    "nom": "Filip l'Àrab",
@@ -990,7 +1017,8 @@
    "text": "Va celebrar el mil·lenari de la ciutat el 248, amb jocs a gran escala.",
    "llocs": [
     "colosseu"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Philip_the_Arab"
   },
   {
    "nom": "Deci",
@@ -999,14 +1027,16 @@
    "text": "Va ordenar que tothom sacrifiqués als déus de l'Estat, la primera persecució general de cristians.",
    "llocs": [
     "catacumbes"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Decius"
   },
   {
-   "nom": "Treboniano Gal",
+   "nom": "Trebonià Gal",
    "regnat": "251 – 253",
    "dinastia": "Crisi del segle III",
    "text": "Va governar durant una pesta i una pressió constant de gots i perses. Va ser assassinat per les seves tropes.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Trebonianus_Gallus"
   },
   {
    "nom": "Valerià",
@@ -1015,21 +1045,24 @@
    "text": "Va perseguir els cristians i va ser capturat pel rei persa Sapor I, un fet sense precedents.",
    "llocs": [
     "catacumbes"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Valerian_(emperor)"
   },
   {
    "nom": "Gal·liè",
    "regnat": "253 – 268",
    "dinastia": "Crisi del segle III",
-   "text": "Va regnar en el pitjor moment de la crisi. Va reformar l'exèrcit i va acabar la persecució.",
-   "llocs": []
+   "text": "Va regnar en el pitjor moment de la crisi. Va crear un cos de cavalleria mòbil i, després de la captura del seu pare Valerià, va aturar la persecució dels cristians.",
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Gallienus"
   },
   {
-   "nom": "Claudi II Gòtic",
+   "nom": "Claudi II el Gòtic",
    "regnat": "268 – 270",
    "dinastia": "Crisi del segle III",
    "text": "Va derrotar els gots a Naissus i va morir de pesta.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Claudius_Gothicus"
   },
   {
    "nom": "Aurelià",
@@ -1038,28 +1071,32 @@
    "text": "Va reunificar l'Imperi i va construir la muralla que encara envolta bona part de Roma.",
    "llocs": [
     "mur-aurelia"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Aurelian"
   },
   {
    "nom": "Tàcit",
    "regnat": "275 – 276",
    "dinastia": "Crisi del segle III",
    "text": "Senador gran elegit pel Senat; va regnar uns mesos.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Tacitus_(emperor)"
   },
   {
    "nom": "Probe",
    "regnat": "276 – 282",
    "dinastia": "Crisi del segle III",
    "text": "Gran general que va restablir les fronteres; va morir en un motí.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Probus_(emperor)"
   },
   {
    "nom": "Car",
    "regnat": "282 – 283",
    "dinastia": "Crisi del segle III",
-   "text": "Prefecte pretorià i emperador. Va morir durant la campanya contra els perses.",
-   "llocs": []
+   "text": "Prefecte pretorià proclamat emperador. Va morir durant la campanya contra els perses, en circumstàncies que no es coneixen bé (es deia que l'havia matat un llamp).",
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Carus"
   },
   {
    "nom": "Dioclecià",
@@ -1069,38 +1106,43 @@
    "llocs": [
     "termes-diocleci",
     "museu-termes-diocleci"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Diocletian"
   },
   {
    "nom": "Maximià",
    "regnat": "286 – 305",
    "dinastia": "Tetrarquia",
-   "text": "Coemperador d'Occident al costat de Dioclecià.",
-   "llocs": []
+   "text": "Coemperador d'Occident al costat de Dioclecià (august des del 286). Va abdicar el 305 i va tornar breument al poder entre el 306 i el 308.",
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Maximian"
   },
   {
-   "nom": "Constanci Clor",
+   "nom": "Constanci I Clor",
    "regnat": "293 – 306",
    "dinastia": "Tetrarquia",
-   "text": "Cèsar i després august d'Occident. Pare de Constantí.",
-   "llocs": []
+   "text": "Cèsar des del 293 i august d'Occident des del 305. Pare de Constantí.",
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Constantius_Chlorus"
   },
   {
    "nom": "Galeri",
    "regnat": "293 – 311",
    "dinastia": "Tetrarquia",
-   "text": "Cèsar i, després, augusto d'Orient. Va impulsar la Gran Persecució.",
-   "llocs": []
+   "text": "Cèsar des del 293 i august d'Orient des del 305. Va impulsar la Gran Persecució contra els cristians.",
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Galerius"
   },
   {
    "nom": "Maxenci",
    "regnat": "306 – 312",
    "dinastia": "Constantiniana",
-   "text": "Governant de Roma i Itàlia. Va construir la basílica del Fòrum i un circ a la Via Àpia.",
+   "text": "Governant de Roma i Itàlia. Va restaurar el temple de Venus i Roma, i va construir la basílica del Fòrum i un circ a la Via Àpia.",
    "llocs": [
     "basilica-maxenci",
     "circ-maxenci"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Maxentius"
   },
   {
    "nom": "Constantí I",
@@ -1109,7 +1151,8 @@
    "text": "Va derrotar Maxenci, va afavorir el cristianisme i va fundar Constantinoble.",
    "llocs": [
     "arc-constanti"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Constantine_the_Great"
   },
   {
    "nom": "Constanci II",
@@ -1118,28 +1161,32 @@
    "text": "Fill de Constantí. Va visitar Roma el 357 i va quedar impressionat pels seus monuments.",
    "llocs": [
     "forum-traja"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Constantius_II"
   },
   {
    "nom": "Julià",
    "regnat": "361 – 363",
    "dinastia": "Constantiniana",
    "text": "Conegut com l'Apòstata per intentar restaurar els cultes tradicionals. Va morir en campanya.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Julian_(emperor)"
   },
   {
    "nom": "Valentinià I",
    "regnat": "364 – 375",
    "dinastia": "Valentiniana",
    "text": "Emperador militar d'Occident. Va defensar el Rin i el Danubi.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Valentinian_I"
   },
   {
    "nom": "Gracià",
    "regnat": "367 – 383",
    "dinastia": "Valentiniana",
-   "text": "Va retirar l'altar de la Victòria del Senat. Va ser assassinat durant una usurpació.",
-   "llocs": []
+   "text": "August des del 367 i emperador únic d'Occident a partir del 375. Va retirar l'altar de la Victòria del Senat. Va ser assassinat durant una usurpació.",
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Gratian"
   },
   {
    "nom": "Teodosi I",
@@ -1148,96 +1195,112 @@
    "text": "Últim emperador a governar tot l'Imperi. Va declarar el cristianisme religió oficial.",
    "llocs": [
     "forum-roma"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Theodosius_I"
   },
   {
    "nom": "Honori",
    "regnat": "393 – 423",
    "dinastia": "Teodosiana",
-   "text": "Emperador d'Occident durant el saqueig de Roma el 410. Va fer reforçar la muralla.",
+   "text": "Emperador d'Occident (august des del 393). Va regnar durant el saqueig de Roma el 410 i va fer reforçar la muralla.",
    "llocs": [
     "mur-aurelia"
-   ]
+   ],
+   "font": "https://en.wikipedia.org/wiki/Honorius_(emperor)"
   },
   {
    "nom": "Valentinià III",
    "regnat": "425 – 455",
    "dinastia": "Teodosiana",
    "text": "Va regnar des de nen. Va viure la pèrdua de bona part d'Occident i els atacs dels huns i vàndals.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Valentinian_III"
   },
   {
    "nom": "Petroni Màxim",
    "regnat": "455",
    "dinastia": "Darrers emperadors d'Occident",
    "text": "Va regnar només uns mesos i va morir quan els vàndals s'acostaven a Roma.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Petronius_Maximus"
   },
   {
    "nom": "Avit",
    "regnat": "455 – 456",
    "dinastia": "Darrers emperadors d'Occident",
    "text": "Gal·loromà proclamat amb suport visigot. Va ser deposat per generals romans.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Avitus"
   },
   {
    "nom": "Majorià",
    "regnat": "457 – 461",
    "dinastia": "Darrers emperadors d'Occident",
    "text": "Va intentar restaurar l'autoritat imperial a Itàlia i les Gàl·lies; es va ocupar també de la protecció dels edificis antics.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Majorian"
   },
   {
-   "nom": "Líbius Sever",
+   "nom": "Libi Sever",
    "regnat": "461 – 465",
    "dinastia": "Darrers emperadors d'Occident",
    "text": "Emperador titella de Ricimer, el cap militar germànic.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Libius_Severus"
   },
   {
    "nom": "Antemi",
    "regnat": "467 – 472",
    "dinastia": "Darrers emperadors d'Occident",
    "text": "Emperador enviat des de Constantinoble. Va morir en un conflicte amb Ricimer.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Anthemius"
   },
   {
    "nom": "Olibri",
    "regnat": "472",
    "dinastia": "Darrers emperadors d'Occident",
    "text": "Va regnar durant uns mesos, imposat per Ricimer.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Olybrius"
   },
   {
-   "nom": "Glicseri",
+   "nom": "Gliceri",
    "regnat": "473 – 474",
    "dinastia": "Darrers emperadors d'Occident",
    "text": "Imposat pel burgundi Gundobad, va ser desplaçat per Juli Nepot.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Glycerius"
   },
   {
    "nom": "Juli Nepot",
    "regnat": "474 – 475",
    "dinastia": "Darrers emperadors d'Occident",
    "text": "Reconegut per Constantinoble, va ser expulsat d'Itàlia per Orestes. Va mantenir una autoritat nominal a Dalmàcia fins al 480.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Julius_Nepos"
   },
   {
    "nom": "Ròmul Augústul",
    "regnat": "475 – 476",
    "dinastia": "Darrers emperadors d'Occident",
    "text": "Adolescent proclamat pel seu pare Orestes. Odoacre el va deposar el 476, fet que se sol prendre com la fi de l'Imperi d'Occident.",
-   "llocs": []
+   "llocs": [],
+   "font": "https://en.wikipedia.org/wiki/Romulus_Augustulus"
   }
  ],
  "fonts": [
   {
-   "titol": "Wikipedia (en) — articles citats a cada esdeveniment",
-   "url": "https://en.wikipedia.org/wiki/Ancient_Rome"
+   "titol": "Wikipedia (en) — List of Roman emperors (regnats i dinasties dels 59 emperadors)",
+   "url": "https://en.wikipedia.org/wiki/List_of_Roman_emperors"
   },
   {
-   "titol": "Encyclopaedia Britannica — Ancient Rome",
-   "url": "https://www.britannica.com/place/ancient-Rome"
+   "titol": "Viquipèdia — Llista d'emperadors romans (noms en català i dates, contrast)",
+   "url": "https://ca.wikipedia.org/wiki/Llista_d%27emperadors_romans"
+  },
+  {
+   "titol": "Wikipedia (en) — articles citats a cada esdeveniment",
+   "url": "https://en.wikipedia.org/wiki/Ancient_Rome"
   },
   {
    "titol": "LacusCurtius (Bill Thayer) — Roma antiga i autors clàssics",
@@ -1250,12 +1313,10 @@
   {
    "titol": "Suetoni, Vides dels dotze Cèsars (LacusCurtius)",
    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/home.html"
+  },
+  {
+   "titol": "Wikipedia (en) — article de cada emperador i esdeveniment (camp «font» de cada fitxa)",
+   "url": "https://en.wikipedia.org/"
   }
- ],
- "validar": [
-  "Dates de regnat dels emperadors: comprovar-ne una a una amb Wikipedia/Britannica abans de publicar (les dades s'han posat de memòria de manera consistent, però no s'han tornat a verificar a la font).",
-  "Dates tradicionals de la monarquia (753–509 aC) són llegendàries; són una tradició, no una cronologia confirmada.",
-  "Anys aproximats: 600 aC (Cloaca Màxima, Regia), 308 (obres de Maxenci), 1349 (terratrèmol), 126 (Panteó), 144 aC (Aqua Marcia).",
-  "URL de Britannica (5 enllaços) no verificades: el servidor bloqueja peticions automàtiques (HTTP 403); comprovar-les amb el navegador."
  ]
 }

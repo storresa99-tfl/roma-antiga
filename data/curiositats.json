@@ -1,0 +1,5423 @@
+{
+ "targetes": [
+  {
+   "id": "c001",
+   "tipus": "curiositat",
+   "titol": "Un tendal gegant per fer ombra",
+   "text": "El velarium era un immens tendal desplegable sobre les grades. El maniobraven mariners de la flota de Miseno, experts a manejar veles i cordes.",
+   "imatge": {
+    "fitxer": "Colosseo_2020.jpg",
+    "descripcio": "Wikimedia Commons: Colosseo 2020",
+    "credit": "FeaturedPics",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "colosseu",
+    "enginyeria"
+   ],
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "c002",
+   "tipus": "curiositat",
+   "titol": "Cent dies de festa d'estrena",
+   "text": "Titus va inaugurar el Colosseu l'any 80 dC amb uns jocs que, segons Dió Cassi, van durar cent dies i van costar la vida a uns 9.000 animals.",
+   "imatge": {
+    "fitxer": "Colosseum_Interior_1_(15005911295).jpg",
+    "descripcio": "Wikimedia Commons: Colosseum Interior 1",
+    "credit": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "colosseu",
+    "gladiadors"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Dió Cassi, Història romana, llibre 66",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/66*.html"
+   }
+  },
+  {
+   "id": "c003",
+   "tipus": "curiositat",
+   "titol": "Per què es diu Colosseu?",
+   "text": "Probablement no per la seva mida, sinó per un colós de bronze de Neró que s'alçava al costat. Els romans l'anomenaven Amphitheatrum Flavium.",
+   "imatge": {
+    "fitxer": "Piranesi_Kolosseum.jpg",
+    "descripcio": "Wikimedia Commons: Piranesi Kolosseum",
+    "credit": "Giovanni Battista Piranesi",
+    "llicencia": "Public domain"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "colosseu",
+    "llengua"
+   ],
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "c004",
+   "tipus": "curiositat",
+   "titol": "Les cicatrius de la façana",
+   "text": "Els forats que picotegen els murs són de l'edat mitjana: es van arrencar les grapes metàl·liques que unien els blocs de travertí per aprofitar-ne el metall.",
+   "imatge": {
+    "fitxer": "Colosseum_and_Arch_of_Constantine_(est._1870).jpg",
+    "descripcio": "Wikimedia Commons: Colosseum and Arch of Constantine (est. 1870)",
+    "credit": "Unknown author",
+    "llicencia": "Public domain"
+   },
+   "lloc": "colosseu",
+   "periode": "posterior",
+   "etiquetes": [
+    "colosseu",
+    "edat-mitjana"
+   ],
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "c005",
+   "tipus": "curiositat",
+   "titol": "Ordre social a les grades",
+   "text": "Les grades reproduïen la jerarquia: senadors a baix, a prop de l'arena, ciutadans al mig i dones i pobres a dalt, d'esquena al cel.",
+   "imatge": {
+    "fitxer": "Colosseum,_Eastern_Interior.jpg",
+    "descripcio": "Wikimedia Commons: Colosseum, Eastern Interior",
+    "credit": "Julian Lupyan",
+    "llicencia": "CC0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "colosseu",
+    "societat"
+   ],
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "c006",
+   "tipus": "curiositat",
+   "titol": "Una pedrera de luxe",
+   "text": "Durant segles el Colosseu va ser una pedrera: el travertí i el marbre van acabar en palaus i esglésies de Roma.",
+   "imatge": {
+    "fitxer": "Colosseum_exterior,_inner_and_outer_wall_AvL.jpg",
+    "descripcio": "Wikimedia Commons: Colosseum exterior, inner and outer wall AvL",
+    "credit": "AlexanderVanLoon",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "colosseu",
+   "periode": "posterior",
+   "etiquetes": [
+    "colosseu",
+    "edat-mitjana",
+    "reaprofitament"
+   ],
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "c007",
+   "tipus": "curiositat",
+   "titol": "Un laberint sota l'arena",
+   "text": "Sota el terra de fusta hi havia l'hipogeu: túnels, cel·les i muntacàrregues amb els quals feres i decorats apareixien de cop enmig de l'espectacle.",
+   "imatge": {
+    "fitxer": "Exterior_of_the_Colosseum_01.JPG",
+    "descripcio": "Wikimedia Commons: Exterior of the Colosseum 01",
+    "credit": "Nicholas Gemini",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "colosseu",
+    "enginyeria",
+    "gladiadors"
+   ],
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "c008",
+   "tipus": "curiositat",
+   "titol": "Ludus Magnus: gimnàs de gladiadors",
+   "text": "Els gladiadors s'entrenaven al Ludus Magnus, una escola amb mini-arena. Un túnel subterrani la connectava directament amb el Colosseu.",
+   "imatge": {
+    "fitxer": "Ludus_magnus_Rome_2006.jpg",
+    "descripcio": "Wikimedia Commons: Ludus magnus Rome 2006",
+    "credit": "Jastrow",
+    "llicencia": "Public domain"
+   },
+   "lloc": "ludus-magnus",
+   "periode": "imperi",
+   "etiquetes": [
+    "gladiadors"
+   ],
+   "font": {
+    "titol": "Wikipedia: Ludus Magnus",
+    "url": "https://en.wikipedia.org/wiki/Ludus_Magnus"
+   }
+  },
+  {
+   "id": "c009",
+   "tipus": "curiositat",
+   "titol": "El Fòrum, una vall pantanosa",
+   "text": "Abans de ser el cor de Roma, la vall del Fòrum era una zona humida. La Cloaca Màxima la va assecar i va fer possible construir-hi.",
+   "imatge": {
+    "fitxer": "Joseph_Mallord_William_Turner_-_Forum_Romanum,_for_Mr_Soane's_Museum_-_Google_Art_Project.jpg",
+    "descripcio": "Wikimedia Commons: Joseph Mallord William Turner - Forum Romanum, for Mr Soane's Museum - Google Art Project",
+    "credit": "J. M. W. Turner",
+    "llicencia": "Public domain"
+   },
+   "lloc": "forum-roma",
+   "periode": "monarquia",
+   "etiquetes": [
+    "forum",
+    "enginyeria"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman Forum",
+    "url": "https://en.wikipedia.org/wiki/Roman_Forum"
+   }
+  },
+  {
+   "id": "c010",
+   "tipus": "curiositat",
+   "titol": "Rostres: la tribuna dels vaixells",
+   "text": "Els Rostres, la tribuna dels oradors, deuen el nom als esperons (rostra) de les naus capturades a Àntium l'any 338 aC.",
+   "imatge": {
+    "fitxer": "Foro_Romano_Musei_Capitolini_Roma.jpg",
+    "descripcio": "Wikimedia Commons: Foro Romano Musei Capitolini Roma",
+    "credit": "This Photo was taken by Wolfgang Moroder. Feel free to use my photos, but please mention me as the author and send me a message. This image ",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "forum-roma",
+   "periode": "republica",
+   "etiquetes": [
+    "forum",
+    "exercit"
+   ],
+   "font": {
+    "titol": "Wikipedia: Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra"
+   }
+  },
+  {
+   "id": "c011",
+   "tipus": "curiositat",
+   "titol": "L'últim monument del Fòrum",
+   "text": "La columna de Foques (608 dC), dedicada a un emperador bizantí, és l'últim monument que es va afegir al Fòrum Romà.",
+   "imatge": {
+    "fitxer": "Colonna_di_Foca_Forum_Romanum_Rome.jpg",
+    "descripcio": "Wikimedia Commons: Colonna di Foca Forum Romanum Rome",
+    "credit": "Jebulon",
+    "llicencia": "CC0"
+   },
+   "lloc": "forum-roma",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "forum"
+   ],
+   "font": {
+    "titol": "Wikipedia: Column of Phocas",
+    "url": "https://en.wikipedia.org/wiki/Column_of_Phocas"
+   }
+  },
+  {
+   "id": "c012",
+   "tipus": "curiositat",
+   "titol": "La Cúria que es va salvar",
+   "text": "La Cúria Júlia, seu del Senat, va sobreviure perquè al segle VII es va convertir en església. Les seves portes de bronze antigues estan a Sant Joan del Laterà.",
+   "imatge": {
+    "fitxer": "2012-02-17_Foro_Romano_da_Palazzo_Senatorio_3.jpg",
+    "descripcio": "Wikimedia Commons: 2012-02-17 Foro Romano da Palazzo Senatorio 3",
+    "credit": "Blackcat",
+    "llicencia": "CC BY-SA 3.0 it"
+   },
+   "lloc": "forum-roma",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "forum",
+    "senat",
+    "reaprofitament"
+   ],
+   "font": {
+    "titol": "Wikipedia: Curia Julia",
+    "url": "https://en.wikipedia.org/wiki/Curia_Julia"
+   }
+  },
+  {
+   "id": "c013",
+   "tipus": "curiositat",
+   "titol": "Un nom esborrat a cops de martell",
+   "text": "A l'arc de Septimi Sever el nom de Geta va ser eradicat després que el seu germà Caracal·la l'assassinés. Encara es veuen els forats a la inscripció.",
+   "imatge": {
+    "fitxer": "Arch_of_Septimius_Severus_East.jpg",
+    "descripcio": "Wikimedia Commons: Arch of Septimius Severus East",
+    "credit": "A. Hunter Wright",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "forum-roma",
+   "periode": "imperi",
+   "etiquetes": [
+    "forum",
+    "emperadors",
+    "damnatio"
+   ],
+   "font": {
+    "titol": "Wikipedia: Arch of Septimius Severus",
+    "url": "https://en.wikipedia.org/wiki/Arch_of_Septimius_Severus"
+   }
+  },
+  {
+   "id": "c014",
+   "tipus": "curiositat",
+   "titol": "Vaques al Fòrum Romà",
+   "text": "A l'edat mitjana el Fòrum va quedar tan abandonat que es deia Campo Vaccino, el «camp de les vaques», on pasturava el bestiar.",
+   "imatge": {
+    "fitxer": "Foro_romano_tempio_Saturno_09feb08_01.jpg",
+    "descripcio": "Wikimedia Commons: Foro romano tempio Saturno 09feb08 01",
+    "credit": "Marcok - it.wikipedia.org",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "forum-roma",
+   "periode": "posterior",
+   "etiquetes": [
+    "forum",
+    "edat-mitjana"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman Forum",
+    "url": "https://en.wikipedia.org/wiki/Roman_Forum"
+   }
+  },
+  {
+   "id": "c015",
+   "tipus": "curiositat",
+   "titol": "Temple convertit en església",
+   "text": "El temple d'Antoní i Faustina (s. II) va esdevenir l'església de San Lorenzo in Miranda: per això conserva les columnes i el frontó antics.",
+   "imatge": {
+    "fitxer": "Parte_di_fregio_con_minotauro_e_felini,_600-550_ac_ca.,_da_regia,_foro_romano_(antiquarium_del_foro)_02.JPG",
+    "descripcio": "Wikimedia Commons: Parte di fregio con minotauro e felini, 600-550 ac ca., da regia, foro romano (antiquarium del foro) 02",
+    "credit": "Sailko",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "forum-roma",
+   "periode": "posterior",
+   "etiquetes": [
+    "forum",
+    "reaprofitament"
+   ],
+   "font": {
+    "titol": "Wikipedia: Temple of Antoninus and Faustina",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Antoninus_and_Faustina"
+   }
+  },
+  {
+   "id": "c016",
+   "tipus": "curiositat",
+   "titol": "Un arc amb la menorà",
+   "text": "L'arc de Titus mostra soldats romans portant la menorà i altres botins del temple de Jerusalem, saquejat l'any 70 dC.",
+   "imatge": {
+    "fitxer": "Arch_of_Titus_Detail.jpg",
+    "descripcio": "Wikimedia Commons: Arch of Titus Detail",
+    "credit": "Andargor (talk) (Uploads)",
+    "llicencia": "Public domain"
+   },
+   "lloc": "arc-titus",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "religio"
+   ],
+   "font": {
+    "titol": "Wikipedia: Arch of Titus",
+    "url": "https://en.wikipedia.org/wiki/Arch_of_Titus"
+   }
+  },
+  {
+   "id": "c017",
+   "tipus": "curiositat",
+   "titol": "Un arc restaurat «de manera visible»",
+   "text": "El 1821 Valadier va restaurar l'arc de Titus amb travertí clar, ben diferenciat del marbre original, perquè es veiés què era nou i què antic.",
+   "imatge": {
+    "fitxer": "The_Arch_of_Titus,_Upper_Via_Sacra,_Rome_(31605340150).jpg",
+    "descripcio": "Wikimedia Commons: The Arch of Titus, Upper Via Sacra, Rome",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "arc-titus",
+   "periode": "posterior",
+   "etiquetes": [
+    "restauracio"
+   ],
+   "font": {
+    "titol": "Wikipedia: Arch of Titus",
+    "url": "https://en.wikipedia.org/wiki/Arch_of_Titus"
+   }
+  },
+  {
+   "id": "c018",
+   "tipus": "curiositat",
+   "titol": "Un arc fet de peces robades",
+   "text": "L'arc de Constantí reaprofita relleus de monuments de Trajà, Hadrià i Marc Aureli: un dels grans exemples d'spolia o reciclatge d'època romana.",
+   "imatge": {
+    "fitxer": "Arch_of_Constantine_(Rome)_-_South_side,_from_Via_triumphalis.jpg",
+    "descripcio": "Wikimedia Commons: Arch of Constantine (Rome) - South side, from Via triumphalis",
+    "credit": "NikonZ7II (Paris Orlando)",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "arc-constanti",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "reaprofitament",
+    "emperadors"
+   ],
+   "font": {
+    "titol": "Wikipedia: Arch of Constantine",
+    "url": "https://en.wikipedia.org/wiki/Arch_of_Constantine"
+   }
+  },
+  {
+   "id": "c019",
+   "tipus": "curiositat",
+   "titol": "Un cap de Constantí de dos metres",
+   "text": "A la basílica de Maxenci hi havia un Constantí assegut gegantí. Se'n conserven el cap i fragments, avui al pati dels Museus Capitolins.",
+   "imatge": {
+    "fitxer": "Statua_colossale_di_Costantino_I.jpg",
+    "descripcio": "Wikimedia Commons: Statua colossale di Costantino I",
+    "credit": "СССР",
+    "llicencia": "CC BY-SA 2.5 ca"
+   },
+   "lloc": "basilica-maxenci",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "emperadors",
+    "escultura"
+   ],
+   "font": {
+    "titol": "Wikipedia: Colossus of Constantine",
+    "url": "https://en.wikipedia.org/wiki/Colossus_of_Constantine"
+   }
+  },
+  {
+   "id": "c020",
+   "tipus": "curiositat",
+   "titol": "Sis sacerdotesses, trenta anys de servei",
+   "text": "Les vestals eren sis i servien trenta anys. A canvi tenien privilegis rars per a una dona romana: propietats pròpies i protecció legal especial.",
+   "imatge": {
+    "fitxer": "VestalisMaxima.jpg",
+    "descripcio": "Wikimedia Commons: VestalisMaxima",
+    "credit": "Rabax63",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "casa-vestals",
+   "periode": "republica",
+   "etiquetes": [
+    "religio",
+    "dones"
+   ],
+   "font": {
+    "titol": "Wikipedia: Vestal Virgin",
+    "url": "https://en.wikipedia.org/wiki/Vestal_Virgin"
+   }
+  },
+  {
+   "id": "c021",
+   "tipus": "curiositat",
+   "titol": "D'on ve la paraula «palau»?",
+   "text": "Del turó Palatí, on els emperadors van construir les seves residències. Per això «palatium» ha donat palau, palace o palazzo.",
+   "imatge": {
+    "fitxer": "Palatine_Hill_from_Colosseum_2011_1.jpg",
+    "descripcio": "Wikimedia Commons: Palatine Hill from Colosseum 2011 1",
+    "credit": "Karelj",
+    "llicencia": "Public domain"
+   },
+   "lloc": "palati",
+   "periode": "imperi",
+   "etiquetes": [
+    "llengua",
+    "emperadors"
+   ],
+   "font": {
+    "titol": "Wikipedia: Palatine Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill"
+   }
+  },
+  {
+   "id": "c022",
+   "tipus": "curiositat",
+   "titol": "August vivia en una casa modesta",
+   "text": "Segons Suetoni, la casa d'August al Palatí era senzilla: columnes de pedra local, sense marbres ni mosaics luxosos, i hi va dormir al mateix dormitori més de quaranta anys.",
+   "imatge": {
+    "fitxer": "Livia_Drusilla_Louvre_Ma1233.jpg",
+    "descripcio": "Wikimedia Commons: Livia Drusilla Louvre Ma1233",
+    "credit": "Marie-Lan Nguyen",
+    "llicencia": "Public domain"
+   },
+   "lloc": "domus-augusti",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "augusti"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Augustus",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus*.html"
+   }
+  },
+  {
+   "id": "c023",
+   "tipus": "curiositat",
+   "titol": "Ous i dofins per comptar voltes",
+   "text": "El Circ Màxim tenia dotze portes de sortida (carceres), i els carros feien set voltes. Dos marcadors, d'ous i de dofins, comptaven les voltes.",
+   "imatge": {
+    "fitxer": "CircusMaximusSO.jpg",
+    "descripcio": "Wikimedia Commons: CircusMaximusSO",
+    "credit": "Rabax63",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "circ-maxim",
+   "periode": "imperi",
+   "etiquetes": [
+    "curses",
+    "quadrigues"
+   ],
+   "font": {
+    "titol": "Wikipedia: Circus Maximus",
+    "url": "https://en.wikipedia.org/wiki/Circus_Maximus"
+   }
+  },
+  {
+   "id": "c024",
+   "tipus": "curiositat",
+   "titol": "Quatre colors, quatre faccions",
+   "text": "Les curses del Circ Màxim es corrien per equips: vermells, blancs, verds i blaus. Els aficionats eren tan apassionats que de vegades hi havia aldarulls.",
+   "imatge": {
+    "fitxer": "Jean_Léon_Gérôme_-_Chariot_Race_-_1983.380_-_Art_Institute_of_Chicago.jpg",
+    "descripcio": "Wikimedia Commons: Jean Léon Gérôme - Chariot Race - 1983.380 - Art Institute of Chicago",
+    "credit": "Jean-Léon Gérôme",
+    "llicencia": "Public domain"
+   },
+   "lloc": "circ-maxim",
+   "periode": "imperi",
+   "etiquetes": [
+    "curses",
+    "quadrigues"
+   ],
+   "font": {
+    "titol": "Wikipedia: Chariot racing",
+    "url": "https://en.wikipedia.org/wiki/Chariot_racing"
+   }
+  },
+  {
+   "id": "c025",
+   "tipus": "curiositat",
+   "titol": "Una sala de dinar que girava",
+   "text": "Segons Suetoni, a la Domus Àurea de Neró hi havia una sala de banquets rodona que girava dia i nit, com el cel, i sostres que ploraven flors i perfums.",
+   "imatge": {
+    "fitxer": "Fresco_from_the_Golden_House_of_Nero,_found_in_Rome_in_1668,_Ashmolean_Museum_(8401788678).jpg",
+    "descripcio": "Wikimedia Commons: Fresco from the Golden House of Nero, found in Rome in 1668, Ashmolean Museum",
+    "credit": "Unknown author",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "domus-aurea",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "neró"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Nero",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html"
+   }
+  },
+  {
+   "id": "c026",
+   "tipus": "curiositat",
+   "titol": "Pintors renaixentistes baixant amb cordes",
+   "text": "A finals del s. XV un jove va caure per un forat i va descobrir la Domus Àurea sota terra. Artistes com Rafael i Miquel Àngel hi van baixar per estudiar-ne les pintures.",
+   "imatge": {
+    "fitxer": "Opus_sectile_from_the_Domus_Aurea.jpg",
+    "descripcio": "Wikimedia Commons: Opus sectile from the Domus Aurea",
+    "credit": "Rjdeadly",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "domus-aurea",
+   "periode": "posterior",
+   "etiquetes": [
+    "renaixement",
+    "excavacions"
+   ],
+   "font": {
+    "titol": "Wikipedia: Domus Aurea",
+    "url": "https://en.wikipedia.org/wiki/Domus_Aurea"
+   }
+  },
+  {
+   "id": "c027",
+   "tipus": "curiositat",
+   "titol": "Les «grotesques» vénen d'una cova",
+   "text": "Els pintors del Renaixement van veure les decoracions de la Domus Àurea sota terra, en «grotte». D'aquí va sorgir el terme grotesc.",
+   "imatge": {
+    "fitxer": "Statue_Domus_Aurea.jpg",
+    "descripcio": "Wikimedia Commons: Statue Domus Aurea",
+    "credit": "Howard Hudson",
+    "llicencia": "CC BY 2.5"
+   },
+   "lloc": "domus-aurea",
+   "periode": "posterior",
+   "etiquetes": [
+    "llengua",
+    "renaixement"
+   ],
+   "font": {
+    "titol": "Wikipedia: Grotesque",
+    "url": "https://en.wikipedia.org/wiki/Grotesque"
+   }
+  },
+  {
+   "id": "c028",
+   "tipus": "curiositat",
+   "titol": "Un temple més gran que cap altre",
+   "text": "El temple de Venus i Roma, ideat per Hadrià, era el més gran de Roma. Segons Dió Cassi, va criticar-lo l'arquitecte Apol·lodor i va pagar-ho car.",
+   "imatge": {
+    "fitxer": "Temple_of_Venus_and_Roma_(14819291950).jpg",
+    "descripcio": "Wikimedia Commons: Temple of Venus and Roma",
+    "credit": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "temple-venus-roma",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "adria"
+   ],
+   "font": {
+    "titol": "Wikipedia: Temple of Venus and Roma",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Venus_and_Roma"
+   }
+  },
+  {
+   "id": "c029",
+   "tipus": "curiositat",
+   "titol": "Una columna que mesura un turó",
+   "text": "Una inscripció a la Columna Trajana diu que n'indica l'alçada del turó retallat entre el Capitoli i el Quirinal per fer lloc al Fòrum de Trajà.",
+   "imatge": {
+    "fitxer": "Trajan's_Column_HD.jpg",
+    "descripcio": "Wikimedia Commons: Trajan's Column HD",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "columna-trajana",
+   "periode": "imperi",
+   "etiquetes": [
+    "enginyeria",
+    "trajà"
+   ],
+   "font": {
+    "titol": "Wikipedia: Trajan%27s Column",
+    "url": "https://en.wikipedia.org/wiki/Trajan%27s_Column"
+   }
+  },
+  {
+   "id": "c030",
+   "tipus": "curiositat",
+   "titol": "Trajà a la base, sant Pere al capdamunt",
+   "text": "La Columna Trajana duia al capdamunt una estàtua de Trajà; el 1587 el papa Sixt V la va substituir per una de sant Pere.",
+   "imatge": {
+    "fitxer": "Trajan's_column_dupondius.jpg",
+    "descripcio": "Wikimedia Commons: Trajan's column dupondius",
+    "credit": "Classical Numismatic Group (CNG), Inc., www.cngcoins.com",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "columna-trajana",
+   "periode": "posterior",
+   "etiquetes": [
+    "trajà",
+    "reaprofitament"
+   ],
+   "font": {
+    "titol": "Wikipedia: Trajan%27s Column",
+    "url": "https://en.wikipedia.org/wiki/Trajan%27s_Column"
+   }
+  },
+  {
+   "id": "c031",
+   "tipus": "curiositat",
+   "titol": "Un mur tallafocs al Fòrum d'August",
+   "text": "August va aixecar un mur altíssim de pedra al darrere del seu fòrum, per protegir-lo dels incendis i separar-lo dels barris veïns.",
+   "imatge": {
+    "fitxer": "Augusto_di_pirma_porta,_inv._2290,_02.JPG",
+    "descripcio": "Wikimedia Commons: Augusto di pirma porta, inv. 2290, 02",
+    "credit": "sailko",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "forum-august",
+   "periode": "imperi",
+   "etiquetes": [
+    "august",
+    "urbanisme"
+   ],
+   "font": {
+    "titol": "Wikipedia: Forum of Augustus",
+    "url": "https://en.wikipedia.org/wiki/Forum_of_Augustus"
+   }
+  },
+  {
+   "id": "c032",
+   "tipus": "curiositat",
+   "titol": "100 milions per un solar",
+   "text": "Segons Suetoni, només el terreny del Fòrum de Cèsar va costar més de cent milions de sestercis. Cèsar hi va dedicar un temple a Venus Genetrix.",
+   "imatge": {
+    "fitxer": "Gaius_Iulius_Caesar_(Vatican_Museum).jpg",
+    "descripcio": "Wikimedia Commons: Gaius Iulius Caesar (Vatican Museum)",
+    "credit": "Unknown author",
+    "llicencia": "Public domain"
+   },
+   "lloc": "forum-cesar",
+   "periode": "republica",
+   "etiquetes": [
+    "cesar",
+    "diners"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Julius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html"
+   }
+  },
+  {
+   "id": "c033",
+   "tipus": "curiositat",
+   "titol": "El botí del temple de Jerusalem",
+   "text": "Vespasià va aixecar el Fòrum de la Pau després de la guerra jueva. Hi va exposar la menorà i altres despulles del temple de Jerusalem, saquejat l'any 70.",
+   "imatge": {
+    "fitxer": "Forum_Paix_-_Rome_(IT62)_-_2021-08-25_-_1.jpg",
+    "descripcio": "Wikimedia Commons: Forum Paix - Rome (IT62) - 2021-08-25 - 1",
+    "credit": "Chabe01",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-pau",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "vespasia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Templum Pacis",
+    "url": "https://en.wikipedia.org/wiki/Templum_Pacis"
+   }
+  },
+  {
+   "id": "c034",
+   "tipus": "curiositat",
+   "titol": "Un mapa de marbre de Roma",
+   "text": "El Fòrum de la Pau tenia a la paret la Forma Urbis, un plànol de marbre de Roma, gran i detallat. Avui només se'n conserven fragments.",
+   "imatge": {
+    "fitxer": "Basilica_dei_Santi_Cosma_e_Damiano.jpg",
+    "descripcio": "Wikimedia Commons: Basilica dei Santi Cosma e Damiano",
+    "credit": "Hugo DK",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-pau",
+   "periode": "imperi",
+   "etiquetes": [
+    "urbanisme",
+    "mapes"
+   ],
+   "font": {
+    "titol": "Wikipedia: Forma Urbis Romae",
+    "url": "https://en.wikipedia.org/wiki/Forma_Urbis_Romae"
+   }
+  },
+  {
+   "id": "c035",
+   "tipus": "curiositat",
+   "titol": "Les oques que van salvar Roma",
+   "text": "Segons Titus Livi, l'any 390 aC les oques sagrades de Juno al Capitoli van alertar amb els seus crits d'un atac nocturn dels gals.",
+   "imatge": {
+    "fitxer": "Forum_Romanum_gezien_vanaf_het_Capitool_in_Rome_ROMA_-_Foro_Romano_dal_Campidoglio._(titel_op_object),_RP-F-F00876-W.jpg",
+    "descripcio": "Wikimedia Commons: Forum Romanum gezien vanaf het Capitool in Rome ROMA - Foro Romano dal Campidoglio.",
+    "credit": "Rijksmuseum",
+    "llicencia": "CC0"
+   },
+   "lloc": "capitoli",
+   "periode": "republica",
+   "etiquetes": [
+    "mites",
+    "animals"
+   ],
+   "font": {
+    "titol": "Titus Livi, Ab urbe condita 5 (The Latin Library).47",
+    "url": "https://www.thelatinlibrary.com/livy/liv.5.shtml"
+   }
+  },
+  {
+   "id": "c036",
+   "tipus": "curiositat",
+   "titol": "On van executar els conjurats",
+   "text": "El Carcer Tullianum era la presó de Roma. L'any 63 aC hi van ser executats, sense judici, alguns dels còmplices de Catilina.",
+   "imatge": {
+    "fitxer": "Mamertine_Prison.jpg",
+    "descripcio": "Wikimedia Commons: Mamertine Prison",
+    "credit": "Chris 73",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "carcer-tullianum",
+   "periode": "republica",
+   "etiquetes": [
+    "presó",
+    "ciceró"
+   ],
+   "font": {
+    "titol": "Wikipedia: Tullianum",
+    "url": "https://en.wikipedia.org/wiki/Tullianum"
+   }
+  },
+  {
+   "id": "c037",
+   "tipus": "curiositat",
+   "titol": "Un palau renaixentista sobre un teatre",
+   "text": "El teatre de Marcel, del s. I aC, va ser fortalesa medieval dels Savelli. Al segle XVI els Orsini hi van aixecar un palau a sobre.",
+   "imatge": {
+    "fitxer": "Teatro_di_Marcello_intero.jpg",
+    "descripcio": "Wikimedia Commons: Teatro di Marcello intero",
+    "credit": "Fiat 500e",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "teatre-marcel",
+   "periode": "posterior",
+   "etiquetes": [
+    "arquitectura",
+    "reaprofitament"
+   ],
+   "font": {
+    "titol": "Wikipedia: Theatre of Marcellus",
+    "url": "https://en.wikipedia.org/wiki/Theatre_of_Marcellus"
+   }
+  },
+  {
+   "id": "c038",
+   "tipus": "curiositat",
+   "titol": "Un mercat de peix dins un pòrtic",
+   "text": "El pòrtic d'Octàvia, que envoltava temples i una biblioteca, va servir de mercat del peix des de l'edat mitjana fins a finals del s. XIX.",
+   "imatge": {
+    "fitxer": "Portico_Octavia_Rome_2.jpg",
+    "descripcio": "Wikimedia Commons: Portico Octavia Rome 2",
+    "credit": "Portico_Octavia_Rome.jpg: Jensens derivative work: Ptyx (talk)",
+    "llicencia": "Public domain"
+   },
+   "lloc": "portic-octavia",
+   "periode": "posterior",
+   "etiquetes": [
+    "edat-mitjana",
+    "menjar"
+   ],
+   "font": {
+    "titol": "Wikipedia: Porticus Octaviae",
+    "url": "https://en.wikipedia.org/wiki/Porticus_Octaviae"
+   }
+  },
+  {
+   "id": "c039",
+   "tipus": "curiositat",
+   "titol": "El temple de marbre més antic",
+   "text": "El temple rodó d'Hèrcules Víctor, al Fòrum Boari (c. 120 aC), és l'edifici de marbre més antic que es conserva dret a Roma.",
+   "imatge": {
+    "fitxer": "Temple_of_Hercules_Victor_Rome_April_2019.jpg",
+    "descripcio": "Wikimedia Commons: Temple of Hercules Victor Rome April 2019",
+    "credit": "ChromosomeGun",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-boari",
+   "periode": "republica",
+   "etiquetes": [
+    "religio",
+    "arquitectura"
+   ],
+   "font": {
+    "titol": "Wikipedia: Temple of Hercules Victor",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Hercules_Victor"
+   }
+  },
+  {
+   "id": "c040",
+   "tipus": "curiositat",
+   "titol": "La Cloaca Màxima encara funciona",
+   "text": "La Cloaca Màxima, atribuïda per la tradició als reis etruscos, va drenar el Fòrum durant segles. Alguns trams encara recullen aigua avui.",
+   "imatge": {
+    "fitxer": "CloacaMaxima2019.jpg",
+    "descripcio": "Wikimedia Commons: CloacaMaxima2019",
+    "credit": "Mbattista22",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-boari",
+   "periode": "monarquia",
+   "etiquetes": [
+    "enginyeria",
+    "tiber"
+   ],
+   "font": {
+    "titol": "Wikipedia: Cloaca Maxima",
+    "url": "https://en.wikipedia.org/wiki/Cloaca_Maxima"
+   }
+  },
+  {
+   "id": "c041",
+   "tipus": "curiositat",
+   "titol": "La boca que mossega els mentiders",
+   "text": "La Bocca della Verità és una antiga tapa de claveguera, probablement. La llegenda medieval diu que mossega la mà dels mentiders.",
+   "imatge": {
+    "fitxer": "Età_imperiale,_chiusino_a_forma_di_mascherone_di_divinità_fluviale,_detta_bocca_della_verità,_collocata_qui_nel_1632.jpg",
+    "descripcio": "Wikimedia Commons: Età imperiale, chiusino a forma di mascherone di divinità fluviale, detta bocca della verità, collocata qui…",
+    "credit": "Sailko",
+    "llicencia": "CC BY 3.0"
+   },
+   "lloc": "boca-veritat",
+   "periode": "posterior",
+   "etiquetes": [
+    "mites",
+    "cinema"
+   ],
+   "font": {
+    "titol": "Wikipedia: Bocca della Verit%C3%A0",
+    "url": "https://en.wikipedia.org/wiki/Bocca_della_Verit%C3%A0"
+   }
+  },
+  {
+   "id": "c042",
+   "tipus": "curiositat",
+   "titol": "Una illa amb forma de vaixell",
+   "text": "L'illa Tiberina va ser modelada amb un esperó de travertí com a vaixell, amb una serp d'Esculapi. Allà hi ha un hospital des del 1584.",
+   "imatge": {
+    "fitxer": "Isola_Tiberina,_Rome_(24824736817).jpg",
+    "descripcio": "Wikimedia Commons: Isola Tiberina, Rome",
+    "credit": "Deensel",
+    "llicencia": "CC BY 2.0"
+   },
+   "lloc": "illa-tiberina",
+   "periode": "republica",
+   "etiquetes": [
+    "tiber",
+    "medicina",
+    "religio"
+   ],
+   "font": {
+    "titol": "Wikipedia: Tiber Island",
+    "url": "https://en.wikipedia.org/wiki/Tiber_Island"
+   }
+  },
+  {
+   "id": "c043",
+   "tipus": "curiositat",
+   "titol": "El pont romà més antic que encara s'usa",
+   "text": "El pont Fabrici, de l'any 62 aC, uneix l'illa Tiberina amb la riba i continua obert als vianants. Té dos arcs i dos pilars centrals.",
+   "imatge": {
+    "fitxer": "Ponte_Fabricius_from_the_Tiber_river_walkway._.jpg",
+    "descripcio": "Wikimedia Commons: Ponte Fabricius from the Tiber river walkway. ",
+    "credit": "I.nunezarena",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "illa-tiberina",
+   "periode": "republica",
+   "etiquetes": [
+    "tiber",
+    "enginyeria"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pons Fabricius",
+    "url": "https://en.wikipedia.org/wiki/Pons_Fabricius"
+   }
+  },
+  {
+   "id": "c044",
+   "tipus": "curiositat",
+   "titol": "«M·AGRIPPA» no va construir aquest Panteó",
+   "text": "La inscripció del frontó diu que Marc Agripa, cònsol per tercer cop, el va fer. Però l'edifici que veiem és de l'època d'Hadrià.",
+   "imatge": {
+    "fitxer": "Pantheon_(Rome)_-_Right_side_and_front.jpg",
+    "descripcio": "Wikimedia Commons: Pantheon (Rome) - Right side and front",
+    "credit": "NikonZ7II",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "pantheon",
+   "periode": "imperi",
+   "etiquetes": [
+    "adria",
+    "arquitectura"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "c045",
+   "tipus": "curiositat",
+   "titol": "La pluja entra pel forat",
+   "text": "L'òcul del Panteó fa 8,2 metres i és l'única font de llum. Quan plou, l'aigua entra i s'escola pel terra lleugerament convex.",
+   "imatge": {
+    "fitxer": "Pantheon_(Roma)_-_Front_(cropped)_Inscriptions.jpg",
+    "descripcio": "Wikimedia Commons: Pantheon (Roma) - Front (cropped) Inscriptions",
+    "credit": "NikonZ7II",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "pantheon",
+   "periode": "imperi",
+   "etiquetes": [
+    "arquitectura",
+    "enginyeria"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "c046",
+   "tipus": "curiositat",
+   "titol": "Una cúpula més lleugera cap amunt",
+   "text": "La cúpula del Panteó és de formigó, però els àrids s'alleugereixen amb l'alçada: travertí a la base, i tufa i pedra tosca (porosa i lleugera) al capdamunt.",
+   "imatge": {
+    "fitxer": "Anonymus_B,_Pantheon_SMB_1.jpg",
+    "descripcio": "Wikimedia Commons: Anonymus B, Pantheon SMB 1",
+    "credit": "Unknown author",
+    "llicencia": "PDM-owner"
+   },
+   "lloc": "pantheon",
+   "periode": "imperi",
+   "etiquetes": [
+    "formigo",
+    "enginyeria"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "c047",
+   "tipus": "curiositat",
+   "titol": "El Panteó és una església des del 609",
+   "text": "El papa Bonifaci IV el va consagrar com a església el 609 (Santa Maria dels Màrtirs). Per això va sobreviure gairebé intacte.",
+   "imatge": {
+    "fitxer": "Anonymus_B,_Pantheon_SMB_2.jpg",
+    "descripcio": "Wikimedia Commons: Anonymus B, Pantheon SMB 2",
+    "credit": "Unknown author",
+    "llicencia": "PDM-owner"
+   },
+   "lloc": "pantheon",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "reaprofitament",
+    "religio"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "c048",
+   "tipus": "curiositat",
+   "titol": "Els temples es van descobrir per accident",
+   "text": "El 1927, enderrocant barris per reformar la zona, van aparèixer un cap i uns braços colossals de marbre. Així es van trobar els quatre temples republicans.",
+   "imatge": {
+    "fitxer": "PICT0510_-_Largo_di_Torre_Argentina.jpg",
+    "descripcio": "Wikimedia Commons: PICT0510 - Largo di Torre Argentina",
+    "credit": "Adam Carr at English Wikipedia",
+    "llicencia": "Public domain"
+   },
+   "lloc": "largo-argentina",
+   "periode": "republica",
+   "etiquetes": [
+    "excavacions",
+    "gats"
+   ],
+   "font": {
+    "titol": "Wikipedia: Largo di Torre Argentina",
+    "url": "https://en.wikipedia.org/wiki/Largo_di_Torre_Argentina"
+   }
+  },
+  {
+   "id": "c049",
+   "tipus": "curiositat",
+   "titol": "Aquí va morir Juli Cèsar",
+   "text": "El 15 de març del 44 aC Cèsar va ser assassinat a la Curia de Pompeu, vora Largo Argentina. Era el dia de les ides de març.",
+   "imatge": {
+    "fitxer": "Rome_the_sacred_area_of_largo_argentina_20050922.jpg",
+    "descripcio": "Wikimedia Commons: Rome the sacred area of largo argentina 20050922",
+    "credit": "Alessio Damato",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "largo-argentina",
+   "periode": "republica",
+   "etiquetes": [
+    "cesar",
+    "senat"
+   ],
+   "font": {
+    "titol": "Wikipedia: Assassination of Julius Caesar",
+    "url": "https://en.wikipedia.org/wiki/Assassination_of_Julius_Caesar"
+   }
+  },
+  {
+   "id": "c050",
+   "tipus": "curiositat",
+   "titol": "Un santuari de gats entre temples",
+   "text": "Entre les ruïnes de Largo Argentina hi viu una colònia de gats atesos per voluntaris, que té un refugi obert al públic.",
+   "imatge": {
+    "fitxer": "Cat_Sanctuary,_Cats,_Largo_di_Torre_Argentina,_Rome_-_398_(19257774921).jpg",
+    "descripcio": "Wikimedia Commons: Cat Sanctuary, Cats, Largo di Torre Argentina, Rome - 398",
+    "credit": "Andy Rusch from Santa Barbara, USA",
+    "llicencia": "CC BY 2.0"
+   },
+   "lloc": "largo-argentina",
+   "periode": "posterior",
+   "etiquetes": [
+    "gats",
+    "animals"
+   ],
+   "font": {
+    "titol": "Wikipedia: Torre Argentina Cat Sanctuary",
+    "url": "https://en.wikipedia.org/wiki/Torre_Argentina_Cat_Sanctuary"
+   }
+  },
+  {
+   "id": "c051",
+   "tipus": "curiositat",
+   "titol": "Un teatre disfressat de temple",
+   "text": "Pompeu va construir el primer teatre de pedra de Roma (55 aC) amb un temple de Venus a dalt de les grades, per esquivar la prohibició dels teatres permanents.",
+   "imatge": {
+    "fitxer": "Baltard_1837_pompey.png",
+    "descripcio": "Wikimedia Commons: Baltard 1837 pompey",
+    "credit": "Victoire Baltard (original drawing, 1837), Gen. Quon (coloring and adjustments, 2017)",
+    "llicencia": "Public domain"
+   },
+   "lloc": "teatre-pompeu",
+   "periode": "republica",
+   "etiquetes": [
+    "arquitectura",
+    "pompeu"
+   ],
+   "font": {
+    "titol": "Wikipedia: Theatre of Pompey",
+    "url": "https://en.wikipedia.org/wiki/Theatre_of_Pompey"
+   }
+  },
+  {
+   "id": "c052",
+   "tipus": "curiositat",
+   "titol": "L'Ara Pacis es va canviar de lloc",
+   "text": "L'altar de la Pau d'August va ser desmuntat i reconstruït al costat del Tíber el 1938, i el 2006 va estrenar el museu de Richard Meier.",
+   "imatge": {
+    "fitxer": "Ara_Pacis,_Tellus_panel.jpg",
+    "descripcio": "Wikimedia Commons: Ara Pacis, Tellus panel",
+    "credit": "Joel Bellviure",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "ara-pacis",
+   "periode": "posterior",
+   "etiquetes": [
+    "august",
+    "restauracio"
+   ],
+   "font": {
+    "titol": "Wikipedia: Ara Pacis",
+    "url": "https://en.wikipedia.org/wiki/Ara_Pacis"
+   }
+  },
+  {
+   "id": "c053",
+   "tipus": "curiositat",
+   "titol": "August va deixar el currículum a la porta",
+   "text": "Davant del seu mausoleu, August va fer instal·lar dues columnes de bronze amb el text de les Res Gestae, el resum de les seves obres.",
+   "imatge": {
+    "fitxer": "Mausoleum_of_Augustus,_Rome.jpg",
+    "descripcio": "Wikimedia Commons: Mausoleum of Augustus, Rome",
+    "credit": "Ethan Doyle White",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "mausoleu-august",
+   "periode": "imperi",
+   "etiquetes": [
+    "august",
+    "epigrafia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Mausoleum of Augustus",
+    "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus"
+   }
+  },
+  {
+   "id": "c054",
+   "tipus": "curiositat",
+   "titol": "De mausoleu a sala de concerts",
+   "text": "L'interior del mausoleu d'August va ser jardí i, al segle XX, sala de concerts (l'Augusteo), fins que Mussolini la va fer tancar als anys trenta.",
+   "imatge": {
+    "fitxer": "Cinerary_urn_of_Agrippina_the_elder_from_the_Mausoleum_of_Augustus_(Rome_MC_751,_NCE_2924;_CIL_VI_886)_01.jpg",
+    "descripcio": "Wikimedia Commons: Cinerary urn of Agrippina the elder from the Mausoleum of Augustus (Rome MC 751, NCE 2924; CIL VI 886) 01",
+    "credit": "Mark Landon (User:Choliamb)",
+    "llicencia": "CC BY 4.0"
+   },
+   "lloc": "mausoleu-august",
+   "periode": "posterior",
+   "etiquetes": [
+    "reaprofitament"
+   ],
+   "font": {
+    "titol": "Wikipedia: Mausoleum of Augustus",
+    "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus"
+   }
+  },
+  {
+   "id": "c055",
+   "tipus": "curiositat",
+   "titol": "Piazza Navona té forma d'estadi",
+   "text": "La plaça segueix la forma de l'estadi de Domicià, del 86 dC, per a curses atlètiques a la grega. Hi cabien uns 30.000 espectadors.",
+   "imatge": {
+    "fitxer": "Piazza_navona_-_stadio_di_Domiziano_2152-7st.JPG",
+    "descripcio": "Wikimedia Commons: Piazza navona - stadio di Domiziano 2152-7st",
+    "credit": "user:Lalupa",
+    "llicencia": "Public domain"
+   },
+   "lloc": "estadi-domicia",
+   "periode": "imperi",
+   "etiquetes": [
+    "esports",
+    "urbanisme"
+   ],
+   "font": {
+    "titol": "Wikipedia: Stadium of Domitian",
+    "url": "https://en.wikipedia.org/wiki/Stadium_of_Domitian"
+   }
+  },
+  {
+   "id": "c056",
+   "tipus": "curiositat",
+   "titol": "La columna d'un miracle de pluja",
+   "text": "La Columna de Marc Aureli commemora les guerres contra els marcomans i mostra una escena de pluja que salva l'exèrcit romà.",
+   "imatge": {
+    "fitxer": "Colonna_di_Marco_aurelio_-_Frontale.jpg",
+    "descripcio": "Wikimedia Commons: Colonna di Marco aurelio - Frontale",
+    "credit": "WikiRomaWiki",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "columna-marc-aureli",
+   "periode": "imperi",
+   "etiquetes": [
+    "exercit",
+    "marc-aureli"
+   ],
+   "font": {
+    "titol": "Wikipedia: Column of Marcus Aurelius",
+    "url": "https://en.wikipedia.org/wiki/Column_of_Marcus_Aurelius"
+   }
+  },
+  {
+   "id": "c057",
+   "tipus": "curiositat",
+   "titol": "Onze columnes dins una borsa",
+   "text": "Onze columnes del temple d'Hadrià encara són visibles incrustades a la façana de l'antiga Borsa de Roma, a la Piazza di Pietra.",
+   "imatge": {
+    "fitxer": "Tempio_di_Adriano_-_esterno.jpg",
+    "descripcio": "Wikimedia Commons: Tempio di Adriano - esterno",
+    "credit": "Labicanense",
+    "llicencia": "CC BY 4.0"
+   },
+   "lloc": "temple-adria",
+   "periode": "imperi",
+   "etiquetes": [
+    "adria",
+    "reaprofitament"
+   ],
+   "font": {
+    "titol": "Wikipedia: Temple of Hadrian",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Hadrian"
+   }
+  },
+  {
+   "id": "c058",
+   "tipus": "curiositat",
+   "titol": "Un obelisc que feia d'agulla de rellotge",
+   "text": "L'obelisc de Montecitorio, portat d'Egipte per August, era la gnomó d'un gran rellotge de sol, l'Horologium Augusti.",
+   "imatge": {
+    "fitxer": "Egyptian_Obelisk_Solare,_Psammeticus_II,_Heliopolis,_Taken_by_Augustus_in_10_BC_(48424248527).jpg",
+    "descripcio": "Wikimedia Commons: Egyptian Obelisk Solare, Psammeticus II, Heliopolis, Taken by Augustus in 10 BC",
+    "credit": "Gary Todd from Xinzheng, China",
+    "llicencia": "Public domain"
+   },
+   "lloc": "obelisc-montecitorio",
+   "periode": "imperi",
+   "etiquetes": [
+    "august",
+    "egipte",
+    "temps"
+   ],
+   "font": {
+    "titol": "Wikipedia: Obelisk of Montecitorio",
+    "url": "https://en.wikipedia.org/wiki/Obelisk_of_Montecitorio"
+   }
+  },
+  {
+   "id": "c059",
+   "tipus": "curiositat",
+   "titol": "Una tomba imperial convertida en castell",
+   "text": "El mausoleu d'Hadrià esdevingué fortalesa papal. Un passadís cobert i fortificat, el Passetto di Borgo, el connecta amb Sant Pere.",
+   "imatge": {
+    "fitxer": "Castel_Sant'Angelo_from_Southeast,_Rome,_Italy.jpg",
+    "descripcio": "Wikimedia Commons: Castel Sant'Angelo from Southeast, Rome, Italy",
+    "credit": "Julian Lupyan",
+    "llicencia": "CC0"
+   },
+   "lloc": "castell-sant-angelo",
+   "periode": "posterior",
+   "etiquetes": [
+    "adria",
+    "reaprofitament"
+   ],
+   "font": {
+    "titol": "Wikipedia: Castel Sant%27Angelo",
+    "url": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo"
+   }
+  },
+  {
+   "id": "c060",
+   "tipus": "curiositat",
+   "titol": "L'àngel que dóna nom al castell",
+   "text": "Segons la tradició, el 590 el papa Gregori el Gran va veure l'arcàngel Miquel embeinant l'espasa sobre el mausoleu en acabar una pesta.",
+   "imatge": {
+    "fitxer": "Angels_Sant'Angelo_Bridge_1.jpg",
+    "descripcio": "Wikimedia Commons: Angels Sant'Angelo Bridge 1",
+    "credit": "Alvesgaspar",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "castell-sant-angelo",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "religio",
+    "edat-mitjana"
+   ],
+   "font": {
+    "titol": "Wikipedia: Castel Sant%27Angelo",
+    "url": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo"
+   }
+  },
+  {
+   "id": "c061",
+   "tipus": "curiositat",
+   "titol": "Un concert dels Tres Tenors a les termes",
+   "text": "El 7 de juliol de 1990, la nit abans de la final del Mundial, Carreras, Domingo i Pavarotti van cantar a les termes de Caracal·la.",
+   "imatge": {
+    "fitxer": "Baths_of_Caracalla,_facing_Caldarium.jpg",
+    "descripcio": "Wikimedia Commons: Baths of Caracalla, facing Caldarium",
+    "credit": "Ethan Doyle White",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "termes-caracalla",
+   "periode": "posterior",
+   "etiquetes": [
+    "musica",
+    "banys"
+   ],
+   "font": {
+    "titol": "Wikipedia: Baths of Caracalla",
+    "url": "https://en.wikipedia.org/wiki/Baths_of_Caracalla"
+   }
+  },
+  {
+   "id": "c062",
+   "tipus": "curiositat",
+   "titol": "De les termes a Nàpols",
+   "text": "Escultures famoses, com l'Hèrcules Farnese i el Brau Farnese, es van trobar a les termes de Caracal·la al segle XVI. Ara són a Nàpols.",
+   "imatge": {
+    "fitxer": "Interior_of_the_Baths_at_Caracalla_MET_DP222164.jpg",
+    "descripcio": "Wikimedia Commons: Interior of the Baths at Caracalla MET DP222164",
+    "credit": "Abraham-Louis-Rodolphe Ducros",
+    "llicencia": "CC0"
+   },
+   "lloc": "termes-caracalla",
+   "periode": "posterior",
+   "etiquetes": [
+    "escultura",
+    "renaixement",
+    "excavacions"
+   ],
+   "font": {
+    "titol": "Wikipedia: Baths of Caracalla",
+    "url": "https://en.wikipedia.org/wiki/Baths_of_Caracalla"
+   }
+  },
+  {
+   "id": "c063",
+   "tipus": "curiositat",
+   "titol": "«Regina viarum»: la reina de les vies",
+   "text": "Iniciada el 312 aC per Api Claudi el Cec, la via Àppia unia Roma amb Càpua i més tard Brindisi. El poeta Estaci la va anomenar reina de les vies.",
+   "imatge": {
+    "fitxer": "Via_appia.jpg",
+    "descripcio": "Wikimedia Commons: Via appia",
+    "credit": "Kleuske at Dutch Wikipedia",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "via-appia",
+   "periode": "republica",
+   "etiquetes": [
+    "carreteres",
+    "enginyeria"
+   ],
+   "font": {
+    "titol": "Wikipedia: Appian Way",
+    "url": "https://en.wikipedia.org/wiki/Appian_Way"
+   }
+  },
+  {
+   "id": "c064",
+   "tipus": "curiositat",
+   "titol": "Una tomba convertida en bastió",
+   "text": "A l'edat mitjana la tomba de Cecília Metel·la va fer de fortalesa: encara conserva merlets medievals i, al darrere, el castell dels Caetani.",
+   "imatge": {
+    "fitxer": "Cecilia_metella_e_castrum.JPG",
+    "descripcio": "Wikimedia Commons: Cecilia metella e castrum",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "tomba-cecilia-metella",
+   "periode": "posterior",
+   "etiquetes": [
+    "edat-mitjana",
+    "reaprofitament"
+   ],
+   "font": {
+    "titol": "Wikipedia: Tomb of Caecilia Metella",
+    "url": "https://en.wikipedia.org/wiki/Tomb_of_Caecilia_Metella"
+   }
+  },
+  {
+   "id": "c065",
+   "tipus": "curiositat",
+   "titol": "El circ més ben conservat de Roma",
+   "text": "El circ de Maxenci (s. IV), a la via Àppia, és el circ més ben conservat de la zona de Roma, i només el Circ Màxim el supera en mida.",
+   "imatge": {
+    "fitxer": "Circus_of_Maxentius.jpg",
+    "descripcio": "Wikimedia Commons: Circus of Maxentius",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "circ-maxenci",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "curses",
+    "quadrigues"
+   ],
+   "font": {
+    "titol": "Wikipedia: Circus of Maxentius",
+    "url": "https://en.wikipedia.org/wiki/Circus_of_Maxentius"
+   }
+  },
+  {
+   "id": "c066",
+   "tipus": "curiositat",
+   "titol": "Catacumbes: cementiris, no amagatalls",
+   "text": "Les catacumbes eren cementiris subterranis. Els cristians no s'hi amagaven: les autoritats sabien on eren, i servien per a enterraments.",
+   "imatge": {
+    "fitxer": "Catacombe_di_San_Sebastiano_-_panoramio_(3).jpg",
+    "descripcio": "Wikimedia Commons: Catacombe di San Sebastiano - panoramio (3)",
+    "credit": "Mister No",
+    "llicencia": "CC BY 3.0"
+   },
+   "lloc": "catacumbes",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "religio",
+    "cristians"
+   ],
+   "font": {
+    "titol": "Wikipedia: Catacombs of Rome",
+    "url": "https://en.wikipedia.org/wiki/Catacombs_of_Rome"
+   }
+  },
+  {
+   "id": "c067",
+   "tipus": "curiositat",
+   "titol": "Un aqüeducte gairebé tot soterrat",
+   "text": "L'Aqua Appia (312 aC), el primer aqüeducte de Roma, feia uns 16,6 km i gairebé tot anava sota terra: només uns 60 passos eren a l'aire.",
+   "imatge": {
+    "fitxer": "RomaAcquedottoTraCelioePalatino.JPG",
+    "descripcio": "Wikimedia Commons: RomaAcquedottoTraCelioePalatino",
+    "credit": "Autoria indicada a la pàgina del fitxer a Wikimedia Commons",
+    "llicencia": "Public domain"
+   },
+   "lloc": "parc-aqueductes",
+   "periode": "republica",
+   "etiquetes": [
+    "aqueductes",
+    "enginyeria"
+   ],
+   "font": {
+    "titol": "Wikipedia: Aqua Appia",
+    "url": "https://en.wikipedia.org/wiki/Aqua_Appia"
+   }
+  },
+  {
+   "id": "c068",
+   "tipus": "curiositat",
+   "titol": "Miquel Àngel va convertir unes termes en església",
+   "text": "A les termes de Dioclecià, Miquel Àngel va convertir la gran sala central en l'església de Santa Maria degli Angeli (1560s).",
+   "imatge": {
+    "fitxer": "Baths_of_Diocletian_-_Paulin_1880.jpg",
+    "descripcio": "Wikimedia Commons: Baths of Diocletian - Paulin 1880",
+    "credit": "Edmond Jean-Baptiste Paulin (10 September 1848 - 27 November 1915)",
+    "llicencia": "Public domain"
+   },
+   "lloc": "termes-diocleci",
+   "periode": "posterior",
+   "etiquetes": [
+    "renaixement",
+    "reaprofitament"
+   ],
+   "font": {
+    "titol": "Wikipedia: Baths of Diocletian",
+    "url": "https://en.wikipedia.org/wiki/Baths_of_Diocletian"
+   }
+  },
+  {
+   "id": "c069",
+   "tipus": "curiositat",
+   "titol": "Una piràmide feta en 330 dies",
+   "text": "La piràmide de Gai Cesti, de c. 12 aC, es va acabar en només 330 dies, segons la inscripció, d'acord amb el testament del difunt.",
+   "imatge": {
+    "fitxer": "Inscribed_base_(A)_from_the_tomb_of_C._Cestius_(Rome,_Mus_Cap_NCE_2385)_02.jpg",
+    "descripcio": "Wikimedia Commons: Inscribed base (A) from the tomb of C. Cestius (Rome, Mus Cap NCE 2385) 02",
+    "credit": "Mark Landon",
+    "llicencia": "CC BY 4.0"
+   },
+   "lloc": "piramide-cestia",
+   "periode": "imperi",
+   "etiquetes": [
+    "egipte",
+    "tombes"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pyramid of Cestius",
+    "url": "https://en.wikipedia.org/wiki/Pyramid_of_Cestius"
+   }
+  },
+  {
+   "id": "c070",
+   "tipus": "curiositat",
+   "titol": "Un turó fet d'àmfores trencades",
+   "text": "El Monte Testaccio, a Roma, és un turó artificial format per milions d'àmfores d'oli d'oliva trencades. «Testa» vol dir tros de ceràmica.",
+   "imatge": {
+    "fitxer": "Testaccio_monte_dei_cocci_051204-12-13.JPG",
+    "descripcio": "Wikimedia Commons: Testaccio monte dei cocci 051204-12-13",
+    "credit": "No machine-readable author provided. Lalupa assumed (based on copyright claims).",
+    "llicencia": "Public domain"
+   },
+   "lloc": "monte-testaccio",
+   "periode": "imperi",
+   "etiquetes": [
+    "reciclatge",
+    "menjar",
+    "comerç"
+   ],
+   "font": {
+    "titol": "Wikipedia: Monte Testaccio",
+    "url": "https://en.wikipedia.org/wiki/Monte_Testaccio"
+   }
+  },
+  {
+   "id": "c071",
+   "tipus": "curiositat",
+   "titol": "Una església sobre una altra sobre una altra",
+   "text": "A Sant Climent, una basílica del s. XII s'alça sobre una del s. IV, que cobreix edificis romans i un mitreu del s. II, amb aigua corrent.",
+   "imatge": {
+    "fitxer": "Basilica_di_San_Clemente_al_Laterano_-_esterno.jpg",
+    "descripcio": "Wikimedia Commons: Basilica di San Clemente al Laterano - esterno",
+    "credit": "Labicanense",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "san-clemente",
+   "periode": "posterior",
+   "etiquetes": [
+    "religio",
+    "mitra",
+    "capes"
+   ],
+   "font": {
+    "titol": "Wikipedia: San Clemente al Laterano",
+    "url": "https://en.wikipedia.org/wiki/San_Clemente_al_Laterano"
+   }
+  },
+  {
+   "id": "c072",
+   "tipus": "curiositat",
+   "titol": "Un fresc amb insults en italià antic",
+   "text": "A Sant Climent, un fresc del s. XI inclou una de les primeres frases escrites en llengua vulgar italiana, i és un insult.",
+   "imatge": {
+    "fitxer": "Roma,_Basilica_di_San_Clemente,_chiesa_inferiore_(1).jpg",
+    "descripcio": "Wikimedia Commons: Roma, Basilica di San Clemente, chiesa inferiore (1)",
+    "credit": "Palickap",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "san-clemente",
+   "periode": "posterior",
+   "etiquetes": [
+    "llengua",
+    "edat-mitjana"
+   ],
+   "font": {
+    "titol": "Wikipedia: San Clemente al Laterano",
+    "url": "https://en.wikipedia.org/wiki/San_Clemente_al_Laterano"
+   }
+  },
+  {
+   "id": "c073",
+   "tipus": "curiositat",
+   "titol": "La tomba del fornier a Porta Maggiore",
+   "text": "Al costat de Porta Maggiore hi ha la tomba d'Eurisaces, un fornier ric del s. I aC, decorada amb relleus de com es feia el pa.",
+   "imatge": {
+    "fitxer": "Tomb_of_Eurysaces_the_Baker.jpg",
+    "descripcio": "Wikimedia Commons: Tomb of Eurysaces the Baker",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "porta-maggiore",
+   "periode": "republica",
+   "etiquetes": [
+    "menjar",
+    "tombes",
+    "ofici"
+   ],
+   "font": {
+    "titol": "Wikipedia: Tomb of Eurysaces the Baker",
+    "url": "https://en.wikipedia.org/wiki/Tomb_of_Eurysaces_the_Baker"
+   }
+  },
+  {
+   "id": "c074",
+   "tipus": "curiositat",
+   "titol": "Una basílica subterrània trobada per un tren",
+   "text": "El 1917, una obra de via fèrrica va fer aparèixer la basílica neopitagòrica de Porta Maggiore, a 12 metres sota el nivell del carrer.",
+   "imatge": {
+    "fitxer": "Stucchi_della_volta_della_basilica_sotterranea_di_porta_maggiore.jpg",
+    "descripcio": "Wikimedia Commons: Stucchi della volta della basilica sotterranea di porta maggiore",
+    "credit": "Unknown author",
+    "llicencia": "Public domain"
+   },
+   "lloc": "porta-maggiore",
+   "periode": "imperi",
+   "etiquetes": [
+    "excavacions",
+    "religio"
+   ],
+   "font": {
+    "titol": "Wikipedia: Porta Maggiore Basilica",
+    "url": "https://en.wikipedia.org/wiki/Porta_Maggiore_Basilica"
+   }
+  },
+  {
+   "id": "c075",
+   "tipus": "curiositat",
+   "titol": "Lavabos públics sense intimitat",
+   "text": "A les latrines públiques, com la d'Òstia, els romans seien en bancs amb forats un al costat de l'altre, amb poca intimitat. Eren també llocs per xerrar.",
+   "imatge": {
+    "fitxer": "Panoramica_Teatro_di_Ostia.jpg",
+    "descripcio": "Wikimedia Commons: Panoramica Teatro di Ostia",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "ostia-antica",
+   "periode": "imperi",
+   "etiquetes": [
+    "latrines",
+    "quotidia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Toilets in ancient Rome",
+    "url": "https://en.wikipedia.org/wiki/Toilets_in_ancient_Rome"
+   }
+  },
+  {
+   "id": "c076",
+   "tipus": "curiositat",
+   "titol": "Òstia, el port que va quedar terra endins",
+   "text": "Els sediments del Tíber van fer avançar la costa: l'antic port de Roma és avui a uns 3 km del mar.",
+   "imatge": {
+    "fitxer": "Theater_(Ostia_Antica).jpg",
+    "descripcio": "Wikimedia Commons: Theater (Ostia Antica)",
+    "credit": "Rabax63",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "ostia-antica",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "tiber",
+    "excavacions"
+   ],
+   "font": {
+    "titol": "Wikipedia: Ostia Antica",
+    "url": "https://en.wikipedia.org/wiki/Ostia_Antica"
+   }
+  },
+  {
+   "id": "c077",
+   "tipus": "curiositat",
+   "titol": "Un Nil de miniatura a Tívoli",
+   "text": "A la vil·la Adriana, el Canopus és un canal imitació del d'Egipte, amb estàtues. Hadrià hi reunia records dels seus viatges.",
+   "imatge": {
+    "fitxer": "Hadrian's_Villa,_Tivoli_(38088664402).jpg",
+    "descripcio": "Wikimedia Commons: Hadrian's Villa, Tivoli",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "villa-adriana",
+   "periode": "imperi",
+   "etiquetes": [
+    "adria",
+    "egipte"
+   ],
+   "font": {
+    "titol": "Wikipedia: Hadrian%27s Villa",
+    "url": "https://en.wikipedia.org/wiki/Hadrian%27s_Villa"
+   }
+  },
+  {
+   "id": "c078",
+   "tipus": "curiositat",
+   "titol": "La primera col·lecció pública del món",
+   "text": "El 1471 Sixt IV va regalar al poble de Roma bronzes antics al Capitoli. Els Musei Capitolini es consideren el museu públic més antic.",
+   "imatge": {
+    "fitxer": "Il_Spinario_-_Sala_dei_Trionfi_-_Palazzo_dei_Conservatori_-_Musei_Capitolini_-_Rome_2016.jpg",
+    "descripcio": "Wikimedia Commons: Il Spinario - Sala dei Trionfi - Palazzo dei Conservatori - Musei Capitolini - Rome 2016",
+    "credit": "José Luiz",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "musei-capitolins",
+   "periode": "posterior",
+   "etiquetes": [
+    "museus",
+    "renaixement"
+   ],
+   "font": {
+    "titol": "Wikipedia: Capitoline Museums",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Museums"
+   }
+  },
+  {
+   "id": "c079",
+   "tipus": "curiositat",
+   "titol": "El Laocoont va aparèixer en una vinya",
+   "text": "El 1506 el grup escultòric del Laocoont va aparèixer en una vinya de Roma. Plini el Vell ja el descrivia i Giuliano da Sangallo el va reconèixer.",
+   "imatge": {
+    "fitxer": "Laocoon_group_closeup_4.jpg",
+    "descripcio": "Wikimedia Commons: Laocoon group closeup 4",
+    "credit": "Wknight94",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "musei-vaticans",
+   "periode": "posterior",
+   "etiquetes": [
+    "escultura",
+    "renaixement",
+    "excavacions"
+   ],
+   "font": {
+    "titol": "Wikipedia: Laocoön and His Sons",
+    "url": "https://en.wikipedia.org/wiki/Laocoön_and_His_Sons"
+   }
+  },
+  {
+   "id": "c080",
+   "tipus": "curiositat",
+   "titol": "Un museu en una fàbrica termoelèctrica",
+   "text": "La Centrale Montemartini, antiga fàbrica termoelèctrica a l'Ostiense, exposa escultures romanes entre maquinària industrial.",
+   "imatge": {
+    "fitxer": "Montemartini_-_sala_caldaie_e_mosaico_di_s_Bibiana_1030479-80.JPG",
+    "descripcio": "Wikimedia Commons: Montemartini - sala caldaie e mosaico di s Bibiana 1030479-80",
+    "credit": "Lalupa",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "centrale-montemartini",
+   "periode": "posterior",
+   "etiquetes": [
+    "museus",
+    "industrial"
+   ],
+   "font": {
+    "titol": "Wikipedia: Capitoline Museums",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Museums"
+   }
+  },
+  {
+   "id": "c081",
+   "tipus": "curiositat",
+   "titol": "Una maqueta de Roma a escala 1:250",
+   "text": "El Plastico di Roma, del Museu de la Civiltà Romana, és una maqueta de Roma a l'època de Constantí, feta per Gismondi a partir dels anys trenta.",
+   "imatge": {
+    "fitxer": "Vue_maquette_de_Gismondi,_J.-P._Dalbéra.jpg",
+    "descripcio": "Wikimedia Commons: Vue maquette de Gismondi, J.-P. Dalbéra",
+    "credit": "Jean-Pierre Dalbéra",
+    "llicencia": "CC BY 2.0"
+   },
+   "lloc": "museu-civilta-romana",
+   "periode": "posterior",
+   "etiquetes": [
+    "maquetes",
+    "urbanisme"
+   ],
+   "font": {
+    "titol": "Wikipedia: Museo della Civilt%C3%A0 Romana",
+    "url": "https://en.wikipedia.org/wiki/Museo_della_Civilt%C3%A0_Romana"
+   }
+  },
+  {
+   "id": "c082",
+   "tipus": "curiositat",
+   "titol": "Neró va guanyar... caient del carro",
+   "text": "Als Jocs Olímpics del 67 dC, Neró va caure del carro de deu cavalls i no va acabar. Els jutges el van coronar vencedor igualment.",
+   "imatge": {
+    "fitxer": "Roman_-_Intaglio_of_a_Circus_with_a_Chariot_Race_-_Walters_421314.jpg",
+    "descripcio": "Wikimedia Commons: Roman - Intaglio of a Circus with a Chariot Race - Walters 421314",
+    "credit": "Anonymous (Category:Roman Empire)Unknown author",
+    "llicencia": "Public domain"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "neró",
+    "curses"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Nero",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html"
+   }
+  },
+  {
+   "id": "c083",
+   "tipus": "curiositat",
+   "titol": "Claudi volia permetre els pets a taula",
+   "text": "Suetoni diu que Claudi va pensar publicar un edicte que autoritzés a deixar anar gasos a taula, després d'un cas de malestar.",
+   "imatge": {
+    "fitxer": "Detail_of_a_mosaic_floor_from_the_triclinium_(dining_room)_of_a_Roman_villa_-_Google_Art_Project.jpg",
+    "descripcio": "Wikimedia Commons: Detail of a mosaic floor from the triclinium (dining room) of a Roman villa - Google Art Project",
+    "credit": "Unknown author",
+    "llicencia": "Public domain"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "claudi",
+    "menjar"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Claudius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html"
+   }
+  },
+  {
+   "id": "c084",
+   "tipus": "curiositat",
+   "titol": "Domicià, caçador de mosques",
+   "text": "Suetoni explica que, a l'inici del seu regnat, Domicià passava hores a soles al despatx punxant mosques amb un estil.",
+   "imatge": {
+    "fitxer": "Plate_12-_Flavian_Amphitheater,_called_the_Colosseum._1._Arch_of_Constantine._2._Palatine_Hill._(Anfiteatro_Flavio_detto_il_Colosseo_in_Roma._1._Arco_di_Costantino._2._Monte_Palatino.)_MET_DP827918.jpg",
+    "descripcio": "Wikimedia Commons: Plate 12- Flavian Amphitheater, called the Colosseum. 1. Arch of Constantine. 2. Palatine Hill. (Anfiteatro…",
+    "credit": "Giovanni Battista Piranesi",
+    "llicencia": "CC0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "domicià"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Domitian",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Domitian*.html"
+   }
+  },
+  {
+   "id": "c085",
+   "tipus": "curiositat",
+   "titol": "Còmmode es creia Hèrcules",
+   "text": "L'emperador Còmmode lluitava a l'arena i es feia dir «Hèrcules Romà». Segons Dió Cassi, fins va rebatejar Roma com a Colonia Commodiana.",
+   "imatge": {
+    "fitxer": "Gladiator_helmet_found_in_Pompeii_and_richly_decorated_with_scenes_of_Greek_mythology,_Gladiators_–_Death_and_Triumph_at_the_Colosseum_exhibition,_Museum_und_Park_Kalkriese_(9618142634).jpg",
+    "descripcio": "Wikimedia Commons: Gladiator helmet found in Pompeii and richly decorated with scenes of Greek mythology, Gladiators – Death and…",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "gladiadors",
+    "còmmode"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Dió Cassi, Història romana, llibre 73",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/73*.html"
+   }
+  },
+  {
+   "id": "c086",
+   "tipus": "curiositat",
+   "titol": "Un banquet amb pètals de rosa",
+   "text": "Segons l'Història Augusta (font poc fiable), Elagàbal va fer caure tants pètals de roses sobre els convidats que alguns van quedar ofegats.",
+   "imatge": {
+    "fitxer": "Palatine_Hill_from_across_the_Circus_Maximus_April_2019.jpg",
+    "descripcio": "Wikimedia Commons: Palatine Hill from across the Circus Maximus April 2019",
+    "credit": "Lil Herodotus",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "palati",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "heliogàbal"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Història Augusta, Elagàbal 21",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Elagabalus/1*.html"
+   }
+  },
+  {
+   "id": "c087",
+   "tipus": "curiositat",
+   "titol": "El formigó romà es cura sol",
+   "text": "Estudis recents (2023) indiquen que grumolls de calç dins el formigó romà es dissolien amb l'aigua i segellaven les esquerdes.",
+   "imatge": {
+    "fitxer": "Caesarea_Concrete_Bath.jpg",
+    "descripcio": "Wikimedia Commons: Caesarea Concrete Bath",
+    "credit": "James Cocks www.jamescocks.com",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "pantheon",
+   "periode": "imperi",
+   "etiquetes": [
+    "formigo",
+    "enginyeria"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman concrete",
+    "url": "https://en.wikipedia.org/wiki/Roman_concrete"
+   }
+  },
+  {
+   "id": "c088",
+   "tipus": "curiositat",
+   "titol": "Una grua de roda humana",
+   "text": "Les grues romanes, com la de la tomba dels Haterii, funcionaven amb una gran roda interior que feien girar persones caminant dins seu.",
+   "imatge": {
+    "fitxer": "Relief from the Mausoleum of the Haterii, Gregoriano Profano Museum, Vatican Museums.jpg",
+    "descripcio": "Relleu del mausoleu dels Haterii amb una grua de roda (Museus Vaticans)",
+    "credit": "Wilfredor",
+    "llicencia": "CC0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "enginyeria",
+    "construccio"
+   ],
+   "font": {
+    "titol": "Wikipedia: Treadwheel crane",
+    "url": "https://en.wikipedia.org/wiki/Treadwheel_crane"
+   }
+  },
+  {
+   "id": "c089",
+   "tipus": "curiositat",
+   "titol": "Els agrimensors tenien «niveladors»",
+   "text": "Per traçar carreteres, aqüeductes i ciutats, els agrimensors romans feien servir la groma, per alinear, i el corobates, un banc amb aigua per mesurar desnivells.",
+   "imatge": {
+    "fitxer": "Aquinqum_BHM_IMG_0663_land_surveyor_equipment.jpg",
+    "descripcio": "Wikimedia Commons: Aquinqum BHM IMG 0663 land surveyor equipment",
+    "credit": "Bjoertvedt",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "enginyeria",
+    "agrimensura"
+   ],
+   "font": {
+    "titol": "Wikipedia: Groma (surveying)",
+    "url": "https://en.wikipedia.org/wiki/Groma_(surveying)"
+   }
+  },
+  {
+   "id": "c090",
+   "tipus": "curiositat",
+   "titol": "Marbres antics, convertits en calç",
+   "text": "El 1426 un permís papal va autoritzar a destruir restes del Fòrum per cremar-les i fer calç, repartint la pedra amb l'erari papal.",
+   "imatge": {
+    "fitxer": "Giovanni_Battista_Piranesi,_Forum_Romanum,_eller_Campo_Vaccino,_Antoninus'_og_Faustina's_tempel_til_venstre,_templet_for_Castor_og_Pollux_til_højre_og_Colosseum_i_det_fjerne,_1772,_KKSgb9860-100,_Statens_Museum_for_Kunst.jpg",
+    "descripcio": "Wikimedia Commons: Giovanni Battista Piranesi, Forum Romanum, eller Campo Vaccino, Antoninus' og Faustina's tempel til venstre,…",
+    "credit": "Giovanni Battista Piranesi",
+    "llicencia": "Public domain"
+   },
+   "lloc": "forum-roma",
+   "periode": "posterior",
+   "etiquetes": [
+    "edat-mitjana",
+    "reaprofitament",
+    "renaixement"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman Forum",
+    "url": "https://en.wikipedia.org/wiki/Roman_Forum"
+   }
+  },
+  {
+   "id": "c091",
+   "tipus": "curiositat",
+   "titol": "Rafael, inspector del marbre antic",
+   "text": "El 1515 el papa Lleó X va nomenar Rafael responsable de les antiguitats de Roma, perquè en controlés l'ús dels marbres i les copiés.",
+   "imatge": {
+    "fitxer": "Raphael_-_Cardinal_and_Theological_Virtues.jpg",
+    "descripcio": "Wikimedia Commons: Raphael - Cardinal and Theological Virtues",
+    "credit": "Raphael",
+    "llicencia": "Public domain"
+   },
+   "lloc": null,
+   "periode": "posterior",
+   "etiquetes": [
+    "renaixement",
+    "reaprofitament"
+   ],
+   "font": {
+    "titol": "Wikipedia: Raphael",
+    "url": "https://en.wikipedia.org/wiki/Raphael"
+   }
+  },
+  {
+   "id": "c092",
+   "tipus": "mite-o-realitat",
+   "titol": "El polze avall: «mata'l»",
+   "text": "Als gladiadors vençuts se'ls perdonava amb el polze amunt i se'ls matava amb el polze avall.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Les fonts antigues parlen de «pollice verso» (polze girat) sense precisar. El gest de polze avall es va popularitzar amb una pintura de Gérôme (1872) i el cinema."
+   },
+   "imatge": {
+    "fitxer": "Roman_gladiator_helmet_from_Herculaneum_Iron_1st_century_CE.jpg",
+    "descripcio": "Wikimedia Commons: Roman gladiator helmet from Herculaneum Iron 1st century CE",
+    "credit": "Mary Harrsch",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "gladiadors",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Thumb signal",
+    "url": "https://en.wikipedia.org/wiki/Thumb_signal"
+   }
+  },
+  {
+   "id": "c093",
+   "tipus": "mite-o-realitat",
+   "titol": "Neró tocava la lira mentre Roma cremava",
+   "text": "L'emperador Neró va tocar la lira, cantant, mentre mirava com Roma cremava el 64 dC.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Tàcit diu que era a Àntium quan va començar l'incendi, i només recull un rumor sobre el cant. El violí no existia i Neró va organitzar socors i reconstrucció."
+   },
+   "imatge": {
+    "fitxer": "Bust_of_Nero_(GL_321).jpg",
+    "descripcio": "Wikimedia Commons: Bust of Nero (GL 321)",
+    "credit": "Yair-haklai",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "domus-aurea",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "neró",
+    "mites"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Tàcit, Annals 15.39",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"
+   }
+  },
+  {
+   "id": "c094",
+   "tipus": "mite-o-realitat",
+   "titol": "Els «vomitoria» eren per vomitar",
+   "text": "Els romans tenien «vomitoria» als banquets i a l'amfiteatre per buidar-se l'estómac i seguir menjant.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Un vomitorium és una galeria d'entrada o sortida d'un amfiteatre, que «vomita» la gent a les grades. La idea del vomitori per vomitar és un malentès modern."
+   },
+   "imatge": {
+    "fitxer": "Colosseum_Interior_9_(14819287900).jpg",
+    "descripcio": "Wikimedia Commons: Colosseum Interior 9",
+    "credit": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "mites",
+    "llengua",
+    "menjar"
+   ],
+   "font": {
+    "titol": "Wikipedia: Vomitorium",
+    "url": "https://en.wikipedia.org/wiki/Vomitorium"
+   }
+  },
+  {
+   "id": "c095",
+   "tipus": "mite-o-realitat",
+   "titol": "Calígula va nomenar cònsol el seu cavall",
+   "text": "L'emperador Calígula va fer cònsol el seu cavall Incitatus.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Suetoni i Dió Cassi expliquen que va fer-lo molt luxós i que va pensar a fer-lo cònsol; no ho va fer mai. Probablement era una burla al Senat."
+   },
+   "imatge": {
+    "fitxer": "Palatine_Hill_from_Colosseum_2011_1.jpg",
+    "descripcio": "Wikimedia Commons: Palatine Hill from Colosseum 2011 1",
+    "credit": "Karelj",
+    "llicencia": "Public domain"
+   },
+   "lloc": "palati",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "calígula",
+    "mites"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Caligula",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Caligula*.html"
+   }
+  },
+  {
+   "id": "c096",
+   "tipus": "mite-o-realitat",
+   "titol": "Juli Cèsar va néixer per cesària",
+   "text": "Cèsar va néixer d'una cesària, i d'aquí el nom de l'operació.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "La seva mare, Aurèlia, va viure molts anys després del part, i les cesàries llavors solien ser mortals. El nom de l'operació probablement ve de «caedere» (tallar)."
+   },
+   "imatge": {
+    "fitxer": "A_baby_being_removed_from_its_dying_mother's_womb_via_Caesar_Wellcome_V0014915.jpg",
+    "descripcio": "Wikimedia Commons: A baby being removed from its dying mother's womb via Caesar Wellcome V0014915",
+    "credit": "Wellcome Collection",
+    "llicencia": "CC BY 4.0"
+   },
+   "lloc": "forum-cesar",
+   "periode": "republica",
+   "etiquetes": [
+    "cesar",
+    "medicina",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Caesarean section",
+    "url": "https://en.wikipedia.org/wiki/Caesarean_section"
+   }
+  },
+  {
+   "id": "c097",
+   "tipus": "mite-o-realitat",
+   "titol": "Els cristians morien a milers al Colosseu",
+   "text": "El Colosseu és el lloc on milers de cristians van ser llançats als lleons.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Cap font antiga no ho confirma. Els cristians perseguits per Neró (Tàcit) van morir als jardins imperials, abans que existís el Colosseu."
+   },
+   "imatge": {
+    "fitxer": "0_Colosseum_-_Rome_111001_(2).JPG",
+    "descripcio": "Wikimedia Commons: 0 Colosseum - Rome 111001 (2)",
+    "credit": "Jean-Pol GRANDMONT",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "cristians",
+    "mites",
+    "colosseu"
+   ],
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "c098",
+   "tipus": "mite-o-realitat",
+   "titol": "Els soldats cobraven en sal",
+   "text": "Per això l'actual «salari» ve de «sal»: els soldats romans cobraven el sou en sal.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Els soldats cobraven en moneda. «Salarium» probablement es relaciona amb la sal (Plini el Vell ho diu), però no és segur que fos un pagament en sal."
+   },
+   "imatge": {
+    "fitxer": "Roman_Coin,_Denarius_of_Trajan_(FindID_470519).jpg",
+    "descripcio": "Wikimedia Commons: Roman Coin, Denarius of Trajan",
+    "credit": "Derby Museums Trust, Charlotte Burrill, 2011-11-07 11:59:36",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "forum-roma",
+   "periode": "imperi",
+   "etiquetes": [
+    "exercit",
+    "llengua",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Salary",
+    "url": "https://en.wikipedia.org/wiki/Salary"
+   }
+  },
+  {
+   "id": "c099",
+   "tipus": "mite-o-realitat",
+   "titol": "«Ave, Cèsar, els qui moriran et saluden»",
+   "text": "Els gladiadors saludaven així l'emperador abans de cada combat.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Només ho documenta Suetoni, una vegada: criminals condemnats a una batalla naval simulada, davant de Claudi (52 dC). No era un ritual estàndard."
+   },
+   "imatge": {
+    "fitxer": "Gladiator_helmet_found_in_Pompeii_and_richly_decorated_with_scenes_of_Greek_mythology,_Gladiators_–_Death_and_Triumph_at_the_Colosseum_exhibition,_Museum_und_Park_Kalkriese_(9618142634).jpg",
+    "descripcio": "Wikimedia Commons: Gladiator helmet found in Pompeii and richly decorated with scenes of Greek mythology, Gladiators – Death and…",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "gladiadors",
+    "mites",
+    "llengua"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Claudius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Claudius*.html"
+   }
+  },
+  {
+   "id": "c100",
+   "tipus": "mite-o-realitat",
+   "titol": "Els gladiadors lluitaven sempre a mort",
+   "text": "Cada combat de gladiadors acabava amb la mort d'un dels dos lluitadors.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Els gladiadors eren una inversió cara. Molts combats acabaven amb una rendició, i un àrbitre vigilava amb una vara el compliment de les normes."
+   },
+   "imatge": {
+    "fitxer": "Roman_myrmillones_gladiator_helmet_with_relief_depicting_scenes_from_the_Trojan_War_from_Herculaneum_1st_century_CE_Bronze_01.jpg",
+    "descripcio": "Wikimedia Commons: Roman myrmillones gladiator helmet with relief depicting scenes from the Trojan War from Herculaneum 1st…",
+    "credit": "Mary Harrsch",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "gladiadors",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator"
+   }
+  },
+  {
+   "id": "c101",
+   "tipus": "mite-o-realitat",
+   "titol": "Els romans menjaven tomàquets i xocolata",
+   "text": "La cuina romana era a base de tomàquet, patata i xocolata, com la d'avui.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Aquests productes són d'Amèrica i van arribar a Europa després del 1492. Els romans menjaven llegums, farinetes, pa, formatge, peix i garum."
+   },
+   "imatge": {
+    "fitxer": "Caccabus_(cooking_pot)_on_a_tripod_(51357506668).jpg",
+    "descripcio": "Wikimedia Commons: Caccabus (cooking pot) on a tripod",
+    "credit": "Tyler Bell",
+    "llicencia": "CC BY 2.0"
+   },
+   "lloc": "ostia-antica",
+   "periode": "imperi",
+   "etiquetes": [
+    "menjar",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Columbian exchange",
+    "url": "https://en.wikipedia.org/wiki/Columbian_exchange"
+   }
+  },
+  {
+   "id": "c102",
+   "tipus": "mite-o-realitat",
+   "titol": "El plom de les canonades va enfonsar Roma",
+   "text": "La intoxicació per plom de l'aigua va fer decaure l'Imperi romà.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "És una hipòtesi discutida: el plom era present a canonades, ollas i vi, però l'abast real de la intoxicació és incert i la caiguda va tenir moltes causes."
+   },
+   "imatge": {
+    "fitxer": "2s5v6n-_Fistula,_segmento_di_condotto_idrico,_da_Tusculum,_125-150_d.C._-FG01.jpg",
+    "descripcio": "Wikimedia Commons: 2s5v6n- Fistula, segmento di condotto idrico, da Tusculum, 125-150 d.C. -FG01",
+    "credit": "Fabrizio Garrisi",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "aigua",
+    "mites",
+    "enginyeria"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman lead poisoning theory",
+    "url": "https://en.wikipedia.org/wiki/Roman_lead_poisoning_theory"
+   }
+  },
+  {
+   "id": "c103",
+   "tipus": "mite-o-realitat",
+   "titol": "El Colosseu s'inundava per a batalles navals",
+   "text": "Al Colosseu es feien batalles navals habituals, inundant l'arena d'aigua.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Dió Cassi diu que a la inauguració (80 dC) es va inundar, però no hi ha restes físiques que ho confirmin, i l'hipogeu es va construir aviat: no era un espectacle habitual."
+   },
+   "imatge": {
+    "fitxer": "Colosseum_Ses_Titus_80AD.JPG",
+    "descripcio": "Wikimedia Commons: Colosseum Ses Titus 80AD",
+    "credit": "Rc 13",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "gladiadors",
+    "colosseu",
+    "mites"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Dió Cassi, Història romana, llibre 66",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/66*.html"
+   }
+  },
+  {
+   "id": "c104",
+   "tipus": "mite-o-realitat",
+   "titol": "Les dones romanes no tenien cap dret",
+   "text": "A Roma, les dones no podien tenir res propi ni decidir cap cosa.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "No votaven ni tenien càrrecs, però podien tenir propietats, heretar, divorciar-se i fer negocis. Els drets variaven segons l'època i la classe social."
+   },
+   "imatge": {
+    "fitxer": "Fresco_depicting_a_seated_woman,_from_the_Villa_Arianna_at_Stabiae,_Naples_National_Archaeological_Museum_(17393152265).jpg",
+    "descripcio": "Wikimedia Commons: Fresco depicting a seated woman, from the Villa Arianna at Stabiae, Naples National Archaeological Museum",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "dones",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Women in ancient Rome",
+    "url": "https://en.wikipedia.org/wiki/Women_in_ancient_Rome"
+   }
+  },
+  {
+   "id": "c105",
+   "tipus": "mite-o-realitat",
+   "titol": "Una vestal infidel s'enterrava viva",
+   "text": "Les vestals que trencaven el vot de castedat eren enterrades vives.",
+   "mite": {
+    "veritat": true,
+    "explicacio": "Era el càstig tradicional: es tancava en una cambra subterrània, al Campus Sceleratus, amb una mica de menjar. Les fonts n'esmenten pocs casos."
+   },
+   "imatge": {
+    "fitxer": "RomaCasaVestaliDaPalatinoOvest.JPG",
+    "descripcio": "Wikimedia Commons: RomaCasaVestaliDaPalatinoOvest",
+    "credit": "No machine-readable author provided. MM assumed (based on copyright claims).",
+    "llicencia": "Public domain"
+   },
+   "lloc": "casa-vestals",
+   "periode": "republica",
+   "etiquetes": [
+    "religio",
+    "dones",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Vestal Virgin",
+    "url": "https://en.wikipedia.org/wiki/Vestal_Virgin"
+   }
+  },
+  {
+   "id": "c106",
+   "tipus": "mite-o-realitat",
+   "titol": "«Tots els camins duen a Roma»",
+   "text": "Els romans ja deien que tots els camins duien a Roma.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "El refrany és medieval (Alan de Lilla, s. XII). Sí que hi havia un Milliarium Aureum al Fòrum, columna de referència de distàncies."
+   },
+   "imatge": {
+    "fitxer": "Appian_Way.jpg",
+    "descripcio": "Wikimedia Commons: Appian Way",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-roma",
+   "periode": "imperi",
+   "etiquetes": [
+    "carreteres",
+    "llengua",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: All roads lead to Rome",
+    "url": "https://en.wikipedia.org/wiki/All_roads_lead_to_Rome"
+   }
+  },
+  {
+   "id": "c107",
+   "tipus": "mite-o-realitat",
+   "titol": "Roma va néixer el 21 d'abril, 753 aC?",
+   "text": "Ròmul va fundar Roma el 21 d'abril del 753 aC.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "La data la va fixar l'erudit Varró molt després. Ròmul és una figura llegendària; l'arqueologia mostra poblats al Palatí al s. VIII aC."
+   },
+   "imatge": {
+    "fitxer": "Palatineterracing.jpg",
+    "descripcio": "Wikimedia Commons: Palatineterracing",
+    "credit": "Autoria indicada a la pàgina del fitxer a Wikimedia Commons",
+    "llicencia": "CC BY 2.0"
+   },
+   "lloc": "palati",
+   "periode": "monarquia",
+   "etiquetes": [
+    "fundacio",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Founding of Rome",
+    "url": "https://en.wikipedia.org/wiki/Founding_of_Rome"
+   }
+  },
+  {
+   "id": "c108",
+   "tipus": "mite-o-realitat",
+   "titol": "Tots els gladiadors eren esclaus",
+   "text": "Els gladiadors eren esclaus o presoners forçats a lluitar.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Molts ho eren, però també hi havia homes lliures, els «auctorati», que es venien voluntàriament per diners i fama."
+   },
+   "imatge": {
+    "fitxer": "Ornate_pair_of_gladiator_shin_guards_depicting_a_procession_of_Bacchus_from_the_gladiator_barracks_in_Pompeii_01.jpg",
+    "descripcio": "Wikimedia Commons: Ornate pair of gladiator shin guards depicting a procession of Bacchus from the gladiator barracks in Pompeii…",
+    "credit": "Mary Harrsch",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "ludus-magnus",
+   "periode": "imperi",
+   "etiquetes": [
+    "gladiadors",
+    "esclaus",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator"
+   }
+  },
+  {
+   "id": "c109",
+   "tipus": "mite-o-realitat",
+   "titol": "També hi havia dones gladiadores",
+   "text": "Les dones també van combatre a l'arena romana.",
+   "mite": {
+    "veritat": true,
+    "explicacio": "Hi ha un relleu de Halicarnàs al Museu Britànic i una referència de Dió Cassi a un decret de Septimi Sever (c. 200 dC) que les va prohibir."
+   },
+   "imatge": {
+    "fitxer": "Roman_gladiator_helmet_found_in_the_gladiator_barracks_in_Pompeii_1st_century_CE.jpg",
+    "descripcio": "Wikimedia Commons: Roman gladiator helmet found in the gladiator barracks in Pompeii 1st century CE",
+    "credit": "Mary Harrsch",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "gladiadors",
+    "dones",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Gladiatrix",
+    "url": "https://en.wikipedia.org/wiki/Gladiatrix"
+   }
+  },
+  {
+   "id": "c110",
+   "tipus": "mite-o-realitat",
+   "titol": "Les estàtues romanes eren blanques",
+   "text": "Les estàtues i temples romans eren de marbre blanc nu, tal com els veiem avui.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Estaven pintats amb colors vius. El marbre blanc actual és el resultat d'haver perdut la pintura amb els segles."
+   },
+   "imatge": {
+    "fitxer": "Oxford. Ashmolean Museum. Gods in Colour. Augustus of Prima Porta 1.jpg",
+    "descripcio": "Rèplica pintada de l'August de Prima Porta (exposició «Gods in Colour», Ashmolean Museum)",
+    "credit": "Enrique Íñiguez Rodríguez (Qoan)",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "musei-vaticans",
+   "periode": "imperi",
+   "etiquetes": [
+    "escultura",
+    "art",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Polychromy",
+    "url": "https://en.wikipedia.org/wiki/Polychromy"
+   }
+  },
+  {
+   "id": "c111",
+   "tipus": "mite-o-realitat",
+   "titol": "L'imperi romà era hereditari",
+   "text": "Els emperadors romans s'heretaven de pares a fills.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Molts es feien emperadors per adopció, com Trajà, Hadrià, Antoní Pius i Marc Aureli. Còmmode, fill de Marc Aureli, va ser dels pocs hereus naturals."
+   },
+   "imatge": {
+    "fitxer": "Bust_of_Emperor_Nerva_in_lorica_military_cloak_and_paludamentum,_Greek_marble,_96_-_98_AD,_Galleria_degli_Uffizi,_Florence_(19243236348).jpg",
+    "descripcio": "Wikimedia Commons: Bust of Emperor Nerva in lorica military cloak and paludamentum, Greek marble, 96 - 98 AD, Galleria degli…",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Five Good Emperors",
+    "url": "https://en.wikipedia.org/wiki/Five_Good_Emperors"
+   }
+  },
+  {
+   "id": "c112",
+   "tipus": "mite-o-realitat",
+   "titol": "Cleopatra va entrar enrotllada en una catifa",
+   "text": "Cleopatra va arribar a Cèsar dins una catifa.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Plutarc diu que va entrar en un sac de roba de llit (stromatódesmon). La imatge de la catifa és un afegit posterior."
+   },
+   "imatge": {
+    "fitxer": "Bust_of_Cleopatra_VII_-_Altes_Museum_-_Berlin_-_Germany_2017_(3).jpg",
+    "descripcio": "Wikimedia Commons: Bust of Cleopatra VII - Altes Museum - Berlin - Germany 2017 (3)",
+    "credit": "José Luiz",
+    "llicencia": "Public domain"
+   },
+   "lloc": null,
+   "periode": "republica",
+   "etiquetes": [
+    "cesar",
+    "egipte",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Cleopatra",
+    "url": "https://en.wikipedia.org/wiki/Cleopatra"
+   }
+  },
+  {
+   "id": "c113",
+   "tipus": "mite-o-realitat",
+   "titol": "Neró va calar foc a Roma",
+   "text": "Neró va incendiar Roma el 64 dC perquè volia reconstruir-la a la seva manera.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Tàcit diu que no es pot saber si va ser accident o malícia, i que cada versió té partidaris. Neró era a Àntium quan va començar."
+   },
+   "imatge": {
+    "fitxer": "Domus_Aurea_Oppio_-_ricostruzione_ipotetica.png",
+    "descripcio": "Wikimedia Commons: Domus Aurea Oppio - ricostruzione ipotetica",
+    "credit": "Cristiano64",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "domus-aurea",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "neró",
+    "mites"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Tàcit, Annals 15.38",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/15B*.html"
+   }
+  },
+  {
+   "id": "c114",
+   "tipus": "mite-o-realitat",
+   "titol": "La cúpula més gran del món, al Panteó",
+   "text": "La cúpula del Panteó va ser la més gran del món durant més de mil tres-cents anys.",
+   "mite": {
+    "veritat": true,
+    "explicacio": "Amb 43,3 m de diàmetre va ser la cúpula més gran fins al 1436, quan Brunelleschi va acabar la de Santa Maria del Fiore. Segueix sent la de formigó sense armadura més gran."
+   },
+   "imatge": {
+    "fitxer": "Pantheon_Dome_1_(14646988687).jpg",
+    "descripcio": "Wikimedia Commons: Pantheon Dome 1",
+    "credit": "daryl_mitchell from Saskatoon, Saskatchewan, Canada",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "pantheon",
+   "periode": "imperi",
+   "etiquetes": [
+    "enginyeria",
+    "panteo",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "c115",
+   "tipus": "mite-o-realitat",
+   "titol": "Juli Cèsar va ser el primer emperador",
+   "text": "Juli Cèsar va ser el primer emperador de Roma.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Cèsar va ser dictador perpetu, mai emperador. El primer emperador va ser el seu hereu August, a partir del 27 aC."
+   },
+   "imatge": {
+    "fitxer": "Bust_of_Julius_Caesar.jpg",
+    "descripcio": "Wikimedia Commons: Bust of Julius Caesar",
+    "credit": "Wilfredor",
+    "llicencia": "CC0"
+   },
+   "lloc": "forum-cesar",
+   "periode": "republica",
+   "etiquetes": [
+    "cesar",
+    "emperadors",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus"
+   }
+  },
+  {
+   "id": "c116",
+   "tipus": "mite-o-realitat",
+   "titol": "Neró va fer matar la pròpia mare",
+   "text": "Neró va ordenar assassinar la seva mare, Agripina.",
+   "mite": {
+    "veritat": true,
+    "explicacio": "Segons Tàcit, el 59 dC va intentar fer-la morir en un vaixell trucat i, en fracassar, hi va enviar assassins. Però és el relat de fonts hostils."
+   },
+   "imatge": {
+    "fitxer": "Bust_of_Nero.JPG",
+    "descripcio": "Wikimedia Commons: Bust of Nero",
+    "credit": "Christoph Wagener",
+    "llicencia": "CC BY 3.0"
+   },
+   "lloc": "domus-aurea",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "neró",
+    "mites"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Tàcit, Annals 14.3-8",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Tacitus/Annals/14A*.html"
+   }
+  },
+  {
+   "id": "c117",
+   "tipus": "mite-o-realitat",
+   "titol": "Els Mercats de Trajà, el primer centre comercial",
+   "text": "Els Mercats de Trajà eren el primer «centre comercial» de la història.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "El nom és un reclam turístic. Molts experts creuen que eren oficines administratives de Trajà, amb botigues i pisos."
+   },
+   "imatge": {
+    "fitxer": "Mercati_di_Traiano_-_Roma.jpg",
+    "descripcio": "Wikimedia Commons: Mercati di Traiano - Roma",
+    "credit": "NikonZ7II",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "mercats-traja",
+   "periode": "imperi",
+   "etiquetes": [
+    "trajà",
+    "urbanisme",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Trajan%27s Market",
+    "url": "https://en.wikipedia.org/wiki/Trajan%27s_Market"
+   }
+  },
+  {
+   "id": "c118",
+   "tipus": "mite-o-realitat",
+   "titol": "La Lupa Capitolina és etrusca",
+   "text": "La Lupa Capitolina és una escultura etrusca del s. V aC.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Estudis recents la daten a l'edat mitjana. Els bessons, Ròmul i Rem, són del Renaixement, afegits al segle XV."
+   },
+   "imatge": {
+    "fitxer": "Capitoline_she-wolf_Musei_Capitolini_MC1181.jpg",
+    "descripcio": "Wikimedia Commons: Capitoline she-wolf Musei Capitolini MC1181",
+    "credit": "Unknown artist",
+    "llicencia": "Public domain"
+   },
+   "lloc": "musei-capitolins",
+   "periode": "posterior",
+   "etiquetes": [
+    "museus",
+    "mites",
+    "escultura"
+   ],
+   "font": {
+    "titol": "Wikipedia: Capitoline Wolf",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Wolf"
+   }
+  },
+  {
+   "id": "c119",
+   "tipus": "mite-o-realitat",
+   "titol": "El bronze del Panteó, al baldaquí?",
+   "text": "El papa Urbà VIII va fondre els bronzes del Panteó per fer el baldaquí de Sant Pere.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "Segons els comptes papals, un 90% del bronze va anar a canons del Castel Sant'Angelo; el del baldaquí de Bernini venia de Venècia."
+   },
+   "imatge": {
+    "fitxer": "Giovanni_Paolo_Panini_-_Interior_of_the_Pantheon,_Rome_-_Google_Art_Project.jpg",
+    "descripcio": "Wikimedia Commons: Giovanni Paolo Panini - Interior of the Pantheon, Rome - Google Art Project",
+    "credit": "Giovanni Paolo Panini",
+    "llicencia": "Public domain"
+   },
+   "lloc": "pantheon",
+   "periode": "posterior",
+   "etiquetes": [
+    "reaprofitament",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "c120",
+   "tipus": "mite-o-realitat",
+   "titol": "El 476 Roma va caure de cop",
+   "text": "L'Imperi romà va caure l'any 476, d'un dia per l'altre.",
+   "mite": {
+    "veritat": false,
+    "explicacio": "El 476 Odoacre va deposar Ròmul Augústul, l'últim emperador d'Occident, però l'Imperi romà d'Orient va continuar durant segles. La «caiguda» va ser un procés."
+   },
+   "imatge": {
+    "fitxer": "Europe_and_the_Near_East_at_476_AD.png",
+    "descripcio": "Wikimedia Commons: Europe and the Near East at 476 AD",
+    "credit": "Guriezous",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "imperi",
+    "mites"
+   ],
+   "font": {
+    "titol": "Wikipedia: Fall of the Western Roman Empire",
+    "url": "https://en.wikipedia.org/wiki/Fall_of_the_Western_Roman_Empire"
+   }
+  },
+  {
+   "id": "c121",
+   "tipus": "xifra",
+   "titol": "Espectadors a les grades",
+   "text": "El Colosseu podia acollir uns 50.000 espectadors, segons les estimacions modernes, repartits per 80 entrades.",
+   "xifra": "50.000",
+   "imatge": {
+    "fitxer": "Rom_Colosseum_Sept_2021_3.jpg",
+    "descripcio": "Wikimedia Commons: Rom Colosseum Sept 2021 3",
+    "credit": "Kasa Fue",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "colosseu",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "c122",
+   "tipus": "xifra",
+   "titol": "Animals morts en l'estrena",
+   "text": "Dió Cassi explica que a la inauguració del Colosseu, el 80 dC, van morir uns 9.000 animals en cent dies de jocs.",
+   "xifra": "9.000",
+   "imatge": {
+    "fitxer": "Maarten_van_Heemskerck_-_Rome,_the_Colosseum.jpg",
+    "descripcio": "Wikimedia Commons: Maarten van Heemskerck - Rome, the Colosseum",
+    "credit": "Maarten van Heemskerck",
+    "llicencia": "Public domain"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "colosseu",
+    "gladiadors",
+    "xifres"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Dió Cassi, Història romana, llibre 66",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/66*.html"
+   }
+  },
+  {
+   "id": "c123",
+   "tipus": "xifra",
+   "titol": "Dies de jocs per un triomf",
+   "text": "Per celebrar la victòria sobre els dacis, Trajà va oferir 123 dies de jocs, amb uns 10.000 gladiadors, segons Dió Cassi.",
+   "xifra": "123",
+   "imatge": {
+    "fitxer": "Rome,_a_capriccio_view_of_the_Colosseum,_Trajan's_Column,_the_statue_of_Marcus_Aurelius,_and_the_Arch_of_Constantine).jpg",
+    "descripcio": "Wikimedia Commons: Rome, a capriccio view of the Colosseum, Trajan's Column, the statue of Marcus Aurelius, and the Arch of…",
+    "credit": "Giovanni Paolo Panini",
+    "llicencia": "Public domain"
+   },
+   "lloc": "forum-traja",
+   "periode": "imperi",
+   "etiquetes": [
+    "trajà",
+    "gladiadors",
+    "xifres"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Dió Cassi, Història romana, llibre 68",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/68*.html"
+   }
+  },
+  {
+   "id": "c124",
+   "tipus": "xifra",
+   "titol": "Sestercis guanyats per un auriga",
+   "text": "L'auriga Gai Apuleu Diocles va guanyar 35.863.120 sestercis en 24 anys de carrera, segons la seva inscripció funerària.",
+   "xifra": "35.863.120",
+   "imatge": {
+    "fitxer": "Circus_Maximus_today.jpg",
+    "descripcio": "Wikimedia Commons: Circus Maximus today",
+    "credit": "Pieter van Eekeren",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "circ-maxim",
+   "periode": "imperi",
+   "etiquetes": [
+    "curses",
+    "quadrigues",
+    "diners"
+   ],
+   "font": {
+    "titol": "Wikipedia: Gaius Appuleius Diocles",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Appuleius_Diocles"
+   }
+  },
+  {
+   "id": "c125",
+   "tipus": "xifra",
+   "titol": "Victòries d'un campió del circ",
+   "text": "Diocles va guanyar 1.462 de les 4.257 curses en què va participar. Una inscripció ho va deixar escrit per sempre.",
+   "xifra": "1.462",
+   "imatge": {
+    "fitxer": "Sestertius_Trajan_Circus_Maximus_AD103.jpg",
+    "descripcio": "Wikimedia Commons: Sestertius Trajan Circus Maximus AD103",
+    "credit": "Rc 13",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "circ-maxim",
+   "periode": "imperi",
+   "etiquetes": [
+    "curses",
+    "quadrigues",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Gaius Appuleius Diocles",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Appuleius_Diocles"
+   }
+  },
+  {
+   "id": "c126",
+   "tipus": "xifra",
+   "titol": "Diàmetre de la cúpula del Panteó",
+   "text": "El diàmetre interior de la cúpula del Panteó és de 43,3 metres, igual que l'alçada fins a l'òcul: dins hi cap una esfera perfecta.",
+   "xifra": "43,3 m",
+   "imatge": {
+    "fitxer": "Jakob_Alt_-_Das_Pantheon_und_die_Piazza_della_Rotonda_in_Rom_-_1836.jpg",
+    "descripcio": "Wikimedia Commons: Jakob Alt - Das Pantheon und die Piazza della Rotonda in Rom - 1836",
+    "credit": "Jakob Alt",
+    "llicencia": "Public domain"
+   },
+   "lloc": "pantheon",
+   "periode": "imperi",
+   "etiquetes": [
+    "panteo",
+    "enginyeria",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "c127",
+   "tipus": "xifra",
+   "titol": "Àmfores trencades al Testaccio",
+   "text": "El Monte Testaccio, l'abocador d'àmfores d'oli de Roma, conté restes d'uns 53 milions d'àmfores, segons estimacions.",
+   "xifra": "53 milions",
+   "imatge": {
+    "fitxer": "Testaccio_monte_dei_cocci_a_via_Galvani_051204-02.JPG",
+    "descripcio": "Wikimedia Commons: Testaccio monte dei cocci a via Galvani 051204-02",
+    "credit": "No machine-readable author provided. Lalupa assumed (based on copyright claims).",
+    "llicencia": "Public domain"
+   },
+   "lloc": "monte-testaccio",
+   "periode": "imperi",
+   "etiquetes": [
+    "comerç",
+    "menjar",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Monte Testaccio",
+    "url": "https://en.wikipedia.org/wiki/Monte_Testaccio"
+   }
+  },
+  {
+   "id": "c128",
+   "tipus": "xifra",
+   "titol": "Quilòmetres de muralla aureliana",
+   "text": "La muralla que Aurelià va començar el 271 dC fa uns 19 quilòmetres, i gran part encara es conserva dreta.",
+   "xifra": "19 km",
+   "imatge": {
+    "fitxer": "Aurelian_wall_near_Pyramid_of_Caius_Cestius.jpg",
+    "descripcio": "Wikimedia Commons: Aurelian wall near Pyramid of Caius Cestius",
+    "credit": "Wknight94",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "mur-aurelia",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "muralles",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Aurelian Walls",
+    "url": "https://en.wikipedia.org/wiki/Aurelian_Walls"
+   }
+  },
+  {
+   "id": "c129",
+   "tipus": "xifra",
+   "titol": "Dies per aixecar la piràmide",
+   "text": "Segons la seva inscripció, la piràmide de Cesti es va construir en 330 dies. Fa uns 36 metres d'alçada.",
+   "xifra": "330",
+   "imatge": {
+    "fitxer": "Piramide_Cestia.jpg",
+    "descripcio": "Wikimedia Commons: Piramide Cestia",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "piramide-cestia",
+   "periode": "imperi",
+   "etiquetes": [
+    "egipte",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pyramid of Cestius",
+    "url": "https://en.wikipedia.org/wiki/Pyramid_of_Cestius"
+   }
+  },
+  {
+   "id": "c130",
+   "tipus": "xifra",
+   "titol": "Dies que va durar l'any 46 aC",
+   "text": "Perquè el calendari tornés a quadrar, Cèsar va allargar l'any 46 aC a 445 dies: l'«any de la confusió».",
+   "xifra": "445",
+   "imatge": {
+    "fitxer": "Retrato_de_Julio_César_(26724093101)_(cropped).jpg",
+    "descripcio": "Wikimedia Commons: Retrato de Julio César (cropped)",
+    "credit": "Ángel M. Felicísimo from Mérida, España",
+    "llicencia": "Public domain"
+   },
+   "lloc": "forum-cesar",
+   "periode": "republica",
+   "etiquetes": [
+    "cesar",
+    "calendari",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Julian calendar",
+    "url": "https://en.wikipedia.org/wiki/Julian_calendar"
+   }
+  },
+  {
+   "id": "c131",
+   "tipus": "xifra",
+   "titol": "Aqüeductes de la Roma de l'any 97",
+   "text": "Frontí, curador de les aigües, descriu nou aqüeductes de Roma al tombant del s. I dC, amb la seva història, mida i cabal.",
+   "xifra": "9",
+   "imatge": {
+    "fitxer": "RomaAcquedottoTraCelioePalatino.JPG",
+    "descripcio": "Wikimedia Commons: RomaAcquedottoTraCelioePalatino",
+    "credit": "Autoria indicada a la pàgina del fitxer a Wikimedia Commons",
+    "llicencia": "Public domain"
+   },
+   "lloc": "parc-aqueductes",
+   "periode": "imperi",
+   "etiquetes": [
+    "aqueductes",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Sextus Julius Frontinus",
+    "url": "https://en.wikipedia.org/wiki/Sextus_Julius_Frontinus"
+   }
+  },
+  {
+   "id": "c132",
+   "tipus": "xifra",
+   "titol": "Quilòmetres de vies pavimentades",
+   "text": "La xarxa viària romana superava els 400.000 km, dels quals uns 80.000 eren pavimentats amb pedra.",
+   "xifra": "80.000",
+   "imatge": {
+    "fitxer": "Carved_steps_along_Ancient_Roman_Road.jpg",
+    "descripcio": "Wikimedia Commons: Carved steps along Ancient Roman Road",
+    "credit": "Davidbena",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "carreteres",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman roads",
+    "url": "https://en.wikipedia.org/wiki/Roman_roads"
+   }
+  },
+  {
+   "id": "c133",
+   "tipus": "xifra",
+   "titol": "Habitants de Roma al segle II",
+   "text": "Cap al segle II dC, Roma devia tenir un milió d'habitants, segons les estimacions. ",
+   "xifra": "1 milió",
+   "imatge": {
+    "fitxer": "Rome_skyline_panorama.jpg",
+    "descripcio": "Wikimedia Commons: Rome skyline panorama",
+    "credit": "Nicholas Hartmann",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "urbanisme",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Rome#Ancient Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome#Ancient_Rome"
+   }
+  },
+  {
+   "id": "c134",
+   "tipus": "xifra",
+   "titol": "Ciutadans censats el 28 aC",
+   "text": "August explica a les Res Gestae que, en el cens del 28 aC, es van inscriure 4.063.000 ciutadans romans.",
+   "xifra": "4.063.000",
+   "imatge": {
+    "fitxer": "Monumentum Ancyranum Res Gestae Divi Augusti Part 1.jpg",
+    "descripcio": "Inscripció del Monumentum Ancyranum amb les Res Gestae d'August",
+    "credit": "Perrot, Guillaume i Delbet",
+    "llicencia": "CC0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "august",
+    "xifres",
+    "cens"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Res Gestae Divi Augusti (traducció), 8",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Augustus/Res_Gestae/2*.html"
+   }
+  },
+  {
+   "id": "c135",
+   "tipus": "xifra",
+   "titol": "Beneficiaris del blat gratuït",
+   "text": "Cèsar va reduir els beneficiaris del blat gratuït de 320.000 a 150.000, segons Suetoni.",
+   "xifra": "320.000",
+   "imatge": {
+    "fitxer": "Fresco_from_the_House_of_Julia_Felix,_Pompeii_depicting_scenes_from_the_Forum_market.JPG",
+    "descripcio": "Wikimedia Commons: Fresco from the House of Julia Felix, Pompeii depicting scenes from the Forum market",
+    "credit": "Wmpearl",
+    "llicencia": "Public domain"
+   },
+   "lloc": "forum-cesar",
+   "periode": "republica",
+   "etiquetes": [
+    "cesar",
+    "menjar",
+    "xifres"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Julius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html"
+   }
+  },
+  {
+   "id": "c136",
+   "tipus": "xifra",
+   "titol": "Espectadors a Piazza Navona",
+   "text": "L'estadi de Domicià, de l'any 86 dC, tenia capacitat per a uns 30.000 espectadors. La plaça Navona en conserva la forma.",
+   "xifra": "30.000",
+   "imatge": {
+    "fitxer": "Piazza_navona_-_stadio_di_Domiziano_2152-7st.JPG",
+    "descripcio": "Wikimedia Commons: Piazza navona - stadio di Domiziano 2152-7st",
+    "credit": "user:Lalupa",
+    "llicencia": "Public domain"
+   },
+   "lloc": "estadi-domicia",
+   "periode": "imperi",
+   "etiquetes": [
+    "esports",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Stadium of Domitian",
+    "url": "https://en.wikipedia.org/wiki/Stadium_of_Domitian"
+   }
+  },
+  {
+   "id": "c137",
+   "tipus": "xifra",
+   "titol": "Denaris que valia un aureu",
+   "text": "Amb August, una moneda d'or (aureus) valia 25 denaris d'argent, o 100 sestercis.",
+   "xifra": "25",
+   "imatge": {
+    "fitxer": "Gold_Aureus_of_Nero.png",
+    "descripcio": "Wikimedia Commons: Gold Aureus of Nero",
+    "credit": "American Numismatic Society",
+    "llicencia": "CC0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "diners",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Aureus",
+    "url": "https://en.wikipedia.org/wiki/Aureus"
+   }
+  },
+  {
+   "id": "c138",
+   "tipus": "xifra",
+   "titol": "Banyistes a les termes de Caracal·la",
+   "text": "Les termes de Caracal·la podien rebre uns 1.600 banyistes alhora, segons les estimacions.",
+   "xifra": "1.600",
+   "imatge": {
+    "fitxer": "10_2023_-_Terme_(Baths_of)_Caracalla,_Arte_Romana,_Viale_Guido_Baccelli,_Rome,_Roma,_Lazio,_00154,_Italy_-_Photo_Paolo_Villa_-_FO232114_correzioni_gimp_-_Domus_Arte_Romana_-_pitture_parietali.jpg",
+    "descripcio": "Wikimedia Commons: 10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy -…",
+    "credit": "Paolo Villa",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "termes-caracalla",
+   "periode": "imperi",
+   "etiquetes": [
+    "banys",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Baths of Caracalla",
+    "url": "https://en.wikipedia.org/wiki/Baths_of_Caracalla"
+   }
+  },
+  {
+   "id": "c139",
+   "tipus": "xifra",
+   "titol": "Banyistes a les termes de Dioclecià",
+   "text": "Les termes de Dioclecià, les més grans de Roma, podien acollir fins a unes 3.000 persones.",
+   "xifra": "3.000",
+   "imatge": {
+    "fitxer": "Santa_Maria_degli_Angeli_e_dei_Martiri_(5987200004).jpg",
+    "descripcio": "Wikimedia Commons: Santa Maria degli Angeli e dei Martiri",
+    "credit": "Erik Drost",
+    "llicencia": "CC BY 2.0"
+   },
+   "lloc": "termes-diocleci",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "banys",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Baths of Diocletian",
+    "url": "https://en.wikipedia.org/wiki/Baths_of_Diocletian"
+   }
+  },
+  {
+   "id": "c140",
+   "tipus": "xifra",
+   "titol": "Figures al relleu de la Columna Trajana",
+   "text": "El relleu en espiral de la Columna Trajana té més de 2.500 figures, i narra les guerres daces de Trajà.",
+   "xifra": "2.500",
+   "imatge": {
+    "fitxer": "Trajans_column_from_north.jpg",
+    "descripcio": "Wikimedia Commons: Trajans column from north",
+    "credit": "User:MatthiasKabel",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "columna-trajana",
+   "periode": "imperi",
+   "etiquetes": [
+    "trajà",
+    "exercit",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Trajan%27s Column",
+    "url": "https://en.wikipedia.org/wiki/Trajan%27s_Column"
+   }
+  },
+  {
+   "id": "c141",
+   "tipus": "xifra",
+   "titol": "Milles romanes del mur d'Hadrià",
+   "text": "Segons l'Història Augusta, el mur d'Hadrià feia 80 milles romanes, és a dir, uns 117 km, de costa a costa a Britània.",
+   "xifra": "80",
+   "imatge": {
+    "fitxer": "2015_-_Hadrian's_Wall_Trip_(17214937313).jpg",
+    "descripcio": "Wikimedia Commons: 2015 - Hadrian's Wall Trip",
+    "credit": "marsupium photography",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "adria",
+    "exercit",
+    "xifres"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Història Augusta, Hadrià 11",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Hadrian/1*.html"
+   }
+  },
+  {
+   "id": "c142",
+   "tipus": "xifra",
+   "titol": "Asos diaris d'un soldat",
+   "text": "Segons Tàcit, un cabdill del motí del 14 dC es queixava que l'«ànima i el cos» del soldat es valoraven en deu asos al dia.",
+   "xifra": "10",
+   "imatge": {
+    "fitxer": "Roman turtle formation on trajan column.jpg",
+    "descripcio": "Legionaris romans en formació de tortuga a la columna de Trajà",
+    "credit": "CristianChirita",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "exercit",
+    "diners",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Tàcit, Annals 1.17 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/tacitus/tac.ann1.shtml"
+   }
+  },
+  {
+   "id": "c143",
+   "tipus": "xifra",
+   "titol": "Sestercis per soldat pel tron",
+   "text": "Quan es va subhastar l'Imperi el 193 dC, Didi Julià va oferir 25.000 sestercis a cada pretorià, i va guanyar la subhasta.",
+   "xifra": "25.000",
+   "imatge": {
+    "fitxer": "Buste_de_Didius_Iulianus5.jpg",
+    "descripcio": "Wikimedia Commons: Buste de Didius Iulianus5",
+    "credit": "Wilfredor",
+    "llicencia": "CC0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "exercit",
+    "emperadors",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Didius Julianus",
+    "url": "https://en.wikipedia.org/wiki/Didius_Julianus"
+   }
+  },
+  {
+   "id": "c144",
+   "tipus": "xifra",
+   "titol": "Longitud de la spina del circ",
+   "text": "La spina, l'eix central del circ de Maxenci, feia 1.000 peus romans, uns 296 metres, i anava revestida de marbre.",
+   "xifra": "296 m",
+   "imatge": {
+    "fitxer": "Circus_of_Maxentius.jpg",
+    "descripcio": "Wikimedia Commons: Circus of Maxentius",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "circ-maxenci",
+   "periode": "antiguitat-tardana",
+   "etiquetes": [
+    "curses",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Circus of Maxentius",
+    "url": "https://en.wikipedia.org/wiki/Circus_of_Maxentius"
+   }
+  },
+  {
+   "id": "c145",
+   "tipus": "xifra",
+   "titol": "Voltes d'una cursa de quadrigues",
+   "text": "Una cursa del Circ Màxim tenia set voltes. Els comptadors, amb ous i dofins, indicaven a l'afició quantes en quedaven.",
+   "xifra": "7",
+   "imatge": {
+    "fitxer": "CircusMaximusNorthEast2019.jpg",
+    "descripcio": "Wikimedia Commons: CircusMaximusNorthEast2019",
+    "credit": "Mbattista22",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "circ-maxim",
+   "periode": "imperi",
+   "etiquetes": [
+    "curses",
+    "quadrigues",
+    "xifres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Circus Maximus",
+    "url": "https://en.wikipedia.org/wiki/Circus_Maximus"
+   }
+  },
+  {
+   "id": "c146",
+   "tipus": "xifra",
+   "titol": "Altura màxima d'un bloc de pisos",
+   "text": "Segons Estrabó, August va limitar l'alçada dels edificis a 70 peus (uns 20 m), perquè les cases altes s'ensorraven i cremaven.",
+   "xifra": "20 m",
+   "imatge": {
+    "fitxer": "Insula_in_Ostia.jpg",
+    "descripcio": "Wikimedia Commons: Insula in Ostia",
+    "credit": "Dennis G. Jarvis",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "urbanisme",
+    "xifres",
+    "insulae"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Estrabó, Geografia 5.3.7",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Strabo/5C*.html"
+   }
+  },
+  {
+   "id": "c147",
+   "tipus": "cita",
+   "titol": "August i el maó convertit en marbre",
+   "text": "«Va deixar de marbre una Roma que havia rebut de maons.» August, segons Suetoni, resumia així la seva obra urbanística.",
+   "cita": {
+    "autor": "Suetoni",
+    "obra": "Vida dels dotze Cèsars, August 28"
+   },
+   "imatge": {
+    "fitxer": "Tempio_di_Marte_Ultore_(Roma)_-_Laterale.jpg",
+    "descripcio": "Wikimedia Commons: Tempio di Marte Ultore (Roma) - Laterale",
+    "credit": "NikonZ7II",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-august",
+   "periode": "imperi",
+   "etiquetes": [
+    "august",
+    "urbanisme"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Augustus",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus*.html"
+   }
+  },
+  {
+   "id": "c148",
+   "tipus": "cita",
+   "titol": "Les últimes paraules d'August",
+   "text": "«¿Us ha semblat que he fet bé el paper en la comèdia de la vida?» Suetoni diu que August va morir demanant aplaudiments als amics.",
+   "cita": {
+    "autor": "Suetoni",
+    "obra": "Vida dels dotze Cèsars, August 99"
+   },
+   "imatge": {
+    "fitxer": "Photographs_of_the_Mausoleum_of_Augustus_24_(cropped).jpg",
+    "descripcio": "Wikimedia Commons: Photographs of the Mausoleum of Augustus 24 (cropped)",
+    "credit": "MumblerJamie",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "mausoleu-august",
+   "periode": "imperi",
+   "etiquetes": [
+    "august",
+    "mort"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Augustus",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus*.html"
+   }
+  },
+  {
+   "id": "c149",
+   "tipus": "cita",
+   "titol": "Titus: «he perdut un dia»",
+   "text": "«Amics, he perdut un dia.» Titus ho va dir un vespre en adonar-se que no havia fet cap favor a ningú aquell dia.",
+   "cita": {
+    "autor": "Suetoni",
+    "obra": "Vida dels dotze Cèsars, Titus 8"
+   },
+   "imatge": {
+    "fitxer": "The_Arch_of_Titus,_Upper_Via_Sacra,_Rome_(31605340150).jpg",
+    "descripcio": "Wikimedia Commons: The Arch of Titus, Upper Via Sacra, Rome",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "arc-titus",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "titus"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Titus",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Titus*.html"
+   }
+  },
+  {
+   "id": "c150",
+   "tipus": "cita",
+   "titol": "Vespasià i la moneda que feia olor",
+   "text": "Titus criticava l'impost sobre les urines. Vespasià li va posar sota el nas una moneda: «¿Et molesta l'olor?» «No.» «Doncs és de l'orina.»",
+   "cita": {
+    "autor": "Suetoni",
+    "obra": "Vida dels dotze Cèsars, Vespasià 23"
+   },
+   "imatge": {
+    "fitxer": "Roman_coin_,_Denarius_of_Vespasian_(FindID_506603).jpg",
+    "descripcio": "Wikimedia Commons: Roman coin , Denarius of Vespasian",
+    "credit": "Salisbury and South Wiltshire Museum, Katie Hinds, 2012-06-10 09:20:16",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-pau",
+   "periode": "imperi",
+   "etiquetes": [
+    "vespasià",
+    "diners"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Vespasian",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Vespasian*.html"
+   }
+  },
+  {
+   "id": "c151",
+   "tipus": "cita",
+   "titol": "Calígula i el coll únic",
+   "text": "«Tant de bo el poble romà tingués un sol coll.» Suetoni atribueix a Calígula aquest desig cruel de poder-lo tallar d'un cop.",
+   "cita": {
+    "autor": "Suetoni",
+    "obra": "Vida dels dotze Cèsars, Calígula 30"
+   },
+   "imatge": {
+    "fitxer": "Palatineterracing.jpg",
+    "descripcio": "Wikimedia Commons: Palatineterracing",
+    "credit": "Autoria indicada a la pàgina del fitxer a Wikimedia Commons",
+    "llicencia": "CC BY 2.0"
+   },
+   "lloc": "palati",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "calígula"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Caligula",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Caligula*.html"
+   }
+  },
+  {
+   "id": "c152",
+   "tipus": "cita",
+   "titol": "Cèsar passa el Rubicó",
+   "text": "«La sort està tirada», diu Suetoni que va dir Cèsar en passar el Rubicó. Plutarc diu que va citar un vers del poeta grec Menandre.",
+   "cita": {
+    "autor": "Suetoni",
+    "obra": "Vida dels dotze Cèsars, Juli Cèsar 32"
+   },
+   "imatge": {
+    "fitxer": "Bust_of_Julius_Caesar-Uffizi_Gallery.jpg",
+    "descripcio": "Wikimedia Commons: Bust of Julius Caesar-Uffizi Gallery",
+    "credit": "Yair Haklai",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-cesar",
+   "periode": "republica",
+   "etiquetes": [
+    "cesar",
+    "guerra-civil"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Julius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html"
+   }
+  },
+  {
+   "id": "c153",
+   "tipus": "cita",
+   "titol": "Neró: «quin artista mor amb mi»",
+   "text": "«Quin artista mor amb mi!» Segons Suetoni, van ser les últimes paraules de Neró abans del suïcidi, l'any 68.",
+   "cita": {
+    "autor": "Suetoni",
+    "obra": "Vida dels dotze Cèsars, Neró 49"
+   },
+   "imatge": {
+    "fitxer": "Bust_of_Nero_01_(51221213263).jpg",
+    "descripcio": "Wikimedia Commons: Bust of Nero 01",
+    "credit": "Jamie Heath",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "domus-aurea",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "neró",
+    "mort"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Nero",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Nero*.html"
+   }
+  },
+  {
+   "id": "c154",
+   "tipus": "cita",
+   "titol": "Més ràpid que els espàrrecs",
+   "text": "August deia «més de pressa que no es couen els espàrrecs» per demanar que alguna cosa es fes de seguida, segons Suetoni.",
+   "cita": {
+    "autor": "Suetoni",
+    "obra": "Vida dels dotze Cèsars, August 87"
+   },
+   "imatge": {
+    "fitxer": "Rome-Palatin-fonds_de_cabanes.JPG",
+    "descripcio": "Wikimedia Commons: Rome-Palatin-fonds de cabanes",
+    "credit": "Ursus",
+    "llicencia": "Public domain"
+   },
+   "lloc": "palati",
+   "periode": "imperi",
+   "etiquetes": [
+    "august",
+    "llengua"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Augustus",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Augustus*.html"
+   }
+  },
+  {
+   "id": "c155",
+   "tipus": "cita",
+   "titol": "Calgacus: fan un desert i en diuen pau",
+   "text": "«Fan un desert i en diuen pau.» Tàcit posa aquesta frase a la boca d'un cabdill caledoni, Calgacus, parlant dels romans.",
+   "cita": {
+    "autor": "Tàcit",
+    "obra": "Agrícola 30"
+   },
+   "imatge": {
+    "fitxer": "Calgacus.JPG",
+    "descripcio": "Wikimedia Commons: Calgacus",
+    "credit": "Not given in text, but viewable on the sketch",
+    "llicencia": "Public domain"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "exercit",
+    "imperi",
+    "brítanica"
+   ],
+   "font": {
+    "titol": "Wikipedia: Calgacus",
+    "url": "https://en.wikipedia.org/wiki/Calgacus"
+   }
+  },
+  {
+   "id": "c156",
+   "tipus": "cita",
+   "titol": "Tàcit: escriure sense ràbia ni favor",
+   "text": "Tàcit es proposa escriure els Annals «sense ràbia ni parcialitat».",
+   "cita": {
+    "autor": "Tàcit",
+    "obra": "Annals 1.1"
+   },
+   "imatge": {
+    "fitxer": "Marble_bust_of_Nero,_from_Olbia_(forum?),_AD_54-55-59,_Cagliari,_Museo_Archeologico_Nazionale_(16333604578).jpg",
+    "descripcio": "Wikimedia Commons: Marble bust of Nero, from Olbia (forum?), AD 54-55-59, Cagliari, Museo Archeologico Nazionale",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "historia",
+    "llengua"
+   ],
+   "font": {
+    "titol": "Wikipedia: Sine ira et studio",
+    "url": "https://en.wikipedia.org/wiki/Sine_ira_et_studio"
+   }
+  },
+  {
+   "id": "c157",
+   "tipus": "cita",
+   "titol": "Plini el Vell: la veritat és al vi",
+   "text": "«És sabut que la veritat s'atribueix al vi.» Plini el Vell recull el famós «in vino veritas» als apunts sobre el vi.",
+   "cita": {
+    "autor": "Plini el Vell",
+    "obra": "Història natural 14.141"
+   },
+   "imatge": {
+    "fitxer": "02023_0836_Ancient_Roman_amphora.jpg",
+    "descripcio": "Wikimedia Commons: 02023 0836 Ancient Roman amphora",
+    "credit": "Silar",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "menjar",
+    "llengua"
+   ],
+   "font": {
+    "titol": "Wikipedia: In vino veritas (cita Plini, Hist. nat. 14.141)",
+    "url": "https://en.wikipedia.org/wiki/In_vino_veritas"
+   }
+  },
+  {
+   "id": "c158",
+   "tipus": "cita",
+   "titol": "«La fortuna ajuda els valents»",
+   "text": "«La fortuna ajuda els valents», va dir Plini el Vell al timoner, que li aconsellava tornar enrere en plena erupció del Vesuvi, segons el seu nebot.",
+   "cita": {
+    "autor": "Plini el Jove",
+    "obra": "Cartes 6.16"
+   },
+   "imatge": {
+    "fitxer": "Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+    "descripcio": "Wikimedia Commons: Aerial image of Pompeii and Mount Vesuvius (view from the southeast)",
+    "credit": "Carsten Steger",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "vesuvi",
+    "pompeia"
+   ],
+   "font": {
+    "titol": "Plini el Jove, Cartes 6 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/pliny.ep6.html"
+   }
+  },
+  {
+   "id": "c159",
+   "tipus": "cita",
+   "titol": "Una nit sense lluna ni núvols",
+   "text": "«Era una nit no com les sense lluna o ennuvolades, sinó com la d'una cambra tancada amb el llum apagat.» Plini el Jove sobre l'erupció del Vesuvi.",
+   "cita": {
+    "autor": "Plini el Jove",
+    "obra": "Cartes 6.20"
+   },
+   "imatge": {
+    "fitxer": "Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+    "descripcio": "Wikimedia Commons: Aerial image of Pompeii and Mount Vesuvius (view from the southeast)",
+    "credit": "Carsten Steger",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "vesuvi",
+    "pompeia"
+   ],
+   "font": {
+    "titol": "Plini el Jove, Cartes 6 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/pliny.ep6.html"
+   }
+  },
+  {
+   "id": "c160",
+   "tipus": "cita",
+   "titol": "Marcial i el gos Issa",
+   "text": "Marcial descriu Issa, una gosseta més entremaliada que el pardal de Catul. Tenia fins i tot un retrat pintat, perquè no es perdés del tot.",
+   "cita": {
+    "autor": "Marcial",
+    "obra": "Epigrames 1.109"
+   },
+   "imatge": {
+    "fitxer": "Cave_Cavem_mosaic_floor_from_the_House_of_Paquio_Procolo,_Pompeii_(14585425031).jpg",
+    "descripcio": "Wikimedia Commons: Cave Cavem mosaic floor from the House of Paquio Procolo, Pompeii",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "mascotes",
+    "poesia"
+   ],
+   "font": {
+    "titol": "Marcial, Epigrames 1 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/martial/mart1.shtml"
+   }
+  },
+  {
+   "id": "c161",
+   "tipus": "cita",
+   "titol": "Marcial: «No t'estimo, Sabidi»",
+   "text": "«No t'estimo, Sabidi, ni sé dir per què; només això puc dir: no t'estimo.» Marcial en va fer un epigrama que ha estat copiat molts cops.",
+   "cita": {
+    "autor": "Marcial",
+    "obra": "Epigrames 1.32"
+   },
+   "imatge": {
+    "fitxer": "Marcial. Epigrammata. 1490.jpg",
+    "descripcio": "Edició de 1490 dels Epigrammata de Marcial",
+    "credit": "Escarlati",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "poesia",
+    "llengua"
+   ],
+   "font": {
+    "titol": "Marcial, Epigrames 1 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/martial/mart1.shtml"
+   }
+  },
+  {
+   "id": "c162",
+   "tipus": "cita",
+   "titol": "Pa i circ: el que vol el poble",
+   "text": "«Només desitja ansiós dues coses: pa i circ.» Juvenal critica un poble que ja no s'interessa per la política, només pel menjar i l'espectacle.",
+   "cita": {
+    "autor": "Juvenal",
+    "obra": "Sàtires 10.81"
+   },
+   "imatge": {
+    "fitxer": "Circus_Maximus_in_Rome.jpg",
+    "descripcio": "Wikimedia Commons: Circus Maximus in Rome",
+    "credit": "Petar Milošević",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "circ-maxim",
+   "periode": "imperi",
+   "etiquetes": [
+    "circ",
+    "politica"
+   ],
+   "font": {
+    "titol": "Juvenal, Sàtires 10 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/juvenal/10.shtml"
+   }
+  },
+  {
+   "id": "c163",
+   "tipus": "cita",
+   "titol": "Un cos sa en una ment sana",
+   "text": "«Cal demanar als déus una ment sana en un cos sa.» Juvenal tria què val la pena demanar als déus: no riqueses ni honors, sinó salut i seny.",
+   "cita": {
+    "autor": "Juvenal",
+    "obra": "Sàtires 10.356"
+   },
+   "imatge": {
+    "fitxer": "0_Discobolo_-_Musei_Capitolini_(1).JPG",
+    "descripcio": "Wikimedia Commons: 0 Discobolo - Musei Capitolini (1)",
+    "credit": "User:Jean-Pol GRANDMONT (2011)",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "esports",
+    "llengua"
+   ],
+   "font": {
+    "titol": "Juvenal, Sàtires 10 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/juvenal/10.shtml"
+   }
+  },
+  {
+   "id": "c164",
+   "tipus": "cita",
+   "titol": "Sèneca: «són esclaus. No: són homes»",
+   "text": "«Són esclaus», diuen. «No: són homes.» Sèneca defensa que els esclaus són persones, i convida a tractar-los amb humanitat.",
+   "cita": {
+    "autor": "Sèneca",
+    "obra": "Cartes a Lucili 47.1"
+   },
+   "imatge": {
+    "fitxer": "Roman_collared_slaves_-_Ashmolean_Museum.jpg",
+    "descripcio": "Wikimedia Commons: Roman collared slaves - Ashmolean Museum",
+    "credit": "Jun",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "esclaus",
+    "filosofia"
+   ],
+   "font": {
+    "titol": "Sèneca, Carta 47 (Wikisource)",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_47"
+   }
+  },
+  {
+   "id": "c165",
+   "tipus": "cita",
+   "titol": "Sèneca viu damunt d'uns banys",
+   "text": "Sèneca explica que viu damunt d'uns banys: sent els grunyits dels homes que aixequen peses i els crits dels qui es fan depilar.",
+   "cita": {
+    "autor": "Sèneca",
+    "obra": "Cartes a Lucili 56"
+   },
+   "imatge": {
+    "fitxer": "10_2023_-_Terme_(Baths_of)_Caracalla,_Arte_Romana,_Viale_Guido_Baccelli,_Rome,_Roma,_Lazio,_00154,_Italy_-_Photo_Paolo_Villa_-_FO232084_-_Ingresso_-_arco-volta.jpg",
+    "descripcio": "Wikimedia Commons: 10 2023 - Terme (Baths of) Caracalla, Arte Romana, Viale Guido Baccelli, Rome, Roma, Lazio, 00154, Italy -…",
+    "credit": "Paolo Villa",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "banys",
+    "quotidia",
+    "soroll"
+   ],
+   "font": {
+    "titol": "Sèneca, Carta 56 (Wikisource)",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_56"
+   }
+  },
+  {
+   "id": "c166",
+   "tipus": "cita",
+   "titol": "Ciceró: «oh temps, oh costums»",
+   "text": "«Oh temps, oh costums!» Ciceró obre així la primera Catilinària, el 63 aC, indignat que Catilina assistís al Senat com si res.",
+   "cita": {
+    "autor": "Ciceró",
+    "obra": "Primera Catilinària 1"
+   },
+   "imatge": {
+    "fitxer": "Arch_Septimius_Severus_Column_Phocas_Forum_Romanum_Rome.jpg",
+    "descripcio": "Wikimedia Commons: Arch Septimius Severus Column Phocas Forum Romanum Rome",
+    "credit": "Jebulon",
+    "llicencia": "CC0"
+   },
+   "lloc": "forum-roma",
+   "periode": "republica",
+   "etiquetes": [
+    "ciceró",
+    "senat",
+    "llengua"
+   ],
+   "font": {
+    "titol": "Wikipedia: In Catilinam",
+    "url": "https://en.wikipedia.org/wiki/In_Catilinam"
+   }
+  },
+  {
+   "id": "c167",
+   "tipus": "cita",
+   "titol": "Ciceró: jardí i biblioteca",
+   "text": "«Si tens un jardí i una biblioteca, no et faltarà res.» Ciceró va escriure aquesta frase en una carta a un amic.",
+   "cita": {
+    "autor": "Ciceró",
+    "obra": "Cartes als familiars 9.4"
+   },
+   "imatge": {
+    "fitxer": "Bust_of_Cicero_in_the_Old_Library,_Trinity_College_Dublin.jpg",
+    "descripcio": "Wikimedia Commons: Bust of Cicero in the Old Library, Trinity College Dublin",
+    "credit": "Yair Haklai",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "republica",
+   "etiquetes": [
+    "ciceró",
+    "llibres"
+   ],
+   "font": {
+    "titol": "Ciceró, Ad familiares 9 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/cicero/fam9.shtml"
+   }
+  },
+  {
+   "id": "c168",
+   "tipus": "cita",
+   "titol": "Ovidi: deixa de tenyir-te els cabells",
+   "text": "«Et deia: deixa de tractar-te els cabells!» Ovidi retreu a la seva estimada que, a força de tints, ha perdut els cabells.",
+   "cita": {
+    "autor": "Ovidi",
+    "obra": "Amors 1.14"
+   },
+   "imatge": {
+    "fitxer": "Portrait_bust_of_a_woman_with_Flavian_hairstyle,_Apollonia,_Albania.jpg",
+    "descripcio": "Wikimedia Commons: Portrait bust of a woman with Flavian hairstyle, Apollonia, Albania",
+    "credit": "Carole Raddato",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "moda",
+    "poesia",
+    "dones"
+   ],
+   "font": {
+    "titol": "Wikipedia: Amores (Ovid)",
+    "url": "https://en.wikipedia.org/wiki/Amores_(Ovid)"
+   }
+  },
+  {
+   "id": "c169",
+   "tipus": "cita",
+   "titol": "Virgili: «temo els grecs i els seus regals»",
+   "text": "«Temo els grecs, fins i tot quan porten regals.» Així diu Laocoont davant del cavall de fusta, a l'Eneida.",
+   "cita": {
+    "autor": "Virgili",
+    "obra": "Eneida 2.49"
+   },
+   "imatge": {
+    "fitxer": "Gruppo_del_laocoonte,_05.JPG",
+    "descripcio": "Wikimedia Commons: Gruppo del laocoonte, 05",
+    "credit": "sailko",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "musei-vaticans",
+   "periode": "republica",
+   "etiquetes": [
+    "mites",
+    "poesia"
+   ],
+   "font": {
+    "titol": "Virgili, Eneida 2 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/vergil/aen2.shtml"
+   }
+  },
+  {
+   "id": "c170",
+   "tipus": "cita",
+   "titol": "Virgili: la missió de Roma",
+   "text": "«Tu, romà, recorda't de governar els pobles: perdonar els vençuts i abatre els superbs.» L'Eneida resumeix així la missió de Roma.",
+   "cita": {
+    "autor": "Virgili",
+    "obra": "Eneida 6.851-853"
+   },
+   "imatge": {
+    "fitxer": "Ara_Pacis_(SW).jpg",
+    "descripcio": "Wikimedia Commons: Ara Pacis (SW)",
+    "credit": "Rabax63",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "ara-pacis",
+   "periode": "imperi",
+   "etiquetes": [
+    "poesia",
+    "imperi"
+   ],
+   "font": {
+    "titol": "Virgili, Eneida 6 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/vergil/aen6.shtml"
+   }
+  },
+  {
+   "id": "c171",
+   "tipus": "cita",
+   "titol": "Livi: «Ai dels vençuts!»",
+   "text": "«Vae victis!» (Ai dels vençuts!), va dir el cap gal Brenne llançant la seva espasa a la balança del rescat, segons Titus Livi.",
+   "cita": {
+    "autor": "Titus Livi",
+    "obra": "Ab urbe condita 5.48"
+   },
+   "imatge": {
+    "fitxer": "Brennus and Sulpicius (illustration).jpg",
+    "descripcio": "Brenne i Sulpici: il·lustració del rescat de Roma pels gals (1886)",
+    "credit": "Paul Lehugeur",
+    "llicencia": "Public domain"
+   },
+   "lloc": "capitoli",
+   "periode": "republica",
+   "etiquetes": [
+    "gals",
+    "guerra"
+   ],
+   "font": {
+    "titol": "Titus Livi, Ab urbe condita 5 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/livy/liv.5.shtml"
+   }
+  },
+  {
+   "id": "c172",
+   "tipus": "cita",
+   "titol": "Ròmul mata Rem",
+   "text": "«Així perdi la vida qui salti les meves muralles», va dir Ròmul i va matar el seu germà Rem, segons Titus Livi.",
+   "cita": {
+    "autor": "Titus Livi",
+    "obra": "Ab urbe condita 1.7"
+   },
+   "imatge": {
+    "fitxer": "Palatine_Hill_from_across_the_Circus_Maximus_April_2019.jpg",
+    "descripcio": "Wikimedia Commons: Palatine Hill from across the Circus Maximus April 2019",
+    "credit": "Lil Herodotus",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "palati",
+   "periode": "monarquia",
+   "etiquetes": [
+    "fundacio",
+    "mites"
+   ],
+   "font": {
+    "titol": "Titus Livi, Ab urbe condita 1 (The Latin Library)",
+    "url": "https://www.thelatinlibrary.com/livy/liv.1.shtml"
+   }
+  },
+  {
+   "id": "c173",
+   "tipus": "cita",
+   "titol": "Septimi Sever: els consells d'un moribund",
+   "text": "«Viviu en concòrdia, enriquiu els soldats i despreueu tota la resta.» Dió Cassi atribueix aquest llegat a Septimi Sever als seus fills.",
+   "cita": {
+    "autor": "Dió Cassi",
+    "obra": "Història romana 77.15"
+   },
+   "imatge": {
+    "fitxer": "14_539_Forum_Romnm,_Bogen_des_Septimus_Severus.jpg",
+    "descripcio": "Wikimedia Commons: 14 539 Forum Romnm, Bogen des Septimus Severus",
+    "credit": "Falk2",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "exercit"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Dió Cassi, Història romana, llibre 77",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cassius_Dio/77*.html"
+   }
+  },
+  {
+   "id": "c174",
+   "tipus": "cita",
+   "titol": "Hadrià, l'ànima petita",
+   "text": "«Animuleta, errant i dolça, hoste i companya del cos, ¿on aniràs ara, a llocs pàl·lids, freds i nus?» Versos atribuïts a Hadrià quan moria.",
+   "cita": {
+    "autor": "Història Augusta",
+    "obra": "Hadrià 25.9"
+   },
+   "imatge": {
+    "fitxer": "Castel_Sant'Angelo_at_Night.jpg",
+    "descripcio": "Wikimedia Commons: Castel Sant'Angelo at Night",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "castell-sant-angelo",
+   "periode": "imperi",
+   "etiquetes": [
+    "adria",
+    "poesia",
+    "mort"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Història Augusta, Hadrià 25",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Historia_Augusta/Hadrian/1*.html"
+   }
+  },
+  {
+   "id": "c175",
+   "tipus": "personatge",
+   "titol": "Cornelia: «aquests són els meus joiells»",
+   "text": "Cornelia, mare dels Gracs, va ensenyar els seus fills a una visita que presumia de joies: «Aquests són els meus ornaments», segons Valeri Màxim.",
+   "imatge": {
+    "fitxer": "Joseph-Benoît_Suvée_-_Cornelia,_madre_dei_Gracchi.JPG",
+    "descripcio": "Wikimedia Commons: Joseph-Benoît Suvée - Cornelia, madre dei Gracchi",
+    "credit": "Joseph-Benoît Suvée",
+    "llicencia": "Public domain"
+   },
+   "lloc": null,
+   "periode": "republica",
+   "etiquetes": [
+    "dones",
+    "personatges"
+   ],
+   "font": {
+    "titol": "Wikipedia: Cornelia (mother of the Gracchi)",
+    "url": "https://en.wikipedia.org/wiki/Cornelia_(mother_of_the_Gracchi)"
+   }
+  },
+  {
+   "id": "c176",
+   "tipus": "personatge",
+   "titol": "Hortènsia planta cara als triumvirs",
+   "text": "L'any 42 aC, Hortènsia va defensar davant els triumvirs un grup de dones riques contra un impost de guerra, al Fòrum. Va aconseguir reduir-lo.",
+   "imatge": {
+    "fitxer": "Bust_of_a_Roman_woman.jpg",
+    "descripcio": "Wikimedia Commons: Bust of a Roman woman",
+    "credit": "Graearms",
+    "llicencia": "CC0"
+   },
+   "lloc": "forum-roma",
+   "periode": "republica",
+   "etiquetes": [
+    "dones",
+    "personatges",
+    "fiscalitat"
+   ],
+   "font": {
+    "titol": "Wikipedia: Hortensia (orator)",
+    "url": "https://en.wikipedia.org/wiki/Hortensia_(orator)"
+   }
+  },
+  {
+   "id": "c177",
+   "tipus": "personatge",
+   "titol": "Lívia, l'esposa que va viure 86 anys",
+   "text": "Lívia va estar casada amb August uns cinquanta anys, va viure al Palatí fins als 86 anys i va rebre el títol d'Augusta.",
+   "imatge": {
+    "fitxer": "KunsthistorischesMuseumCameeLivia.jpg",
+    "descripcio": "Wikimedia Commons: KunsthistorischesMuseumCameeLivia",
+    "credit": "CristianChirita",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "domus-augusti",
+   "periode": "imperi",
+   "etiquetes": [
+    "dones",
+    "personatges",
+    "august"
+   ],
+   "font": {
+    "titol": "Wikipedia: Livia",
+    "url": "https://en.wikipedia.org/wiki/Livia"
+   }
+  },
+  {
+   "id": "c178",
+   "tipus": "personatge",
+   "titol": "Cèsar, segrestat per pirates",
+   "text": "Segons Suetoni i Plutarc, uns pirates van segrestar Cèsar jove. Ell els va dir que el rescat era massa baix i va exigir-ne un de més alt: 50 talents.",
+   "imatge": {
+    "fitxer": "Bust_of_Julius_Caesar_in_the_Fitzwilliam_Museum.jpg",
+    "descripcio": "Wikimedia Commons: Bust of Julius Caesar in the Fitzwilliam Museum",
+    "credit": "Ethan Doyle White",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-cesar",
+   "periode": "republica",
+   "etiquetes": [
+    "cesar",
+    "personatges"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Julius",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Julius*.html"
+   }
+  },
+  {
+   "id": "c179",
+   "tipus": "personatge",
+   "titol": "Espàrtac, de gladiador a cabdill",
+   "text": "Espàrtac, un traci, es va escapar d'una escola de gladiadors a Càpua el 73 aC i va dirigir una revolta d'esclaus. Va ser derrotat per Cras el 71 aC.",
+   "imatge": {
+    "fitxer": "Σπάρτακος_Spartacus,Espartaco_marble_statue_in_Louvre_\"Μαιδοι_clan_-Meadow\"_slave_macedon-greek.jpg",
+    "descripcio": "Wikimedia Commons: Σπάρτακος Spartacus,Espartaco marble statue in Louvre \"Μαιδοι clan -Meadow\" slave macedon-greek",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "via-appia",
+   "periode": "republica",
+   "etiquetes": [
+    "esclaus",
+    "gladiadors",
+    "personatges"
+   ],
+   "font": {
+    "titol": "Wikipedia: Spartacus",
+    "url": "https://en.wikipedia.org/wiki/Spartacus"
+   }
+  },
+  {
+   "id": "c180",
+   "tipus": "personatge",
+   "titol": "Plini el Vell, que mai no parava",
+   "text": "Plini el Vell va escriure una enciclopèdia de 37 llibres i va morir el 79 dC, a Estàbia, mirant d'ajudar i observar l'erupció del Vesuvi.",
+   "imatge": {
+    "fitxer": "Ancient_roman_wall_Herculaneum.jpg",
+    "descripcio": "Wikimedia Commons: Ancient roman wall Herculaneum",
+    "credit": "Jebulon",
+    "llicencia": "CC0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "ciencia",
+    "personatges",
+    "vesuvi"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pliny the Elder",
+    "url": "https://en.wikipedia.org/wiki/Pliny_the_Elder"
+   }
+  },
+  {
+   "id": "c181",
+   "tipus": "personatge",
+   "titol": "Galè, metge de gladiadors",
+   "text": "Galè va començar tractant gladiadors a Pèrgam. Després va ser metge de Marc Aureli, i les seves obres van marcar la medicina durant segles.",
+   "imatge": {
+    "fitxer": "Statue_of_Galen_of_Pergamon.jpg",
+    "descripcio": "Wikimedia Commons: Statue of Galen of Pergamon",
+    "credit": "Bernard Gagnon",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "medicina",
+    "gladiadors",
+    "personatges"
+   ],
+   "font": {
+    "titol": "Wikipedia: Galen",
+    "url": "https://en.wikipedia.org/wiki/Galen"
+   }
+  },
+  {
+   "id": "c182",
+   "tipus": "personatge",
+   "titol": "Tiró, l'esclau que va inventar la taquigrafia",
+   "text": "Tiró, secretari i esclau alliberat de Ciceró, va crear un sistema de signes ràpids, les notes tironianes, per anotar els discursos.",
+   "imatge": {
+    "fitxer": "Notes_tironiennes_(édition_Wilhelm_Schmitz,_1893).jpg",
+    "descripcio": "Wikimedia Commons: Notes tironiennes (édition Wilhelm Schmitz, 1893)",
+    "credit": "Wilhem Schmitz",
+    "llicencia": "Public domain"
+   },
+   "lloc": null,
+   "periode": "republica",
+   "etiquetes": [
+    "esclaus",
+    "llengua",
+    "personatges"
+   ],
+   "font": {
+    "titol": "Wikipedia: Marcus Tullius Tiro",
+    "url": "https://en.wikipedia.org/wiki/Marcus_Tullius_Tiro"
+   }
+  },
+  {
+   "id": "c183",
+   "tipus": "personatge",
+   "titol": "Apici i el llibre de cuina",
+   "text": "Marc Gavi Apici va ser un famós gurmet del temps de Tiberi. El llibre de receptes que li atribueixen, De re coquinaria, és de segles després.",
+   "imatge": {
+    "fitxer": "Grill_with_handle_(for_cooking_meat_and_fish)_Roman,_Pompeii,_House_of_the_Vettii,_AD_1-79_(51357506688).jpg",
+    "descripcio": "Wikimedia Commons: Grill with handle (for cooking meat and fish) Roman, Pompeii, House of the Vettii, AD 1-79",
+    "credit": "Tyler Bell",
+    "llicencia": "CC BY 2.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "menjar",
+    "personatges"
+   ],
+   "font": {
+    "titol": "Wikipedia: Apicius",
+    "url": "https://en.wikipedia.org/wiki/Apicius"
+   }
+  },
+  {
+   "id": "c184",
+   "tipus": "personatge",
+   "titol": "Diocles, l'esportista més ric de Roma",
+   "text": "Diocles va córrer carreres de quadrigues durant 24 anys i va acabar amb una fortuna de milions de sestercis. Alguns càlculs el converteixen en l'esportista més ben pagat de la història.",
+   "imatge": {
+    "fitxer": "Mosaic_depicting_a_charioteer_and_horse_from_the_Russata_faction_(Red),_3rd_century_AD,_Palazzo_Massimo_all_Terme,_Rome_(12482059674).jpg",
+    "descripcio": "Wikimedia Commons: Mosaic depicting a charioteer and horse from the Russata faction (Red), 3rd century AD, Palazzo Massimo all…",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "circ-maxim",
+   "periode": "imperi",
+   "etiquetes": [
+    "curses",
+    "quadrigues",
+    "personatges"
+   ],
+   "font": {
+    "titol": "Wikipedia: Gaius Appuleius Diocles",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Appuleius_Diocles"
+   }
+  },
+  {
+   "id": "c185",
+   "tipus": "personatge",
+   "titol": "Hadrià, l'emperador que no parava de viatjar",
+   "text": "Hadrià va passar bona part del seu regnat visitant les províncies. Va fer el mur de Britània, el Panteó actual i la vil·la de Tívoli.",
+   "imatge": {
+    "fitxer": "Villa_Hadriana_(Villa_Adriana_Tivoli)_1000_03.jpg",
+    "descripcio": "Wikimedia Commons: Villa Hadriana (Villa Adriana Tivoli) 1000 03",
+    "credit": "FrDr",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "villa-adriana",
+   "periode": "imperi",
+   "etiquetes": [
+    "adria",
+    "personatges",
+    "viatges"
+   ],
+   "font": {
+    "titol": "Wikipedia: Hadrian",
+    "url": "https://en.wikipedia.org/wiki/Hadrian"
+   }
+  },
+  {
+   "id": "c186",
+   "tipus": "personatge",
+   "titol": "Marc Aureli, l'emperador filòsof",
+   "text": "Marc Aureli va escriure en grec les Meditacions, notes privades per a ell mateix, escrites en part durant les campanyes del Danubi.",
+   "imatge": {
+    "fitxer": "Marcus_Aurelius_Glyptothek_München_(3x4_cropped).jpg",
+    "descripcio": "Wikimedia Commons: Marcus Aurelius Glyptothek München (3x4 cropped)",
+    "credit": "Bibi Saint-Pol",
+    "llicencia": "Public domain"
+   },
+   "lloc": "columna-marc-aureli",
+   "periode": "imperi",
+   "etiquetes": [
+    "filosofia",
+    "personatges"
+   ],
+   "font": {
+    "titol": "Wikipedia: Marcus Aurelius",
+    "url": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+   }
+  },
+  {
+   "id": "c187",
+   "tipus": "personatge",
+   "titol": "Sulpícia, poeta romana",
+   "text": "Sulpícia, jove aristòcrata del s. I aC, és l'única dona poeta llatina de qui conservem versos: sis breus elegies d'amor.",
+   "imatge": {
+    "fitxer": "Portrait_d'une_jeune_femme,_dite_Sappho.jpg",
+    "descripcio": "Wikimedia Commons: Portrait d'une jeune femme, dite Sappho",
+    "credit": "Sylvain lasco",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "dones",
+    "poesia",
+    "personatges"
+   ],
+   "font": {
+    "titol": "Wikipedia: Sulpicia",
+    "url": "https://en.wikipedia.org/wiki/Sulpicia"
+   }
+  },
+  {
+   "id": "c188",
+   "tipus": "personatge",
+   "titol": "Giacomo Boni, l'excavador del Fòrum",
+   "text": "L'arqueòleg Giacomo Boni, famós per la seva feina al Fòrum Romà, va morir el 1925 i és enterrat a l'Orti Farnesiani, al Palatí.",
+   "imatge": {
+    "fitxer": "Forum_romanum_6k_(5760x2097).jpg",
+    "descripcio": "Wikimedia Commons: Forum romanum 6k (5760x2097)",
+    "credit": "BeBo86",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "forum-roma",
+   "periode": "posterior",
+   "etiquetes": [
+    "excavacions",
+    "personatges"
+   ],
+   "font": {
+    "titol": "Wikipedia: Giacomo Boni (archaeologist)",
+    "url": "https://en.wikipedia.org/wiki/Giacomo_Boni_(archaeologist)"
+   }
+  },
+  {
+   "id": "c189",
+   "tipus": "personatge",
+   "titol": "Vespasià, l'emperador pràctic",
+   "text": "Vespasià va sortir d'una família modesta, va començar el Colosseu i va posar impost a les urines. Segons Suetoni, a la mort va dir: «Em sembla que em faig déu.»",
+   "imatge": {
+    "fitxer": "Bust_of_Vespasian_(49344790508).jpg",
+    "descripcio": "Wikimedia Commons: Bust of Vespasian",
+    "credit": "Jamie Heath",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "emperadors",
+    "vespasià",
+    "personatges"
+   ],
+   "font": {
+    "titol": "LacusCurtius: Vespasian",
+    "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/Vespasian*.html"
+   }
+  },
+  {
+   "id": "c190",
+   "tipus": "vida-quotidiana",
+   "titol": "Salsa de peix: el condiment estrella",
+   "text": "El garum, una salsa de peix fermentat, era el condiment per excel·lència romà. N'hi havia de molts tipus, i alguns es pagaven molt cars.",
+   "imatge": {
+    "fitxer": "Garumamphoren.JPG",
+    "descripcio": "Wikimedia Commons: Garumamphoren",
+    "credit": "Claus Ableiter",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": "ostia-antica",
+   "periode": "imperi",
+   "etiquetes": [
+    "menjar",
+    "garum"
+   ],
+   "font": {
+    "titol": "Wikipedia: Garum",
+    "url": "https://en.wikipedia.org/wiki/Garum"
+   }
+  },
+  {
+   "id": "c191",
+   "tipus": "vida-quotidiana",
+   "titol": "El «menjar ràpid» de Pompeia",
+   "text": "A Pompeia hi havia més de cent thermopolia, taulells amb gerres incrustades on se servia menjar calent i vi per emportar.",
+   "imatge": {
+    "fitxer": "Tavern_fresco_ostia_antica.jpg",
+    "descripcio": "Wikimedia Commons: Tavern fresco ostia antica",
+    "credit": "G41rn8",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "menjar",
+    "pompeia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Thermopolium",
+    "url": "https://en.wikipedia.org/wiki/Thermopolium"
+   }
+  },
+  {
+   "id": "c192",
+   "tipus": "vida-quotidiana",
+   "titol": "Sopars reclinats al triclinium",
+   "text": "Els rics sopaven reclinats en llits al voltant d'una taula, al triclinium. Menjar estirat era un signe de comoditat i d'estatus.",
+   "imatge": {
+    "fitxer": "Triclinium_-_Archäologische_Staatssammlung_München.JPG",
+    "descripcio": "Wikimedia Commons: Triclinium - Archäologische Staatssammlung München",
+    "credit": "User:Mattes",
+    "llicencia": "Public domain"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "menjar",
+    "quotidia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Triclinium",
+    "url": "https://en.wikipedia.org/wiki/Triclinium"
+   }
+  },
+  {
+   "id": "c193",
+   "tipus": "vida-quotidiana",
+   "titol": "El vi es bevia ben aigualit",
+   "text": "Els romans solien diluir el vi amb aigua, de vegades calenta, i li afegien espècies. Poca gent el bevia pur.",
+   "imatge": {
+    "fitxer": "Ancient_Roman_amphoras_in_Pompeii.jpg",
+    "descripcio": "Wikimedia Commons: Ancient Roman amphoras in Pompeii",
+    "credit": "Commonists",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "menjar",
+    "vi"
+   ],
+   "font": {
+    "titol": "Wikipedia: Ancient Rome and wine",
+    "url": "https://en.wikipedia.org/wiki/Ancient_Rome_and_wine"
+   }
+  },
+  {
+   "id": "c194",
+   "tipus": "vida-quotidiana",
+   "titol": "Un bany per un quadrant",
+   "text": "L'entrada a les termes costava ben poc: una moneda petita, el quadrant. Per això banyar-se era un hàbit de rics i de pobres.",
+   "imatge": {
+    "fitxer": "Baths_of_Caracalla.JPG",
+    "descripcio": "Wikimedia Commons: Baths of Caracalla",
+    "credit": "Pascal Reusch",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "banys",
+    "diners"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman baths",
+    "url": "https://en.wikipedia.org/wiki/Roman_baths"
+   }
+  },
+  {
+   "id": "c195",
+   "tipus": "vida-quotidiana",
+   "titol": "Sense sabó: oli i rascador",
+   "text": "Els romans no feien servir sabó: s'untaven d'oli i es rascaven la pell amb un estrígil, instrument corbat que treia l'oli i la brutícia.",
+   "imatge": {
+    "fitxer": "Strigiles.jpg",
+    "descripcio": "Wikimedia Commons: Strigiles",
+    "credit": "No machine-readable author provided. MatthiasKabel assumed (based on copyright claims).",
+    "llicencia": "CC BY 2.5"
+   },
+   "lloc": "termes-caracalla",
+   "periode": "imperi",
+   "etiquetes": [
+    "banys",
+    "higiene"
+   ],
+   "font": {
+    "titol": "Wikipedia: Strigil",
+    "url": "https://en.wikipedia.org/wiki/Strigil"
+   }
+  },
+  {
+   "id": "c196",
+   "tipus": "vida-quotidiana",
+   "titol": "Banys amb biblioteca i jardí",
+   "text": "Les termes eren centres d'oci: tenien gimnasos, biblioteques, jardins i botigues. Banyar-se era només una part de la visita.",
+   "imatge": {
+    "fitxer": "Thermae_of_Caracalla,_Rome_Wellcome_M0004777.jpg",
+    "descripcio": "Wikimedia Commons: Thermae of Caracalla, Rome Wellcome M0004777",
+    "credit": "Wellcome Collection",
+    "llicencia": "CC BY 4.0"
+   },
+   "lloc": "termes-caracalla",
+   "periode": "imperi",
+   "etiquetes": [
+    "banys",
+    "oci"
+   ],
+   "font": {
+    "titol": "Wikipedia: Baths of Caracalla",
+    "url": "https://en.wikipedia.org/wiki/Baths_of_Caracalla"
+   }
+  },
+  {
+   "id": "c197",
+   "tipus": "vida-quotidiana",
+   "titol": "L'hipocaust, calefacció per terra",
+   "text": "Els banys escalfaven el terra amb aire calent que circulava sota el paviment. Es considera inventor del sistema Sergi Orata, cap al 100 aC.",
+   "imatge": {
+    "fitxer": "Chesters_Praetorium_hypocaust_1.jpg",
+    "descripcio": "Wikimedia Commons: Chesters Praetorium hypocaust 1",
+    "credit": "Steven Fruitsmaak",
+    "llicencia": "Public domain"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "banys",
+    "enginyeria",
+    "calefaccio"
+   ],
+   "font": {
+    "titol": "Wikipedia: Hypocaust",
+    "url": "https://en.wikipedia.org/wiki/Hypocaust"
+   }
+  },
+  {
+   "id": "c198",
+   "tipus": "vida-quotidiana",
+   "titol": "Lavabos públics, ben socials",
+   "text": "A les latrines públiques romanes els seients eren seguits i sense envans. Per netejar-se, s'usava una esponja lligada a un pal.",
+   "imatge": {
+    "fitxer": "AthensRomanLatrine.jpg",
+    "descripcio": "Wikimedia Commons: AthensRomanLatrine",
+    "credit": "Etan J. Tal",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "latrines",
+    "quotidia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Latrina",
+    "url": "https://en.wikipedia.org/wiki/Latrina"
+   }
+  },
+  {
+   "id": "c199",
+   "tipus": "vida-quotidiana",
+   "titol": "L'esponja del pal",
+   "text": "Sèneca esmenta una esponja en un pal (xylospongium), compartida als lavabos. Es discuteix si servia per netejar-se o per netejar el lavabo.",
+   "imatge": {
+    "fitxer": "Housesteads_Roman_Fort_(latrine_block).jpg",
+    "descripcio": "Wikimedia Commons: Housesteads Roman Fort (latrine block)",
+    "credit": "Hadrianus1959",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "latrines",
+    "quotidia"
+   ],
+   "font": {
+    "titol": "Sèneca, Carta 70 (Wikisource)",
+    "url": "https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_70"
+   }
+  },
+  {
+   "id": "c200",
+   "tipus": "vida-quotidiana",
+   "titol": "Celad el traci, el cor de les noies",
+   "text": "A Pompeia, un grafit diu que el gladiador Celad el traci feia «sospirar les noies». Els gladiadors eren estrelles pop.",
+   "imatge": {
+    "fitxer": "Gladiator_shin_guard_depicting_the_goddess_Athena_from_the_gladiator_barracks_in_Pompeii_1st_century_CE.jpg",
+    "descripcio": "Wikimedia Commons: Gladiator shin guard depicting the goddess Athena from the gladiator barracks in Pompeii 1st century CE",
+    "credit": "Mary Harrsch",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "grafits",
+    "gladiadors",
+    "pompeia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator"
+   }
+  },
+  {
+   "id": "c201",
+   "tipus": "vida-quotidiana",
+   "titol": "Un grafit que es burla d'un cristià",
+   "text": "El grafit d'Alexamen, al Palatí, mostra un home adorant un crucificat amb cap d'ase: «Alexamen adora el seu déu». És una burla.",
+   "imatge": {
+    "fitxer": "Alexamenos_graffito.jpg",
+    "descripcio": "Wikimedia Commons: Alexamenos graffito",
+    "credit": "Justin Benttinen",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "palati",
+   "periode": "imperi",
+   "etiquetes": [
+    "grafits",
+    "cristians"
+   ],
+   "font": {
+    "titol": "Wikipedia: Alexamenos graffito",
+    "url": "https://en.wikipedia.org/wiki/Alexamenos_graffito"
+   }
+  },
+  {
+   "id": "c202",
+   "tipus": "vida-quotidiana",
+   "titol": "Eleccions escrites a la façana",
+   "text": "A Pompeia, les façades portaven inscripcions electorals. Una d'elles esmenta Asel·lina, probablement la propietària d'una fonda.",
+   "imatge": {
+    "fitxer": "Pompeii_Forum.JPG",
+    "descripcio": "Wikimedia Commons: Pompeii Forum",
+    "credit": "Heinz-Josef Lücking",
+    "llicencia": "CC BY-SA 3.0 de"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "eleccions",
+    "pompeia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pompeii",
+    "url": "https://en.wikipedia.org/wiki/Pompeii"
+   }
+  },
+  {
+   "id": "c203",
+   "tipus": "vida-quotidiana",
+   "titol": "Un candidat vesteix de blanc",
+   "text": "«Candidat» ve de candidus, blanc: els qui aspiraven a un càrrec es feien blanquejar la toga. Els romans ja feien màrqueting polític.",
+   "imatge": {
+    "fitxer": "Marble_statue_of_a_togatus_(man_wearing_a_toga)_MET_29A_R11R6.jpg",
+    "descripcio": "Wikimedia Commons: Marble statue of a togatus (man wearing a toga) MET 29A R11R6",
+    "credit": "The Metropolitan Museum of Art (Open Access)",
+    "llicencia": "CC0"
+   },
+   "lloc": null,
+   "periode": "republica",
+   "etiquetes": [
+    "llengua",
+    "eleccions"
+   ],
+   "font": {
+    "titol": "Wikipedia: Candidate",
+    "url": "https://en.wikipedia.org/wiki/Candidate"
+   }
+  },
+  {
+   "id": "c204",
+   "tipus": "vida-quotidiana",
+   "titol": "La toga, només per a ciutadans",
+   "text": "La toga era el vestit propi dels ciutadans romans, i els estrangers i exiliats no podien portar-la. A la vida diària molts duien túnica.",
+   "imatge": {
+    "fitxer": "Togato_Barberini.jpg",
+    "descripcio": "Wikimedia Commons: Togato Barberini",
+    "credit": "Carlo Dell'Orto",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "moda",
+    "ciutadans"
+   ],
+   "font": {
+    "titol": "Wikipedia: Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga"
+   }
+  },
+  {
+   "id": "c205",
+   "tipus": "vida-quotidiana",
+   "titol": "Tintures i perruques de moda",
+   "text": "Les dones romanes es tenyien els cabells, portaven perruques i es feien pentinats molt elaborats que canviaven amb les modes.",
+   "imatge": {
+    "fitxer": "Portrait_bust_of_a_Roman_woman_(Rome_MC_434)_2022_crop.jpg",
+    "descripcio": "Wikimedia Commons: Portrait bust of a Roman woman (Rome MC 434) 2022 crop",
+    "credit": "Jamie Heath (modified by Choliamb)",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "moda",
+    "dones"
+   ],
+   "font": {
+    "titol": "Wikipedia: Hairstyles in ancient Rome",
+    "url": "https://en.wikipedia.org/wiki/Hairstyles_in_ancient_Rome"
+   }
+  },
+  {
+   "id": "c206",
+   "tipus": "vida-quotidiana",
+   "titol": "Tres noms i una dona sense nom propi",
+   "text": "Un home romà tenia tria nomina (prenom, nom, cognom), com Gai Juli Cèsar. Les dones solien dur només el nom de la família: Júlia, Cornèlia.",
+   "imatge": {
+    "fitxer": "Dedicatory_inscription_Ostia_Antica_2006-09-08.jpg",
+    "descripcio": "Wikimedia Commons: Dedicatory inscription Ostia Antica 2006-09-08",
+    "credit": "Marie-Lan Nguyen",
+    "llicencia": "CC BY 2.5"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "noms",
+    "quotidia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman naming conventions",
+    "url": "https://en.wikipedia.org/wiki/Roman_naming_conventions"
+   }
+  },
+  {
+   "id": "c207",
+   "tipus": "vida-quotidiana",
+   "titol": "L'escola i Orbili el pegador",
+   "text": "Horaci recorda el seu mestre Orbili, «el pegador». Quintilià, en canvi, recomanava no pegar els alumnes per aprendre millor.",
+   "imatge": {
+    "fitxer": "Bronze_young_girl_reading_CdM_Paris.jpg",
+    "descripcio": "Wikimedia Commons: Bronze young girl reading CdM Paris",
+    "credit": "Unknown",
+    "llicencia": "CC BY 2.5"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "escola",
+    "quotidia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Education in ancient Rome",
+    "url": "https://en.wikipedia.org/wiki/Education_in_ancient_Rome"
+   }
+  },
+  {
+   "id": "c208",
+   "tipus": "vida-quotidiana",
+   "titol": "Tauletes de cera per escriure",
+   "text": "A l'escola s'escrivia sobre tauletes de fusta cobertes de cera, amb un estil. L'altre extrem de l'estil, pla, servia per esborrar i tornar a escriure.",
+   "imatge": {
+    "fitxer": "Scraper,_booklet_of_wax_tablets.jpg",
+    "descripcio": "Wikimedia Commons: Scraper, booklet of wax tablets",
+    "credit": "anonymous",
+    "llicencia": "Public domain"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "escola",
+    "escriptura"
+   ],
+   "font": {
+    "titol": "Wikipedia: Wax tablet",
+    "url": "https://en.wikipedia.org/wiki/Wax_tablet"
+   }
+  },
+  {
+   "id": "c209",
+   "tipus": "vida-quotidiana",
+   "titol": "Cave canem: «compte amb el gos»",
+   "text": "A l'entrada d'una casa de Pompeia hi ha un mosaic d'un gos amb la inscripció CAVE CANEM, «compte amb el gos».",
+   "imatge": {
+    "fitxer": "Casa_del_poeta_tragico,_mosaico_del_cave_canem.jpg",
+    "descripcio": "Wikimedia Commons: Casa del poeta tragico, mosaico del cave canem",
+    "credit": "Sailko",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "mascotes",
+    "pompeia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Cave canem",
+    "url": "https://en.wikipedia.org/wiki/Cave_canem"
+   }
+  },
+  {
+   "id": "c210",
+   "tipus": "vida-quotidiana",
+   "titol": "Un joc de pilota: l'harpastum",
+   "text": "Els romans jugaven a l'harpastum, un joc de pilota petita en què dos equips lluitaven per quedar-se-la. ",
+   "imatge": {
+    "fitxer": "Tombstone of Gaius Laberius with harpastum ball in Sinj, Croatia.jpg",
+    "descripcio": "Làpida romana de Gaius Laberius amb una pilota d'harpastum (Sinj, Croàcia)",
+    "credit": "Lovrepalos",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "esports",
+    "jocs"
+   ],
+   "font": {
+    "titol": "Wikipedia: Harpastum",
+    "url": "https://en.wikipedia.org/wiki/Harpastum"
+   }
+  },
+  {
+   "id": "c211",
+   "tipus": "vida-quotidiana",
+   "titol": "Taulers de joc gravats al Fòrum",
+   "text": "Als graons i paviments de la basílica Júlia, al Fòrum, es veuen taulers de joc gravats per la gent que esperava: s'hi jugava mentre es feien gestions.",
+   "imatge": {
+    "fitxer": "Basilica_Julia_and_Santa_Maria_Antiqua_(seen_from_Tabularium)_-_Roman_Forum_-_Rome_2016.jpg",
+    "descripcio": "Wikimedia Commons: Basilica Julia and Santa Maria Antiqua (seen from Tabularium) - Roman Forum - Rome 2016",
+    "credit": "José Luiz",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": "forum-roma",
+   "periode": "imperi",
+   "etiquetes": [
+    "jocs",
+    "infants"
+   ],
+   "font": {
+    "titol": "Wikipedia: Basilica Julia",
+    "url": "https://en.wikipedia.org/wiki/Basilica_Julia"
+   }
+  },
+  {
+   "id": "c212",
+   "tipus": "vida-quotidiana",
+   "titol": "Instruments de cirurgià romans",
+   "text": "Els cirurgians romans feien servir bisturís, pinces i catèters. Se n'han trobat molts instruments a Pompeia.",
+   "imatge": {
+    "fitxer": "6_Roman_surgical_instruments_Wellcome_L0009950.jpg",
+    "descripcio": "Wikimedia Commons: 6 Roman surgical instruments Wellcome L0009950",
+    "credit": "Wellcome Collection",
+    "llicencia": "CC BY 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "medicina",
+    "pompeia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman medicine",
+    "url": "https://en.wikipedia.org/wiki/Roman_medicine"
+   }
+  },
+  {
+   "id": "c213",
+   "tipus": "vida-quotidiana",
+   "titol": "Una invitació d'aniversari de fa 1.900 anys",
+   "text": "Entre les tauletes de Vindolanda, al mur d'Hadrià, hi ha la invitació de Claudia Severa a un aniversari. La lletra és de dona: una de les més antigues en llatí.",
+   "imatge": {
+    "fitxer": "Vindolanda_tablet_291.jpg",
+    "descripcio": "Wikimedia Commons: Vindolanda tablet 291",
+    "credit": "Fæ",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "dones",
+    "escriptura",
+    "britania"
+   ],
+   "font": {
+    "titol": "Wikipedia: Vindolanda tablets",
+    "url": "https://en.wikipedia.org/wiki/Vindolanda_tablets"
+   }
+  },
+  {
+   "id": "c214",
+   "tipus": "vida-quotidiana",
+   "titol": "«Agafa'm perquè he fugit»",
+   "text": "Alguns collars de bronze per a esclaus fugitius, d'època tardana, duien un text com «Tene me quia fugi»: «Agafa'm, perquè he fugit».",
+   "imatge": {
+    "fitxer": "Inscribed_bronze_slave_collar_(Rome_MNR_65043;_CIL_XV_7194).jpg",
+    "descripcio": "Wikimedia Commons: Inscribed bronze slave collar (Rome MNR 65043; CIL XV 7194)",
+    "credit": "Mark Landon",
+    "llicencia": "CC BY 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "esclaus",
+    "quotidia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Slavery in ancient Rome",
+    "url": "https://en.wikipedia.org/wiki/Slavery_in_ancient_Rome"
+   }
+  },
+  {
+   "id": "c215",
+   "tipus": "vida-quotidiana",
+   "titol": "Saturnals: els amos serveixen els esclaus",
+   "text": "Als Saturnals, a mitjans de desembre, els amos servien la taula dels seus esclaus. Era temps de llibertat, de regals i de jugar-se diners.",
+   "imatge": {
+    "fitxer": "Saturnalia_by_Antoine_Callet.jpg",
+    "descripcio": "Wikimedia Commons: Saturnalia by Antoine Callet",
+    "credit": "Themadchopper, Antoine-François Callet",
+    "llicencia": "CC0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "festes",
+    "esclaus",
+    "religio"
+   ],
+   "font": {
+    "titol": "Wikipedia: Saturnalia",
+    "url": "https://en.wikipedia.org/wiki/Saturnalia"
+   }
+  },
+  {
+   "id": "c216",
+   "tipus": "vida-quotidiana",
+   "titol": "Les hores d'estiu eren més llargues",
+   "text": "Els romans dividien el dia en dotze hores, de sortida a posta de sol. Una hora d'estiu durava, doncs, més que una d'hivern.",
+   "imatge": {
+    "fitxer": "Ancient_Roman_sundial,_Antikensammlung_Berlin,_141306.jpg",
+    "descripcio": "Wikimedia Commons: Ancient Roman sundial, Antikensammlung Berlin, 141306",
+    "credit": "Zde",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "temps",
+    "quotidia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman timekeeping",
+    "url": "https://en.wikipedia.org/wiki/Roman_timekeeping"
+   }
+  },
+  {
+   "id": "c217",
+   "tipus": "vida-quotidiana",
+   "titol": "Setembre vol dir «setè mes»",
+   "text": "El calendari romà primitiu començava al març. Per això setembre, octubre, novembre i desembre vénen de set, vuit, nou i deu.",
+   "imatge": {
+    "fitxer": "Fasti_Praenestini_Massimo_n1.jpg",
+    "descripcio": "Wikimedia Commons: Fasti Praenestini Massimo n1",
+    "credit": "Marie-Lan Nguyen",
+    "llicencia": "CC BY 2.5"
+   },
+   "lloc": null,
+   "periode": "republica",
+   "etiquetes": [
+    "calendari",
+    "llengua"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman calendar",
+    "url": "https://en.wikipedia.org/wiki/Roman_calendar"
+   }
+  },
+  {
+   "id": "c218",
+   "tipus": "vida-quotidiana",
+   "titol": "Pisos de cinc plantes, sense foc segur",
+   "text": "Els pobres vivien a insulae, blocs de pisos de cinc o sis plantes, sovint mal construïts. Els incendis i els enfonsaments eren habituals.",
+   "imatge": {
+    "fitxer": "Insula_Ara_Coeli_-_Rome_(IT62)_-_2021-08-27_-_2.jpg",
+    "descripcio": "Wikimedia Commons: Insula Ara Coeli - Rome (IT62) - 2021-08-27 - 2",
+    "credit": "Chabe01",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "habitatge",
+    "urbanisme"
+   ],
+   "font": {
+    "titol": "Wikipedia: Insula (building)",
+    "url": "https://en.wikipedia.org/wiki/Insula_(building)"
+   }
+  },
+  {
+   "id": "c219",
+   "tipus": "vida-quotidiana",
+   "titol": "El pa conservat de Pompeia",
+   "text": "A Pompeia han aparegut pans carbonitzats amb un segell: «Celer, esclau de Quint Grani Verus». Els forners marcaven el pa.",
+   "imatge": {
+    "fitxer": "Bakery_of_Popidius_Priscus_(VI_2,22)_one_of_the_largest_in_Pompeii_excavated_in_the_1820s_Pompeii_Prowalk.jpg",
+    "descripcio": "Wikimedia Commons: Bakery of Popidius Priscus (VI 2,22) one of the largest in Pompeii excavated in the 1820s Pompeii Prowalk",
+    "credit": "Mary Harrsch",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "lloc": null,
+   "periode": "imperi",
+   "etiquetes": [
+    "menjar",
+    "pompeia"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pompeii",
+    "url": "https://en.wikipedia.org/wiki/Pompeii"
+   }
+  },
+  {
+   "id": "c220",
+   "tipus": "abans-despres",
+   "titol": "El Colosseu: del gravat a la foto",
+   "text": "Piranesi el va gravar el 1760. Avui, consolidat i restaurat, és un monument visitable al cor de Roma.",
+   "imatge": {
+    "fitxer": "Colosseum,_Eastern_Interior.jpg",
+    "descripcio": "Wikimedia Commons: Colosseum, Eastern Interior",
+    "credit": "Julian Lupyan",
+    "llicencia": "CC0"
+   },
+   "imatge_abans": {
+    "fitxer": "Giovanni_Battista_Piranesi,_Colosseum,_1760,_KKSgb9860-57,_Statens_Museum_for_Kunst.jpg",
+    "descripcio": "Wikimedia Commons: Giovanni Battista Piranesi, Colosseum, 1760, KKSgb9860-57, Statens Museum for Kunst",
+    "credit": "Giovanni Battista Piranesi",
+    "llicencia": "Public domain"
+   },
+   "lloc": "colosseu",
+   "periode": "imperi",
+   "etiquetes": [
+    "colosseu",
+    "abans-despres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "c221",
+   "tipus": "abans-despres",
+   "titol": "El Fòrum Romà: del Campo Vaccino a l'excavació",
+   "text": "Al segle XVIII era el Campo Vaccino, ple de columnes mig colgades. Les excavacions posteriors van deixar a la vista el Fòrum antic.",
+   "imatge": {
+    "fitxer": "Forum_romanum_6k_(5760x2097).jpg",
+    "descripcio": "Wikimedia Commons: Forum romanum 6k (5760x2097)",
+    "credit": "BeBo86",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "imatge_abans": {
+    "fitxer": "Giuseppe_Vasi_(Italian,_1710-1782)_-_The_Campo_Vaccino_-_1921.907_-_Cleveland_Museum_of_Art.jpg",
+    "descripcio": "Wikimedia Commons: Giuseppe Vasi (Italian, 1710-1782) - The Campo Vaccino - 1921.907 - Cleveland Museum of Art",
+    "credit": "Cleveland Museum of Art",
+    "llicencia": "Public domain"
+   },
+   "lloc": "forum-roma",
+   "periode": "imperi",
+   "etiquetes": [
+    "forum",
+    "abans-despres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Roman Forum",
+    "url": "https://en.wikipedia.org/wiki/Roman_Forum"
+   }
+  },
+  {
+   "id": "c222",
+   "tipus": "abans-despres",
+   "titol": "El Panteó: gravat de Piranesi i foto actual",
+   "text": "Piranesi el va gravar el 1761. El pòrtic i la cúpula romans es reconeixen avui sense dificultat, perquè l'edifici va esdevenir església.",
+   "imatge": {
+    "fitxer": "Il_Pantheon,_Roma.JPG",
+    "descripcio": "Wikimedia Commons: Il Pantheon, Roma",
+    "credit": "Roma1314",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "imatge_abans": {
+    "fitxer": "Giovanni_Battista_Piranesi,_Pantheon,_1761,_KKSgb9860-60,_Statens_Museum_for_Kunst.jpg",
+    "descripcio": "Wikimedia Commons: Giovanni Battista Piranesi, Pantheon, 1761, KKSgb9860-60, Statens Museum for Kunst",
+    "credit": "Giovanni Battista Piranesi",
+    "llicencia": "Public domain"
+   },
+   "lloc": "pantheon",
+   "periode": "imperi",
+   "etiquetes": [
+    "panteo",
+    "abans-despres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "c223",
+   "tipus": "abans-despres",
+   "titol": "La Columna Trajana: gravat i foto",
+   "text": "Piranesi va gravar la columna al segle XVIII. La columna és gairebé igual; l'entorn ha canviat, amb l'àrea excavada del Fòrum de Trajà.",
+   "imatge": {
+    "fitxer": "Colonna_Traiana_-_Roma.jpg",
+    "descripcio": "Wikimedia Commons: Colonna Traiana - Roma",
+    "credit": "Mauro Cateb",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "imatge_abans": {
+    "fitxer": "Zuil_van_Trajanus_te_Rome_Colonna_Trajana_(titel_op_object)_Gezichten_op_Rome_(serietitel)_Vedute_di_Roma_disegnate_ed_incise_da_Giambattista_Piranesi_architetto_Ve(nez)iano_(serietitel),_RP-P-1941-637.jpg",
+    "descripcio": "Wikimedia Commons: Zuil van Trajanus te Rome Colonna Trajana",
+    "credit": "Rijksmuseum",
+    "llicencia": "CC0"
+   },
+   "lloc": "columna-trajana",
+   "periode": "imperi",
+   "etiquetes": [
+    "trajà",
+    "abans-despres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Trajan%27s Column",
+    "url": "https://en.wikipedia.org/wiki/Trajan%27s_Column"
+   }
+  },
+  {
+   "id": "c224",
+   "tipus": "abans-despres",
+   "titol": "L'arc de Septimi Sever abans de les excavacions",
+   "text": "Al segle XVIII s'alçava al Campo Vaccino, abans de les excavacions del Fòrum. Avui es veu entre les ruïnes ja excavades.",
+   "imatge": {
+    "fitxer": "Arch_of_Septimius_Severus_East.jpg",
+    "descripcio": "Wikimedia Commons: Arch of Septimius Severus East",
+    "credit": "A. Hunter Wright",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "imatge_abans": {
+    "fitxer": "Boog_van_Septimius_Severus_en_Tempel_van_Saturnus_Parte_di_Campo_Vaccino_(titel_op_object)_Delle_Magnificenze_di_Roma_Antica_e_Moderna_(serietitel),_RP-P-1907-2367.jpg",
+    "descripcio": "Wikimedia Commons: Boog van Septimius Severus en Tempel van Saturnus Parte di Campo Vaccino",
+    "credit": "Rijksmuseum",
+    "llicencia": "CC0"
+   },
+   "lloc": "forum-roma",
+   "periode": "imperi",
+   "etiquetes": [
+    "forum",
+    "abans-despres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Arch of Septimius Severus",
+    "url": "https://en.wikipedia.org/wiki/Arch_of_Septimius_Severus"
+   }
+  },
+  {
+   "id": "c225",
+   "tipus": "abans-despres",
+   "titol": "Teatre de Marcel: gravat i foto",
+   "text": "Piranesi el va gravar amb arcs romans a baix i edificis moderns a sobre. Avui encara és així: teatre antic a baix, habitatges a dalt.",
+   "imatge": {
+    "fitxer": "Teatro_di_Marcello_intero.jpg",
+    "descripcio": "Wikimedia Commons: Teatro di Marcello intero",
+    "credit": "Fiat 500e",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "imatge_abans": {
+    "fitxer": "Piranesi-Teatro_Marcello.jpg",
+    "descripcio": "Wikimedia Commons: Piranesi-Teatro Marcello",
+    "credit": "Giovanni Piranesi (Italian, 1720-1778)",
+    "llicencia": "Public domain"
+   },
+   "lloc": "teatre-marcel",
+   "periode": "imperi",
+   "etiquetes": [
+    "teatre",
+    "abans-despres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Theatre of Marcellus",
+    "url": "https://en.wikipedia.org/wiki/Theatre_of_Marcellus"
+   }
+  },
+  {
+   "id": "c226",
+   "tipus": "abans-despres",
+   "titol": "Termes de Caracal·la: del gravat a la visita",
+   "text": "Piranesi va gravar les ruïnes de les termes al segle XVIII. Avui són un monument que es pot visitar.",
+   "imatge": {
+    "fitxer": "013_Caracalla-Thermen.jpg",
+    "descripcio": "Wikimedia Commons: 013 Caracalla-Thermen",
+    "credit": "Edelmauswaldgeist",
+    "llicencia": "CC0"
+   },
+   "imatge_abans": {
+    "fitxer": "Piranesi_Rovine_delle_Terme_Antoniniane.jpg",
+    "descripcio": "Wikimedia Commons: Piranesi Rovine delle Terme Antoniniane",
+    "credit": "Giovanni Battista Piranesi",
+    "llicencia": "Public domain"
+   },
+   "lloc": "termes-caracalla",
+   "periode": "imperi",
+   "etiquetes": [
+    "banys",
+    "abans-despres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Baths of Caracalla",
+    "url": "https://en.wikipedia.org/wiki/Baths_of_Caracalla"
+   }
+  },
+  {
+   "id": "c227",
+   "tipus": "abans-despres",
+   "titol": "El Mausoleu d'August: del gravat a la restauració",
+   "text": "Un gravat del segle XVIII el mostra com una ruïna. Després de catorze anys de restauració, va reobrir temporalment el 2021.",
+   "imatge": {
+    "fitxer": "Photographs_of_the_Mausoleum_of_Augustus_14_(cropped).jpg",
+    "descripcio": "Wikimedia Commons: Photographs of the Mausoleum of Augustus 14 (cropped)",
+    "credit": "MumblerJamie",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "imatge_abans": {
+    "fitxer": "Print,_Ruins_of_the_Mausoleum_of_Octavian_Augustus,_\"Le_Antichita_Romane\"_II,_1756,_1756_(CH_18336955).jpg",
+    "descripcio": "Wikimedia Commons: Print, Ruins of the Mausoleum of Octavian Augustus, \"Le Antichita Romane\" II, 1756, 1756 (CH 18336955)",
+    "credit": "Unknown artist",
+    "llicencia": "Public domain"
+   },
+   "lloc": "mausoleu-august",
+   "periode": "imperi",
+   "etiquetes": [
+    "august",
+    "abans-despres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Mausoleum of Augustus",
+    "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus"
+   }
+  },
+  {
+   "id": "c228",
+   "tipus": "abans-despres",
+   "titol": "Castel Sant'Angelo: gravat i foto",
+   "text": "Piranesi el va gravar quan era fortalesa papal. Des del 1901 és museu, amb la silueta del mausoleu d'Hadrià ben reconeixible.",
+   "imatge": {
+    "fitxer": "Castel_Sant'Angelo_from_Southeast,_Rome,_Italy.jpg",
+    "descripcio": "Wikimedia Commons: Castel Sant'Angelo from Southeast, Rome, Italy",
+    "credit": "Julian Lupyan",
+    "llicencia": "CC0"
+   },
+   "imatge_abans": {
+    "fitxer": "Castel_Sant'Angelo,_Giovanni_Battista_Piranesi.jpg",
+    "descripcio": "Wikimedia Commons: Castel Sant'Angelo, Giovanni Battista Piranesi",
+    "credit": "Incisione di Giovanni Battista Piranesi (1720-1778)",
+    "llicencia": "Public domain"
+   },
+   "lloc": "castell-sant-angelo",
+   "periode": "imperi",
+   "etiquetes": [
+    "adria",
+    "abans-despres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Castel Sant%27Angelo",
+    "url": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo"
+   }
+  },
+  {
+   "id": "c229",
+   "tipus": "abans-despres",
+   "titol": "L'Arc de Titus: del gravat al present",
+   "text": "Piranesi el va retratar al segle XVIII. La restauració de Stern i Valadier (1817-1821) va afegir travertí, distingible del marbre original.",
+   "imatge": {
+    "fitxer": "Arch_of_Titus_Detail.jpg",
+    "descripcio": "Wikimedia Commons: Arch of Titus Detail",
+    "credit": "Andargor (talk) (Uploads)",
+    "llicencia": "Public domain"
+   },
+   "imatge_abans": {
+    "fitxer": "Boog_van_Titus_te_Rome_Veduta_dell'Arco_di_Tito_(titel_op_object)_Gezichten_op_Rome_(serietitel)_Vedute_di_Roma_disegnate_ed_incise_da_Giambattista_Piranesi_architetto_Ve(nez)iano_(serietitel),_RP-P-1941-628.jpg",
+    "descripcio": "Wikimedia Commons: Boog van Titus te Rome Veduta dell'Arco di Tito",
+    "credit": "Rijksmuseum",
+    "llicencia": "CC0"
+   },
+   "lloc": "arc-titus",
+   "periode": "imperi",
+   "etiquetes": [
+    "arc",
+    "abans-despres"
+   ],
+   "font": {
+    "titol": "Wikipedia: Arch of Titus",
+    "url": "https://en.wikipedia.org/wiki/Arch_of_Titus"
+   }
+  }
+ ]
+}

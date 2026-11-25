@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>Roma Antiga</title>
-  <meta name="description" content="Guia personal de viatge a la Roma antiga: llocs, mapa, cronologia, rutes i informació pràctica. Funciona sense connexió.">
-  <meta name="theme-color" content="#f4efe6" media="(prefers-color-scheme: light)">
-  <meta name="theme-color" content="#1b1713" media="(prefers-color-scheme: dark)">
+  <meta name="description" content="Guia personal de viatge a la Roma antiga: llocs, scroll de curiositats, jocs, mapa, cronologia i rutes. Funciona sense connexió.">
+  <meta name="theme-color" content="#e8dec8" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14100d" media="(prefers-color-scheme: dark)">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" type="image/svg+xml" href="icons/icon.svg">
   <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32.png">
@@ -17,28 +17,34 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="format-detection" content="telephone=no">
   <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="css/fonts.css">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/pages.css">
+  <link rel="stylesheet" href="css/jocs.css">
+  <link rel="preload" href="fonts/cinzel-400-900.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/eb-garamond-400-700.woff2" as="font" type="font/woff2" crossorigin>
 </head>
 <body>
   <a class="skip" href="#main">Salta al contingut</a>
   <div id="offline-badge" class="offline-badge" role="status" hidden>Sense connexió</div>
   <header class="topbar" id="topbar">
-    <button class="icon-btn" id="back-btn" aria-label="Enrere" hidden>‹</button>
-    <a class="brand" href="#/">Roma <span>Antiga</span></a>
+    <button class="icon-btn" id="back-btn" aria-label="Enrere" hidden><svg class="ic" aria-hidden="true"><use href="icons/set/sprite.svg#i-chevron-left"/></svg></button>
+    <a class="brand" href="#/" aria-label="Roma Antiga, inici"><svg class="ic brand-mark" aria-hidden="true"><use href="icons/set/sprite.svg#i-laurel"/></svg><span>Roma <em>Antiga</em></span></a>
     <nav class="topnav" aria-label="Accessos ràpids">
-      <a href="#/preferits" aria-label="Preferits" title="Preferits">★</a>
-      <a href="#/ajustos" aria-label="Ajustos i ús sense connexió" title="Ajustos">⚙</a>
+      <a href="#/preferits" aria-label="Preferits" title="Preferits"><svg class="ic" aria-hidden="true"><use href="icons/set/sprite.svg#i-favorites"/></svg></a>
+      <button type="button" id="menu-btn" aria-label="Més seccions" title="Més"><svg class="ic" aria-hidden="true"><use href="icons/set/sprite.svg#i-menu"/></svg></button>
     </nav>
   </header>
   <main id="main" tabindex="-1"></main>
   <nav class="tabbar" id="tabbar" aria-label="Navegació principal">
-    <a href="#/" data-tab="inici"><i>⌂</i><span>Inici</span></a>
-    <a href="#/llocs" data-tab="llocs"><i>▥</i><span>Llocs</span></a>
-    <a href="#/mapa" data-tab="mapa"><i>⌖</i><span>Mapa</span></a>
-    <a href="#/rutes" data-tab="rutes"><i>⇢</i><span>Rutes</span></a>
-    <a href="#/practic" data-tab="practic"><i>ℹ</i><span>Pràctic</span></a>
+    <a href="#/" data-tab="inici"><svg class="ic" aria-hidden="true"><use href="icons/set/sprite.svg#i-home"/></svg><span>Inici</span></a>
+    <a href="#/llocs" data-tab="llocs"><svg class="ic" aria-hidden="true"><use href="icons/set/sprite.svg#i-places"/></svg><span>Llocs</span></a>
+    <a href="#/scroll" data-tab="scroll" class="tab-hero"><svg class="ic" aria-hidden="true"><use href="icons/set/sprite.svg#i-scroll"/></svg><span>Scroll</span></a>
+    <a href="#/jocs" data-tab="jocs" class="tab-hero"><svg class="ic" aria-hidden="true"><use href="icons/set/sprite.svg#i-games"/></svg><span>Jocs</span></a>
+    <a href="#/mapa" data-tab="mapa"><svg class="ic" aria-hidden="true"><use href="icons/set/sprite.svg#i-map"/></svg><span>Mapa</span></a>
+    <a href="#/rutes" data-tab="rutes"><svg class="ic" aria-hidden="true"><use href="icons/set/sprite.svg#i-routes"/></svg><span>Rutes</span></a>
   </nav>
-  <div id="lightbox" class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Imatge ampliada"></div>
+  <div id="lightbox" class="lightbox" hidden role="dialog" aria-modal="true" aria-label="Galeria d'imatges"></div>
   <script src="vendor/leaflet/leaflet.js"></script>
   <script type="module" src="js/app.js"></script>
 </body>

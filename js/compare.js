@@ -1,5 +1,7 @@
 // Comparador abans/després amb control lliscant (ratolí, tàctil i teclat).
 import { img, zoomImg, creditLine, esc } from "./util.js";
+import { reduced, vibe } from "./ui.js";
+import { ic } from "./icons.js";
 
 export function compareHTML(im, nomLloc) {
   const a = im?.abans, d = im?.despres;
@@ -10,7 +12,7 @@ export function compareHTML(im, nomLloc) {
         ${img(a.fitxer, `Abans: ${a.descripcio || nomLloc}`, 1200, "top")}
         <span class="cmp-tag l">Abans</span><span class="cmp-tag r">Després</span>
         <button class="cmp-handle" role="slider" aria-label="Comparador abans i després: posició del control" aria-orientation="horizontal"
-          aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" aria-valuetext="50% — meitat abans, meitat després"><span>‹›</span></button>
+          aria-valuemin="0" aria-valuemax="100" aria-valuenow="50" aria-valuetext="50% — meitat abans, meitat després"><span>${ic("chevron-left")}${ic("chevron-right")}</span></button>
       </div>
       <div class="cmp-caps">
         <div><b>Abans</b>${esc(a.descripcio || "")}${creditLine(a.credit, a.llicencia)}</div>
@@ -40,12 +42,23 @@ export function initCompare(root) {
     if (announce) handle.setAttribute("aria-valuetext", `${Math.round(pos)}% — ${pos > 55 ? "més abans" : pos < 45 ? "més després" : "meitat abans, meitat després"}`);
   };
   set(50, false);
+  // Invitació única: en entrar a pantalla, el control es mou una mica perquè es vegi que es pot arrossegar
+  if (!reduced() && "IntersectionObserver" in window) {
+    const io = new IntersectionObserver((en) => {
+      if (!en[0].isIntersecting) return; io.disconnect();
+      const t0 = performance.now(), D = 1500;
+      const f = (t) => { if (drag || touched) return; const k = Math.min(1, (t - t0) / D); set(50 + Math.sin(k * Math.PI * 2) * 18 * (1 - k * 0.3), false); if (k < 1) requestAnimationFrame(f); else set(50, false); };
+      requestAnimationFrame(f);
+    }, { threshold: 0.7 });
+    io.observe(stage);
+  }
+  let touched = false;
   const fromEvent = (e) => { const r = stage.getBoundingClientRect(); set(((e.clientX - r.left) / r.width) * 100); };
   let drag = false;
   stage.addEventListener("pointerdown", (e) => {
     // Al tàctil, només s'arrossega des del control (així es pot desplaçar la pàgina amb el dit sobre la imatge)
     if (e.pointerType === "touch" && !e.target.closest(".cmp-handle")) return;
-    drag = true; stage.setPointerCapture(e.pointerId); fromEvent(e); handle.focus({ preventScroll: true });
+    drag = true; touched = true; vibe(5); stage.setPointerCapture(e.pointerId); fromEvent(e); handle.focus({ preventScroll: true });
   });
   stage.addEventListener("pointermove", (e) => { if (drag) { fromEvent(e); e.preventDefault(); } });
   const end = (e) => { drag = false; try { stage.releasePointerCapture(e.pointerId); } catch {} };

@@ -1,0 +1,4172 @@
+{
+ "preguntes": [
+  {
+   "id": "q001",
+   "pregunta": "Qui va ser el primer emperador de Roma?",
+   "opcions": [
+    "Juli Cèsar",
+    "August",
+    "Neró",
+    "Trajà"
+   ],
+   "correcta": 1,
+   "explicacio": "Octavià va rebre el nom d'August l'any 27 aC. Juli Cèsar mai no va ser emperador: va ser dictador perpetu.",
+   "dificultat": 1,
+   "tema": "emperadors",
+   "lloc": "mausoleu-august",
+   "imatge": {
+    "fitxer": "Augustea Piazza Augusto Imperatore Roma - Mausoleo di Augusto.jpg",
+    "descripcio": "El mausoleu a la Piazza Augusto Imperatore.",
+    "credit": "Marco952",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus"
+   }
+  },
+  {
+   "id": "q002",
+   "pregunta": "Quin emperador va ordenar construir el Colosseu?",
+   "opcions": [
+    "Neró",
+    "Vespasià",
+    "Constantí",
+    "Marc Aureli"
+   ],
+   "correcta": 1,
+   "explicacio": "Les obres van començar cap al 70-72 dC sobre l'antic estany de la Domus Aurea; el seu fill Titus el va inaugurar l'any 80 dC.",
+   "dificultat": 1,
+   "tema": "emperadors",
+   "lloc": "colosseu",
+   "imatge": {
+    "fitxer": "Colosseo 2020.jpg",
+    "descripcio": "El Colosseu vist des de l'exterior.",
+    "credit": "FeaturedPics",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "q003",
+   "pregunta": "A quina dinastia pertanyien Vespasià, Titus i Domicià?",
+   "opcions": [
+    "Julioclàudia",
+    "Antonina",
+    "Severa",
+    "Flàvia"
+   ],
+   "correcta": 3,
+   "explicacio": "Els Flavis van governar del 69 al 96 dC i van deixar empremta a Roma: el Colosseu, l'Arc de Titus i l'estadi de Domicià.",
+   "dificultat": 1,
+   "tema": "emperadors",
+   "lloc": "arc-titus",
+   "imatge": {
+    "fitxer": "Arch Titus, Forum Romanum, Rome, Italy.jpg",
+    "descripcio": "L'Arc de Titus a la Via Sacra.",
+    "credit": "Jebulon",
+    "llicencia": "CC0"
+   },
+   "font": {
+    "titol": "Wikipedia: Flavian dynasty",
+    "url": "https://en.wikipedia.org/wiki/Flavian_dynasty"
+   }
+  },
+  {
+   "id": "q004",
+   "pregunta": "Quin emperador va aixecar la Columna Trajana per celebrar les victòries a la Dàcia?",
+   "opcions": [
+    "Hadrià",
+    "Septimi Sever",
+    "Dioclecià",
+    "Trajà"
+   ],
+   "correcta": 3,
+   "explicacio": "La columna, inaugurada l'any 113 dC, tenia a dalt una estàtua de Trajà; avui hi ha una de Sant Pere des del 1587.",
+   "dificultat": 1,
+   "tema": "emperadors",
+   "lloc": "columna-trajana",
+   "imatge": {
+    "fitxer": "Trajan's Column HD.jpg",
+    "descripcio": "La Columna Trajana avui.",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Trajan's Column",
+    "url": "https://en.wikipedia.org/wiki/Trajan's_Column"
+   }
+  },
+  {
+   "id": "q005",
+   "pregunta": "Quin emperador va fer construir el famós mur al nord de Britànnia?",
+   "opcions": [
+    "Trajà",
+    "Hadrià",
+    "August",
+    "Claudi"
+   ],
+   "correcta": 1,
+   "explicacio": "El mur d'Hadrià va començar a construir-se l'any 122 dC. El mateix emperador es va fer una gran vil·la a Tívoli.",
+   "dificultat": 1,
+   "tema": "emperadors",
+   "lloc": "villa-adriana",
+   "imatge": {
+    "fitxer": "The Canopus, Hadrian's Villa, Tivoli (14759103250).jpg",
+    "descripcio": "El Canop avui.",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Hadrian's Wall",
+    "url": "https://en.wikipedia.org/wiki/Hadrian's_Wall"
+   }
+  },
+  {
+   "id": "q006",
+   "pregunta": "Quin d'aquests personatges NO va ser mai emperador?",
+   "opcions": [
+    "Tiberi",
+    "Vespasià",
+    "Claudi",
+    "Juli Cèsar"
+   ],
+   "correcta": 3,
+   "explicacio": "Cèsar va ser dictador, però mai no va portar el títol d'emperador. El seu hereu adoptiu, August, sí que va ser el primer.",
+   "dificultat": 1,
+   "tema": "emperadors",
+   "lloc": "forum-cesar",
+   "imatge": {
+    "fitxer": "Forum of Julius Caesar and Temple of Venus Genitrix - Roman Forums - Rome 2016.jpg",
+    "descripcio": "El Fòrum de Cèsar i el temple de Venus Genetrix, avui.",
+    "credit": "José Luiz",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Julius Caesar",
+    "url": "https://en.wikipedia.org/wiki/Julius_Caesar"
+   }
+  },
+  {
+   "id": "q007",
+   "pregunta": "Quin emperador va posar fi a la persecució dels cristians i va fundar Constantinoble?",
+   "opcions": [
+    "Dioclecià",
+    "Constantí",
+    "Neró",
+    "Maxenci"
+   ],
+   "correcta": 1,
+   "explicacio": "Constantí va pactar amb Licini l'Edicte de Milà (313) i va inaugurar Constantinoble l'any 330.",
+   "dificultat": 1,
+   "tema": "emperadors",
+   "lloc": "arc-constanti",
+   "imatge": {
+    "fitxer": "Arch of Constantine (Rome) - South side, from Via triumphalis.jpg",
+    "descripcio": "L'Arc de Constantí, cara sud, des de la Via Triumphalis.",
+    "credit": "NikonZ7II (Paris Orlando)",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Constantine the Great",
+    "url": "https://en.wikipedia.org/wiki/Constantine_the_Great"
+   }
+  },
+  {
+   "id": "q008",
+   "pregunta": "Qui era l'esposa d'August, que va viure a la casa del Palatí que porta el seu nom?",
+   "opcions": [
+    "Lívia",
+    "Agripina",
+    "Poppea",
+    "Messalina"
+   ],
+   "correcta": 0,
+   "explicacio": "Lívia Drusil·la va ser la dona d'August durant més de cinc dècades i la mare de l'emperador Tiberi.",
+   "dificultat": 1,
+   "tema": "emperadors",
+   "lloc": "domus-augusti",
+   "imatge": {
+    "fitxer": "Augustus-Maskenraum01b.jpg",
+    "descripcio": "La Sala de les Màscares, Casa d'August.",
+    "credit": "Unknown author",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Livia",
+    "url": "https://en.wikipedia.org/wiki/Livia"
+   }
+  },
+  {
+   "id": "q009",
+   "pregunta": "Quin emperador va derrotar Maxenci a la batalla del Pont Milvi l'any 312?",
+   "opcions": [
+    "Licini",
+    "Dioclecià",
+    "Constantí",
+    "Aurelià"
+   ],
+   "correcta": 2,
+   "explicacio": "Segons la tradició, Constantí va veure un senyal diví abans de la batalla. L'Arc de Constantí commemora la victòria.",
+   "dificultat": 2,
+   "tema": "emperadors",
+   "lloc": "arc-constanti",
+   "imatge": {
+    "fitxer": "Arch of Constantine (Rome) - South side, from Via triumphalis.jpg",
+    "descripcio": "L'Arc de Constantí, cara sud, des de la Via Triumphalis.",
+    "credit": "NikonZ7II (Paris Orlando)",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Battle of the Milvian Bridge",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge"
+   }
+  },
+  {
+   "id": "q010",
+   "pregunta": "En quin any va tenir lloc el gran incendi de Roma sota Neró?",
+   "opcions": [
+    "44 aC",
+    "79 dC",
+    "117 dC",
+    "64 dC"
+   ],
+   "correcta": 3,
+   "explicacio": "L'incendi va començar el juliol del 64 dC al Circ Màxim. Després Neró es va fer la Domus Aurea sobre part de la zona cremada.",
+   "dificultat": 2,
+   "tema": "emperadors",
+   "lloc": "domus-aurea",
+   "imatge": {
+    "fitxer": "Panorama of Octagonal Room, Domus Aurea (42152270155).jpg",
+    "descripcio": "Panoràmica de la Sala Octogonal.",
+    "credit": "Tyler Bell",
+    "llicencia": "CC BY 2.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Great Fire of Rome",
+    "url": "https://en.wikipedia.org/wiki/Great_Fire_of_Rome"
+   }
+  },
+  {
+   "id": "q011",
+   "pregunta": "Què vol dir «Calígula», el sobrenom de Gai Cèsar?",
+   "opcions": [
+    "«Petit lleó»",
+    "«Cabell vermell»",
+    "«Botetes» (sandàlies de soldat)",
+    "«Cor valent»"
+   ],
+   "correcta": 2,
+   "explicacio": "De petit anava vestit de soldat amb les caligae, les botes militars. El malnom li va quedar de per vida.",
+   "dificultat": 2,
+   "tema": "emperadors",
+   "font": {
+    "titol": "Wikipedia: Caligula",
+    "url": "https://en.wikipedia.org/wiki/Caligula"
+   }
+  },
+  {
+   "id": "q012",
+   "pregunta": "Quin emperador-filòsof va escriure les «Meditacions» en grec durant les campanyes militars?",
+   "opcions": [
+    "Hadrià",
+    "Trajà",
+    "Antoní Pius",
+    "Marc Aureli"
+   ],
+   "correcta": 3,
+   "explicacio": "Marc Aureli va escriure a la frontera del Danubi. La seva columna triomfal es conserva a la Piazza Colonna de Roma.",
+   "dificultat": 2,
+   "tema": "emperadors",
+   "lloc": "columna-marc-aureli",
+   "imatge": {
+    "fitxer": "Column of Marcus Aurelius in the Piazza Colonna, Rome, Italy (9608156023).jpg",
+    "descripcio": "La columna a Piazza Colonna.",
+    "credit": "l0da_ralta",
+    "llicencia": "CC BY 2.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Marcus Aurelius",
+    "url": "https://en.wikipedia.org/wiki/Marcus_Aurelius"
+   }
+  },
+  {
+   "id": "q013",
+   "pregunta": "Quin emperador va crear la tetrarquia, repartint el poder entre quatre governants?",
+   "opcions": [
+    "Dioclecià",
+    "Constantí",
+    "Septimi Sever",
+    "Aurelià"
+   ],
+   "correcta": 0,
+   "explicacio": "Dioclecià va reorganitzar l'Imperi i es va retirar voluntàriament l'any 305 a un gran palau a la costa dàlmata, a Split.",
+   "dificultat": 2,
+   "tema": "emperadors",
+   "lloc": "termes-diocleci",
+   "imatge": {
+    "fitxer": "Santa Maria degli Angeli e dei Martiri (5986640971).jpg",
+    "descripcio": "Interior de la basílica construïda per Miquel Àngel dins les termes.",
+    "credit": "Erik Drost",
+    "llicencia": "CC BY 2.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Diocletian",
+    "url": "https://en.wikipedia.org/wiki/Diocletian"
+   }
+  },
+  {
+   "id": "q014",
+   "pregunta": "Com es coneix l'any 69 dC, en què van regnar successivament Galba, Otó, Vitel·li i Vespasià?",
+   "opcions": [
+    "L'any del foc",
+    "L'any de les tres legions",
+    "L'any dels cinc bons",
+    "L'any dels quatre emperadors"
+   ],
+   "correcta": 3,
+   "explicacio": "Va ser una guerra civil breu però sagnant que va acabar amb Vespasià i l'inici de la dinastia Flàvia.",
+   "dificultat": 2,
+   "tema": "emperadors",
+   "font": {
+    "titol": "Wikipedia: Year of the Four Emperors",
+    "url": "https://en.wikipedia.org/wiki/Year_of_the_Four_Emperors"
+   }
+  },
+  {
+   "id": "q015",
+   "pregunta": "Quin d'aquests emperadors NO forma part dels anomenats «cinc bons emperadors»?",
+   "opcions": [
+    "Nerva",
+    "Hadrià",
+    "Neró",
+    "Marc Aureli"
+   ],
+   "correcta": 2,
+   "explicacio": "Els cinc bons són Nerva, Trajà, Hadrià, Antoní Pius i Marc Aureli (96-180 dC), segons la tradició històrica.",
+   "dificultat": 2,
+   "tema": "emperadors",
+   "font": {
+    "titol": "Wikipedia: Five Good Emperors",
+    "url": "https://en.wikipedia.org/wiki/Five_Good_Emperors"
+   }
+  },
+  {
+   "id": "q016",
+   "pregunta": "Quin emperador va ordenar bastir l'estadi de Domicià sota l'actual Piazza Navona?",
+   "opcions": [
+    "Domicià",
+    "Neró",
+    "Trajà",
+    "August"
+   ],
+   "correcta": 0,
+   "explicacio": "L'estadi, d'uns 275 m de llarg, es feia servir per a competicions atlètiques a la manera grega. La plaça conserva la seva forma allargada.",
+   "dificultat": 2,
+   "tema": "emperadors",
+   "lloc": "estadi-domicia",
+   "imatge": {
+    "fitxer": "Piazza Navona Underground Ruins of Stadium of Domitian (48493100687).jpg",
+    "descripcio": "Ruïnes de l'estadi al subsòl de Piazza Navona.",
+    "credit": "Gary Todd from Xinzheng, China",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Stadium of Domitian",
+    "url": "https://en.wikipedia.org/wiki/Stadium_of_Domitian"
+   }
+  },
+  {
+   "id": "q017",
+   "pregunta": "Quin emperador va iniciar la conquesta de Britànnia l'any 43 dC?",
+   "opcions": [
+    "Calígula",
+    "Claudi",
+    "Neró",
+    "Vespasià"
+   ],
+   "correcta": 1,
+   "explicacio": "Claudi va viatjar fins a Britànnia per entrar a Camulodunum (Colchester) i rebre la rendició de reis locals.",
+   "dificultat": 2,
+   "tema": "emperadors",
+   "font": {
+    "titol": "Wikipedia: Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius"
+   }
+  },
+  {
+   "id": "q018",
+   "pregunta": "Quin emperador va manar aixecar la muralla que encara envolta bona part del centre de Roma?",
+   "opcions": [
+    "August",
+    "Constantí",
+    "Trajà",
+    "Aurelià"
+   ],
+   "correcta": 3,
+   "explicacio": "La Muralla Aureliana, d'uns 19 km, va començar l'any 271 dC i va servir com a defensa durant gairebé 1.600 anys.",
+   "dificultat": 2,
+   "tema": "emperadors",
+   "lloc": "mur-aurelia",
+   "imatge": {
+    "fitxer": "PortSSebastian(face externe).jpg",
+    "descripcio": "Porta San Sebastiano vista des de l'exterior.",
+    "credit": "Ardeatino",
+    "llicencia": "CC BY 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Aurelian Walls",
+    "url": "https://en.wikipedia.org/wiki/Aurelian_Walls"
+   }
+  },
+  {
+   "id": "q019",
+   "pregunta": "Quin emperador es va fer enterrar al mausoleu del Camp de Mart que va fer construir ell mateix?",
+   "opcions": [
+    "Neró",
+    "Hadrià",
+    "Domicià",
+    "August"
+   ],
+   "correcta": 3,
+   "explicacio": "Les cendres d'August van reposar al seu mausoleu. A la porta s'havien posat les Res Gestae, el seu «currículum» en bronze.",
+   "dificultat": 1,
+   "tema": "emperadors",
+   "lloc": "mausoleu-august",
+   "imatge": {
+    "fitxer": "Print, Ruins of the Mausoleum of Octavian Augustus, \"Le Antichita Romane\" II, 1756, 1756 (CH 18336955).jpg",
+    "descripcio": "Gravat de Piranesi (Le Antichità Romane, 1756): les ruïnes del mausoleu.",
+    "credit": "Unknown artist",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Mausoleum of Augustus",
+    "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus"
+   }
+  },
+  {
+   "id": "q020",
+   "pregunta": "Quin emperador, nascut a Leptis Magna (Líbia actual), va ser el primer d'origen africà?",
+   "opcions": [
+    "Septimi Sever",
+    "Caracal·la",
+    "Macrí",
+    "Filip l'Àrab"
+   ],
+   "correcta": 0,
+   "explicacio": "Septimi Sever va ser emperador del 193 al 211 dC i va fundar la dinastia Severa. El seu arc es conserva al Fòrum.",
+   "dificultat": 3,
+   "tema": "emperadors",
+   "font": {
+    "titol": "Wikipedia: Septimius Severus",
+    "url": "https://en.wikipedia.org/wiki/Septimius_Severus"
+   }
+  },
+  {
+   "id": "q021",
+   "pregunta": "Quin decret de l'emperador Caracal·la, l'any 212, va canviar la ciutadania romana?",
+   "opcions": [
+    "Va donar la ciutadania a gairebé tots els homes lliures de l'Imperi",
+    "Va abolir l'esclavitud",
+    "Va obligar tothom a pagar impostos en moneda",
+    "Va prohibir els cultes estrangers"
+   ],
+   "correcta": 0,
+   "explicacio": "La Constitutio Antoniniana va ampliar la ciutadania; segons alguns historiadors, perquè així tothom pagava determinats impostos.",
+   "dificultat": 3,
+   "tema": "emperadors",
+   "lloc": "termes-caracalla",
+   "imatge": {
+    "fitxer": "Baths of Caracalla, facing Caldarium.jpg",
+    "descripcio": "Les ruïnes actuals vistes cap al caldarium.",
+    "credit": "Ethan Doyle White",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Constitutio Antoniniana",
+    "url": "https://en.wikipedia.org/wiki/Constitutio_Antoniniana"
+   }
+  },
+  {
+   "id": "q022",
+   "pregunta": "Qui va ser l'últim emperador romà d'Occident, deposat l'any 476?",
+   "opcions": [
+    "Teodosi I",
+    "Honori",
+    "Julià l'Apòstata",
+    "Ròmul Augústul"
+   ],
+   "correcta": 3,
+   "explicacio": "Odoacre el va deposar i va enviar les insígnies imperials a Constantinoble. Per això es considera el final de l'Imperi romà d'Occident.",
+   "dificultat": 3,
+   "tema": "emperadors",
+   "font": {
+    "titol": "Wikipedia: Romulus Augustulus",
+    "url": "https://en.wikipedia.org/wiki/Romulus_Augustulus"
+   }
+  },
+  {
+   "id": "q023",
+   "pregunta": "Quin emperador va ser l'últim a governar tot l'Imperi, abans de la divisió definitiva del 395?",
+   "opcions": [
+    "Teodosi I",
+    "Constantí",
+    "Valentinià",
+    "Honori"
+   ],
+   "correcta": 0,
+   "explicacio": "Teodosi va morir el 395 i va repartir l'Imperi entre els seus fills Arcadi (Orient) i Honori (Occident).",
+   "dificultat": 3,
+   "tema": "emperadors",
+   "font": {
+    "titol": "Wikipedia: Theodosius I",
+    "url": "https://en.wikipedia.org/wiki/Theodosius_I"
+   }
+  },
+  {
+   "id": "q024",
+   "pregunta": "Sota quin emperador va assolir l'Imperi romà la màxima extensió territorial, cap al 117 dC?",
+   "opcions": [
+    "Trajà",
+    "August",
+    "Hadrià",
+    "Constantí"
+   ],
+   "correcta": 0,
+   "explicacio": "Amb les conquestes a la Dàcia i a Mesopotàmia, Roma va arribar al seu màxim. El seu successor, Hadrià, va abandonar part de les conquestes orientals.",
+   "dificultat": 2,
+   "tema": "emperadors",
+   "lloc": "forum-traja",
+   "imatge": {
+    "fitxer": "Forum of Trajan, Rome - panoramio.jpg",
+    "descripcio": "El Fòrum de Trajà avui.",
+    "credit": "Jan Hazevoet",
+    "llicencia": "CC BY 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Roman Empire",
+    "url": "https://en.wikipedia.org/wiki/Roman_Empire"
+   }
+  },
+  {
+   "id": "q025",
+   "pregunta": "Quina innovació estètica va popularitzar l'emperador Hadrià als seus retrats?",
+   "opcions": [
+    "La barba",
+    "La corona de llorer d'or",
+    "El cabell rapat",
+    "Els bigotis llargs"
+   ],
+   "correcta": 0,
+   "explicacio": "Hadrià va ser el primer emperador que es va fer retratar amb barba, a l'estil dels filòsofs grecs que admirava.",
+   "dificultat": 3,
+   "tema": "emperadors",
+   "lloc": "villa-adriana",
+   "font": {
+    "titol": "Wikipedia: Hadrian",
+    "url": "https://en.wikipedia.org/wiki/Hadrian"
+   }
+  },
+  {
+   "id": "q026",
+   "pregunta": "Com va morir Neró, l'any 68 dC?",
+   "opcions": [
+    "Es va suïcidar quan el Senat el va declarar enemic públic",
+    "El va assassinar la guàrdia pretoriana al Palatí",
+    "Va morir a la guerra contra els parts",
+    "Va caure malalt a Capri"
+   ],
+   "correcta": 0,
+   "explicacio": "Va fugir de Roma i va morir amb l'ajut d'un secretari. Amb ell s'acabava la dinastia Julioclàudia.",
+   "dificultat": 3,
+   "tema": "emperadors",
+   "lloc": "domus-aurea",
+   "font": {
+    "titol": "Wikipedia: Nero",
+    "url": "https://en.wikipedia.org/wiki/Nero"
+   }
+  },
+  {
+   "id": "q027",
+   "pregunta": "Com es diu l'obertura circular de la cúpula del Panteó?",
+   "opcions": [
+    "Lluernari",
+    "Rosetó",
+    "Òcul (oculus)",
+    "Absis"
+   ],
+   "correcta": 2,
+   "explicacio": "L'òcul fa uns 8,7 m de diàmetre, no té vidre i és l'única font de llum de l'interior. Quan plou, l'aigua entra de debò!",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "pantheon",
+   "imatge": {
+    "fitxer": "Interior oculus of the Rome Pantheon.jpg",
+    "descripcio": "L'oculus de la cúpula.",
+    "credit": "T. Le Berre",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "q028",
+   "pregunta": "Per a què servia el Circ Màxim?",
+   "opcions": [
+    "Per a lluites de gladiadors",
+    "Per a les representacions de teatre",
+    "Per a curses de carros",
+    "Per a reunions del Senat"
+   ],
+   "correcta": 2,
+   "explicacio": "Era el circ més gran de Roma, a la vall entre el Palatí i l'Aventí. Avui només queda una gran esplanada.",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "circ-maxim",
+   "imatge": {
+    "fitxer": "Circus Maximus 2025.jpg",
+    "descripcio": "El Circ Màxim avui.",
+    "credit": "Rione Colonna",
+    "llicencia": "CC BY 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Circus Maximus",
+    "url": "https://en.wikipedia.org/wiki/Circus_Maximus"
+   }
+  },
+  {
+   "id": "q029",
+   "pregunta": "Quin era el nom llatí original del Colosseu?",
+   "opcions": [
+    "Amphitheatrum Flavium",
+    "Circus Maximus",
+    "Templum Pacis",
+    "Forum Romanum"
+   ],
+   "correcta": 0,
+   "explicacio": "Va rebre el nom de Colosseu, probablement, per una estàtua colossal de Neró que hi havia a prop.",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "colosseu",
+   "imatge": {
+    "fitxer": "Panoramic photograph of interior of Colosseum.jpg",
+    "descripcio": "Panoràmica de l'interior del Colosseu.",
+    "credit": "ThePhotografer",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "q030",
+   "pregunta": "Quin edifici de Roma conserva la cúpula de formigó no armat més gran del món?",
+   "opcions": [
+    "El Colosseu",
+    "La Basílica de Maxenci",
+    "El Panteó",
+    "Les Termes de Caracal·la"
+   ],
+   "correcta": 2,
+   "explicacio": "La cúpula té uns 43 m de diàmetre i va ser la més gran del món durant gairebé 1.300 anys.",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "pantheon",
+   "imatge": {
+    "fitxer": "Rome Pantheon facade.jpg",
+    "descripcio": "Façana i pòrtic del Panteó avui.",
+    "credit": "Nicholas Hartmann",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "q031",
+   "pregunta": "A quin turó diu la llegenda que Ròmul va fundar Roma?",
+   "opcions": [
+    "Aventí",
+    "Capitoli",
+    "Quirinal",
+    "Palatí"
+   ],
+   "correcta": 3,
+   "explicacio": "El Palatí va acabar convertit en barri d'elit: d'aquest turó ve la paraula «palau».",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "palati",
+   "imatge": {
+    "fitxer": "Palatine Hill from across the Circus Maximus April 2019.jpg",
+    "descripcio": "El Palatí vist des del Circ Màxim.",
+    "credit": "Lil Herodotus",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Palatine Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill"
+   }
+  },
+  {
+   "id": "q032",
+   "pregunta": "Quin monument recorda la conquesta de Jerusalem l'any 70 dC?",
+   "opcions": [
+    "Arc de Constantí",
+    "Ara Pacis",
+    "Arc de Titus",
+    "Columna Trajana"
+   ],
+   "correcta": 2,
+   "explicacio": "Els relleus de l'arc mostren els soldats portant el candelabre de set braços, la menorà, del temple de Jerusalem.",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "arc-titus",
+   "imatge": {
+    "fitxer": "Arch Titus, Forum Romanum, Rome, Italy.jpg",
+    "descripcio": "L'Arc de Titus a la Via Sacra.",
+    "credit": "Jebulon",
+    "llicencia": "CC0"
+   },
+   "font": {
+    "titol": "Wikipedia: Arch of Titus",
+    "url": "https://en.wikipedia.org/wiki/Arch_of_Titus"
+   }
+  },
+  {
+   "id": "q033",
+   "pregunta": "Què era l'Ara Pacis?",
+   "opcions": [
+    "Un temple de Júpiter",
+    "Un mausoleu",
+    "Un altar dedicat a la Pau d'August",
+    "Un arc de triomf"
+   ],
+   "correcta": 2,
+   "explicacio": "Es va consagrar el 9 aC. Avui es veu dins d'un museu modern dissenyat per Richard Meier, inaugurat el 2006.",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "ara-pacis",
+   "imatge": {
+    "fitxer": "Ara Pacis Roma 04.JPG",
+    "descripcio": "L'altar dins del museu.",
+    "credit": "Miguel Hermoso Cuesta",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Ara Pacis",
+    "url": "https://en.wikipedia.org/wiki/Ara_Pacis"
+   }
+  },
+  {
+   "id": "q034",
+   "pregunta": "Qui eren els habitants de la Casa de les Vestals, al Fòrum?",
+   "opcions": [
+    "Sacerdotesses que vigilaven el foc de Vesta",
+    "Gladiadores retirades",
+    "Hereves de Ròmul",
+    "Escrivanes del Senat"
+   ],
+   "correcta": 0,
+   "explicacio": "El foc sagrat no podia apagar-se mai. Les vestals van viure en aquesta casa fins que el culte es va prohibir a finals del segle IV.",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "casa-vestals",
+   "imatge": {
+    "fitxer": "RomaCasaVestaliDaPalatinoOvest.JPG",
+    "descripcio": "La Casa de les Vestals des del Palatí.",
+    "credit": "No machine-readable author provided. MM assumed (based on copyright claims).",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Vestal Virgin",
+    "url": "https://en.wikipedia.org/wiki/Vestal_Virgin"
+   }
+  },
+  {
+   "id": "q035",
+   "pregunta": "A qui estava dedicat el Teatre de Marcel, acabat per August?",
+   "opcions": [
+    "Al seu gendre Agripa",
+    "A Juli Cèsar",
+    "Al seu nebot Marcel",
+    "Al seu fill Tiberi"
+   ],
+   "correcta": 2,
+   "explicacio": "Es va inaugurar cap al 13-11 aC. Els seus dos pisos d'arcs van servir de model per al Colosseu.",
+   "dificultat": 2,
+   "tema": "monuments",
+   "lloc": "teatre-marcel",
+   "imatge": {
+    "fitxer": "Rome Theatre of Marcellus 2020 P01.jpg",
+    "descripcio": "El Teatre de Marcel avui.",
+    "credit": "Fallaner",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Theatre of Marcellus",
+    "url": "https://en.wikipedia.org/wiki/Theatre_of_Marcellus"
+   }
+  },
+  {
+   "id": "q036",
+   "pregunta": "Què commemora l'Arc de Constantí?",
+   "opcions": [
+    "La conquesta de la Dàcia",
+    "La destrucció de Cartago",
+    "La victòria sobre Maxenci al Pont Milvi",
+    "La presa de Jerusalem"
+   ],
+   "correcta": 2,
+   "explicacio": "És l'arc de triomf més gran de Roma que s'ha conservat i reutilitza relleus d'emperadors anteriors.",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "arc-constanti",
+   "imatge": {
+    "fitxer": "Arch of Constantine (Rome) - South side, from Via triumphalis.jpg",
+    "descripcio": "L'Arc de Constantí, cara sud, des de la Via Triumphalis.",
+    "credit": "NikonZ7II (Paris Orlando)",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Arch of Constantine",
+    "url": "https://en.wikipedia.org/wiki/Arch_of_Constantine"
+   }
+  },
+  {
+   "id": "q037",
+   "pregunta": "Quin era l'ús inicial del Castel Sant'Angelo?",
+   "opcions": [
+    "Mausoleu de l'emperador Hadrià",
+    "Presó dels pretorians",
+    "Palau d'August",
+    "Temple d'Isis"
+   ],
+   "correcta": 0,
+   "explicacio": "Hadrià el va fer bastir per a la seva tomba familiar. Més tard va ser fortalesa papal i presó.",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "castell-sant-angelo",
+   "imatge": {
+    "fitxer": "Castel Sant'Angelo at dusk, Rome, Italy.jpg",
+    "descripcio": "El castell al capvespre.",
+    "credit": "Jebulon",
+    "llicencia": "CC0"
+   },
+   "font": {
+    "titol": "Wikipedia: Castel Sant'Angelo",
+    "url": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo"
+   }
+  },
+  {
+   "id": "q038",
+   "pregunta": "Qui va fer la Piràmide de Cesti, vora la Porta San Paolo?",
+   "opcions": [
+    "Un faraó egipci",
+    "L'emperador Hadrià",
+    "Un general cartaginès",
+    "Un magistrat romà, Gai Cesti, per ser-hi enterrat"
+   ],
+   "correcta": 3,
+   "explicacio": "L'obra, feta cap al 18-12 aC, mostra la moda egípcia a Roma. Segons la inscripció es va acabar en 330 dies.",
+   "dificultat": 2,
+   "tema": "monuments",
+   "lloc": "piramide-cestia",
+   "imatge": {
+    "fitxer": "2024-10-12 Rome, Pyramid of Caius Cestius and Porta San Paolo.jpg",
+    "descripcio": "La piràmide i la Porta San Paolo (2024).",
+    "credit": "Alexkom000",
+    "llicencia": "CC BY 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Pyramid of Cestius",
+    "url": "https://en.wikipedia.org/wiki/Pyramid_of_Cestius"
+   }
+  },
+  {
+   "id": "q039",
+   "pregunta": "Què hi ha dins de Monte Testaccio, el turó de Roma?",
+   "opcions": [
+    "Milions de fragments d'àmfores d'oli",
+    "Una antiga mina de marbre",
+    "Un cementiri de gladiadors",
+    "Un santuari de Mitra"
+   ],
+   "correcta": 0,
+   "explicacio": "S'hi van llençar unes 53 milions d'àmfores d'oli d'oliva (moltes de la Bètica, a Hispània) entre els segles I i III.",
+   "dificultat": 2,
+   "tema": "monuments",
+   "lloc": "monte-testaccio",
+   "imatge": {
+    "fitxer": "Monte Testaccio Particolare.jpg",
+    "descripcio": "Capes de fragments d'àmfora.",
+    "credit": "Flazaza",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Monte Testaccio",
+    "url": "https://en.wikipedia.org/wiki/Monte_Testaccio"
+   }
+  },
+  {
+   "id": "q040",
+   "pregunta": "Quin monument del Camp de Mart feia de gnòmon d'un enorme rellotge solar d'August?",
+   "opcions": [
+    "L'obelisc de Montecitorio",
+    "L'obelisc de Sant Pere",
+    "La Columna Trajana",
+    "L'Ara Pacis"
+   ],
+   "correcta": 0,
+   "explicacio": "August va portar l'obelisc des d'Heliòpolis d'Egipte. L'actual és el que va ser desenterrat al segle XVIII.",
+   "dificultat": 2,
+   "tema": "monuments",
+   "lloc": "obelisc-montecitorio",
+   "imatge": {
+    "fitxer": "Obelisk Montecitorio, Rome, Italy.jpg",
+    "descripcio": "L'obelisc a Piazza di Montecitorio.",
+    "credit": "Jebulon",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Obelisk of Montecitorio",
+    "url": "https://en.wikipedia.org/wiki/Obelisk_of_Montecitorio"
+   }
+  },
+  {
+   "id": "q041",
+   "pregunta": "Quina era la funció del Ludus Magnus?",
+   "opcions": [
+    "Tribunal de justícia",
+    "Mercat de roba",
+    "Escola i caserna dels gladiadors",
+    "Termes imperials"
+   ],
+   "correcta": 2,
+   "explicacio": "Estava connectat al Colosseu per un túnel subterrani. Hi vivien i s'entrenaven els gladiadors.",
+   "dificultat": 2,
+   "tema": "monuments",
+   "lloc": "ludus-magnus",
+   "imatge": {
+    "fitxer": "Ludus magnus Rome 2006.jpg",
+    "descripcio": "Restes del Ludus Magnus.",
+    "credit": "Jastrow",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Ludus Magnus",
+    "url": "https://en.wikipedia.org/wiki/Ludus_Magnus"
+   }
+  },
+  {
+   "id": "q042",
+   "pregunta": "Qui va construir la Domus Aurea?",
+   "opcions": [
+    "Domicià",
+    "Neró",
+    "Cèsar",
+    "Trajà"
+   ],
+   "correcta": 1,
+   "explicacio": "Era un palau amb parcs i un estany. Després de la mort de Neró els Flavis van tapar-lo i hi van aixecar els edificis públics.",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "domus-aurea",
+   "imatge": {
+    "fitxer": "Oculus of Octagonal Room, Domus Aurea (43004369972).jpg",
+    "descripcio": "L'òcul de la Sala Octogonal.",
+    "credit": "Tyler Bell",
+    "llicencia": "CC BY 2.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Domus Aurea",
+    "url": "https://en.wikipedia.org/wiki/Domus_Aurea"
+   }
+  },
+  {
+   "id": "q043",
+   "pregunta": "Com es deia el pont més antic de Roma que encara s'utilitza, construït el 62 aC?",
+   "opcions": [
+    "Pons Milvius",
+    "Pons Aelius",
+    "Pons Fabricius",
+    "Pons Sublicius"
+   ],
+   "correcta": 2,
+   "explicacio": "Uneix l'illa Tiberina amb la riba esquerra del Tíber i conserva gairebé íntegra l'estructura original.",
+   "dificultat": 2,
+   "tema": "monuments",
+   "lloc": "illa-tiberina",
+   "imatge": {
+    "fitxer": "Pons Fabricius.jpg",
+    "descripcio": "El Pons Fabricius, el pont més antic de Roma.",
+    "credit": "User:MatthiasKabel",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Ponte Fabricio",
+    "url": "https://en.wikipedia.org/wiki/Ponte_Fabricio"
+   }
+  },
+  {
+   "id": "q044",
+   "pregunta": "Què mostra el relleu en espiral de la Columna Trajana?",
+   "opcions": [
+    "La fundació de Roma",
+    "Les lluites de gladiadors",
+    "Les guerres de Trajà contra els dacis",
+    "La vida de Juli Cèsar"
+   ],
+   "correcta": 2,
+   "explicacio": "És una narració contínua amb uns 2.500 personatges. Va servir d'inspiració per a la Columna de Marc Aureli.",
+   "dificultat": 1,
+   "tema": "monuments",
+   "lloc": "columna-trajana",
+   "imatge": {
+    "fitxer": "Dacian ambassadors ask Traianus for mercy (Detail from Trajan's Column in Rome).jpg",
+    "descripcio": "Detall del relleu: ambaixadors dacis demanant clemència a Trajà.",
+    "credit": "Unknown author",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Trajan's Column",
+    "url": "https://en.wikipedia.org/wiki/Trajan's_Column"
+   }
+  },
+  {
+   "id": "q045",
+   "pregunta": "Quin és l'edifici romà de marbre més antic que encara es manté dret a Roma, al Fòrum Boari?",
+   "opcions": [
+    "El Panteó",
+    "El temple d'Hèrcules Víctor",
+    "El temple d'August",
+    "L'Ara Pacis"
+   ],
+   "correcta": 1,
+   "explicacio": "Aquest temple rodó és el primer edifici de marbre conservat gairebé sencer a Roma, i l'únic fet amb marbre grec.",
+   "dificultat": 3,
+   "tema": "monuments",
+   "lloc": "forum-boari",
+   "imatge": {
+    "fitxer": "Forum Boarium.jpg",
+    "descripcio": "El temple d'Hèrcules Víctor i el de Portú al Fòrum Boari.",
+    "credit": "Wknight94",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Temple of Hercules Victor",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Hercules_Victor"
+   }
+  },
+  {
+   "id": "q046",
+   "pregunta": "Quin arquitecte va dissenyar el Fòrum de Trajà?",
+   "opcions": [
+    "Vitruvi",
+    "Apol·lodor de Damasc",
+    "Rabirius",
+    "Agripa"
+   ],
+   "correcta": 1,
+   "explicacio": "Apol·lodor va ser l'arquitecte preferit de Trajà. Es considera que va idear també els Mercats i la Columna.",
+   "dificultat": 3,
+   "tema": "monuments",
+   "lloc": "forum-traja",
+   "imatge": {
+    "fitxer": "Forum of Trajan — Exedra (14837260426).jpg",
+    "descripcio": "Una de les exedres del Fòrum de Trajà vista des dels Mercats.",
+    "credit": "Amphipolis",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Apollodorus of Damascus",
+    "url": "https://en.wikipedia.org/wiki/Apollodorus_of_Damascus"
+   }
+  },
+  {
+   "id": "q047",
+   "pregunta": "Què va passar amb el temple d'Hadrià (Adrianeum) a la Piazza di Pietra?",
+   "opcions": [
+    "Hi van construir un edifici modern dins, amb columnes encara visibles",
+    "Va ser desmuntat pedra a pedra",
+    "Va ser submergit al Tíber",
+    "Es va convertir en cementiri"
+   ],
+   "correcta": 0,
+   "explicacio": "Les onze columnes corínties conservades formen part de la façana de l'edifici de la Borsa de Roma.",
+   "dificultat": 3,
+   "tema": "monuments",
+   "lloc": "temple-adria",
+   "imatge": {
+    "fitxer": "Roma, Piazza di Pietra - Tempio di Adriano.JPG",
+    "descripcio": "Les onze columnes a Piazza di Pietra.",
+    "credit": "Lalupa",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Hadrianeum",
+    "url": "https://en.wikipedia.org/wiki/Hadrianeum"
+   }
+  },
+  {
+   "id": "q048",
+   "pregunta": "Què està construït sobre les restes de l'estadi de Domicià?",
+   "opcions": [
+    "El Fòrum de Trajà",
+    "La Piazza Navona",
+    "La Piazza Venezia",
+    "El Circ Màxim"
+   ],
+   "correcta": 1,
+   "explicacio": "La plaça té la mateixa forma allargada que l'antic estadi. Hi ha ruïnes visibles al subsòl.",
+   "dificultat": 3,
+   "tema": "monuments",
+   "lloc": "estadi-domicia",
+   "imatge": {
+    "fitxer": "Piazza Navona Underground Ruins of Stadium of Domitian (48493056012).jpg",
+    "descripcio": "Arcades i graderies del subsòl.",
+    "credit": "Gary Todd from Xinzheng, China",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Piazza Navona",
+    "url": "https://en.wikipedia.org/wiki/Piazza_Navona"
+   }
+  },
+  {
+   "id": "q049",
+   "pregunta": "Quina era la funció de la Cloaca Màxima?",
+   "opcions": [
+    "Portar aigua potable a les termes",
+    "Bastir un canal de navegació",
+    "Drenar les zones pantanoses del Fòrum i portar l'aigua al Tíber",
+    "Emmagatzemar blat"
+   ],
+   "correcta": 2,
+   "explicacio": "És una de les primeres obres de drenatge urbà conegudes. La tradició l'atribueix als reis etruscos, però va ser ampliada i reformada després.",
+   "dificultat": 3,
+   "tema": "monuments",
+   "lloc": "forum-boari",
+   "imatge": {
+    "fitxer": "Tiber Embarkment Wall around an outlet of the Cloaca Maxima.png",
+    "descripcio": "Sortida de la Cloaca Màxima al mur de contenció del Tíber.",
+    "credit": "Penelope Davies",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Cloaca Maxima",
+    "url": "https://en.wikipedia.org/wiki/Cloaca_Maxima"
+   }
+  },
+  {
+   "id": "q050",
+   "pregunta": "Quin fet va tenir lloc a la Curia de Pompeu, a prop de Largo Argentina, el 44 aC?",
+   "opcions": [
+    "La proclamació d'August",
+    "La mort de Neró",
+    "El triomf d'Escipió",
+    "L'assassinat de Juli Cèsar"
+   ],
+   "correcta": 3,
+   "explicacio": "Els senadors van reunir-se allà mentre la Curia del Fòrum estava en obres. Avui l'àrea l'ocupen quatre temples de la República.",
+   "dificultat": 3,
+   "tema": "monuments",
+   "lloc": "largo-argentina",
+   "imatge": {
+    "fitxer": "Sacred area in Largo di Torre Argentina 01.jpg",
+    "descripcio": "Els temples de l'àrea sacra de Largo Argentina.",
+    "credit": "John Samuel",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Curia of Pompey",
+    "url": "https://en.wikipedia.org/wiki/Curia_of_Pompey"
+   }
+  },
+  {
+   "id": "q051",
+   "pregunta": "De quin material era l'estàtua colossal que donava nom (probablement) al Colosseu?",
+   "opcions": [
+    "Marbre de Paros",
+    "Fusta recoberta d'or",
+    "Bronze (colós de Neró)",
+    "Argila cuita"
+   ],
+   "correcta": 2,
+   "explicacio": "El colós de Neró feia uns 30 m i va ser transformat en una imatge del déu Sol. Se'n va perdre el rastre a l'edat mitjana.",
+   "dificultat": 3,
+   "tema": "monuments",
+   "lloc": "colosseu",
+   "imatge": {
+    "fitxer": "Panoramic photograph of interior of Colosseum.jpg",
+    "descripcio": "Panoràmica de l'interior del Colosseu.",
+    "credit": "ThePhotografer",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Colossus of Nero",
+    "url": "https://en.wikipedia.org/wiki/Colossus_of_Nero"
+   }
+  },
+  {
+   "id": "q052",
+   "pregunta": "Quina peça de roba era el signe distintiu dels ciutadans romans?",
+   "opcions": [
+    "El quitó curt",
+    "El pal·li grec",
+    "La túnica militar",
+    "La toga"
+   ],
+   "correcta": 3,
+   "explicacio": "La toga es portava només als actes oficials. Per al dia a dia era molt més pràctica la túnica.",
+   "dificultat": 1,
+   "tema": "vida-quotidiana",
+   "lloc": "forum-roma",
+   "imatge": {
+    "fitxer": "Foro Romano Musei Capitolini Roma.jpg",
+    "descripcio": "El Fòrum Romà vist des del Capitoli.",
+    "credit": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copy",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga"
+   }
+  },
+  {
+   "id": "q053",
+   "pregunta": "Com s'anomenaven els blocs de pisos on vivia la majoria de romans?",
+   "opcions": [
+    "Domus",
+    "Villae",
+    "Thermae",
+    "Insulae"
+   ],
+   "correcta": 3,
+   "explicacio": "Les insulae d'Òstia es conserven en alçada. Podien arribar a tenir diversos pisos i sovint no tenien aigua corrent als pisos alts.",
+   "dificultat": 1,
+   "tema": "vida-quotidiana",
+   "lloc": "ostia-antica",
+   "imatge": {
+    "fitxer": "Decumanus Maximus of Ostia Antica.jpg",
+    "descripcio": "El Decumanus Maximus amb les botigues.",
+    "credit": "G41rn8",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Insula (building)",
+    "url": "https://en.wikipedia.org/wiki/Insula_(building)"
+   }
+  },
+  {
+   "id": "q054",
+   "pregunta": "Què era el garum?",
+   "opcions": [
+    "Un vi dolç",
+    "Una sopa de llegums",
+    "Un tipus de pa",
+    "Una salsa de peix fermentat"
+   ],
+   "correcta": 3,
+   "explicacio": "Els romans en feien servir a gairebé tots els plats, com si fos el nostre salt. Se'n produïa a Hispània i al nord d'Àfrica.",
+   "dificultat": 1,
+   "tema": "vida-quotidiana",
+   "lloc": "ostia-antica",
+   "imatge": {
+    "fitxer": "Frigidarium Terme del Foro Ostia Antica 2006-09-08.jpg",
+    "descripcio": "Frigidarium de les Termes del Fòrum.",
+    "credit": "Marie-Lan Nguyen (User:Jastrow)",
+    "llicencia": "CC BY 2.5"
+   },
+   "font": {
+    "titol": "Wikipedia: Garum",
+    "url": "https://en.wikipedia.org/wiki/Garum"
+   }
+  },
+  {
+   "id": "q055",
+   "pregunta": "Quin Cèsar va reformar el calendari l'any 46 aC, creant l'any de 365 dies amb un any de traspàs?",
+   "opcions": [
+    "Juli Cèsar",
+    "August",
+    "Neró",
+    "Constantí"
+   ],
+   "correcta": 0,
+   "explicacio": "El calendari julià va ser vigent a Europa fins al 1582, quan el papa Gregori XIII el va reformar.",
+   "dificultat": 1,
+   "tema": "vida-quotidiana",
+   "lloc": "forum-cesar",
+   "imatge": {
+    "fitxer": "Temple of Venus Genetrix in Rome (1).jpg",
+    "descripcio": "Les columnes del temple de Venus Genetrix.",
+    "credit": "Tournasol7",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Julian calendar",
+    "url": "https://en.wikipedia.org/wiki/Julian_calendar"
+   }
+  },
+  {
+   "id": "q056",
+   "pregunta": "Quin edifici era el lloc de trobada, higiene i oci de molts romans?",
+   "opcions": [
+    "El circ",
+    "Les termes",
+    "L'insula",
+    "El temple de Vesta"
+   ],
+   "correcta": 1,
+   "explicacio": "Les termes tenien banys freds i calents, gimnasos, jardins, biblioteques i botigues. Les de Caracal·la tenien capacitat per a uns 1.600 banyistes.",
+   "dificultat": 1,
+   "tema": "vida-quotidiana",
+   "lloc": "termes-caracalla",
+   "imatge": {
+    "fitxer": "Baths of Caracalla, facing Caldarium.jpg",
+    "descripcio": "Les ruïnes actuals vistes cap al caldarium.",
+    "credit": "Ethan Doyle White",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Baths of Caracalla",
+    "url": "https://en.wikipedia.org/wiki/Baths_of_Caracalla"
+   }
+  },
+  {
+   "id": "q057",
+   "pregunta": "Quina moneda romana de plata era la més coneguda?",
+   "opcions": [
+    "El dracma",
+    "L'òbol",
+    "El denari",
+    "El florí"
+   ],
+   "correcta": 2,
+   "explicacio": "Aquesta peça va circular durant segles. El nom de «denari» ha perviscut en diverses llengües, com el «dinar» àrab.",
+   "dificultat": 1,
+   "tema": "vida-quotidiana",
+   "font": {
+    "titol": "Wikipedia: Denarius",
+    "url": "https://en.wikipedia.org/wiki/Denarius"
+   }
+  },
+  {
+   "id": "q058",
+   "pregunta": "Com s'anomenaven els tres dies de referència en què els romans comptaven el mes?",
+   "opcions": [
+    "Primer, segon i tercer",
+    "Lluna nova, quart creixent i lluna plena",
+    "Kalendes, Nones i Idus",
+    "Hores, dies i mesos"
+   ],
+   "correcta": 2,
+   "explicacio": "Les Idus queden el 13 o el 15 del mes. Les famoses Idus de març, el 15, són el dia que van matar Cèsar.",
+   "dificultat": 2,
+   "tema": "vida-quotidiana",
+   "lloc": "largo-argentina",
+   "imatge": {
+    "fitxer": "Largo Argentina — Temple B (14878172532).jpg",
+    "descripcio": "Temple B, la tholos circular.",
+    "credit": "Amphipolis",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Roman calendar",
+    "url": "https://en.wikipedia.org/wiki/Roman_calendar"
+   }
+  },
+  {
+   "id": "q059",
+   "pregunta": "Quin cos va crear August per fer de bombers i vigilants de la nit a Roma?",
+   "opcions": [
+    "Els lictors",
+    "Els vigiles",
+    "Els pretorians",
+    "Els edils"
+   ],
+   "correcta": 1,
+   "explicacio": "Els vigiles patrullaven amb galledes, bombes d'aigua i destrals. Eren, en gran part, antics esclaus.",
+   "dificultat": 2,
+   "tema": "vida-quotidiana",
+   "font": {
+    "titol": "Wikipedia: Vigiles",
+    "url": "https://en.wikipedia.org/wiki/Vigiles"
+   }
+  },
+  {
+   "id": "q060",
+   "pregunta": "En un banquet romà, com menjaven els convidats rics?",
+   "opcions": [
+    "Asseguts a terra",
+    "Reclinats en llits (triclini)",
+    "Dempeus",
+    "Asseguts en bancs corruts"
+   ],
+   "correcta": 1,
+   "explicacio": "El triclinium tenia tres llits per a tres convidats cada un. Les dones respectables, sovint, s'asseien.",
+   "dificultat": 2,
+   "tema": "vida-quotidiana",
+   "lloc": "domus-augusti",
+   "imatge": {
+    "fitxer": "Augustus-Maskenraum01b.jpg",
+    "descripcio": "La Sala de les Màscares, Casa d'August.",
+    "credit": "Unknown author",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Triclinium",
+    "url": "https://en.wikipedia.org/wiki/Triclinium"
+   }
+  },
+  {
+   "id": "q061",
+   "pregunta": "Què eren les «botigues de menjar calent» (thermopolia) que es veuen a Òstia i Pompeia?",
+   "opcions": [
+    "Banys públics",
+    "Establiments amb taulell on es venien begudes i menjar calent",
+    "Mercats d'esclaus",
+    "Escoles de gladiadors"
+   ],
+   "correcta": 1,
+   "explicacio": "Els taulells de pedra amb olles encastades eren pensats per a gent que no tenia cuina a casa.",
+   "dificultat": 2,
+   "tema": "vida-quotidiana",
+   "lloc": "ostia-antica",
+   "imatge": {
+    "fitxer": "Decumanus Maximus of Ostia Antica.jpg",
+    "descripcio": "El Decumanus Maximus amb les botigues.",
+    "credit": "G41rn8",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Thermopolium",
+    "url": "https://en.wikipedia.org/wiki/Thermopolium"
+   }
+  },
+  {
+   "id": "q062",
+   "pregunta": "Quan començava el dia per als romans, segons com comptaven les hores?",
+   "opcions": [
+    "A mitjanit",
+    "Amb la sortida del sol",
+    "A les sis del matí fixes",
+    "Amb el toc de la campana"
+   ],
+   "correcta": 1,
+   "explicacio": "El dia i la nit es dividien en 12 hores cadascun. Per això, la hora romana d'estiu durava més que la d'hivern.",
+   "dificultat": 2,
+   "tema": "vida-quotidiana",
+   "font": {
+    "titol": "Wikipedia: Roman timekeeping",
+    "url": "https://en.wikipedia.org/wiki/Roman_timekeeping"
+   }
+  },
+  {
+   "id": "q063",
+   "pregunta": "Què era el Milliarium Aureum, la columna daurada que hi havia al Fòrum?",
+   "opcions": [
+    "Un tribunal",
+    "El punt simbòlic de partida de totes les vies",
+    "Una estàtua d'August a cavall",
+    "Un rellotge solar"
+   ],
+   "correcta": 1,
+   "explicacio": "August el va erigir el 20 aC. D'aquí ve la frase «tots els camins porten a Roma».",
+   "dificultat": 2,
+   "tema": "vida-quotidiana",
+   "lloc": "forum-roma",
+   "imatge": {
+    "fitxer": "Forum Romanum Titusbogen Rom 2012.jpg",
+    "descripcio": "El Fòrum amb l'Arc de Titus.",
+    "credit": "Felix König",
+    "llicencia": "CC BY 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Milliarium Aureum",
+    "url": "https://en.wikipedia.org/wiki/Milliarium_Aureum"
+   }
+  },
+  {
+   "id": "q064",
+   "pregunta": "Quina era la funció d'una «bulla» que portaven els nens romans lliures?",
+   "opcions": [
+    "Una joia amulet contra el mal de ull",
+    "Un tros de menjar",
+    "Un joc de daus",
+    "Un segell d'escola"
+   ],
+   "correcta": 0,
+   "explicacio": "Els nois se la treien en ser majors d'edat, quan passaven a portar la toga virilis.",
+   "dificultat": 2,
+   "tema": "vida-quotidiana",
+   "font": {
+    "titol": "Wikipedia: Bulla (amulet)",
+    "url": "https://en.wikipedia.org/wiki/Bulla_(amulet)"
+   }
+  },
+  {
+   "id": "q065",
+   "pregunta": "Com es deia la petita piscina situada al mig de l'atri d'una domus, on es recollia l'aigua de pluja?",
+   "opcions": [
+    "Impluvium",
+    "Tablinum",
+    "Peristil",
+    "Caldarium"
+   ],
+   "correcta": 0,
+   "explicacio": "L'aigua entrava per una obertura al sostre, el compluvium. Era a l'entrada de la casa i es veia des del carrer.",
+   "dificultat": 3,
+   "tema": "vida-quotidiana",
+   "lloc": "domus-augusti",
+   "imatge": {
+    "fitxer": "Augustus-Maskenraum01b.jpg",
+    "descripcio": "La Sala de les Màscares, Casa d'August.",
+    "credit": "Unknown author",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Atrium (architecture)",
+    "url": "https://en.wikipedia.org/wiki/Atrium_(architecture)"
+   }
+  },
+  {
+   "id": "q066",
+   "pregunta": "Com aprenien els nens romans a escriure els primers anys?",
+   "opcions": [
+    "Amb tinta sobre pergamí cosit",
+    "Amb un estil sobre tauletes de cera",
+    "Amb ploma d'oca sobre paper",
+    "Amb guix sobre pissarra"
+   ],
+   "correcta": 1,
+   "explicacio": "Es podia esborrar i tornar a escriure. Els alumnes anaven a l'escola del litterator als 7 anys.",
+   "dificultat": 3,
+   "tema": "vida-quotidiana",
+   "font": {
+    "titol": "Wikipedia: Wax tablet",
+    "url": "https://en.wikipedia.org/wiki/Wax_tablet"
+   }
+  },
+  {
+   "id": "q067",
+   "pregunta": "Quant de temps portaven els soldats a la milícia romana abans de poder rebre el seu llicenciament?",
+   "opcions": [
+    "5 anys",
+    "10 anys",
+    "Uns 25 anys",
+    "40 anys"
+   ],
+   "correcta": 2,
+   "explicacio": "En època imperial, els legionaris servien uns 25 anys. En acabar, rebien terres o una gratificació en diners.",
+   "dificultat": 3,
+   "tema": "vida-quotidiana",
+   "font": {
+    "titol": "Wikipedia: Roman legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion"
+   }
+  },
+  {
+   "id": "q068",
+   "pregunta": "Segons les estimacions, quants habitants podia arribar a tenir Roma al seu apogeu?",
+   "opcions": [
+    "Aproximadament un milió",
+    "Uns 50.000",
+    "Uns 5 milions",
+    "Uns 100.000"
+   ],
+   "correcta": 0,
+   "explicacio": "Va ser probablement la primera ciutat d'Europa a arribar al milió d'habitants, i ho va tornar a fer només al segle XIX.",
+   "dificultat": 1,
+   "tema": "vida-quotidiana",
+   "lloc": "forum-roma",
+   "imatge": {
+    "fitxer": "Foro Romano Musei Capitolini Roma.jpg",
+    "descripcio": "El Fòrum Romà vist des del Capitoli.",
+    "credit": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copy",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Ancient Rome",
+    "url": "https://en.wikipedia.org/wiki/Ancient_Rome"
+   }
+  },
+  {
+   "id": "q069",
+   "pregunta": "Aproximadament, quants soldats tenia una legió romana?",
+   "opcions": [
+    "Uns 500",
+    "Uns 50.000",
+    "Uns 5.000",
+    "Uns 100"
+   ],
+   "correcta": 2,
+   "explicacio": "Una legió s'organitzava en cohorts i centúries. A l'alt imperi, rondava els 5.000 homes, a més d'una petita cavalleria.",
+   "dificultat": 1,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Roman legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion"
+   }
+  },
+  {
+   "id": "q070",
+   "pregunta": "Com es deia l'espasa curta típica dels legionaris?",
+   "opcions": [
+    "Gladius",
+    "Pilum",
+    "Scutum",
+    "Spatha"
+   ],
+   "correcta": 0,
+   "explicacio": "El gladius servia per punxar a curta distància en formació. D'aquí ve el nom de «gladiador».",
+   "dificultat": 1,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Gladius",
+    "url": "https://en.wikipedia.org/wiki/Gladius"
+   }
+  },
+  {
+   "id": "q071",
+   "pregunta": "Quin nom rebia la formació en què els legionaris es protegien amb els escuts per tots costats?",
+   "opcions": [
+    "Falange",
+    "Testudo (tortuga)",
+    "Cuneus",
+    "Acies"
+   ],
+   "correcta": 1,
+   "explicacio": "Els soldats alçaven els escuts davant, als costats i damunt dels caps, com un caparaçó de tortuga.",
+   "dificultat": 1,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Testudo formation",
+    "url": "https://en.wikipedia.org/wiki/Testudo_formation"
+   }
+  },
+  {
+   "id": "q072",
+   "pregunta": "Qui comandava una centúria?",
+   "opcions": [
+    "Un centurió",
+    "Un tribú",
+    "Un legat",
+    "Un cònsol"
+   ],
+   "correcta": 0,
+   "explicacio": "Una centúria tenia uns 80 homes (no 100, com el nom suggereix). El centurió portava una cresta transversal a l'elm.",
+   "dificultat": 1,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion"
+   }
+  },
+  {
+   "id": "q073",
+   "pregunta": "Qui va creuar els Alps amb elefants per atacar Roma durant la Segona Guerra Púnica?",
+   "opcions": [
+    "Escipió",
+    "Pirros",
+    "Jugurta",
+    "Anníbal"
+   ],
+   "correcta": 3,
+   "explicacio": "Anníbal va derrotar els romans a Canes (216 aC), però Escipió l'Africà el va vèncer a Zama (202 aC).",
+   "dificultat": 1,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Hannibal",
+    "url": "https://en.wikipedia.org/wiki/Hannibal"
+   }
+  },
+  {
+   "id": "q074",
+   "pregunta": "Què va dir Juli Cèsar en creuar el riu Rubicó l'any 49 aC, segons la tradició?",
+   "opcions": [
+    "«Veni, vidi, vici»",
+    "«Carpe diem»",
+    "«Alea iacta est»",
+    "«Errare humanum est»"
+   ],
+   "correcta": 2,
+   "explicacio": "Va ser el pas definitiu cap a la guerra civil. Suetoni recull la frase; Plutarc diu que Cèsar va citar en grec un vers de Menandre.",
+   "dificultat": 1,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Crossing the Rubicon",
+    "url": "https://en.wikipedia.org/wiki/Crossing_the_Rubicon"
+   }
+  },
+  {
+   "id": "q075",
+   "pregunta": "Com es deien els soldats que formaven la guàrdia personal de l'emperador?",
+   "opcions": [
+    "Vigiles",
+    "Auxiliars",
+    "Hastats",
+    "Pretorians"
+   ],
+   "correcta": 3,
+   "explicacio": "La Guàrdia Pretoriana va acabar sent tan poderosa que va fer i desfer emperadors.",
+   "dificultat": 1,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Praetorian Guard",
+    "url": "https://en.wikipedia.org/wiki/Praetorian_Guard"
+   }
+  },
+  {
+   "id": "q076",
+   "pregunta": "Quina era l'arma llancívola dels legionaris, dissenyada per tombar-se en impactar?",
+   "opcions": [
+    "La ballesta",
+    "El pugio",
+    "La falcata",
+    "El pilum"
+   ],
+   "correcta": 3,
+   "explicacio": "La punta de ferro es doblegava, de manera que l'enemic no podia retornar-lo ni fer servir l'escut clavat.",
+   "dificultat": 2,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Pilum",
+    "url": "https://en.wikipedia.org/wiki/Pilum"
+   }
+  },
+  {
+   "id": "q077",
+   "pregunta": "Quin general romà va derrotar Anníbal a Zama l'any 202 aC?",
+   "opcions": [
+    "Fabi Màxim",
+    "Escipió Emilià",
+    "Màrius",
+    "Escipió l'Africà"
+   ],
+   "correcta": 3,
+   "explicacio": "Aquesta victòria va posar fi a la Segona Guerra Púnica. Cartago va ser destruïda definitivament el 146 aC.",
+   "dificultat": 2,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Battle of Zama",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Zama"
+   }
+  },
+  {
+   "id": "q078",
+   "pregunta": "Quin cèlebre eslògan repetia Cató el Vell al Senat sobre Cartago?",
+   "opcions": [
+    "«Carthago delenda est»",
+    "«Roma victrix»",
+    "«Senatus populusque»",
+    "«Sic semper tyrannis»"
+   ],
+   "correcta": 0,
+   "explicacio": "Cató acabava els seus discursos reclamant la destrucció de Cartago, que va arribar el 146 aC.",
+   "dificultat": 1,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Carthago delenda est",
+    "url": "https://en.wikipedia.org/wiki/Carthago_delenda_est"
+   }
+  },
+  {
+   "id": "q079",
+   "pregunta": "Quina batalla naval de l'any 31 aC va decidir la guerra entre Octavià i Marc Antoni?",
+   "opcions": [
+    "Salamina",
+    "Àctium",
+    "Lepant",
+    "Trafalgar"
+   ],
+   "correcta": 1,
+   "explicacio": "La victòria va deixar Octavià sense rivals. Quatre anys després el Senat li va donar el títol d'August.",
+   "dificultat": 2,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Battle of Actium",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Actium"
+   }
+  },
+  {
+   "id": "q080",
+   "pregunta": "Com s'anomenava el càstig militar en què s'executava un de cada deu soldats d'una unitat?",
+   "opcions": [
+    "Lapidació",
+    "Decimació",
+    "Proscripció",
+    "Ostracisme"
+   ],
+   "correcta": 1,
+   "explicacio": "S'aplicava a unitats que havien desertat o s'havien amotinat. Es feia per sorteig.",
+   "dificultat": 2,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Decimation (Roman army)",
+    "url": "https://en.wikipedia.org/wiki/Decimation_(Roman_army)"
+   }
+  },
+  {
+   "id": "q081",
+   "pregunta": "Quina era la insígnia sagrada de cada legió romana?",
+   "opcions": [
+    "El llop",
+    "La lloba capitolina",
+    "El toro",
+    "L'àguila (aquila)"
+   ],
+   "correcta": 3,
+   "explicacio": "Perdre l'àguila era una vergonya. Per això era una desgràcia perdre-la, com va passar al bosc de Teutoburg l'any 9 dC.",
+   "dificultat": 1,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Aquila (Roman)",
+    "url": "https://en.wikipedia.org/wiki/Aquila_(Roman)"
+   }
+  },
+  {
+   "id": "q082",
+   "pregunta": "Quin general romà va perdre tres legions al bosc de Teutoburg l'any 9 dC?",
+   "opcions": [
+    "Germànic",
+    "Drus",
+    "Quintili Var",
+    "Agripa"
+   ],
+   "correcta": 2,
+   "explicacio": "Els germànics d'Arminius els van emboscar. August cridava, segons Suetoni: «Vare, torna'm les legions!».",
+   "dificultat": 3,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Battle of the Teutoburg Forest",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest"
+   }
+  },
+  {
+   "id": "q083",
+   "pregunta": "Què solien fer les legions cada vegada que acampaven en marxa?",
+   "opcions": [
+    "Dormir a la intempèrie sense guàrdies",
+    "Demanar allotjament als pobles",
+    "Esperar l'ordre del Senat",
+    "Aixecar un campament fortificat amb fossat i estaques"
+   ],
+   "correcta": 3,
+   "explicacio": "Els campaments seguien un patró fix. Moltes ciutats d'Europa van néixer d'aquests campaments (castra).",
+   "dificultat": 3,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Castra",
+    "url": "https://en.wikipedia.org/wiki/Castra"
+   }
+  },
+  {
+   "id": "q084",
+   "pregunta": "Quin cèlebre fet va protagonitzar la guàrdia del Capitoli segons la llegenda, l'any 390 aC?",
+   "opcions": [
+    "Unes oques van alertar els romans de l'atac dels gals",
+    "Un llop va mossegar els gals",
+    "Un temple es va esfondrar sobre els gals",
+    "Els gals van ser vençuts pel foc"
+   ],
+   "correcta": 0,
+   "explicacio": "Els gals de Brenn havien saquejat Roma. Les oques sagrades de Juno van donar l'alerta, segons Titus Livi.",
+   "dificultat": 3,
+   "tema": "exercit",
+   "lloc": "capitoli",
+   "imatge": {
+    "fitxer": "Speculum Romanae Magnificentiae- View of the Roman Capitol MET DP826752.jpg",
+    "descripcio": "El Capitoli segons Étienne Dupérac (1569).",
+    "credit": "Étienne Dupérac",
+    "llicencia": "CC0"
+   },
+   "font": {
+    "titol": "Wikipedia: Sack of Rome (390 BC)",
+    "url": "https://en.wikipedia.org/wiki/Sack_of_Rome_(390_BC)"
+   }
+  },
+  {
+   "id": "q085",
+   "pregunta": "Quants quilòmetres feia aproximadament el mur d'Hadrià, a Britànnia?",
+   "opcions": [
+    "Uns 30 km",
+    "Uns 117 km (80 milles romanes)",
+    "Uns 400 km",
+    "Uns 800 km"
+   ],
+   "correcta": 1,
+   "explicacio": "Tallava l'illa de costa a costa. Tenia fortins cada milla i torres de vigilància, i era de pedra a l'est i de torba a l'oest.",
+   "dificultat": 3,
+   "tema": "exercit",
+   "font": {
+    "titol": "Wikipedia: Hadrian's Wall",
+    "url": "https://en.wikipedia.org/wiki/Hadrian's_Wall"
+   }
+  },
+  {
+   "id": "q086",
+   "pregunta": "Qui van ser, segons la llegenda, els fundadors de Roma, criats per una lloba?",
+   "opcions": [
+    "Eneas i Anquises",
+    "Ròmul i Rem",
+    "Castor i Pòl·lux",
+    "Hèrcules i Cacus"
+   ],
+   "correcta": 1,
+   "explicacio": "La Lupa Capitolina és el símbol de la ciutat. La data tradicional de fundació és el 753 aC.",
+   "dificultat": 1,
+   "tema": "religio",
+   "lloc": "musei-capitolins",
+   "font": {
+    "titol": "Wikipedia: Romulus and Remus",
+    "url": "https://en.wikipedia.org/wiki/Romulus_and_Remus"
+   }
+  },
+  {
+   "id": "q087",
+   "pregunta": "Quin déu romà equival a Zeus dels grecs?",
+   "opcions": [
+    "Mart",
+    "Neptú",
+    "Apol·lo",
+    "Júpiter"
+   ],
+   "correcta": 3,
+   "explicacio": "Júpiter Òptim Màxim tenia el temple més important de Roma, al Capitoli.",
+   "dificultat": 1,
+   "tema": "religio",
+   "lloc": "capitoli",
+   "imatge": {
+    "fitxer": "Temple Jupiter capitolin, plan de Rome Paul Bigot MRSH université de Caen.JPG",
+    "descripcio": "El temple de Júpiter Capitolí a la maqueta de Paul Bigot (Caen).",
+    "credit": "Pascal Radigue",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Jupiter (mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
+   }
+  },
+  {
+   "id": "q088",
+   "pregunta": "Quin déu romà era el de la guerra?",
+   "opcions": [
+    "Mart",
+    "Mercuri",
+    "Vulcà",
+    "Saturn"
+   ],
+   "correcta": 0,
+   "explicacio": "El mes de març (Martius) li deu el nom. Al Fòrum d'August hi havia el temple de Mart Ultor, «el venjador».",
+   "dificultat": 1,
+   "tema": "religio",
+   "lloc": "forum-august",
+   "imatge": {
+    "fitxer": "Forum of Augustus, Temple of Mars Ultor 2013.jpg",
+    "descripcio": "El temple de Mart Ultor al Fòrum d'August, avui.",
+    "credit": "Szilas",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Mars (mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)"
+   }
+  },
+  {
+   "id": "q089",
+   "pregunta": "Quina deessa romana equival a l'Afrodita grega?",
+   "opcions": [
+    "Minerva",
+    "Juno",
+    "Diana",
+    "Venus"
+   ],
+   "correcta": 3,
+   "explicacio": "Venus era, segons la tradició, mare d'Eneas i per tant avantpassada dels romans. Juli Cèsar presumia de ser-ne descendent.",
+   "dificultat": 1,
+   "tema": "religio",
+   "lloc": "forum-cesar",
+   "imatge": {
+    "fitxer": "Temple of Venus Genetrix in Rome (1).jpg",
+    "descripcio": "Les columnes del temple de Venus Genetrix.",
+    "credit": "Tournasol7",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Venus (mythology)",
+    "url": "https://en.wikipedia.org/wiki/Venus_(mythology)"
+   }
+  },
+  {
+   "id": "q090",
+   "pregunta": "Quin déu de dues cares dóna nom al mes de gener?",
+   "opcions": [
+    "Saturn",
+    "Vulcà",
+    "Janus",
+    "Bacus"
+   ],
+   "correcta": 2,
+   "explicacio": "Janus presidia els inicis i els passos. Les portes del seu temple al Fòrum romanien tancades en temps de pau.",
+   "dificultat": 1,
+   "tema": "religio",
+   "font": {
+    "titol": "Wikipedia: Janus",
+    "url": "https://en.wikipedia.org/wiki/Janus"
+   }
+  },
+  {
+   "id": "q091",
+   "pregunta": "Quin heroi troià, fill de Venus, és el protagonista de l'«Eneida» de Virgili?",
+   "opcions": [
+    "Aquil·les",
+    "Hèctor",
+    "Eneas",
+    "Ulisses"
+   ],
+   "correcta": 2,
+   "explicacio": "Eneas va fugir de Troia i va arribar a Itàlia. Els seus descendents van ser Ròmul i Rem.",
+   "dificultat": 1,
+   "tema": "religio",
+   "font": {
+    "titol": "Wikipedia: Aeneas",
+    "url": "https://en.wikipedia.org/wiki/Aeneas"
+   }
+  },
+  {
+   "id": "q092",
+   "pregunta": "Quina sacerdotessa vigilava a Roma el foc sagrat de la deessa Vesta?",
+   "opcions": [
+    "Les sibil·les",
+    "Les vides",
+    "Les vestals",
+    "Les àugurs"
+   ],
+   "correcta": 2,
+   "explicacio": "Eren sis dones i servien durant uns 30 anys. Havien de mantenir la virginitat; si la perdien, eren castigades durament.",
+   "dificultat": 1,
+   "tema": "religio",
+   "lloc": "casa-vestals",
+   "imatge": {
+    "fitxer": "The peristyle garden court of the House of the Vestal Virgins (Atrium Vestae) with a double pool, Upper Via Sacra, Rome (9114122461).jpg",
+    "descripcio": "Pati amb piscina doble.",
+    "credit": "Carole Raddato from FRANKFURT, Germany",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Vestal Virgin",
+    "url": "https://en.wikipedia.org/wiki/Vestal_Virgin"
+   }
+  },
+  {
+   "id": "q093",
+   "pregunta": "Com s'anomenava el cap suprem dels sacerdots romans, un títol que encara porta el papa?",
+   "opcions": [
+    "Flamen Dialis",
+    "Rex Sacrorum",
+    "Augur Màxim",
+    "Pontifex Maximus"
+   ],
+   "correcta": 3,
+   "explicacio": "Els emperadors el van assumir des d'August. Encara avui el papa és «pontífex màxim» i s'hi veu a la cúpula de Sant Pere.",
+   "dificultat": 2,
+   "tema": "religio",
+   "font": {
+    "titol": "Wikipedia: Pontifex Maximus",
+    "url": "https://en.wikipedia.org/wiki/Pontifex_Maximus"
+   }
+  },
+  {
+   "id": "q094",
+   "pregunta": "Quina festa romana del desembre té trets en comú amb el Nadal d'avui, com els regals i el banquet?",
+   "opcions": [
+    "Les Lupercals",
+    "Les Parílies",
+    "Les Saturnals",
+    "Les Vinàlies"
+   ],
+   "correcta": 2,
+   "explicacio": "Durant uns dies s'invertien els rols: els amos servien els esclaus a taula. Se solien regalar petites figures i espelmes.",
+   "dificultat": 1,
+   "tema": "religio",
+   "font": {
+    "titol": "Wikipedia: Saturnalia",
+    "url": "https://en.wikipedia.org/wiki/Saturnalia"
+   }
+  },
+  {
+   "id": "q095",
+   "pregunta": "Per què servien els àugurs romans?",
+   "opcions": [
+    "Per interpretar el vol dels ocells i altres senyals",
+    "Per enterrar els morts",
+    "Per recollir impostos",
+    "Per entrenar gladiadors"
+   ],
+   "correcta": 0,
+   "explicacio": "Abans de grans decisions, es consultaven els auspicis. Si els senyals eren dolents, es posposava la decisió.",
+   "dificultat": 2,
+   "tema": "religio",
+   "font": {
+    "titol": "Wikipedia: Augur",
+    "url": "https://en.wikipedia.org/wiki/Augur"
+   }
+  },
+  {
+   "id": "q096",
+   "pregunta": "Quin déu d'origen oriental tenia un temple (mitreu) amagat sota la basílica de Sant Climent?",
+   "opcions": [
+    "Isis",
+    "Osiris",
+    "Mitra",
+    "Cíbele"
+   ],
+   "correcta": 2,
+   "explicacio": "El mitreu, del segle III dC, està sota una església medieval, que alhora és sobre una basílica antiga. Són tres nivells en un.",
+   "dificultat": 2,
+   "tema": "religio",
+   "lloc": "san-clemente",
+   "imatge": {
+    "fitxer": "Roma, Basilica di San Clemente, Mitreo.jpg",
+    "descripcio": "El mitreu del nivell inferior.",
+    "credit": "Palickap",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Mithraism",
+    "url": "https://en.wikipedia.org/wiki/Mithraism"
+   }
+  },
+  {
+   "id": "q097",
+   "pregunta": "Quin era l'honor que rebien alguns emperadors després de morir?",
+   "opcions": [
+    "Eren enterrats a l'Aventí",
+    "Eren canonitzats",
+    "Eren exiliats",
+    "Eren deïficats (consecratio)"
+   ],
+   "correcta": 3,
+   "explicacio": "L'emperador es convertia en un déu (divus) per decisió del Senat. Només uns quants, com Neró o Domicià, no ho van aconseguir.",
+   "dificultat": 2,
+   "tema": "religio",
+   "lloc": "temple-venus-roma",
+   "font": {
+    "titol": "Wikipedia: Imperial cult (ancient Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)"
+   }
+  },
+  {
+   "id": "q098",
+   "pregunta": "Qui eren els Lars i Penats?",
+   "opcions": [
+    "Déus del mar",
+    "Déus protectors de la llar",
+    "Déus de la guerra",
+    "Déus de la collita"
+   ],
+   "correcta": 1,
+   "explicacio": "Cada casa tenia un petit altar, el lararium, on es feien ofrenes diàries als Lars i als Penats.",
+   "dificultat": 2,
+   "tema": "religio",
+   "font": {
+    "titol": "Wikipedia: Lares",
+    "url": "https://en.wikipedia.org/wiki/Lares"
+   }
+  },
+  {
+   "id": "q099",
+   "pregunta": "En quin any, segons la tradició, es va fundar Roma?",
+   "opcions": [
+    "753 aC",
+    "509 aC",
+    "264 aC",
+    "27 aC"
+   ],
+   "correcta": 0,
+   "explicacio": "La data ve de l'erudit Varró. El 509 aC és l'inici de la República i el 27 aC el de l'Imperi.",
+   "dificultat": 3,
+   "tema": "religio",
+   "lloc": "palati",
+   "imatge": {
+    "fitxer": "Palatine Hill.Pavement.jpg",
+    "descripcio": "Paviment a la zona del Palatí.",
+    "credit": "Vitold Muratov",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Founding of Rome",
+    "url": "https://en.wikipedia.org/wiki/Founding_of_Rome"
+   }
+  },
+  {
+   "id": "q100",
+   "pregunta": "Quin culte va portar a Roma una pedra negra sagrada des d'Àsia Menor l'any 204 aC?",
+   "opcions": [
+    "El de Mitra",
+    "El de Cíbele (Magna Mater)",
+    "El de Serapis",
+    "El de Dionís"
+   ],
+   "correcta": 1,
+   "explicacio": "L'oracle de la Sibil·la va aconsellar de portar la deessa durant la Segona Guerra Púnica. Va tenir temple al Palatí.",
+   "dificultat": 3,
+   "tema": "religio",
+   "lloc": "palati",
+   "imatge": {
+    "fitxer": "Palatine Hill from across the Circus Maximus April 2019.jpg",
+    "descripcio": "El Palatí vist des del Circ Màxim.",
+    "credit": "Lil Herodotus",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Cybele",
+    "url": "https://en.wikipedia.org/wiki/Cybele"
+   }
+  },
+  {
+   "id": "q101",
+   "pregunta": "Què explicava l'expressió llatina «pietas» per als romans?",
+   "opcions": [
+    "El deure cap als déus, la família i la pàtria",
+    "Una virtut militar exclusiva dels oficials",
+    "La passió pel teatre",
+    "El culte a una sola deïtat"
+   ],
+   "correcta": 0,
+   "explicacio": "Eneas és l'exemple de pietas: per això en Virgili és sovint anomenat «el pietós Eneas».",
+   "dificultat": 3,
+   "tema": "religio",
+   "font": {
+    "titol": "Wikipedia: Pietas",
+    "url": "https://en.wikipedia.org/wiki/Pietas"
+   }
+  },
+  {
+   "id": "q102",
+   "pregunta": "Quin lloc de Roma està vinculat, segons la tradició cristiana, a la presó de Sant Pere?",
+   "opcions": [
+    "El Carcer Tullianum",
+    "El Colosseu",
+    "La Casa de les Vestals",
+    "El Panteó"
+   ],
+   "correcta": 0,
+   "explicacio": "Hi van estar presos, entre altres, Jugurta i Vercingetorix. L'església de San Giuseppe dei Falegnami s'hi va aixecar a sobre.",
+   "dificultat": 3,
+   "tema": "religio",
+   "lloc": "carcer-tullianum",
+   "imatge": {
+    "fitxer": "CarcerTullianusTullianum.jpg",
+    "descripcio": "La cambra inferior, el Tullianum.",
+    "credit": "Rabax63",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Mamertine Prison",
+    "url": "https://en.wikipedia.org/wiki/Mamertine_Prison"
+   }
+  },
+  {
+   "id": "q103",
+   "pregunta": "Quin element arquitectònic va permetre als romans construir ponts, aqüeductes i grans edificis?",
+   "opcions": [
+    "La columna",
+    "L'arquitrau",
+    "El tirant de fusta",
+    "L'arc"
+   ],
+   "correcta": 3,
+   "explicacio": "L'arc distribueix el pes cap als costats. Els romans el van perfeccionar i van fer-ne ús en gairebé tot.",
+   "dificultat": 1,
+   "tema": "enginyeria",
+   "lloc": "parc-aqueductes",
+   "imatge": {
+    "fitxer": "The Aqua Claudia aqueduct in the Parco degli Acquedotti, Rome.JPG",
+    "descripcio": "Arcs de l'Aqua Claudia al parc.",
+    "credit": "Roundtheworld",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Roman arch",
+    "url": "https://en.wikipedia.org/wiki/Roman_arch"
+   }
+  },
+  {
+   "id": "q104",
+   "pregunta": "Com portaven l'aigua els aqüeductes romans fins a la ciutat?",
+   "opcions": [
+    "Amb bombes de vapor",
+    "Per gravetat, amb un pendent molt suau",
+    "Amb rodes hidràuliques que pujaven l'aigua",
+    "Amb esclaus que portaven galledes"
+   ],
+   "correcta": 1,
+   "explicacio": "El pendent era de pocs mil·límetres per metre. Gran part del recorregut anava sota terra; els arcs només eren on calia salvar valls.",
+   "dificultat": 1,
+   "tema": "enginyeria",
+   "lloc": "parc-aqueductes",
+   "imatge": {
+    "fitxer": "Parco degli Acquedotti Rome sunset.jpg",
+    "descripcio": "El parc al capvespre.",
+    "credit": "Emmeca",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Roman aqueduct",
+    "url": "https://en.wikipedia.org/wiki/Roman_aqueduct"
+   }
+  },
+  {
+   "id": "q105",
+   "pregunta": "Quina calçada romana, començada el 312 aC, era coneguda com la «reina de les vies»?",
+   "opcions": [
+    "La Via Augusta",
+    "La Via Flamínia",
+    "La Via Àppia",
+    "La Via Aurèlia"
+   ],
+   "correcta": 2,
+   "explicacio": "Anava de Roma fins a Brindisi. Porta el nom de qui la va fer iniciar, el censor Appi Claudi Cec.",
+   "dificultat": 1,
+   "tema": "enginyeria",
+   "lloc": "via-appia",
+   "imatge": {
+    "fitxer": "Rome Lazio Via Appia Antica.jpg",
+    "descripcio": "Lloses de basalt amb rodades de carro al tram romà de la Via Àppia.",
+    "credit": "Nicholas Hartmann",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Appian Way",
+    "url": "https://en.wikipedia.org/wiki/Appian_Way"
+   }
+  },
+  {
+   "id": "q106",
+   "pregunta": "Quin material va fer possible les grans voltes i cúpules romanes?",
+   "opcions": [
+    "El ferro colat",
+    "El marbre massís",
+    "L'acer",
+    "El formigó romà (opus caementicium)"
+   ],
+   "correcta": 3,
+   "explicacio": "Barrejat amb cendra volcànica (pozzolana), endureix fins i tot sota l'aigua. Alguns edificis duren dos mil anys.",
+   "dificultat": 1,
+   "tema": "enginyeria",
+   "lloc": "pantheon",
+   "imatge": {
+    "fitxer": "Pantheon (Rome) - Interior 01.jpg",
+    "descripcio": "Interior de la rotonda.",
+    "credit": "John Samuel",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Roman concrete",
+    "url": "https://en.wikipedia.org/wiki/Roman_concrete"
+   }
+  },
+  {
+   "id": "q107",
+   "pregunta": "Per què servia l'hipocaust?",
+   "opcions": [
+    "Per escalfar el terra i les parets dels banys",
+    "Per tallar la pedra",
+    "Per amagar tresors",
+    "Per ventilar els mausoleus"
+   ],
+   "correcta": 0,
+   "explicacio": "Un foc passava aire calent sota el terra elevat sobre pilarets. Era un sistema de calefacció central.",
+   "dificultat": 1,
+   "tema": "enginyeria",
+   "lloc": "termes-caracalla",
+   "imatge": {
+    "fitxer": "Bath of Caracalla Rome 2011 7.jpg",
+    "descripcio": "Murs de maó de les termes.",
+    "credit": "Karelj",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Hypocaust",
+    "url": "https://en.wikipedia.org/wiki/Hypocaust"
+   }
+  },
+  {
+   "id": "q108",
+   "pregunta": "Quin era el nom del primer aqüeducte de Roma, construït l'any 312 aC?",
+   "opcions": [
+    "Aqua Claudia",
+    "Aqua Appia",
+    "Aqua Marcia",
+    "Aqua Virgo"
+   ],
+   "correcta": 1,
+   "explicacio": "Va ser construït pel mateix Appi Claudi que va fer la via. Anava sobretot soterrat.",
+   "dificultat": 2,
+   "tema": "enginyeria",
+   "lloc": "parc-aqueductes",
+   "imatge": {
+    "fitxer": "Aquaduct Aqua Claudia te Rome Aquedotti dell'Acqua Claudia di contro S. Stefano Rotondo (titel op object) Verscheidene gezichten op het oude en moderne Rome (serietitel) Varie Vedute di Roma Antica e Moderna (serietit, RP-P-1959-267.jpg",
+    "descripcio": "Gravat de Piranesi amb les arcades de l'Aqua Claudia (a Roma, davant de Santo Stefano Rotondo).",
+    "credit": "Rijksmuseum",
+    "llicencia": "CC0"
+   },
+   "font": {
+    "titol": "Wikipedia: Aqua Appia",
+    "url": "https://en.wikipedia.org/wiki/Aqua_Appia"
+   }
+  },
+  {
+   "id": "q109",
+   "pregunta": "Quin arquitecte romà va escriure «De architectura», un tractat que va influir durant segles?",
+   "opcions": [
+    "Vitruvi",
+    "Apol·lodor",
+    "Rabirius",
+    "Agripa"
+   ],
+   "correcta": 0,
+   "explicacio": "Vitruvi va dedicar l'obra a August. El Renaixement hi va redescobrir els ordes clàssics.",
+   "dificultat": 2,
+   "tema": "enginyeria",
+   "font": {
+    "titol": "Wikipedia: Vitruvius",
+    "url": "https://en.wikipedia.org/wiki/Vitruvius"
+   }
+  },
+  {
+   "id": "q110",
+   "pregunta": "De què eren fets els tubs de molts conductes urbans a les cases romanes?",
+   "opcions": [
+    "De ferro",
+    "De plom",
+    "De vidre",
+    "D'aram"
+   ],
+   "correcta": 1,
+   "explicacio": "Del llatí «plumbum» ve la paraula «plom» i també «plomer». El símbol químic del plom, Pb, ve de «plumbum».",
+   "dificultat": 2,
+   "tema": "enginyeria",
+   "font": {
+    "titol": "Wikipedia: Roman technology",
+    "url": "https://en.wikipedia.org/wiki/Roman_technology"
+   }
+  },
+  {
+   "id": "q111",
+   "pregunta": "Quin senador, a final del segle I dC, va escriure un tractat sobre els aqüeductes de Roma?",
+   "opcions": [
+    "Plini el Vell",
+    "Sext Juli Frontí",
+    "Tàcit",
+    "Marc Aureli"
+   ],
+   "correcta": 1,
+   "explicacio": "Frontí era «curator aquarum» i va fer un inventari rigorós de les aigües de Roma.",
+   "dificultat": 2,
+   "tema": "enginyeria",
+   "font": {
+    "titol": "Wikipedia: Sextus Julius Frontinus",
+    "url": "https://en.wikipedia.org/wiki/Sextus_Julius_Frontinus"
+   }
+  },
+  {
+   "id": "q112",
+   "pregunta": "De quin material són les grans lloses del paviment de la Via Àppia?",
+   "opcions": [
+    "Marbre blanc",
+    "Maó cuit",
+    "Pissarra",
+    "Basalt (roca volcànica)"
+   ],
+   "correcta": 3,
+   "explicacio": "La via s'assentava sobre capes de terra compactada, grava i pedres, i al damunt anaven les lloses de basalt encaixades.",
+   "dificultat": 2,
+   "tema": "enginyeria",
+   "lloc": "via-appia",
+   "imatge": {
+    "fitxer": "Appian Way.jpg",
+    "descripcio": "La Via Àppia a prop del Casal Rotondo.",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Roman road",
+    "url": "https://en.wikipedia.org/wiki/Roman_road"
+   }
+  },
+  {
+   "id": "q113",
+   "pregunta": "Quina tècnica va servir per alleugerir la cúpula del Panteó?",
+   "opcions": [
+    "Cassetons a l'interior i àrids més lleugers cap al cim",
+    "Fer-la de fusta recoberta de plom",
+    "Pujar-hi una estructura de ferro",
+    "Fer-la de marbre massís"
+   ],
+   "correcta": 0,
+   "explicacio": "Els constructors van barrejar formigó amb materials més lleugers a mesura que pujaven, i els cassetons de l'interior treien pes a la volta.",
+   "dificultat": 3,
+   "tema": "enginyeria",
+   "lloc": "pantheon",
+   "imatge": {
+    "fitxer": "Pantheon (Rome) - Interior 01.jpg",
+    "descripcio": "Interior de la rotonda.",
+    "credit": "John Samuel",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "q114",
+   "pregunta": "Quin component natural, procedent de la zona de Pozzuoli, feia el formigó més resistent?",
+   "opcions": [
+    "Sorra de riu",
+    "Algues",
+    "Cendra volcànica (pozzolana)",
+    "Sal marina"
+   ],
+   "correcta": 2,
+   "explicacio": "La cendra, barrejada amb calç, fa que el formigó endureixi fins i tot sota l'aigua.",
+   "dificultat": 3,
+   "tema": "enginyeria",
+   "lloc": "pantheon",
+   "imatge": {
+    "fitxer": "Rome Pantheon facade.jpg",
+    "descripcio": "Façana i pòrtic del Panteó avui.",
+    "credit": "Nicholas Hartmann",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Pozzolana",
+    "url": "https://en.wikipedia.org/wiki/Pozzolana"
+   }
+  },
+  {
+   "id": "q115",
+   "pregunta": "Quin ús va tenir sovint el vel de tela (velarium) que cobria el Colosseu?",
+   "opcions": [
+    "Servir de bandera",
+    "Evitar l'entrada d'ocells",
+    "Amagar l'espectacle als de fora",
+    "Fer ombra als espectadors"
+   ],
+   "correcta": 3,
+   "explicacio": "Segons les fonts, el muntaven mariners de la flota de Miseno, experts a manejar veles.",
+   "dificultat": 3,
+   "tema": "enginyeria",
+   "lloc": "colosseu",
+   "imatge": {
+    "fitxer": "Panoramic photograph of interior of Colosseum.jpg",
+    "descripcio": "Panoràmica de l'interior del Colosseu.",
+    "credit": "ThePhotografer",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "q116",
+   "pregunta": "Quin era el material que predominava a la façana exterior del Colosseu?",
+   "opcions": [
+    "Marbre de Carrara",
+    "Granit rosa",
+    "Maó cuit",
+    "Travertí"
+   ],
+   "correcta": 3,
+   "explicacio": "S'hi van usar uns 100.000 m³ de travertí, unit amb grapes de ferro. Els forats on eren les grapes encara es veuen.",
+   "dificultat": 3,
+   "tema": "enginyeria",
+   "lloc": "colosseu",
+   "imatge": {
+    "fitxer": "Colosseo 2020.jpg",
+    "descripcio": "El Colosseu vist des de l'exterior.",
+    "credit": "FeaturedPics",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "q117",
+   "pregunta": "Quin tipus de gladiador lluitava amb una xarxa i un trident?",
+   "opcions": [
+    "Tracis",
+    "Murmil·ló",
+    "Retiari (retiarius)",
+    "Secutor"
+   ],
+   "correcta": 2,
+   "explicacio": "El retiari anava poc protegit i lluitava sovint contra el secutor, armat amb espasa i escut.",
+   "dificultat": 1,
+   "tema": "gladiadors",
+   "font": {
+    "titol": "Wikipedia: Retiarius",
+    "url": "https://en.wikipedia.org/wiki/Retiarius"
+   }
+  },
+  {
+   "id": "q118",
+   "pregunta": "Què era una «venatio»?",
+   "opcions": [
+    "Una cacera d'animals salvatges a l'arena",
+    "Una carrera de carros",
+    "Una batalla naval",
+    "Una obra de teatre"
+   ],
+   "correcta": 0,
+   "explicacio": "Hi sortien lleons, elefants, ossos i fins i tot girafes. Eren part del programa del dia, normalment al matí.",
+   "dificultat": 1,
+   "tema": "gladiadors",
+   "lloc": "colosseu",
+   "imatge": {
+    "fitxer": "Panoramic photograph of interior of Colosseum.jpg",
+    "descripcio": "Panoràmica de l'interior del Colosseu.",
+    "credit": "ThePhotografer",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Venatio",
+    "url": "https://en.wikipedia.org/wiki/Venatio"
+   }
+  },
+  {
+   "id": "q119",
+   "pregunta": "Quin edifici era el centre de formació dels gladiadors, a prop del Colosseu?",
+   "opcions": [
+    "Ludus Magnus",
+    "Ludus Pompeianus",
+    "Gymnasium",
+    "Palaestra"
+   ],
+   "correcta": 0,
+   "explicacio": "Tenia una petita arena d'entrenament i estava connectat al Colosseu per un túnel.",
+   "dificultat": 1,
+   "tema": "gladiadors",
+   "lloc": "ludus-magnus",
+   "imatge": {
+    "fitxer": "Ludus magnus Rome 2006.jpg",
+    "descripcio": "Restes del Ludus Magnus.",
+    "credit": "Jastrow",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Ludus Magnus",
+    "url": "https://en.wikipedia.org/wiki/Ludus_Magnus"
+   }
+  },
+  {
+   "id": "q120",
+   "pregunta": "Com s'anomenava el carro tirat per quatre cavalls que corria al circ?",
+   "opcions": [
+    "Biga",
+    "Triga",
+    "Sulky",
+    "Quadriga"
+   ],
+   "correcta": 3,
+   "explicacio": "Eren fàcils de bolcar. La gran habilitat era girar sense xocar amb el mur central.",
+   "dificultat": 1,
+   "tema": "gladiadors",
+   "lloc": "circ-maxim",
+   "imatge": {
+    "fitxer": "Varie Vedute di Roma Antica e Moderna. , Veduta del Circo massimo, e del Palazzo de Cesari nel Palatino - Piranesi F. - btv1b52505821c.jpg",
+    "descripcio": "Piranesi: el Circ Màxim i el Palatí.",
+    "credit": "Piranesi, Giambattista (1720-1778). Graveur",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Chariot racing",
+    "url": "https://en.wikipedia.org/wiki/Chariot_racing"
+   }
+  },
+  {
+   "id": "q121",
+   "pregunta": "Qui va liderar la gran revolta d'esclaus i gladiadors contra Roma entre el 73 i el 71 aC?",
+   "opcions": [
+    "Espàrtac",
+    "Spartacus II",
+    "Vercingetorix",
+    "Arminius"
+   ],
+   "correcta": 0,
+   "explicacio": "Va ser derrotat per Cras. Uns 6.000 presoners van ser crucificats vora la Via Àppia, segons Apià.",
+   "dificultat": 1,
+   "tema": "gladiadors",
+   "lloc": "via-appia",
+   "imatge": {
+    "fitxer": "Appian Way.jpg",
+    "descripcio": "La Via Àppia a prop del Casal Rotondo.",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Spartacus",
+    "url": "https://en.wikipedia.org/wiki/Spartacus"
+   }
+  },
+  {
+   "id": "q122",
+   "pregunta": "Què era la «rudis», una espasa de fusta?",
+   "opcions": [
+    "El símbol de llibertat concedit a un gladiador",
+    "Un joc de nens",
+    "Un premi per al guanyador d'una cursa",
+    "Un càstig per als esclaus"
+   ],
+   "correcta": 0,
+   "explicacio": "Un gladiador que rebia la rudis quedava alliberat. Alguns n'eren veterans de molts combats que continuaven com a entrenadors.",
+   "dificultat": 2,
+   "tema": "gladiadors",
+   "lloc": "ludus-magnus",
+   "imatge": {
+    "fitxer": "Plan Rome - Ludus Magnus.png",
+    "descripcio": "Plànol del Ludus Magnus.",
+    "credit": "fr:User:ColdEel & edited by nl:Gebruiker:Joris1919",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator"
+   }
+  },
+  {
+   "id": "q123",
+   "pregunta": "Quins colors (faccions) tenien els equips d'aurigues al circ romà?",
+   "opcions": [
+    "Blancs, vermells, blaus i verds",
+    "Només vermells i blaus",
+    "Grocs, negres i marrons",
+    "Cada any variaven"
+   ],
+   "correcta": 0,
+   "explicacio": "Els partidaris d'una faccció eren fanàtics. Algunes grans disputes van acabar en disturbis.",
+   "dificultat": 2,
+   "tema": "gladiadors",
+   "lloc": "circ-maxim",
+   "imatge": {
+    "fitxer": "Circus Maximus 2025.jpg",
+    "descripcio": "El Circ Màxim avui.",
+    "credit": "Rione Colonna",
+    "llicencia": "CC BY 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Chariot racing",
+    "url": "https://en.wikipedia.org/wiki/Chariot_racing"
+   }
+  },
+  {
+   "id": "q124",
+   "pregunta": "Quin dels llocs de Roma servia per a competicions atlètiques d'estil grec i a la plaça actual en conserva la forma?",
+   "opcions": [
+    "El Circ Màxim",
+    "Les Termes de Caracal·la",
+    "L'estadi de Domicià (Piazza Navona)",
+    "El Teatre de Marcel"
+   ],
+   "correcta": 2,
+   "explicacio": "No hi havia curses de carros ni lluites de gladiadors, sinó proves atlètiques, a l'estil dels Jocs grecs.",
+   "dificultat": 2,
+   "tema": "gladiadors",
+   "lloc": "estadi-domicia",
+   "imatge": {
+    "fitxer": "Piazza Navona Underground Ruins of Stadium of Domitian (48493056012).jpg",
+    "descripcio": "Arcades i graderies del subsòl.",
+    "credit": "Gary Todd from Xinzheng, China",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Stadium of Domitian",
+    "url": "https://en.wikipedia.org/wiki/Stadium_of_Domitian"
+   }
+  },
+  {
+   "id": "q125",
+   "pregunta": "Quina frase, segons Suetoni, van dir els condemnats a una naumàquia davant de l'emperador Claudi?",
+   "opcions": [
+    "«Glòria a Roma»",
+    "«Viva l'emperador»",
+    "«Que els déus et guardin»",
+    "«Ave, Cèsar, els qui van a morir et saluden»"
+   ],
+   "correcta": 3,
+   "explicacio": "És l'única ocasió en què les fonts antigues recullen aquesta salutació. Se sol atribuir als gladiadors, però va ser una naumàquia al llac Fucino el 52 dC.",
+   "dificultat": 2,
+   "tema": "gladiadors",
+   "font": {
+    "titol": "Wikipedia: Ave Caesar, morituri te salutant",
+    "url": "https://en.wikipedia.org/wiki/Ave_Caesar,_morituri_te_salutant"
+   }
+  },
+  {
+   "id": "q126",
+   "pregunta": "Com es deia el gladiador amb gran casc llis, escut gran i espasa curta que lluitava sovint contra el retiari?",
+   "opcions": [
+    "Provocator",
+    "Eques",
+    "Secutor",
+    "Hoplomachus"
+   ],
+   "correcta": 2,
+   "explicacio": "El casc de secutor era llis, sense ornaments, perquè la xarxa no s'hi enganxés.",
+   "dificultat": 2,
+   "tema": "gladiadors",
+   "font": {
+    "titol": "Wikipedia: Secutor",
+    "url": "https://en.wikipedia.org/wiki/Secutor"
+   }
+  },
+  {
+   "id": "q127",
+   "pregunta": "Quina era l'expressió amb la qual el poeta Juvenal va resumir el que volia el poble romà?",
+   "opcions": [
+    "«Vae victis»",
+    "«Pax romana»",
+    "«Panem et circenses» (pa i circ)",
+    "«Divide et impera»"
+   ],
+   "correcta": 2,
+   "explicacio": "Juvenal criticava que el poble romà s'havia desentès de la política a canvi de menjar gratis i espectacles.",
+   "dificultat": 1,
+   "tema": "gladiadors",
+   "lloc": "circ-maxim",
+   "imatge": {
+    "fitxer": "Varie Vedute di Roma Antica e Moderna. , Veduta del Circo massimo, e del Palazzo de Cesari nel Palatino - Piranesi F. - btv1b52505821c.jpg",
+    "descripcio": "Piranesi: el Circ Màxim i el Palatí.",
+    "credit": "Piranesi, Giambattista (1720-1778). Graveur",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Bread and circuses",
+    "url": "https://en.wikipedia.org/wiki/Bread_and_circuses"
+   }
+  },
+  {
+   "id": "q128",
+   "pregunta": "Quin lloc subterrani del Colosseu allotjava les gàbies, els muntacàrregues i els decorats?",
+   "opcions": [
+    "La cripta",
+    "L'hipogeu",
+    "El vomitori",
+    "La cavea"
+   ],
+   "correcta": 1,
+   "explicacio": "Els túnels i cel·les es van afegir sota l'arena en època de Domicià. Avui es veu com un laberint a cel obert.",
+   "dificultat": 3,
+   "tema": "gladiadors",
+   "lloc": "colosseu",
+   "imatge": {
+    "fitxer": "Panoramic photograph of interior of Colosseum.jpg",
+    "descripcio": "Panoràmica de l'interior del Colosseu.",
+    "credit": "ThePhotografer",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "q129",
+   "pregunta": "Què era la «pompa circensis»?",
+   "opcions": [
+    "Una cursa de cavalls",
+    "Un sacrifici funerari",
+    "El jurat dels combats",
+    "La processó inaugural dels jocs del circ"
+   ],
+   "correcta": 3,
+   "explicacio": "Desfilaven magistrats, sacerdots, aurigues i imatges dels déus en carros. Era part del ritual religiós dels jocs.",
+   "dificultat": 3,
+   "tema": "gladiadors",
+   "lloc": "circ-maxim",
+   "imatge": {
+    "fitxer": "Reconstruction of the Circus Maximus (above) and a View of the Site (below) MET DP800334.jpg",
+    "descripcio": "Reconstrucció gravada del Circ Màxim (a dalt) i vista del lloc (a baix).",
+    "credit": "Jan Goeree",
+    "llicencia": "CC0"
+   },
+   "font": {
+    "titol": "Wikipedia: Pompa circensis",
+    "url": "https://en.wikipedia.org/wiki/Pompa_circensis"
+   }
+  },
+  {
+   "id": "q130",
+   "pregunta": "Quina era la funció dels «vomitoria» d'un amfiteatre?",
+   "opcions": [
+    "Cambres on es feia el tractament mèdic",
+    "Les sortides i entrades de l'escalinata cap a les graderies",
+    "Cel·les on es tenien els gladiadors",
+    "Lavabos públics"
+   ],
+   "correcta": 1,
+   "explicacio": "Eren passatges que permetien evacuar milers de persones ràpidament. El Colosseu tenia 80 entrades al nivell de carrer.",
+   "dificultat": 3,
+   "tema": "gladiadors",
+   "lloc": "colosseu",
+   "imatge": {
+    "fitxer": "Panoramic photograph of interior of Colosseum.jpg",
+    "descripcio": "Panoràmica de l'interior del Colosseu.",
+    "credit": "ThePhotografer",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Vomitorium",
+    "url": "https://en.wikipedia.org/wiki/Vomitorium"
+   }
+  },
+  {
+   "id": "q131",
+   "pregunta": "Què vol dir «Veni, vidi, vici»?",
+   "opcions": [
+    "Vaig néixer, vaig viure, vaig morir",
+    "Vinc, vaig veure, vaig vèncer",
+    "Vine, mira, tria",
+    "Va venir, va veure, va marxar"
+   ],
+   "correcta": 1,
+   "explicacio": "Cèsar va resumir així la ràpida victòria sobre Fàrnaces II a Zela, l'any 47 aC.",
+   "dificultat": 1,
+   "tema": "llati",
+   "lloc": "forum-cesar",
+   "imatge": {
+    "fitxer": "Foro di Cesare a Roma.jpg",
+    "descripcio": "Vista de l'àrea del Fòrum de Cèsar.",
+    "credit": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copy",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Veni, vidi, vici",
+    "url": "https://en.wikipedia.org/wiki/Veni,_vidi,_vici"
+   }
+  },
+  {
+   "id": "q132",
+   "pregunta": "Què significa «carpe diem»?",
+   "opcions": [
+    "Menja pa",
+    "Estima el teu cap",
+    "Aprofita el dia",
+    "Compta els dies"
+   ],
+   "correcta": 2,
+   "explicacio": "És del poeta Horaci (Odes). Convida a gaudir del present sense dependre del futur.",
+   "dificultat": 1,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: Carpe diem",
+    "url": "https://en.wikipedia.org/wiki/Carpe_diem"
+   }
+  },
+  {
+   "id": "q133",
+   "pregunta": "Què vol dir SPQR, escrit a molts monuments i tapes de claveguera de Roma?",
+   "opcions": [
+    "Societas Publica Quirites Romae",
+    "Salus Populi Quod Regit",
+    "Senatus Pontifex Quaestor Rex",
+    "Senatus Populusque Romanus"
+   ],
+   "correcta": 3,
+   "explicacio": "Vol dir «El Senat i el Poble Romà». Encara es veu a l'escut de la ciutat i als fanals.",
+   "dificultat": 1,
+   "tema": "llati",
+   "lloc": "forum-roma",
+   "imatge": {
+    "fitxer": "Forum Romanum Titusbogen Rom 2012.jpg",
+    "descripcio": "El Fòrum amb l'Arc de Titus.",
+    "credit": "Felix König",
+    "llicencia": "CC BY 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: SPQR",
+    "url": "https://en.wikipedia.org/wiki/SPQR"
+   }
+  },
+  {
+   "id": "q134",
+   "pregunta": "Quina de les llengües següents NO deriva del llatí?",
+   "opcions": [
+    "El basc",
+    "El català",
+    "El romanès",
+    "L'italià"
+   ],
+   "correcta": 0,
+   "explicacio": "Les llengües romàniques vénen del llatí vulgar. El basc és anterior a l'arribada dels romans i no té parentiu conegut.",
+   "dificultat": 1,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: Romance languages",
+    "url": "https://en.wikipedia.org/wiki/Romance_languages"
+   }
+  },
+  {
+   "id": "q135",
+   "pregunta": "Què significa «in vino veritas»?",
+   "opcions": [
+    "El vi és perillós",
+    "En el vi hi ha la veritat",
+    "La veritat s'ha de beure",
+    "Veritat del vell"
+   ],
+   "correcta": 1,
+   "explicacio": "L'expressió sosté que sota els efectes del vi la gent diu la veritat. Plini el Vell ja recollia la dita.",
+   "dificultat": 1,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: In vino veritas",
+    "url": "https://en.wikipedia.org/wiki/In_vino_veritas"
+   }
+  },
+  {
+   "id": "q136",
+   "pregunta": "Què vol dir «errare humanum est»?",
+   "opcions": [
+    "Vaig errar sol",
+    "Errar és de savis",
+    "Errar és humà",
+    "Només l'humà s'equivoca"
+   ],
+   "correcta": 2,
+   "explicacio": "Sovint es completa així: «...perseverare diabolicum». O sigui, errar és humà; insistir-hi, diabòlic.",
+   "dificultat": 1,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: Errare humanum est",
+    "url": "https://en.wikipedia.org/wiki/Errare_humanum_est"
+   }
+  },
+  {
+   "id": "q137",
+   "pregunta": "Quina és la xifra romana de l'any 2027, l'any del viatge?",
+   "opcions": [
+    "MMXXVI",
+    "MMXXVII",
+    "MMXVII",
+    "MCMXXVII"
+   ],
+   "correcta": 1,
+   "explicacio": "M = 1.000, X = 10, V = 5 i II = 2. Es comptava amb lletres perquè els romans no tenien el zero.",
+   "dificultat": 1,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: Roman numerals",
+    "url": "https://en.wikipedia.org/wiki/Roman_numerals"
+   }
+  },
+  {
+   "id": "q138",
+   "pregunta": "Què significa l'expressió «quid pro quo»?",
+   "opcions": [
+    "Quant de temps?",
+    "Qui ho diu?",
+    "Una cosa per una altra",
+    "Primer i segon"
+   ],
+   "correcta": 2,
+   "explicacio": "S'utilitza per descriure un intercanvi, un favor a canvi d'un altre.",
+   "dificultat": 1,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: Quid pro quo",
+    "url": "https://en.wikipedia.org/wiki/Quid_pro_quo"
+   }
+  },
+  {
+   "id": "q139",
+   "pregunta": "Qui va popularitzar l'expressió «Et tu, Brute?» (I tu, Brut?) a la mort de Cèsar?",
+   "opcions": [
+    "Suetoni",
+    "Ciceró",
+    "Shakespeare",
+    "Tàcit"
+   ],
+   "correcta": 2,
+   "explicacio": "Suetoni, per la seva banda, diu que Cèsar potser va dir en grec «I tu, fill meu?». La frase llatina és de l'obra de Shakespeare (1599).",
+   "dificultat": 2,
+   "tema": "llati",
+   "lloc": "largo-argentina",
+   "imatge": {
+    "fitxer": "Sacred area in Largo di Torre Argentina 01.jpg",
+    "descripcio": "Els temples de l'àrea sacra de Largo Argentina.",
+    "credit": "John Samuel",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Et tu, Brute?",
+    "url": "https://en.wikipedia.org/wiki/Et_tu,_Brute%3F"
+   }
+  },
+  {
+   "id": "q140",
+   "pregunta": "Què significa «mens sana in corpore sano»?",
+   "opcions": [
+    "Una ment, un cos",
+    "El cos i la ment, junts",
+    "Ment sana en un cos sa",
+    "Sàvies mans"
+   ],
+   "correcta": 2,
+   "explicacio": "És una frase del poeta Juvenal que demanava als déus precisament això: salut mental i física.",
+   "dificultat": 1,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: Mens sana in corpore sano",
+    "url": "https://en.wikipedia.org/wiki/Mens_sana_in_corpore_sano"
+   }
+  },
+  {
+   "id": "q141",
+   "pregunta": "Què vol dir «ab urbe condita»?",
+   "opcions": [
+    "Per la ciutat vençuda",
+    "Cap a la ciutat",
+    "Des de la fundació de la ciutat",
+    "De la ciutat més gran"
+   ],
+   "correcta": 2,
+   "explicacio": "Els romans comptaven els anys des de la fundació de Roma (753 aC). Titus Livi va titular així la seva història.",
+   "dificultat": 2,
+   "tema": "llati",
+   "lloc": "palati",
+   "imatge": {
+    "fitxer": "Palatine Hill.Pavement.jpg",
+    "descripcio": "Paviment a la zona del Palatí.",
+    "credit": "Vitold Muratov",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Ab urbe condita",
+    "url": "https://en.wikipedia.org/wiki/Ab_urbe_condita"
+   }
+  },
+  {
+   "id": "q142",
+   "pregunta": "Què vol dir «dura lex, sed lex»?",
+   "opcions": [
+    "La llei dura per sempre",
+    "La llei és dura, però és la llei",
+    "Una llei sense justícia",
+    "La llei del més fort"
+   ],
+   "correcta": 1,
+   "explicacio": "S'usa per recordar que cal complir una norma, per dura que sigui.",
+   "dificultat": 2,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: Dura lex, sed lex",
+    "url": "https://en.wikipedia.org/wiki/Dura_lex,_sed_lex"
+   }
+  },
+  {
+   "id": "q143",
+   "pregunta": "Quina paraula catalana ve de «candidatus», «el vestit de blanc»?",
+   "opcions": [
+    "Candela",
+    "Candidat",
+    "Canal",
+    "Cantar"
+   ],
+   "correcta": 1,
+   "explicacio": "Els qui es presentaven a magistrats es vestien amb una toga blanquejada, la «toga candida».",
+   "dificultat": 2,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga"
+   }
+  },
+  {
+   "id": "q144",
+   "pregunta": "D'on ve la paraula «senat»?",
+   "opcions": [
+    "De «senatus», plaça",
+    "De «sénior», comandant",
+    "De «senex», que vol dir ancià",
+    "De «sin», sense"
+   ],
+   "correcta": 2,
+   "explicacio": "El Senat era el consell d'ancians, els patres. La paraula «senil» té el mateix origen.",
+   "dificultat": 3,
+   "tema": "llati",
+   "lloc": "forum-roma",
+   "imatge": {
+    "fitxer": "Forum Romanum Titusbogen Rom 2012.jpg",
+    "descripcio": "El Fòrum amb l'Arc de Titus.",
+    "credit": "Felix König",
+    "llicencia": "CC BY 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Roman Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate"
+   }
+  },
+  {
+   "id": "q145",
+   "pregunta": "Què vol dir l'expressió «sine die»?",
+   "opcions": [
+    "Sense dia de descans",
+    "Cada dia",
+    "Sense data fixada",
+    "Un dia només"
+   ],
+   "correcta": 2,
+   "explicacio": "Es fa servir per ajornar un acte sense posar una data per a la continuació. Literalment, «sense dia».",
+   "dificultat": 3,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: Sine die",
+    "url": "https://en.wikipedia.org/wiki/Sine_die"
+   }
+  },
+  {
+   "id": "q146",
+   "pregunta": "Quin significat té «ex libris»?",
+   "opcions": [
+    "Llibres lliures",
+    "«Dels llibres de...» (marca de propietari)",
+    "Fora de la biblioteca",
+    "Llibre prohibit"
+   ],
+   "correcta": 1,
+   "explicacio": "Els ex-libris són les marques de propietat que es posen als llibres. L'expressió és llatina i ha passat tal qual a moltes llengües.",
+   "dificultat": 3,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: Ex libris",
+    "url": "https://en.wikipedia.org/wiki/Ex_libris"
+   }
+  },
+  {
+   "id": "q147",
+   "pregunta": "Quina llengua, a més del llatí, dominava la cultura a la meitat oriental de l'Imperi?",
+   "opcions": [
+    "El gòtic",
+    "L'etrusc",
+    "El fenici",
+    "El grec"
+   ],
+   "correcta": 3,
+   "explicacio": "A l'Imperi d'Orient, el grec era la llengua cultural. Marc Aureli va escriure les «Meditacions» en grec.",
+   "dificultat": 3,
+   "tema": "llati",
+   "font": {
+    "titol": "Wikipedia: Greek East and Latin West",
+    "url": "https://en.wikipedia.org/wiki/Greek_East_and_Latin_West"
+   }
+  },
+  {
+   "id": "q148",
+   "pregunta": "Quina escultura de bronze, símbol de Roma, es pot veure als Museus Capitolins?",
+   "opcions": [
+    "El Laocoont",
+    "L'Apol·lo del Belvedere",
+    "El Galata moribund",
+    "La Lupa Capitolina"
+   ],
+   "correcta": 3,
+   "explicacio": "La lloba és antiga, però els bessons Ròmul i Rem que mamen van ser afegits al segle XV, durant el Renaixement.",
+   "dificultat": 1,
+   "tema": "art",
+   "lloc": "musei-capitolins",
+   "font": {
+    "titol": "Wikipedia: Capitoline Wolf",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Wolf"
+   }
+  },
+  {
+   "id": "q149",
+   "pregunta": "Qui va esculpir «Apol·lo i Dafne», conservada a la Galleria Borghese?",
+   "opcions": [
+    "Miquel Àngel",
+    "Gian Lorenzo Bernini",
+    "Antonio Canova",
+    "Donatello"
+   ],
+   "correcta": 1,
+   "explicacio": "Bernini la va esculpir amb poc més de vint anys (1622-1625). Dafne es transforma en llorer mentre Apol·lo l'abasta.",
+   "dificultat": 1,
+   "tema": "art",
+   "lloc": "galleria-borghese",
+   "font": {
+    "titol": "Wikipedia: Apollo and Daphne (Bernini)",
+    "url": "https://en.wikipedia.org/wiki/Apollo_and_Daphne_(Bernini)"
+   }
+  },
+  {
+   "id": "q150",
+   "pregunta": "Quin artista va pintar el sostre de la Capella Sixtina, als Museus Vaticans?",
+   "opcions": [
+    "Rafael",
+    "Leonardo da Vinci",
+    "Caravaggio",
+    "Miquel Àngel"
+   ],
+   "correcta": 3,
+   "explicacio": "Hi va treballar entre 1508 i 1512. Més tard, va pintar-hi també el Judici Final a la paret de l'altar.",
+   "dificultat": 1,
+   "tema": "art",
+   "lloc": "musei-vaticans",
+   "font": {
+    "titol": "Wikipedia: Sistine Chapel ceiling",
+    "url": "https://en.wikipedia.org/wiki/Sistine_Chapel_ceiling"
+   }
+  },
+  {
+   "id": "q151",
+   "pregunta": "Quin museu romà és una antiga central elèctrica reconvertida, amb escultures entre les màquines?",
+   "opcions": [
+    "Centrale Montemartini",
+    "Palazzo Altemps",
+    "Museo Barracco",
+    "Crypta Balbi"
+   ],
+   "correcta": 0,
+   "explicacio": "Les estàtues antigues contrasten amb els motors industrials i les calderes de principis del segle XX.",
+   "dificultat": 1,
+   "tema": "art",
+   "lloc": "centrale-montemartini",
+   "imatge": {
+    "fitxer": "Montemartini - sala macchine 1030430.JPG",
+    "descripcio": "La Sala Màquines amb els motors i les escultures.",
+    "credit": "Lalupa",
+    "llicencia": "CC BY 2.5"
+   },
+   "font": {
+    "titol": "Wikipedia: Centrale Montemartini",
+    "url": "https://en.wikipedia.org/wiki/Centrale_Montemartini"
+   }
+  },
+  {
+   "id": "q152",
+   "pregunta": "Quin escultor neoclàssic va representar Paulina Bonaparte com a Venus Victrix?",
+   "opcions": [
+    "Bernini",
+    "Miquel Àngel",
+    "Donatello",
+    "Antonio Canova"
+   ],
+   "correcta": 3,
+   "explicacio": "L'obra (1805-1808) és a la Galleria Borghese. La germana de Napoleó va posar mig nua, i va causar escàndol.",
+   "dificultat": 1,
+   "tema": "art",
+   "lloc": "galleria-borghese",
+   "font": {
+    "titol": "Wikipedia: Pauline Bonaparte",
+    "url": "https://en.wikipedia.org/wiki/Pauline_Bonaparte"
+   }
+  },
+  {
+   "id": "q153",
+   "pregunta": "Per què es va salvar l'estàtua eqüestre de Marc Aureli de ser fosa a l'edat mitjana?",
+   "opcions": [
+    "Era massa gran per moure-la",
+    "Estava enterrada",
+    "Estava dins d'una església",
+    "Es creia que representava Constantí, l'emperador cristià"
+   ],
+   "correcta": 3,
+   "explicacio": "Va ser traslladada a la Piazza del Campidoglio el 1538. Avui l'original és als Museus Capitolins i a la plaça n'hi ha una còpia.",
+   "dificultat": 2,
+   "tema": "art",
+   "lloc": "musei-capitolins",
+   "font": {
+    "titol": "Wikipedia: Equestrian Statue of Marcus Aurelius",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_Statue_of_Marcus_Aurelius"
+   }
+  },
+  {
+   "id": "q154",
+   "pregunta": "Quin grup escultòric, trobat a Roma el 1506, va emocionar Miquel Àngel i es conserva als Museus Vaticans?",
+   "opcions": [
+    "El Galata moribund",
+    "El Laocoont i els seus fills",
+    "El Discòbol",
+    "Els Esposos"
+   ],
+   "correcta": 1,
+   "explicacio": "Plini el Vell ja el va elogiar. Va ser descobert prop de la Domus Aurea, en una vinya de l'Esquilí.",
+   "dificultat": 2,
+   "tema": "art",
+   "lloc": "musei-vaticans",
+   "font": {
+    "titol": "Wikipedia: Laocoön and His Sons",
+    "url": "https://en.wikipedia.org/wiki/Laoco%C3%B6n_and_His_Sons"
+   }
+  },
+  {
+   "id": "q155",
+   "pregunta": "Quin museu romà és, segons es diu, el museu públic més antic del món?",
+   "opcions": [
+    "Els Museus Vaticans",
+    "Els Museus Capitolins",
+    "La Galleria Borghese",
+    "El Palazzo Massimo"
+   ],
+   "correcta": 1,
+   "explicacio": "El 1471 el papa Sixt IV va donar un conjunt de bronzes antics al poble romà; d'aquí neix el museu.",
+   "dificultat": 2,
+   "tema": "art",
+   "lloc": "musei-capitolins",
+   "imatge": {
+    "fitxer": "Palazzo dei Conservatori, Rome.jpg",
+    "descripcio": "Façana del Palazzo dei Conservatori a la plaça del Campidoglio.",
+    "credit": "By jensjunge from Pixabay",
+    "llicencia": "CC0"
+   },
+   "font": {
+    "titol": "Wikipedia: Capitoline Museums",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Museums"
+   }
+  },
+  {
+   "id": "q156",
+   "pregunta": "Què representa el «Galata moribund» dels Museus Capitolins?",
+   "opcions": [
+    "Un guerrer gal ferit de mort",
+    "Un gladiador tracis",
+    "Un atleta grec",
+    "Un déu del riu"
+   ],
+   "correcta": 0,
+   "explicacio": "És una còpia romana d'un original hel·lenístic de bronze, probablement de Pèrgam. Retrata el dolor amb gran dignitat.",
+   "dificultat": 2,
+   "tema": "art",
+   "lloc": "musei-capitolins",
+   "imatge": {
+    "fitxer": "0 Marforio - Cortile del Palazzo Nuovo - Musei Capitolini (MC0001).jpg",
+    "descripcio": "El pati del Palazzo Nuovo amb la font del Marforio, colossal estàtua de l'Oceà.",
+    "credit": "Unknown artist",
+    "llicencia": "CC BY 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Dying Gaul",
+    "url": "https://en.wikipedia.org/wiki/Dying_Gaul"
+   }
+  },
+  {
+   "id": "q157",
+   "pregunta": "Quin objecte es considera la joia del Palazzo Massimo: una sala decorada amb un jardí pintat?",
+   "opcions": [
+    "La sala de l'Ara Pacis",
+    "La sala de la Vil·la de Lívia",
+    "La sala dels sarcòfags",
+    "La sala dels emperadors"
+   ],
+   "correcta": 1,
+   "explicacio": "Aquests frescos decoraven una sala subterrània de la vil·la de Lívia a Prima Porta, amb arbres, ocells i flors del segle I aC.",
+   "dificultat": 2,
+   "tema": "art",
+   "lloc": "palazzo-massimo",
+   "imatge": {
+    "fitxer": "Villa of Livia - Garden fresco 005.jpg",
+    "descripcio": "El jardí pintat de la Vil·la de Lívia, la sala més celebrada del museu.",
+    "credit": "Gleb Simonov",
+    "llicencia": "CC0"
+   },
+   "font": {
+    "titol": "Wikipedia: Villa of Livia",
+    "url": "https://en.wikipedia.org/wiki/Villa_of_Livia"
+   }
+  },
+  {
+   "id": "q158",
+   "pregunta": "Quin cèlebre sarcòfag etrusc de terracota, amb dues figures abraçades, és a Villa Giulia?",
+   "opcions": [
+    "El Sarcòfag dels Esposos",
+    "El Sarcòfag de Portonaccio",
+    "El Sarcòfag de Ludovisi",
+    "El Sarcòfag d'Achilleus"
+   ],
+   "correcta": 0,
+   "explicacio": "Fet entre el 530 i el 510 aC, té un somriure arcaic. L'altre exemplar és al Louvre.",
+   "dificultat": 2,
+   "tema": "art",
+   "lloc": "villa-giulia",
+   "imatge": {
+    "fitxer": "Villa giulia roma 04.JPG",
+    "descripcio": "La Villa Giulia, seu del museu.",
+    "credit": "sailko",
+    "llicencia": "CC BY 2.5"
+   },
+   "font": {
+    "titol": "Wikipedia: Sarcophagus of the Spouses",
+    "url": "https://en.wikipedia.org/wiki/Sarcophagus_of_the_Spouses"
+   }
+  },
+  {
+   "id": "q159",
+   "pregunta": "Qui era Italo Gismondi, autor del gran «Plastico» exposat al Museo della Civiltà Romana?",
+   "opcions": [
+    "Arquitecte i arqueòleg que va fer la maqueta de la Roma imperial",
+    "Un emperador romà",
+    "Un escultor del segle XV",
+    "El director de les Termes de Caracal·la"
+   ],
+   "correcta": 0,
+   "explicacio": "La maqueta, la més coneguda de la Roma del segle IV dC, va ser començada a la dècada del 1930.",
+   "dificultat": 3,
+   "tema": "art",
+   "lloc": "museu-civilta-romana",
+   "imatge": {
+    "fitxer": "Museo della Civiltà Romana a EUR Roma.jpg",
+    "descripcio": "L'edifici del museu a l'EUR.",
+    "credit": "Alberti1492",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Italo Gismondi",
+    "url": "https://en.wikipedia.org/wiki/Italo_Gismondi"
+   }
+  },
+  {
+   "id": "q160",
+   "pregunta": "Quin escultor barroc va fer «El rapte de Prosèrpina», amb la mà de Plutó clavada a la cuixa?",
+   "opcions": [
+    "Canova",
+    "Cellini",
+    "Bernini",
+    "Miquel Àngel"
+   ],
+   "correcta": 2,
+   "explicacio": "L'obra (1621-1622) és a la Galleria Borghese. Bernini la va fer amb poc més de 20 anys.",
+   "dificultat": 3,
+   "tema": "art",
+   "lloc": "galleria-borghese",
+   "font": {
+    "titol": "Wikipedia: The Rape of Proserpina",
+    "url": "https://en.wikipedia.org/wiki/The_Rape_of_Proserpina"
+   }
+  },
+  {
+   "id": "q161",
+   "pregunta": "Quina és la peculiaritat de l'«August de Prima Porta» del Vaticà?",
+   "opcions": [
+    "La cuirassa mostra el retorn dels estendards perduts als parts",
+    "Va ser fet de bronze",
+    "Està completament nu",
+    "Mostra l'emperador a cavall"
+   ],
+   "correcta": 0,
+   "explicacio": "El relleu de la cuirassa recorda el 20 aC, quan els parts van retornar les insígnies de Cras. Encara conserva restes de color.",
+   "dificultat": 3,
+   "tema": "art",
+   "lloc": "musei-vaticans",
+   "font": {
+    "titol": "Wikipedia: Augustus of Prima Porta",
+    "url": "https://en.wikipedia.org/wiki/Augustus_of_Prima_Porta"
+   }
+  },
+  {
+   "id": "q162",
+   "pregunta": "Amb quina tècnica es va fer la pintura antiga de les «Noces Aldobrandines», als Museus Vaticans?",
+   "opcions": [
+    "Mosaic de vidre",
+    "Marqueteria de fusta",
+    "Fresc romà sobre estuc",
+    "Vitrall"
+   ],
+   "correcta": 2,
+   "explicacio": "És un fresc romà del temps d'August, trobat a l'Esquilí a principis del segle XVII i comprat pel cardenal Aldobrandini.",
+   "dificultat": 3,
+   "tema": "art",
+   "lloc": "musei-vaticans",
+   "imatge": {
+    "fitxer": "Cortile della Pigna (Vatican Museums) September 2015-1.jpg",
+    "descripcio": "El Cortile della Pigna, projectat per Bramante.",
+    "credit": "Alvesgaspar",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Aldobrandini Wedding",
+    "url": "https://en.wikipedia.org/wiki/Aldobrandini_Wedding"
+   }
+  },
+  {
+   "id": "q163",
+   "pregunta": "Què era, abans de ser fortalesa papal, el Castel Sant'Angelo?",
+   "opcions": [
+    "Una vil·la de Cèsar",
+    "El mausoleu de l'emperador Hadrià",
+    "Un temple d'Isis",
+    "Un estadi"
+   ],
+   "correcta": 1,
+   "explicacio": "L'edifici es va acabar l'any 139 dC. Més tard, va ser incorporat a les muralles i convertit en castell.",
+   "dificultat": 1,
+   "tema": "que-hi-havia",
+   "lloc": "castell-sant-angelo",
+   "imatge": {
+    "fitxer": "Castel Sant'Angelo at dusk, Rome, Italy.jpg",
+    "descripcio": "El castell al capvespre.",
+    "credit": "Jebulon",
+    "llicencia": "CC0"
+   },
+   "font": {
+    "titol": "Wikipedia: Castel Sant'Angelo",
+    "url": "https://en.wikipedia.org/wiki/Castel_Sant'Angelo"
+   }
+  },
+  {
+   "id": "q164",
+   "pregunta": "Quin edifici romà hi havia sota la forma ovalada de la Piazza Navona?",
+   "opcions": [
+    "Un estadi",
+    "Un circ",
+    "Un teatre",
+    "Un amfiteatre"
+   ],
+   "correcta": 0,
+   "explicacio": "L'estadi de Domicià, per a competicions atlètiques a la grega. Les cases s'hi van construir sobre les graderies.",
+   "dificultat": 1,
+   "tema": "que-hi-havia",
+   "lloc": "estadi-domicia",
+   "imatge": {
+    "fitxer": "Giovanni Paolo Pannini - Piazza Navona in Rome - WGA16976.jpg",
+    "descripcio": "Pintura de Panini: Piazza Navona, que conserva la forma de l'estadi.",
+    "credit": "Giovanni Paolo Panini",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Piazza Navona",
+    "url": "https://en.wikipedia.org/wiki/Piazza_Navona"
+   }
+  },
+  {
+   "id": "q165",
+   "pregunta": "Quin edifici es va aixecar sobre l'estany artificial de la Domus Aurea?",
+   "opcions": [
+    "El Panteó",
+    "El Colosseu",
+    "El Circ Màxim",
+    "El Fòrum de Trajà"
+   ],
+   "correcta": 1,
+   "explicacio": "Els Flavis van tornar el terreny de Neró a la ciutat: on hi havia un estany privat, van aixecar un amfiteatre públic.",
+   "dificultat": 2,
+   "tema": "que-hi-havia",
+   "lloc": "colosseu",
+   "imatge": {
+    "fitxer": "Panoramic photograph of interior of Colosseum.jpg",
+    "descripcio": "Panoràmica de l'interior del Colosseu.",
+    "credit": "ThePhotografer",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "q166",
+   "pregunta": "Quin edifici romà van convertir en església i el va salvar de la ruïna, a Roma?",
+   "opcions": [
+    "El Colosseu",
+    "El Panteó",
+    "El Circ Màxim",
+    "Les Termes de Caracal·la"
+   ],
+   "correcta": 1,
+   "explicacio": "El 609 es va consagrar com a església de Santa Maria ad Martyres. Això va evitar que fos saquejat.",
+   "dificultat": 1,
+   "tema": "que-hi-havia",
+   "lloc": "pantheon",
+   "imatge": {
+    "fitxer": "Rome Pantheon facade.jpg",
+    "descripcio": "Façana i pòrtic del Panteó avui.",
+    "credit": "Nicholas Hartmann",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "q167",
+   "pregunta": "Què van construir dins de les Termes de Dioclecià, segons un projecte de Miquel Àngel?",
+   "opcions": [
+    "El Panteó",
+    "L'església de Santa Maria degli Angeli",
+    "La Piazza Navona",
+    "El Palazzo Altemps"
+   ],
+   "correcta": 1,
+   "explicacio": "Miquel Àngel va aprofitar la gran sala central de les termes (el tepidarium) per fer-hi la nau de l'església, a partir del 1561.",
+   "dificultat": 2,
+   "tema": "que-hi-havia",
+   "lloc": "termes-diocleci",
+   "imatge": {
+    "fitxer": "Santa Maria degli Angeli e dei Martiri (5986640971).jpg",
+    "descripcio": "Interior de la basílica construïda per Miquel Àngel dins les termes.",
+    "credit": "Erik Drost",
+    "llicencia": "CC BY 2.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Santa Maria degli Angeli e dei Martiri",
+    "url": "https://en.wikipedia.org/wiki/Santa_Maria_degli_Angeli_e_dei_Martiri"
+   }
+  },
+  {
+   "id": "q168",
+   "pregunta": "Quin palau es va construir al damunt del Teatre de Marcel?",
+   "opcions": [
+    "El Palazzo Farnese",
+    "El Palazzo Orsini",
+    "El Palazzo Venezia",
+    "El Palazzo Barberini"
+   ],
+   "correcta": 1,
+   "explicacio": "A partir del segle XVI les arcades del teatre van ser convertides en un palau. Avui encara s'hi viu.",
+   "dificultat": 2,
+   "tema": "que-hi-havia",
+   "lloc": "teatre-marcel",
+   "imatge": {
+    "fitxer": "Rome Theatre of Marcellus 2020 P01.jpg",
+    "descripcio": "El Teatre de Marcel avui.",
+    "credit": "Fallaner",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Theatre of Marcellus",
+    "url": "https://en.wikipedia.org/wiki/Theatre_of_Marcellus"
+   }
+  },
+  {
+   "id": "q169",
+   "pregunta": "Què va passar amb el portic d'Octàvia, a prop del Teatre de Marcel?",
+   "opcions": [
+    "Va ser desmuntat per construir el Colosseu",
+    "Va ser convertit en teatre",
+    "Va quedar enterrat sota la Piazza Navona",
+    "S'hi va construir una església a dins del pòrtic"
+   ],
+   "correcta": 3,
+   "explicacio": "L'església de Sant'Angelo in Pescheria es va incrustar al pòrtic, i el mercat de peix s'hi va instal·lar durant segles.",
+   "dificultat": 2,
+   "tema": "que-hi-havia",
+   "lloc": "portic-octavia",
+   "imatge": {
+    "fitxer": "Portico di Ottavia and Sant'Angelo in Pescheria.jpg",
+    "descripcio": "El Portico d'Ottavia i Sant'Angelo in Pescheria.",
+    "credit": "Dudva",
+    "llicencia": "CC0"
+   },
+   "font": {
+    "titol": "Wikipedia: Porticus of Octavia",
+    "url": "https://en.wikipedia.org/wiki/Porticus_of_Octavia"
+   }
+  },
+  {
+   "id": "q170",
+   "pregunta": "Què hi havia on avui hi ha la basílica de Sant Climent?",
+   "opcions": [
+    "Un teatre",
+    "Un cementiri etrusc",
+    "Un camp militar",
+    "Una basílica antiga, i sota, edificis romans i un mitreu"
+   ],
+   "correcta": 3,
+   "explicacio": "Són tres nivells superposats: l'església medieval (segle XII), la basílica del segle IV i les cases romanes amb el mitreu.",
+   "dificultat": 2,
+   "tema": "que-hi-havia",
+   "lloc": "san-clemente",
+   "imatge": {
+    "fitxer": "Roma, Basilica di San Clemente, Mitreo.jpg",
+    "descripcio": "El mitreu del nivell inferior.",
+    "credit": "Palickap",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Basilica of San Clemente",
+    "url": "https://en.wikipedia.org/wiki/Basilica_of_San_Clemente"
+   }
+  },
+  {
+   "id": "q171",
+   "pregunta": "Què fa avui a Largo Argentina, entre els temples antics?",
+   "opcions": [
+    "Una biblioteca",
+    "Un hospital militar",
+    "Una escola de gladiadors",
+    "Un santuari de gats"
+   ],
+   "correcta": 3,
+   "explicacio": "Una associació de voluntaris cuida de gats abandonats entre les ruïnes dels temples.",
+   "dificultat": 1,
+   "tema": "que-hi-havia",
+   "lloc": "largo-argentina",
+   "imatge": {
+    "fitxer": "Sacred area in Largo di Torre Argentina 01.jpg",
+    "descripcio": "Els temples de l'àrea sacra de Largo Argentina.",
+    "credit": "John Samuel",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Largo di Torre Argentina",
+    "url": "https://en.wikipedia.org/wiki/Largo_di_Torre_Argentina"
+   }
+  },
+  {
+   "id": "q172",
+   "pregunta": "Entre quins dos turons es va construir el Circ Màxim?",
+   "opcions": [
+    "Palatí i Aventí",
+    "Capitoli i Quirinal",
+    "Esquilí i Celi",
+    "Viminal i Quirinal"
+   ],
+   "correcta": 0,
+   "explicacio": "La vall Murcia era una depressió natural entre els dos turons, que servia com a pista i tenia les graderies als vessants.",
+   "dificultat": 2,
+   "tema": "que-hi-havia",
+   "lloc": "circ-maxim",
+   "imatge": {
+    "fitxer": "Circus Maximus 2025.jpg",
+    "descripcio": "El Circ Màxim avui.",
+    "credit": "Rione Colonna",
+    "llicencia": "CC BY 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Circus Maximus",
+    "url": "https://en.wikipedia.org/wiki/Circus_Maximus"
+   }
+  },
+  {
+   "id": "q173",
+   "pregunta": "Quina església està construïda a sobre del Carcer Tullianum?",
+   "opcions": [
+    "Sant Pere in Vincoli",
+    "San Giuseppe dei Falegnami",
+    "Santa Maria in Cosmedin",
+    "Sant Climent"
+   ],
+   "correcta": 1,
+   "explicacio": "L'església (segle XVI) és de la confraria dels fusters. Dessota, la presó antiga: la tradició diu que hi van estar presos Pere i Pau.",
+   "dificultat": 3,
+   "tema": "que-hi-havia",
+   "lloc": "carcer-tullianum",
+   "imatge": {
+    "fitxer": "San Giuseppe dei Falegnami (Roma) - Facciata (Mamertinum).jpg",
+    "descripcio": "La façana de San Giuseppe dei Falegnami, a sobre de la presó.",
+    "credit": "ThePhotografer",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: San Giuseppe dei Falegnami",
+    "url": "https://en.wikipedia.org/wiki/San_Giuseppe_dei_Falegnami"
+   }
+  },
+  {
+   "id": "q174",
+   "pregunta": "Quines eren les termes imperials més grans de Roma?",
+   "opcions": [
+    "Les de Caracal·la",
+    "Les de Neró",
+    "Les de Dioclecià",
+    "Les de Trajà"
+   ],
+   "correcta": 2,
+   "explicacio": "Es van acabar el 306 dC i ocupaven uns 13 hectàrees, aproximadament; avui en queden restes a la Piazza della Repubblica.",
+   "dificultat": 2,
+   "tema": "monuments",
+   "lloc": "termes-diocleci",
+   "imatge": {
+    "fitxer": "Museo delle Terme di Diocleziano - sala ottagona.jpg",
+    "descripcio": "L'Aula Ottagona.",
+    "credit": "NikonZ7II",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Baths of Diocletian",
+    "url": "https://en.wikipedia.org/wiki/Baths_of_Diocletian"
+   }
+  },
+  {
+   "id": "q175",
+   "pregunta": "Què era el Fòrum Romà durant l'edat mitjana i fins al segle XVIII?",
+   "opcions": [
+    "Un cementiri",
+    "Un prat on pasturaven vaques (Campo Vaccino)",
+    "Un gran parc públic",
+    "Un mercat de fusta"
+   ],
+   "correcta": 1,
+   "explicacio": "El Fòrum va quedar parcialment enterrat. Els pintors del segle XVIII el van representar amb vaques entre les columnes.",
+   "dificultat": 1,
+   "tema": "despres",
+   "lloc": "forum-roma",
+   "imatge": {
+    "fitxer": "Foro Romano Musei Capitolini Roma.jpg",
+    "descripcio": "El Fòrum Romà vist des del Capitoli.",
+    "credit": "This Photo was taken by Wolfgang Moroder.  \n\nFeel free to use my photos, but please mention me as the author and send me a  message. \n\n\n\nThis image is not in the public domain. Please respect the copy",
+    "llicencia": "CC BY-SA 3.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Roman Forum",
+    "url": "https://en.wikipedia.org/wiki/Roman_Forum"
+   }
+  },
+  {
+   "id": "q176",
+   "pregunta": "Qui va ser enterrat al Panteó, entre d'altres, i hi té la tomba?",
+   "opcions": [
+    "El pintor Rafael",
+    "Miquel Àngel",
+    "Bernini",
+    "Dant"
+   ],
+   "correcta": 0,
+   "explicacio": "Rafael va morir el 1520 i va voler ser enterrat al Panteó. També hi reposen els reis d'Itàlia Víctor Manuel II i Humbert I.",
+   "dificultat": 2,
+   "tema": "despres",
+   "lloc": "pantheon",
+   "imatge": {
+    "fitxer": "Giovanni Paolo Panini - Interior of the Pantheon, Rome - Google Art Project.jpg",
+    "descripcio": "Pintura de Giovanni Paolo Panini (s. XVIII): l'interior del Panteó tal com es veia fa uns 280 anys.",
+    "credit": "Giovanni Paolo Panini",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Raphael",
+    "url": "https://en.wikipedia.org/wiki/Raphael"
+   }
+  },
+  {
+   "id": "q177",
+   "pregunta": "Què va passar amb moltes pedres del Colosseu a l'edat mitjana i al Renaixement?",
+   "opcions": [
+    "Van ser portades a Constantinoble",
+    "Van ser reutilitzades per construir palaus i esglésies",
+    "Van ser llençades al Tíber",
+    "Van ser enterrades"
+   ],
+   "correcta": 1,
+   "explicacio": "Els terratrèmols i els lladres de pedra van malmetre l'edifici durant segles, i l'estructura va servir fins i tot de fortalesa i de cantera.",
+   "dificultat": 2,
+   "tema": "despres",
+   "lloc": "colosseu",
+   "imatge": {
+    "fitxer": "Panoramic photograph of interior of Colosseum.jpg",
+    "descripcio": "Panoràmica de l'interior del Colosseu.",
+    "credit": "ThePhotografer",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "q178",
+   "pregunta": "Quin papa del segle XVIII va consagrar el Colosseu a la Passió de Crist?",
+   "opcions": [
+    "Pius IX",
+    "Sixt V",
+    "Urbà VIII",
+    "Benet XIV"
+   ],
+   "correcta": 3,
+   "explicacio": "Es va posar una creu i es va fer el via crucis; Benet XIV el va prohibir com a cantera. Avui el papa hi segueix fent el via crucis de Divendres Sant.",
+   "dificultat": 2,
+   "tema": "despres",
+   "lloc": "colosseu",
+   "imatge": {
+    "fitxer": "Colosseo 2020.jpg",
+    "descripcio": "El Colosseu vist des de l'exterior.",
+    "credit": "FeaturedPics",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Colosseum",
+    "url": "https://en.wikipedia.org/wiki/Colosseum"
+   }
+  },
+  {
+   "id": "q179",
+   "pregunta": "Quin dit va circular al segle XVII sobre el papa Urbà VIII (Barberini) i el Panteó?",
+   "opcions": [
+    "«Roma, caput mundi»",
+    "«Panem et circenses»",
+    "«Quod non fecerunt barbari, fecerunt Barberini»",
+    "«Sic transit gloria»"
+   ],
+   "correcta": 2,
+   "explicacio": "Va fer treure bronzes del pòrtic del Panteó; es diu que per a canons i per al baldaquí de Sant Pere. Un dit popular va resumir-ho: «el que no van fer els bàrbars, ho van fer els Barberini».",
+   "dificultat": 2,
+   "tema": "despres",
+   "lloc": "pantheon",
+   "imatge": {
+    "fitxer": "Rome Pantheon facade.jpg",
+    "descripcio": "Façana i pòrtic del Panteó avui.",
+    "credit": "Nicholas Hartmann",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  },
+  {
+   "id": "q180",
+   "pregunta": "Què va fer el papa Sixt V amb les columnes de Trajà i de Marc Aureli?",
+   "opcions": [
+    "Les va enderrocar",
+    "Les va fer traslladar al Vaticà",
+    "Va posar-hi estàtues de Sant Pere i Sant Pau al capdamunt",
+    "Les va cobrir de bronze"
+   ],
+   "correcta": 2,
+   "explicacio": "L'estàtua de Sant Pere és a la de Trajà (1587) i la de Sant Pau a la de Marc Aureli (1589). Substituïen els emperadors originals.",
+   "dificultat": 2,
+   "tema": "despres",
+   "lloc": "columna-trajana",
+   "imatge": {
+    "fitxer": "Trajan's Column HD.jpg",
+    "descripcio": "La Columna Trajana avui.",
+    "credit": "Livioandronico2013",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Trajan's Column",
+    "url": "https://en.wikipedia.org/wiki/Trajan's_Column"
+   }
+  },
+  {
+   "id": "q181",
+   "pregunta": "Quin dictador va obrir la Via dei Fori Imperiali entre el Colosseu i la Piazza Venezia, el 1932?",
+   "opcions": [
+    "Benito Mussolini",
+    "Garibaldi",
+    "Napoleó",
+    "Víctor Manuel II"
+   ],
+   "correcta": 0,
+   "explicacio": "Per a obrir la via es van enderrocar cases medievals i barris sencers, i es va tapar part dels fòrums imperials.",
+   "dificultat": 2,
+   "tema": "despres",
+   "lloc": "forum-august",
+   "imatge": {
+    "fitxer": "Forum of Augustus, Temple of Mars Ultor 2013.jpg",
+    "descripcio": "El temple de Mart Ultor al Fòrum d'August, avui.",
+    "credit": "Szilas",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Via dei Fori Imperiali",
+    "url": "https://en.wikipedia.org/wiki/Via_dei_Fori_Imperiali"
+   }
+  },
+  {
+   "id": "q182",
+   "pregunta": "Quin ús va tenir el Mausoleu d'August al segle XX, abans de ser restaurat?",
+   "opcions": [
+    "Església",
+    "Hospital",
+    "Mercat",
+    "Sala de concerts (Auditorium)"
+   ],
+   "correcta": 3,
+   "explicacio": "A principis del segle XX va ser l'Augusteo, una sala de concerts; als anys 1930 Mussolini el va fer tancar i el va restaurar com a lloc arqueològic.",
+   "dificultat": 3,
+   "tema": "despres",
+   "lloc": "mausoleu-august",
+   "imatge": {
+    "fitxer": "Print, Ruins of the Mausoleum of Octavian Augustus, \"Le Antichita Romane\" II, 1756, 1756 (CH 18336955).jpg",
+    "descripcio": "Gravat de Piranesi (Le Antichità Romane, 1756): les ruïnes del mausoleu.",
+    "credit": "Unknown artist",
+    "llicencia": "Public domain"
+   },
+   "font": {
+    "titol": "Wikipedia: Mausoleum of Augustus",
+    "url": "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus"
+   }
+  },
+  {
+   "id": "q183",
+   "pregunta": "Quin pintor del Renaixement va visitar la Domus Aurea i en va inspirar la decoració «grotesca»?",
+   "opcions": [
+    "Leonardo",
+    "Giotto",
+    "Rafael",
+    "Botticelli"
+   ],
+   "correcta": 2,
+   "explicacio": "Les sales soterrades eren com coves (grotte); d'aquí «grotesc». Rafael i els seus ajudants van copiar-ne els motius per a les Lògies del Vaticà.",
+   "dificultat": 3,
+   "tema": "despres",
+   "lloc": "domus-aurea",
+   "imatge": {
+    "fitxer": "Domus Aurea, Nero's Golden House (36453906275).jpg",
+    "descripcio": "Interior de la Domus Aurea.",
+    "credit": "Andy Montgomery from Birmingham, AL",
+    "llicencia": "CC BY-SA 2.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Domus Aurea",
+    "url": "https://en.wikipedia.org/wiki/Domus_Aurea"
+   }
+  },
+  {
+   "id": "q184",
+   "pregunta": "En quin any va ser Roma proclamada capital del Regne d'Itàlia?",
+   "opcions": [
+    "1861",
+    "1815",
+    "1946",
+    "1871"
+   ],
+   "correcta": 3,
+   "explicacio": "Les tropes italianes van entrar a Roma el 1870, i el 1871 la ciutat va passar a ser la capital.",
+   "dificultat": 3,
+   "tema": "despres",
+   "font": {
+    "titol": "Wikipedia: Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome"
+   }
+  },
+  {
+   "id": "q185",
+   "pregunta": "Què vol dir que el Panteó és l'edifici antic «més ben conservat» de Roma?",
+   "opcions": [
+    "Que no ha sofert mai cap reforma",
+    "Que només s'obre un cop l'any",
+    "Que l'han reconstruït sencer",
+    "Que ha estat utilitzat sense interrupció des de l'antiguitat"
+   ],
+   "correcta": 3,
+   "explicacio": "Primer va ser temple, després església (609). L'ús continuat va evitar-ne la ruïna, tot i que en va sortir bronze del pòrtic.",
+   "dificultat": 3,
+   "tema": "despres",
+   "lloc": "pantheon",
+   "imatge": {
+    "fitxer": "Pantheon (Rome) - Interior 01.jpg",
+    "descripcio": "Interior de la rotonda.",
+    "credit": "John Samuel",
+    "llicencia": "CC BY-SA 4.0"
+   },
+   "font": {
+    "titol": "Wikipedia: Pantheon, Rome",
+    "url": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+   }
+  }
+ ]
+}
