@@ -1,0 +1,223 @@
+{
+ "seccions": [
+  {
+   "titol": "Entrades i reserves",
+   "items": [
+    {
+     "titol": "Colosseu + Fòrum Romà + Palatí: l'entrada bàsica de 24 h",
+     "text": "L'entrada completa costa 18 €. La reduïda és de 2 € per a ciutadans de la UE de 18 anys fins al dia que en fan 25; hi ha tarifes de 14 € (Amics del PArCo, R.A.P.) i 11,50 € (amb Roma Pass). Cobreix el Colosseu (nivells 1 i 2), el Museu del Colosseu, el Fòrum Romà i el Palatí. Es reserva una sola hora d'entrada al Colosseu, que només es pot fer a l'hora reservada (arribar 15 minuts abans), i s'hi pot estar com a màxim 75 minuts. El Fòrum i el Palatí s'han de visitar el mateix dia, o fins a 24 hores abans o després. L'entrada es pot guardar al mòbil, no cal imprimir-la. No es venen entrades de grup. Les dades són de la pàgina oficial; no hi consta si calen documents d'identitat [VALIDAR].",
+     "font": "https://colosseo.it/biglietti/colosseo-foro-romano-palatino/",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Colosseu: venda oficial i quan surten les entrades",
+     "text": "L'únic venedor oficial és ticketing.colosseo.it (el web del Parc, colosseo.it, hi enllaça). Les entrades surten a la venda 30 dies abans de la visita, segons la pàgina de l'entrada Full Experience: per al 23 de març del 2027 toca el 21 de febrer del 2027, aproximadament [VALIDAR la data exacta d'obertura i si totes les entrades segueixen aquesta regla]. La pàgina de l'entrada estàndard no ho indica.",
+     "font": "https://colosseo.it/biglietti/full-experience-sotterranei-arena/",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Full Experience: arena, soterranis o àtic",
+     "text": "Hi ha tres variants (Arena, Soterranis i Arena, Àtic i Passatge de Còmmode). La d'arena i soterranis costa 24 € (32 € amb recorregut didàctic); la tarifa reduïda és de 2 € per a ciutadans de la UE de 18 a 25 anys. És vàlida 2 dies consecutius, amb màxim 90 minuts al Colosseu, i s'ha de reservar amb 30 dies d'antelació. Inclou el Fòrum i el Palatí. Els soterranis i l'arena depenen de la disponibilitat de places. Els preus de les altres variants (àtic) no s'han trobat [VALIDAR].",
+     "font": "https://colosseo.it/biglietti/full-experience-sotterranei-arena/",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Colosseu: horaris al març del 2027",
+     "text": "El web oficial dona l'horari fins al 28/2/2027: el Colosseu obre a les 8:30, el Fòrum/Palatí i la Domus Àuria a les 9:00, el Parc tanca a les 16:30 i l'última entrada és a les 15:30. L'horari de primavera 2027 no s'ha publicat; el 2026 va canviar el 29 de març (tancament 19:15, última entrada 18:15). Per al 21–26 de març del 2027 [VALIDAR].",
+     "font": "https://colosseo.it/orari-e-biglietti/",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Museus Vaticans",
+     "text": "Venda oficial i única: tickets.museivaticani.va (el web avisa de dominis semblants que cobren més). Obert de dilluns a dissabte de 8:00 a 20:00 (última entrada a les 18:00); l'últim diumenge del mes obre de 9:00 a 14:00 amb entrada gratuïta. Preu orientatiu: 20 € + 5 € de reserva online segons una guia tercera [VALIDAR; no s'ha trobat el preu oficial]. Tanquen el 21 i el 28 de març del 2027 segons l'INFORME.md [VALIDAR: el PDF oficial del calendari està xifrat i no s'ha pogut llegir].",
+     "font": "https://www.museivaticani.va/content/museivaticani-mobile/it/organizza-visita/servizi-per-i-visitatori/mv-family-friendly.html",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Galleria Borghese",
+     "text": "Obert de dimarts a diumenge, de 9:00 a 19:00 (última entrada 17:45); dilluns tancat. Els torns són cada 30 minuts i es pot estar 2 hores. Entrada plena: 18 €; reduïda 2 € (UE, 18–25 anys). Els tiquets són nominals, no reemborsables, es compren al portal Musei Italiani (portale.museiitaliani.it) o per telèfon (+39 06 32810), amb un màxim de 6 per compra. Es pot canviar el nom una vegada, fins al tercer dia abans de la visita. Quan surten les entrades al març del 2027 [VALIDAR].",
+     "font": "https://galleriaborghese.cultura.gov.it/visita/info-biglietti/",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Castel Sant'Angelo",
+     "text": "Obert de dimarts a diumenge de 9:00 a 19:30 (darrera entrada 18:30), tancat els dilluns. L'entrada plena costa 18 € des de l'1 de juliol del 2026. El primer dilluns de cada mes obre de 14:00 a 20:00 amb un bitllet de 5 € (només 2026 segons Turismo Roma; no afecta el viatge, perquè el 22 de març no és primer dilluns).",
+     "font": "https://cultura.gov.it/luogo/castel-santangelo",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Museus Capitolins",
+     "text": "Obert cada dia de 9:30 a 19:30 segons la web oficial. Entrada de 15 € per a no residents i 9,50 € de reduïda; la Capitolini Card (amb la Centrale Montemartini) costa 15,50 €. Entrada gratuïta per als residents de Roma i l'àrea metropolitana. Preus de fonts parcials [VALIDAR al web abans de comprar].",
+     "font": "https://museicapitolini.org/en/infopage/biglietti-e-audioguide",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Panteó",
+     "text": "Entrada de pagament amb venda online a pantheonroma.com; obert cada dia de 9:00 a 19:00 segons fonts secundàries. El preu és de 5 € o de 7 € (el Ministeri de Cultura n'esmenta un de 7 € amb reducció a 2 € per a 18–25 des del juliol del 2026) [VALIDAR]. L'entrada és gratuïta per als menors de 18 i per als residents. Pot haver-hi misses i horaris especials a Setmana Santa [VALIDAR].",
+     "font": "https://cultura.gov.it/luogo/pantheon",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Roma Pass",
+     "text": "48 h: 38 €; 72 h: 62,90 € (preu oficial de Turismo Roma). Dona accés al transport públic i a descomptes o entrades en museus; amb el pass, l'entrada del Parc del Colosseu costa 11,50 €. El Vaticà no hi és inclòs. El nombre d'entrades gratuïtes (1 per al pass de 48 h, 2 per al de 72 h) surt d'una guia tercera [VALIDAR a romapass.it]. Si es vol fer servir amb la Borghese cal reservar per telèfon o correu electrònic.",
+     "font": "https://turismoroma.it/it/pagina/roma-pass",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Altres passis i targetes",
+     "text": "Membership Card del Parc Colosseu: un accés gratuït al Colosseu per setmana i accés il·limitat al Fòrum, Palatí i llocs SUPER; el preu no s'ha pogut confirmar [VALIDAR]. No s'han inclòs passis privats (Omnia Card, etc.) perquè no s'han trobat dades oficials.",
+     "font": "https://colosseo.it/biglietti/membership-card/",
+     "comprovat": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "titol": "Primer diumenge de mes i gratuïtats",
+   "items": [
+    {
+     "titol": "Cap primer diumenge dins del viatge",
+     "text": "Els primers diumenges del mes hi ha entrada gratuïta al Parc del Colosseu (Colosseu, Fòrum, Palatí) i a molts museus. El viatge (21–26 de març del 2027) no en conté cap: el més proper és el 4 d'abril. La Domus Àuria tanca el primer diumenge del mes. Planifica pagant entrada.",
+     "font": "https://colosseo.it/orari-e-biglietti/",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Altres dies gratuïts al Colosseu",
+     "text": "Entrada gratuïta: primer diumenge de mes, 25 d'abril, 2 de juny i 4 de novembre. Cap d'aquests dies cau en el viatge.",
+     "font": "https://colosseo.it/orari-e-biglietti/",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Museus Vaticans: últim diumenge",
+     "text": "Cada darrer diumenge del mes l'entrada és gratuïta (9:00–14:00, última entrada 12:30). L'últim diumenge de març del 2027 és el 28 (Pasqua), fora del viatge, i segons l'INFORME.md els museus tanquen aquell dia [VALIDAR].",
+     "font": "https://www.museivaticani.va/content/museivaticani-mobile/it/organizza-visita/servizi-per-i-visitatori/mv-family-friendly.html",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Tarifes reduïdes i exempcions",
+     "text": "En diversos museus estatals (Galleria Borghese, Colosseu, Fòrum, Palatí), els ciutadans de la UE de 18 a 25 anys paguen 2 €, i els menors de 18 són gratuïts. Els tiquets de la Borghese són nominals i cal documentar l'edat.",
+     "font": "https://galleriaborghese.cultura.gov.it/visita/info-biglietti/",
+     "comprovat": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "titol": "Transport",
+   "items": [
+    {
+     "titol": "Fiumicino → Termini: Leonardo Express",
+     "text": "Tren directe: 14 €, 32 minuts, cada 15 minuts. Surt de Fiumicino de 5:38 a 23:27 i de Termini de 4:50 a 23:05 segons ADR. Els bitllets es compren a Trenitalia (web o app), màquines, taquilles o directament amb targeta sense contacte als torns [fonts parcials; confirmar].",
+     "font": "https://www.adr.it/en/web/aeroporti-di-roma-en/pax-fco-train",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Alternativa: tren regional FL1",
+     "text": "El tren regional FL1 comunica Fiumicino amb Trastevere, Ostiense i Tiburtina; la freqüència és cada 15 minuts els dies feiners i cada 30 en cap de setmana i festius (ADR). El preu orientatiu és d'uns 8 € segons fonts terceres [VALIDAR a Trenitalia]. Per arribar a la zona de Termini, des d'Ostiense es pot enllaçar amb el metro B a Piramide. El 21/3 (diumenge) la freqüència serà de cada 30 minuts.",
+     "font": "https://www.adr.it/en/web/aeroporti-di-roma-en/pax-fco-train",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Autobusos directes i taxi",
+     "text": "Hi ha autocars directes a Termini (Terravision, SIT, TAM): uns 5–8 € en sentit únic segons guies de tercers, sense preu oficial [VALIDAR]. El taxi té tarifa fixa de 55 € dins les Muralles Aurelianes (per cursa, no per persona), segons ADR i el Comune de Roma; es recomana agafar taxi 'Comune di Roma'.",
+     "font": "https://www.adr.it/pax-fco-taxi",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Bitllets de transport urbà (ATAC)",
+     "text": "Bitllet BIT 1,50 € (100 minuts); ROMA 24 h 8,50 €; 48 h 15 €; 72 h 22 €; setmanal CIS 29 €. Es poden pagar amb targeta sense contacte (tap&go) als torns del metro i als vehicles de superfície. Els bitllets BIT/24/48/72 h també es compren a apps com B+. Si hi ha dubtes sobre l'abast del tap&go, [VALIDAR].",
+     "font": "https://www.atac.roma.it/en/tickets-and-passes",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Metro",
+     "text": "Línies A, B i C, generalment de 5:30 a 23:30; els divendres i dissabtes l'última sortida des de les terminals és a l'1:30 (Telepass i Fanpage; no oficial) [VALIDAR a ATAC]. El Divendres Sant 26/3 la parada Colosseo pot tancar a la tarda segons l'INFORME.md [VALIDAR].",
+     "font": "https://moveo.telepass.com/biglietto-metro-roma-atac/",
+     "comprovat": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "titol": "Setmana Santa 2027",
+   "items": [
+    {
+     "titol": "Diumenge de Rams, 21/3",
+     "text": "Missa papal a la plaça de Sant Pere al matí, amb plaça i basílica plenes. Museus Vaticans tancats. El patró és del 2026 [VALIDAR per al 2027]; el programa papal del 2027 encara no està publicat.",
+     "font": "file:///Users/sergitorres/Claude/Personal/Viatge-Roma-Setmana-Santa-2027/INFORME.md",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Dilluns 22 i dimarts 23",
+     "text": "Dilluns: Galleria Borghese i Castel Sant'Angelo tancats; el Vaticà obert. Dimarts: dia normal i el millor per al Colosseu o la Borghese (INFORME.md). El tancament dels dilluns de la Borghese i de Castel Sant'Angelo coincideix amb els webs oficials.",
+     "font": "https://galleriaborghese.cultura.gov.it/visita/info-biglietti/",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Dimecres 24",
+     "text": "Probable audiència papal: basílica de Sant Pere tancada fins cap a les 12:30 [VALIDAR; font secundària de l'INFORME.md].",
+     "font": "file:///Users/sergitorres/Claude/Personal/Viatge-Roma-Setmana-Santa-2027/INFORME.md",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Dijous 25",
+     "text": "Missa Crismal al matí (basílica limitada). Comencen les vacances escolars al Laci (patró 2026, regione.lazio.it) [VALIDAR per al 2027].",
+     "font": "file:///Users/sergitorres/Claude/Personal/Viatge-Roma-Setmana-Santa-2027/INFORME.md",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Divendres Sant, 26/3",
+     "text": "L'INFORME.md diu que el Colosseu tanca aviat (el 2025, a les 14:00), que el metro Colosseo tanca a la tarda i que el Via Crucis és a les 21:00 [VALIDAR, segons el patró 2025/2026]. Dada oficial del 2026: Colosseu obert de 8:30 a 13:00 (última entrada 12:00), Fòrum i Palatí de 9:00 a 13:00, i el Temple de Venus i Roma i les Termes d'Elagàbal tancats del 24/3 al 4/4. El Divendres Sant del 2027 podria repetir-ho [VALIDAR].",
+     "font": "https://colosseo.it/en/2026/03/closures-3-april-2026/",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Cap de setmana de Pasqua (fora del viatge)",
+     "text": "Dissabte 27: vetlla pasqual al vespre; màxima afluència. Diumenge 28 (Pasqua): missa i Urbi et Orbi; Museus Vaticans tancats (INFORME.md). La finestra del 21–26 de març evita aquests dies.",
+     "font": "file:///Users/sergitorres/Claude/Personal/Viatge-Roma-Setmana-Santa-2027/INFORME.md",
+     "comprovat": "2026-11-25"
+    }
+   ]
+  },
+  {
+   "titol": "Consells",
+   "items": [
+    {
+     "titol": "Nasoni: aigua potable gratuïta",
+     "text": "Els nasoni són les fonts de ferro colat amb un petit broc, amb aigua potable. Turismo Roma n'indica uns 2.800 a la ciutat, localitzables amb l'app Waidy Wow d'Acea. Porta una ampolla reutilitzable; al Fòrum n'hi ha a la Via Sacra.",
+     "font": "https://www.turismoroma.it/it/page/i-nasoni-le-fontanelle-di-roma",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Roba per a esglésies i Vaticà",
+     "text": "Per entrar a Sant Pere i a les esglésies cal cobrir espatlles i genolls (sense mànigues, pantalons curts ni minifaldilles); no és aplicable a la plaça. Les fonts són guies de tercers i no s'ha trobat la pàgina oficial de vaticanstate.va [VALIDAR]. A la basílica de Sant Pere no es pot entrar amb barret els homes (font tercera).",
+     "font": "https://siviaggia.it/informazioni-utili/vaticano-cosa-indossare-e-cosa-no/298671/",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Restaurants: coperto, pane i servizio",
+     "text": "A Laci el coperto està prohibit des del 2006, però molts locals el substitueixen per 'pane' o 'servizio' (aprox. 10–12% segons una font). Al taulell del bar sol ser més barat que a taula. Es dona propina només si el servei és bo i no hi ha servizio a la nota. Horaris de cuina: no s'han pogut confirmar amb font oficial i no se'n donen xifres [VALIDAR].",
+     "font": "https://www.thelocal.it/20240612/explained-the-etiquette-around-paying-your-restaurant-bill-in-italy",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Taxa turística",
+     "text": "L'impost de soggiorno de Roma no s'ha pogut confirmar: les fonts donen entre 3 i 10 € per persona i nit segons la categoria [VALIDAR a Roma Capitale]. L'INFORME.md també ho marca com a [VALIDAR].",
+     "font": "https://www.holidu.it/magazine/tassa-di-soggiorno-a-roma-tariffe-attuali-e-come-pagarla",
+     "comprovat": "2026-11-25"
+    },
+    {
+     "titol": "Cues i seguretat",
+     "text": "Compra les entrades dels llocs principals amb antelació i només a webs oficials, perquè el Colosseu i els Museus Vaticans avisen de revenedors que cobren més. Aquest consell surt dels webs oficials del Vaticà i del Parc [no hi ha font única].",
+     "font": "https://www.museivaticani.va/content/museivaticani-mobile/it/organizza-visita/servizi-per-i-visitatori/mv-family-friendly.html",
+     "comprovat": "2026-11-25"
+    }
+   ]
+  }
+ ],
+ "validar": [
+  "Dates d'obertura de venda de les entrades (Colosseu, Borghese) per al març del 2027.",
+  "Preus actuals dels Museus Vaticans, Panteó, Mercats de Trajà, Ara Pacis.",
+  "Horaris del Colosseu a final de març 2027 i Divendres Sant 2027.",
+  "Calendari 2027 dels Museus Vaticans (PDF xifrat).",
+  "Preu FL1, autocars a Termini, metro (hores), taxa turística, dress code oficial, horaris de menjar.",
+  "Roma Pass: entrades gratuïtes incloses (font tercera)."
+ ]
+}

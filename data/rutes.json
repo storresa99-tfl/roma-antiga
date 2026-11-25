@@ -1,0 +1,403 @@
+{
+ "nota": "Les rutes agrupen els llocs per zones per caminar poc i respecten els tancaments de Setmana Santa de l'INFORME.md (Museus Vaticans tancats el 21; Borghese i Castel Sant'Angelo tancats el 22; Colosseu tanca aviat el 26). El dia 1 comença a la tarda (arribada cap a les 12:00) i el dia 6 acaba cap a les 16:00 per anar a l'aeroport.\n\nTemps a peu: no s'ha fet servir cap eina de mapes. S'han calculat amb la distància en línia recta entre coordenades aproximades (Wikidata, a l'ull) multiplicada per 1,3 i dividida per 4,5 km/h. Són estimacions: [VALIDAR amb Google Maps o Apple Maps abans de viatjar]. L'hotel no està reservat; els càlculs suposen una zona prop de Trevi.\n\nAlternativa de mig dia o dia sencer: Ostia Antica és el millor complement (tren de Roma, Porta San Paolo a Ostia Antica, ~30 min; Tue–Sun 8:30–19:00 a l'estiu; tancat els dilluns segons el Ministeri de Cultura [VALIDAR horaris d'hivern i preu, una guia tercera diu 18 €]). Es pot substituir el dia 4 sencer o la tarda del dia 4 (després de la Borghese). El dia sencer alternatiu és la Via Àpia (Catacumbes, Circ de Maxenci, Tomba de Cecília Metel·la): es pot substituir el dia 4. Els horaris de les catacumbes i els dies de tancament canvien segons la catacumba i s'han de confirmar al web de cada una [VALIDAR].\n\nCrypta Balbi apareixia com a temporalment tancada en un comunicat del Museu Nacional Romà del febrer del 2026, així que no s'ha inclòs a la ruta [VALIDAR si ja ha reobert].\n\nLa Domus Àuria no s'ha inclòs: requereix reserva i el web del Parc la tanca el primer diumenge de cada mes; l'horari habitual no s'ha pogut confirmar [VALIDAR].",
+ "dies": [
+  {
+   "dia": 1,
+   "data": "2027-03-21",
+   "titol": "Diumenge de Rams: el cor de la Roma republicana i imperial al Camp de Mart",
+   "intro": "Arribes a Fiumicino cap a les 12:00 (el vol de Vueling de l'INFORME aterra a les 11:50). Amb el Leonardo Express arribes a Termini en uns 32 minuts. Deixes les maletes a l'hotel (suposem la zona de Trevi, ja que l'hotel no està reservat) i comences cap a les 15:00 amb una ruta curta i plana. Del Trevi al Panteó hi ha ~10 min (~0,8 km) a peu.\n\nEl matí del Diumenge de Rams hi ha missa papal a Sant Pere i la zona del Vaticà està plena; per això avui es fa l'altre cantó del riu, lluny de la multitud.",
+   "parades": [
+    {
+     "lloc": "pantheon",
+     "hora": "15:00",
+     "durada": "1 h",
+     "nota": "Entrada de pagament amb reserva online recomanada, sobretot en cap de setmana [VALIDAR: preu actual i si cal reserva obligatòria; el Ministeri de Cultura n'indica 5 € i un possible 7 € des del juliol del 2026]. Obert cada dia de 9:00 a 19:00 segons fonts secundàries; és una església i pot tancar durant misses [VALIDAR per al Diumenge de Rams].",
+     "a_peu_fins_seguent": "~5 min (~0,4 km)"
+    },
+    {
+     "lloc": "largo-argentina",
+     "hora": "16:15",
+     "durada": "30 min",
+     "nota": "Àrea sagrada amb quatre temples republicans, a peu de carrer. Aquí es va reunir el Senat el dia de l'assassinat de Cèsar, a la Cúria de Pompeu. Es veu des de la barana sense entrar.",
+     "a_peu_fins_seguent": "~3 min (~0,2 km)"
+    },
+    {
+     "lloc": "teatre-pompeu",
+     "hora": "16:50",
+     "durada": "15 min",
+     "nota": "Només en queden traces de l'estructura corbada sota els edificis i el restaurant de la Via di Grotta Pinta; la forma del teatre es nota al plànol dels carrers.",
+     "a_peu_fins_seguent": "~10 min (~0,6 km)"
+    },
+    {
+     "lloc": "estadi-domicia",
+     "hora": "17:15",
+     "durada": "30 min",
+     "nota": "Piazza Navona conserva la forma de l'estadi de Domicià (c. 86 dC). Les restes visitables són sota els edificis del costat nord de la plaça [VALIDAR: horari del museu d'aquesta zona]. Sopar per la zona i tornada a peu a l'hotel."
+    }
+   ],
+   "avisos": [
+    "Diumenge de Rams: missa papal al matí a la plaça de Sant Pere, i plaça i basílica plenes. Museus Vaticans tancats (INFORME.md, calendari oficial dels Museus Vaticans; el PDF no s'ha pogut tornar a llegir).",
+    "El patró del 2026 situa la missa papal el matí [VALIDAR per al 2027]; el programa papal del 2027 encara no està publicat.",
+    "El Panteó: comprova l'horari de les misses al web oficial abans d'anar-hi [VALIDAR]."
+   ]
+  },
+  {
+   "dia": 2,
+   "data": "2027-03-22",
+   "titol": "Museus Vaticans al matí i Camp de Mart a la tarda",
+   "intro": "Dilluns és el dia clau per al Vaticà: els Museus Vaticans estan oberts i la Galleria Borghese i Castel Sant'Angelo tanquen. Reserva l'entrada per endavant al web oficial dels museus. Els Museus del Vaticà obren de dilluns a dissabte de 8:00 a 20:00, amb darrera entrada a les 18:00. La tarda es dedica als monuments d'August i Adrià del Camp de Mart, que són a l'aire lliure.\n\nDe l'hotel (zona Trevi) al Vaticà hi ha uns 3,5 km: convé anar-hi amb metro (línia A, Ottaviano) o autobús.",
+   "parades": [
+    {
+     "lloc": "musei-vaticans",
+     "hora": "8:30",
+     "durada": "4 h",
+     "nota": "Entrada amb reserva online (web oficial: tickets.museivaticani.va). Cal passar per les sales de l'Antiguitat (Pio-Clementino, Laocoont, Apol·lo del Belvedere) abans de la Capella Sixtina. Cal portar espatlles i genolls coberts [només fonts secundàries; VALIDAR al web oficial]. Entrar a primera hora ajuda a evitar cues.",
+     "a_peu_fins_seguent": "~30 min (~2,4 km) o autobús/metro"
+    },
+    {
+     "lloc": "ara-pacis",
+     "hora": "14:45",
+     "durada": "1 h",
+     "nota": "Museu de l'Ara Pacis: obert cada dia de 9:30 a 19:30 segons la web del museu; entrada de pagament per a no residents (14 € segons la mateixa web, data de la pàgina incerta) [VALIDAR preu].",
+     "a_peu_fins_seguent": "~3 min (~0,1 km)"
+    },
+    {
+     "lloc": "mausoleu-august",
+     "hora": "15:50",
+     "durada": "20 min",
+     "nota": "Es veu per fora des de la plaça Augusto Imperatore (reoberta el 6/6/2025). L'interior està tancat a les visites des del 6/6/2022 per obres; la Sovrintendenza preveia acabar-les a finals del 2026, sense data de reobertura [VALIDAR] (font: fitxa del lloc, bloc C).",
+     "a_peu_fins_seguent": "~10 min (~0,8 km)"
+    },
+    {
+     "lloc": "columna-marc-aureli",
+     "hora": "16:20",
+     "durada": "15 min",
+     "nota": "Columna a Piazza Colonna, amb relleus de les campanyes de Marc Aureli. L'estàtua de sant Pau és de 1589.",
+     "a_peu_fins_seguent": "~3 min (~0,2 km)"
+    },
+    {
+     "lloc": "temple-adria",
+     "hora": "16:40",
+     "durada": "15 min",
+     "nota": "Onze columnes corínties del temple d'Adrià integrades a la Borsa, a Piazza di Pietra.",
+     "a_peu_fins_seguent": "~3 min (~0,2 km)"
+    },
+    {
+     "lloc": "obelisc-montecitorio",
+     "hora": "17:00",
+     "durada": "10 min",
+     "nota": "Obelisc egipci de Psamètic II, portat a Roma per August. Després, tornada a peu a l'hotel; sopar a la zona de Trevi."
+    }
+   ],
+   "avisos": [
+    "Vaticà obert (dilluns a dissabte). Galleria Borghese i Castel Sant'Angelo tancats (dilluns).",
+    "Museu de l'Ara Pacis: comprova l'obertura de dilluns al web oficial abans d'anar-hi [VALIDAR].",
+    "Museu Nacional Romà (Palazzo Massimo, Altemps, Termes de Dioclecià): habitualment tancat els dilluns, per això no s'hi va avui."
+   ]
+  },
+  {
+   "dia": 3,
+   "data": "2027-03-23",
+   "titol": "Colosseu, Fòrum i Palatí, i els Fòrums Imperials",
+   "intro": "El dimarts és el dia més segur per al Colosseu i el Fòrum. Les entrades surten 30 dies abans a la venda oficial (ticketing.colosseo.it): compra-les amb antelació. L'entrada de 24 h cobreix Colosseu, Fòrum Romà i Palatí; el Colosseu té un horari fix d'entrada i s'hi pot estar com a màxim 75 minuts; el Fòrum i el Palatí es poden fer el mateix dia o el dia anterior o posterior a la visita al Colosseu.\n\nEl Divendres Sant i els dies abans hi ha preparatius pel Via Crucis al Colosseu; per això convé veure avui tot el que hi ha pels voltants. Del Trevi al Colosseu hi ha uns 25 minuts a peu; també hi ha la línia B del metro (Colosseo).",
+   "parades": [
+    {
+     "lloc": "colosseu",
+     "hora": "8:30",
+     "durada": "1 h 30",
+     "nota": "Entrada reservada i puntual (arribar 15 minuts abans). Per veure l'arena i els soterranis hi ha la Full Experience (24 € la bàsica; 32 € amb recorregut didàctic, segons la web oficial; vegeu «Pràctic»). Horari de març: [VALIDAR, el web només dona l'horari fins al 28/2/2027].",
+     "a_peu_fins_seguent": "~3 min (~0,2 km)"
+    },
+    {
+     "lloc": "arc-constanti",
+     "hora": "10:05",
+     "durada": "10 min",
+     "nota": "L'arc de 315 dC, a tocar del Colosseu.",
+     "a_peu_fins_seguent": "~3 min (~0,4 km)"
+    },
+    {
+     "lloc": "arc-titus",
+     "hora": "10:20",
+     "durada": "15 min",
+     "nota": "Porta d'entrada al Fòrum pel costat del Colosseu (Arc de Titus). El relleu de la menorà és al passadís.",
+     "a_peu_fins_seguent": "~3 min (~0,4 km)"
+    },
+    {
+     "lloc": "forum-roma",
+     "hora": "10:40",
+     "durada": "1 h 15",
+     "nota": "Via Sacra, Cúria, Rostres, temple de Cèsar, Arc de Septimi Sever.",
+     "a_peu_fins_seguent": "~3 min (~0,3 km)"
+    },
+    {
+     "lloc": "basilica-maxenci",
+     "hora": "11:55",
+     "durada": "15 min",
+     "nota": "Les tres grans voltes que queden de la basílica; es veu des de la Via Sacra.",
+     "a_peu_fins_seguent": "~3 min (~0,2 km)"
+    },
+    {
+     "lloc": "casa-vestals",
+     "hora": "12:10",
+     "durada": "20 min",
+     "nota": "El pati amb els estanys i les estàtues de les vestals.",
+     "a_peu_fins_seguent": "~3 min (~0,3 km)"
+    },
+    {
+     "lloc": "palati",
+     "hora": "12:30",
+     "durada": "1 h 15",
+     "nota": "Domus Flavia, estadi de Domicià i vistes sobre el Circ Màxim. Casa d'August: visita limitada [VALIDAR si és accessible el dia 23].",
+     "a_peu_fins_seguent": "~3 min (~0,2 km)"
+    },
+    {
+     "lloc": "domus-augusti",
+     "hora": "13:45",
+     "durada": "20 min",
+     "nota": "Pintures murals de la casa d'August; el web del Parc indica que és tancada els dilluns i que l'accés és limitat. [VALIDAR]",
+     "a_peu_fins_seguent": "~3 min (~0,4 km)"
+    },
+    {
+     "lloc": "circ-maxim",
+     "hora": "14:10",
+     "durada": "20 min",
+     "nota": "Des del mirador del Palatí s'aprecia la forma de l'antic circ. Dinar al barri de Monti o de la Via dei Fori Imperiali.",
+     "a_peu_fins_seguent": "Dinar (~25 min a peu fins als Mercats de Trajà)"
+    },
+    {
+     "lloc": "mercats-traja",
+     "hora": "15:30",
+     "durada": "1 h 30",
+     "nota": "Museu dels Fòrums Imperials als Mercats de Trajà; obert cada dia de 9:30 a 19:30 segons la web oficial [VALIDAR preu actual].",
+     "a_peu_fins_seguent": "~3 min (~0,2 km)"
+    },
+    {
+     "lloc": "columna-trajana",
+     "hora": "17:00",
+     "durada": "15 min",
+     "nota": "Relleu en espiral de les guerres daces; la veus gairebé de prop des dels Mercats.",
+     "a_peu_fins_seguent": "~3 min (~0,4 km)"
+    },
+    {
+     "lloc": "forum-august",
+     "hora": "17:15",
+     "durada": "15 min",
+     "nota": "Es veu des del passeig de la Via dei Fori Imperiali; al fons es veu el mur de peperino i les restes del temple de Mart Ultor.",
+     "a_peu_fins_seguent": "~3 min (~0,1 km)"
+    },
+    {
+     "lloc": "forum-cesar",
+     "hora": "17:30",
+     "durada": "15 min",
+     "nota": "Tres columnes del temple de Venus Genetrix, visibles des de la via. Tornada a l'hotel a peu (~25 min) o en metro."
+    }
+   ],
+   "avisos": [
+    "Dimarts normal, sense tancaments coneguts segons l'INFORME.md. Dia recomanat per al Colosseu.",
+    "Temple de Venus i Roma (a tocar del Colosseu): el 2026 va estar tancat del 24 de març al 4 d'abril pels preparatius del Via Crucis; podria passar el mateix el 2027 [VALIDAR].",
+    "Les entrades surten 30 dies abans: per al 23/3, des de l'enllaç oficial ticketing.colosseo.it el 21/2/2027 (aprox.) [VALIDAR la data exacta d'obertura de venda]."
+   ]
+  },
+  {
+   "dia": 4,
+   "data": "2027-03-24",
+   "titol": "Galleria Borghese i els museus de Roma antiga a Termini",
+   "intro": "Dimecres es combina la Galleria Borghese (tiquets nominals comprats per endavant; torns de 2 hores) amb el Museu Nacional Romà, a la zona de Termini. Aquest dia es pot canviar per una excursió a Ostia Antica o a la Via Àpia (vegeu la nota general).\n\nEl dimecres és probable que hi hagi audiència papal al matí, amb la basílica de Sant Pere tancada fins al voltant de les 12:30 [VALIDAR]; per això avui no es planifica el Vaticà, i qui vulgui veure Sant Pere pot fer-ho a la tarda.",
+   "parades": [
+    {
+     "lloc": "galleria-borghese",
+     "hora": "9:00",
+     "durada": "2 h",
+     "nota": "Entrada amb data i hora; els tiquets són nominals i es venen al portal Musei Italiani (portale.museiitaliani.it); cada torn dura 2 h. 18 € l'entrada plena. Si el torn de les 9:00 no queda disponible, millora per un altre.",
+     "a_peu_fins_seguent": "~25 min (~2,0 km)"
+    },
+    {
+     "lloc": "palazzo-massimo",
+     "hora": "13:00",
+     "durada": "2 h",
+     "nota": "Un dels grans museus de l'art romà: escultura, mosaics i pintures de la Villa de Lívia. Museu Nacional Romà; obert de dimarts a diumenge, tancat els dilluns; horari de 9:00 [VALIDAR hora de tancament].",
+     "a_peu_fins_seguent": "~3 min (~0,3 km)"
+    },
+    {
+     "lloc": "museu-termes-diocleci",
+     "hora": "15:15",
+     "durada": "1 h",
+     "nota": "Museu en l'antic complex termal; la secció epigràfica és molt visual. Entrada combinada amb Palazzo Massimo (Museu Nacional Romà) [VALIDAR preu i vigència].",
+     "a_peu_fins_seguent": "~3 min (~0,0 km)"
+    },
+    {
+     "lloc": "termes-diocleci",
+     "hora": "16:15",
+     "durada": "20 min",
+     "nota": "Part de l'antic recinte aprofitat per Miquel Àngel per a l'església de Santa Maria degli Angeli. Tornada a l'hotel en metro (Repubblica–Barberini) o a peu (~25 min)."
+    }
+   ],
+   "avisos": [
+    "Probable audiència papal: basílica de Sant Pere tancada fins al voltant de les 12:30 [VALIDAR; font secundària a l'INFORME.md].",
+    "Galleria Borghese: reserva obligatòria; tiquets nominals i no reemborsables (web oficial)."
+   ]
+  },
+  {
+   "dia": 5,
+   "data": "2027-03-25",
+   "titol": "Capitoli, Fòrum Boari i Castel Sant'Angelo",
+   "intro": "Dijous: Missa Crismal al matí a Sant Pere (basílica limitada), així que avui es fan els Museus Capitolins i el riu. Comencen les vacances escolars al Laci; la ciutat es podria omplir més [VALIDAR].\n\nDe l'illa Tiberina a Castel Sant'Angelo hi ha uns 2,5 km a peu, amb una pausa per dinar a Trastevere.",
+   "parades": [
+    {
+     "lloc": "capitoli",
+     "hora": "9:15",
+     "durada": "15 min",
+     "nota": "Plaça del Capitoli, dissenyada per Miquel Àngel; vistes al Fòrum des de la balconada lateral.",
+     "a_peu_fins_seguent": "~3 min (~0,0 km)"
+    },
+    {
+     "lloc": "musei-capitolins",
+     "hora": "9:30",
+     "durada": "2 h",
+     "nota": "Obert cada dia de 9:30 a 19:30 segons la web oficial; entrada a 15 € per a no residents i 9,50 € reduïda [web oficial; comprovar preu]. Lloba capitolina i estàtua de Marc Aureli.",
+     "a_peu_fins_seguent": "~3 min (~0,2 km)"
+    },
+    {
+     "lloc": "carcer-tullianum",
+     "hora": "11:45",
+     "durada": "30 min",
+     "nota": "Antiga presó pública; hi van morir els conspiradors de Catilina. [VALIDAR horari i preu].",
+     "a_peu_fins_seguent": "~5 min (~0,6 km)"
+    },
+    {
+     "lloc": "teatre-marcel",
+     "hora": "12:30",
+     "durada": "20 min",
+     "nota": "Façana d'arcades, a l'exterior.",
+     "a_peu_fins_seguent": "~3 min (~0,1 km)"
+    },
+    {
+     "lloc": "portic-octavia",
+     "hora": "12:50",
+     "durada": "15 min",
+     "nota": "Restes del pòrtic d'Octàvia, a tocar del teatre.",
+     "a_peu_fins_seguent": "~10 min (~0,7 km)"
+    },
+    {
+     "lloc": "boca-veritat",
+     "hora": "13:15",
+     "durada": "20 min",
+     "nota": "Mascaró de marbre al porxo de Santa Maria in Cosmedin; solen fer cua. [VALIDAR si la visita és gratuïta i l'horari].",
+     "a_peu_fins_seguent": "~3 min (~0,2 km)"
+    },
+    {
+     "lloc": "forum-boari",
+     "hora": "13:35",
+     "durada": "20 min",
+     "nota": "Temples de Portunus i Hèrcules Victor, dins la plaça (exterior).",
+     "a_peu_fins_seguent": "~3 min (~0,3 km)"
+    },
+    {
+     "lloc": "illa-tiberina",
+     "hora": "14:00",
+     "durada": "20 min",
+     "nota": "Pont Fabrici (62 aC), el pont conservat més antic de Roma. Dinar a Trastevere.",
+     "a_peu_fins_seguent": "Dinar (~35 min a peu fins a Castel Sant'Angelo)"
+    },
+    {
+     "lloc": "castell-sant-angelo",
+     "hora": "15:30",
+     "durada": "2 h",
+     "nota": "Obert de dimarts a diumenge de 9:00 a 19:30 (darrera entrada 18:30), tancat els dilluns [cultura.gov.it]; entrada plena a 18 € des de l'1 de juliol del 2026 [cultura.gov.it]. Terrassa amb vistes a Sant Pere."
+    }
+   ],
+   "avisos": [
+    "Missa Crismal al matí (basílica limitada) i vacances escolars al Laci a partir d'aquest dia (INFORME.md).",
+    " Castel Sant'Angelo obert avui (només tanca els dilluns)."
+   ]
+  },
+  {
+   "dia": 6,
+   "data": "2027-03-26",
+   "titol": "Divendres Sant: Caracal·la, Sant Climent i comiat",
+   "intro": "El Divendres Sant el Colosseu tanca aviat: el 2026 va tancar a les 13:00 per preparar el Via Crucis; el 2027 és probable que passi el mateix [VALIDAR]. Per això avui no entres al Colosseu. A la tarda, el metro Colosseo pot estar tancat [VALIDAR]. Per això el dia es dedica al sud de la ciutat, lluny del Colosseu.\n\nEl vol és a les 19:25: surts de l'hotel cap a les 16:00-16:30 per agafar el Leonardo Express a Termini (32 minuts fins a Fiumicino).",
+   "parades": [
+    {
+     "lloc": "termes-caracalla",
+     "hora": "9:00",
+     "durada": "2 h",
+     "nota": "Tancat els dilluns; obert la resta de dies [cultura.gov.it]. Entrada 8 € [cultura.gov.it; comprovar]. Horari a final de març: [VALIDAR]. Del Trevi s'hi arriba en uns 30 min amb metro B (Circo Massimo) més un tram a peu [VALIDAR].",
+     "a_peu_fins_seguent": "~20 min (~1,6 km)"
+    },
+    {
+     "lloc": "san-clemente",
+     "hora": "11:30",
+     "durada": "1 h",
+     "nota": "Basílica medieval sobre una basílica antiga i un mitreu. L'accés als nivells inferiors és de pagament [VALIDAR horaris i preu].",
+     "a_peu_fins_seguent": "~20 min (~1,5 km)"
+    },
+    {
+     "lloc": "circ-maxim",
+     "hora": "12:45",
+     "durada": "20 min",
+     "nota": "Es veu des de la vora. Després, dinar a Monti o al Ghetto i tornada a l'hotel.",
+     "a_peu_fins_seguent": "~30 min (~2,1 km) fins a l'hotel (Trevi); recollir les maletes a les 15:30 i sortir cap a Termini a les 16:00"
+    }
+   ],
+   "avisos": [
+    "Divendres Sant: Colosseu tanca aviat (2026: 13:00). Metro Colosseo possiblement tancat a la tarda. Via Crucis a les 21:00 al Colosseu (patró 2025/2026) [VALIDAR per al 2027].",
+    "Evita la zona del Colosseu a partir del migdia: trànsit tallat i molta gent per al Via Crucis."
+   ]
+  }
+ ],
+ "fonts": [
+  {
+   "titol": "INFORME.md — Viatge Roma Setmana Santa 2027 (taula de tancaments)",
+   "url": "file:///Users/sergitorres/Claude/Personal/Viatge-Roma-Setmana-Santa-2027/INFORME.md"
+  },
+  {
+   "titol": "Parco archeologico del Colosseo — horaris i tancaments",
+   "url": "https://colosseo.it/orari-e-biglietti/"
+  },
+  {
+   "titol": "Parco archeologico del Colosseo — tancaments 3 d'abril del 2026 (Divendres Sant)",
+   "url": "https://colosseo.it/en/2026/03/closures-3-april-2026/"
+  },
+  {
+   "titol": "Galleria Borghese — informació i biglietti",
+   "url": "https://galleriaborghese.cultura.gov.it/visita/info-biglietti/"
+  },
+  {
+   "titol": "Musei Vaticani — visita",
+   "url": "https://www.museivaticani.va/content/museivaticani-mobile/it/organizza-visita/servizi-per-i-visitatori/mv-family-friendly.html"
+  },
+  {
+   "titol": "Castel Sant'Angelo — cultura.gov.it",
+   "url": "https://cultura.gov.it/luogo/castel-santangelo"
+  },
+  {
+   "titol": "Musei Capitolini — horaris i entrades",
+   "url": "https://museicapitolini.org/en/infopage/biglietti-e-audioguide"
+  },
+  {
+   "titol": "Mercati di Traiano — horaris",
+   "url": "https://mercatiditraiano.it/en/informazioni_pratiche/orari_e_indirizzi"
+  },
+  {
+   "titol": "Museo dell'Ara Pacis — entrades",
+   "url": "https://www.arapacis.it/en/node/516"
+  },
+  {
+   "titol": "Terme di Caracalla — cultura.gov.it",
+   "url": "https://cultura.gov.it/luogo/terme-di-caracalla"
+  },
+  {
+   "titol": "Ostia Antica — cultura.gov.it",
+   "url": "https://cultura.gov.it/luogo/parco-archeologico-di-ostia-antica-area-archeologica-di-ostia-antica"
+  }
+ ],
+ "validar": [
+  "Hotel: no reservat; els temps a peu suposen zona Trevi.",
+  "Temps a peu: estimats per fórmula, no amb mapa.",
+  "Horaris del Colosseu a final de març 2027 i el tancament exacte del Divendres Sant 2027.",
+  "Temple de Venus i Roma: possible tancament 22/3–4/4.",
+  "Calendari 2027 dels Museus Vaticans: PDF xifrat, no s'ha pogut llegir.",
+  "Pantheon: preu (5 € o 7 €) i obligació de reserva.",
+  "Domus Àuria, Crypta Balbi, Mausoleu d'August, Carcer Tullianum, San Clemente: horaris/preus."
+ ]
+}

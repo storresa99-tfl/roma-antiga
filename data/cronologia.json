@@ -1,0 +1,1261 @@
+{
+ "periodes": [
+  {
+   "id": "monarquia",
+   "nom": "Monarquia",
+   "inici": -753,
+   "fi": -509,
+   "intro": "Segons la tradició romana, set reis van governar la ciutat des de la seva fundació per Ròmul. La majoria de dades d'aquesta època provenen de relats escrits segles més tard, sobretot els de Titus Livi, i barregen història i llegenda.\n\nL'arqueologia confirma que el Palatí, el Capitoli i els turons veïns van ser ocupats des de molt aviat, i que sota influència etrusca la zona baixa entre ells es va drenar per esdevenir el Fòrum. La ciutat va créixer d'un grup de poblats a un nucli urbà amb temples, carrers i obres públiques.\n\nL'època acaba, segons la tradició, el 509 aC, amb l'expulsió de Tarquini el Superb i la creació de la República. El que es conserva dels monuments d'aquest període és molt escàs i sovint sota edificis posteriors.",
+   "esdeveniments": [
+    {
+     "any": -753,
+     "titol": "Fundació tradicional de Roma",
+     "text": "La tradició situa la fundació de la ciutat el 21 d'abril del 753 aC, quan Ròmul va traçar els límits de la seva ciutat al Palatí. La data és una construcció dels historiadors antics (Varró la va fixar) i no una xifra comprovada per l'arqueologia, que documenta poblats a les turons des del segle X aC.",
+     "llocs": [
+      "palati"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Founding_of_Rome"
+    },
+    {
+     "any": -715,
+     "titol": "Numa Pompili i el culte de Vesta",
+     "text": "Segons Titus Livi, el segon rei, Numa, va organitzar la vida religiosa de Roma i va instituir les verges vestals i el foc sagrat de la ciutat. Les restes del santuari de Vesta que es veuen al Fòrum són de reconstruccions molt posteriors.",
+     "llocs": [
+      "casa-vestals",
+      "forum-roma"
+     ],
+     "font": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0026:book=1:chapter=20"
+    },
+    {
+     "any": -640,
+     "titol": "Anc Marci i el port d'Òstia",
+     "text": "La tradició atribueix al quart rei, Anc Marci, la fundació d'Òstia a la desembocadura del Tíber, per controlar les salines i l'accés al mar. Les restes arqueològiques més antigues de la ciutat són posteriors (segle IV aC), de manera que el fet queda com a tradició.",
+     "llocs": [
+      "ostia-antica"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Ostia_Antica"
+    },
+    {
+     "any": -616,
+     "titol": "Tarquini Prisc i el Circ Màxim",
+     "text": "El cinquè rei, Tarquini Prisc, hauria drenat la vall entre el Palatí i l'Aventí per fer-hi curses i espectacles, origen del futur Circ Màxim. Amb els segles, el recinte va créixer fins a ser el més gran de l'antiguitat.",
+     "llocs": [
+      "circ-maxim"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Circus_Maximus"
+    },
+    {
+     "any": -600,
+     "titol": "La Cloaca Màxima i el naixement del Fòrum",
+     "text": "Un col·lector de drenatge va assecar la zona pantanosa entre els turons i va fer possible convertir-la en plaça pública. Aquest espai es va convertir en el cor polític, comercial i religiós de Roma. La Cloaca Màxima, ampliada després, encara desguassa al Tíber.",
+     "llocs": [
+      "forum-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Cloaca_Maxima"
+    },
+    {
+     "any": -600,
+     "titol": "Santuaris arcaics al Fòrum Boari",
+     "text": "Els sectors del Fòrum Boari i de Sant'Omobono conserven temples arcaics (Fortuna i Mater Matuta) que mostren una Roma ja integrada en el comerç de l'Etrúria i del Mediterrani, en un punt de pas del Tíber.",
+     "llocs": [
+      "forum-boari",
+      "boca-veritat"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Forum_Boarium"
+    },
+    {
+     "any": -600,
+     "titol": "Regia i Lapis Niger",
+     "text": "Al Fòrum, la Regia (residència del cap religiós, 'rex sacrorum') i el Lapis Niger (pedra negra amb una inscripció molt antiga en llatí arcaic) són els testimonis materials de l'època monàrquica a la ciutat.",
+     "llocs": [
+      "forum-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Lapis_Niger"
+    },
+    {
+     "any": -578,
+     "titol": "Servi Tul·li i el recinte emmurallat",
+     "text": "Servi Tul·li és el rei a qui s'atribueix una primera gran muralla i l'organització de la població en tribus. Les restes de la murada conservades són en realitat de l'època republicana (segle IV aC), i la tradició associa també a aquest període l'origen de la presó del Tullià.",
+     "llocs": [
+      "carcer-tullianum"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Servian_Wall"
+    },
+    {
+     "any": -509,
+     "titol": "Dedicació del temple de Júpiter Capitolí",
+     "text": "Segons la tradició, el temple més important de Roma es va dedicar el primer any de la República. El temple dominava el Capitoli i hi culminaven els triomfs; avui només en queden els fonaments sota els Museus Capitolins.",
+     "llocs": [
+      "capitoli",
+      "musei-capitolins"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Optimus_Maximus"
+    },
+    {
+     "any": -509,
+     "titol": "Expulsió de Tarquini el Superb",
+     "text": "Una revolta aristocràtica dirigida per Luci Juni Brut va fer fora l'últim rei, Tarquini el Superb, i va instaurar el sistema de dos cònsols anuals. La història de Lucrècia és el relat tradicional que ho justifica; els historiadors actuals en discuteixen els detalls.",
+     "llocs": [
+      "forum-roma"
+     ],
+     "font": "https://www.britannica.com/biography/Tarquinius-Superbus"
+    }
+   ]
+  },
+  {
+   "id": "republica",
+   "nom": "República",
+   "inici": -509,
+   "fi": -27,
+   "intro": "La República va substituir el rei per magistrats anuals, els cònsols, assessorats pel Senat. Va ser un període de lluita entre patricis i plebeus, de conquestes que van portar Roma a dominar Itàlia i, després, tot el Mediterrani.\n\nLes guerres púniques contra Cartago, l'expansió a Orient i l'arribada de riqueses van transformar la ciutat: nous temples, basíliques i els primers aqüeductes. Alhora, la desigualtat i l'ambició de generals com Màrius, Sul·la, Pompeu i Cèsar van derivar en guerres civils.\n\nL'assassinat de Cèsar el 44 aC i la victòria d'Octavià sobre Antoni i Cleòpatra el 31 aC van tancar l'etapa. El 27 aC el Senat li va conferir el títol d'August.",
+   "esdeveniments": [
+    {
+     "any": -509,
+     "titol": "Naixement de la República",
+     "text": "Els cònsols substitueixen el rei. La nova república manté la memòria del Capitoli com a centre sagrat i del Fòrum com a lloc de govern i justícia.",
+     "llocs": [
+      "capitoli",
+      "forum-roma"
+     ],
+     "font": "https://www.britannica.com/place/Roman-Republic"
+    },
+    {
+     "any": -451,
+     "titol": "Les Dotze Taules",
+     "text": "Per posar fi a l'arbitrarietat dels magistrats, els decemvirs van redactar les primeres lleis escrites, exposades al Fòrum. Van ser la base del dret romà durant segles.",
+     "llocs": [
+      "forum-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Twelve_Tables"
+    },
+    {
+     "any": -390,
+     "titol": "El saqueig gal i l'episodi de les oques",
+     "text": "Els gals de Brenn van prendre Roma després de la batalla de l'Àl·lia. La tradició explica que les oques sagrades del Capitoli van alertar els defensors d'un assalt nocturn. Roma es va refer i va construir poc després una nova muralla.",
+     "llocs": [
+      "capitoli"
+     ],
+     "font": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0026:book=5:chapter=47"
+    },
+    {
+     "any": -312,
+     "titol": "La Via Àpia",
+     "text": "El censor Api Claudi Cec va fer construir la primera gran via pavimentada cap al sud, de Roma a Capua, i el primer aqüeducte de la ciutat. La via va servir per a l'exèrcit i va fer de model de la xarxa viària romana.",
+     "llocs": [
+      "via-appia"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Appian_Way"
+    },
+    {
+     "any": -264,
+     "titol": "Primers combats de gladiadors a Roma",
+     "text": "Segons les fonts antigues, els primers combats de gladiadors a la ciutat es van fer al Fòrum Boari durant uns funerals aristocràtics. L'espectacle, nascut com a ritual funerari, acabaria convertint-se en un gran negoci públic.",
+     "llocs": [
+      "forum-boari"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Gladiator"
+    },
+    {
+     "any": -146,
+     "titol": "Temples de Hèrcules al Fòrum Boari",
+     "text": "En aquests anys d'expansió mediterrània (destrucció de Cartago i Corint), el Fòrum Boari es va omplir de temples nous. El de Hèrcules Victor, circular i de marbre grec, és un dels edificis romans més antics que s'han conservat sencers.",
+     "llocs": [
+      "forum-boari"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Temple_of_Hercules_Victor"
+    },
+    {
+     "any": -144,
+     "titol": "L'aqüeducte Aqua Marcia",
+     "text": "El pretor Quint Marci Rex va dur a la ciutat l'aigua de les muntanyes de l'est. Les arcades d'aquests aqüeductes es conserven al parc dels Aqüeductes, al sud-est de Roma.",
+     "llocs": [
+      "parc-aqueductes"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Aqua_Marcia"
+    },
+    {
+     "any": -63,
+     "titol": "La conjuració de Catilina",
+     "text": "Ciceró, cònsol aquell any, va aturar un complot per prendre el poder. Els cinc conspiradors principals van ser executats a la presó pública, el Carcer Tullianum, sota el Capitoli.",
+     "llocs": [
+      "carcer-tullianum"
+     ],
+     "font": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0124:chapter=55"
+    },
+    {
+     "any": -55,
+     "titol": "El teatre de Pompeu",
+     "text": "Pompeu va inaugurar el primer teatre estable de pedra a Roma, amb un temple a Venus Victrix a dalt de la graderia per esquivar la prohibició tradicional d'edificis d'aquest tipus. L'edifici tenia una gran sala annexa, la Cúria de Pompeu.",
+     "llocs": [
+      "teatre-pompeu",
+      "largo-argentina"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Theatre_of_Pompey"
+    },
+    {
+     "any": -46,
+     "titol": "El Fòrum de Cèsar",
+     "text": "Juli Cèsar va fer construir el primer dels fòrums imperials, centrat en un temple a Venus Genetrix, a qui la seva família deia descendir. És un gest de poder: Roma s'organitza al voltant d'un home.",
+     "llocs": [
+      "forum-cesar"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Forum_of_Caesar"
+    },
+    {
+     "any": -44,
+     "titol": "Assassinat de Juli Cèsar",
+     "text": "El 15 de març, els conjurats van assassinar Cèsar en una sala de reunions del Senat annexa al teatre de Pompeu, a l'àrea que avui es veu a Largo Argentina. Va ser el detonant d'una nova guerra civil.",
+     "llocs": [
+      "largo-argentina",
+      "teatre-pompeu"
+     ],
+     "font": "https://www.britannica.com/biography/Julius-Caesar-Roman-ruler"
+    },
+    {
+     "any": -29,
+     "titol": "Temple del Diví Juli",
+     "text": "Octavià va dedicar al Fòrum un temple al Cèsar divinitzat, al lloc on s'havia cremat el seu cos. Era la primera vegada que un mortal romà rebia culte oficial.",
+     "llocs": [
+      "forum-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Temple_of_Caesar"
+    },
+    {
+     "any": -28,
+     "titol": "Mausoleu d'August",
+     "text": "Octavià va començar un monumental sepulcre familiar al Camp de Mart, un cercle de terra i pedra coronat per un gran túmul. Hi van ser enterrats August i diversos membres de la dinastia.",
+     "llocs": [
+      "mausoleu-august"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus"
+    }
+   ]
+  },
+  {
+   "id": "alt-imperi",
+   "nom": "Alt Imperi",
+   "inici": -27,
+   "fi": 235,
+   "intro": "Amb August, Roma va passar a ser una monarquia de fet amb façana republicana. Després de dues dinasties (Julioclàudia i Flàvia) va venir el 'segle d'or' dels emperadors adoptius, amb Trajà, Adrià i Marc Aureli, i l'Imperi va assolir la màxima extensió.\n\nLa ciutat es va omplir d'edificis monumentals: fòrums imperials, el Colosseu, les termes, el Panteó. Amb aproximadament un milió d'habitants, era una capital amb aqüeductes, clavegueram, blocs de pisos (insulae) i espectacles gratuïts.\n\nEl període acaba amb l'assassinat de Sever Alexandre, el 235, en què comença una etapa d'inestabilitat política.",
+   "esdeveniments": [
+    {
+     "any": -27,
+     "titol": "August, primer príncep",
+     "text": "El Senat va donar el nom d'August a Octavià i, de fet, va començar l'Imperi. August va viure en una casa modesta al Palatí, que els arqueòlegs han identificat com la 'Casa d'August'.",
+     "llocs": [
+      "domus-augusti",
+      "palati"
+     ],
+     "font": "https://www.britannica.com/biography/Augustus-Roman-emperor"
+    },
+    {
+     "any": -13,
+     "titol": "El teatre de Marcel",
+     "text": "Planejat per Cèsar i acabat per August, va dedicar-se al seu nebot Marcel. És el model de la façana d'arcades que el Colosseu va fer servir i, a l'edat mitjana, es va reutilitzar com a fortalesa i palau.",
+     "llocs": [
+      "teatre-marcel",
+      "portic-octavia"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Theatre_of_Marcellus"
+    },
+    {
+     "any": -9,
+     "titol": "L'Ara Pacis",
+     "text": "L'altar de la Pau August, votat pel Senat el 13 aC, es va consagrar el 9 aC. Els seus relleus mostren la família imperial en processó i símbols de prosperitat.",
+     "llocs": [
+      "ara-pacis"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Ara_Pacis"
+    },
+    {
+     "any": -2,
+     "titol": "El Fòrum d'August",
+     "text": "August va inaugurar un tercer fòrum, amb el temple de Mart Ultor al fons i estàtues dels grans herois de Roma al llarg dels pòrtics. Era alhora un homenatge i un programa polític.",
+     "llocs": [
+      "forum-august"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Forum_of_Augustus"
+    },
+    {
+     "any": 64,
+     "titol": "El gran incendi de Roma",
+     "text": "L'incendi va començar a les botigues prop del Circ Màxim i va durar uns dies; en va quedar destruïda una bona part de la ciutat. Tàcit recull que corria el rumor que Neró l'havia provocat i que l'emperador va culpar els cristians.",
+     "llocs": [
+      "circ-maxim"
+     ],
+     "font": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0078:book=15:chapter=38"
+    },
+    {
+     "any": 64,
+     "titol": "La Domus Àuria de Neró",
+     "text": "Després de l'incendi, Neró va fer un gran palau-jardí al centre de la ciutat. Després de la seva mort, els Flavis van desmuntar el complex, van reblir-ne l'estany i hi van construir al damunt edificis públics.",
+     "llocs": [
+      "domus-aurea"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Domus_Aurea"
+    },
+    {
+     "any": 75,
+     "titol": "El Fòrum de la Pau",
+     "text": "Vespasià va fer construir un recinte, el Templum Pacis, amb botí de la guerra de Judea. Va tenir també una gran biblioteca i galeries d'art.",
+     "llocs": [
+      "forum-pau"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Forum_of_Vespasian"
+    },
+    {
+     "any": 80,
+     "titol": "Inauguració del Colosseu",
+     "text": "Iniciat per Vespasià, l'Amfiteatre Flavi es va inaugurar sota Titus amb cent dies de jocs. És el major amfiteatre del món romà i va servir per a caceres, combats de gladiadors i espectacles.",
+     "llocs": [
+      "colosseu"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Colosseum"
+    },
+    {
+     "any": 81,
+     "titol": "L'Arc de Titus",
+     "text": "Dedicat després de la mort de Titus, commemora la victòria a Judea i el saqueig de Jerusalem. Un dels relleus mostra el botí portat en processó, amb la menorà.",
+     "llocs": [
+      "arc-titus",
+      "forum-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Arch_of_Titus"
+    },
+    {
+     "any": 113,
+     "titol": "Fòrum, mercats i columna de Trajà",
+     "text": "Amb el botí de les guerres daces, Trajà va fer el més gran dels fòrums imperials. Hi va afegir una basílica, dues biblioteques i una gran columna amb un relleu en espiral que explica les campanyes. Els Mercats de Trajà, annexos, eren una estructura de botigues i oficines.",
+     "llocs": [
+      "forum-traja",
+      "mercats-traja",
+      "columna-trajana"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Trajan%27s_Column"
+    },
+    {
+     "any": 126,
+     "titol": "El Panteó d'Adrià",
+     "text": "L'actual Panteó és una reconstrucció d'Adrià (vers 126), que va conservar la inscripció d'Agripa de l'edifici anterior. La cúpula de formigó sense armadura continua sent la major del seu tipus.",
+     "llocs": [
+      "pantheon"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+    },
+    {
+     "any": 135,
+     "titol": "Temple de Venus i Roma",
+     "text": "Adrià va dissenyar personalment el major temple de Roma, entre el Fòrum i el Colosseu, dedicat a les deesses Venus i Roma. Es va acabar després de la seva mort, sota Antoní Pius.",
+     "llocs": [
+      "temple-venus-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Temple_of_Venus_and_Roma"
+    },
+    {
+     "any": 139,
+     "titol": "Mausoleu d'Adrià",
+     "text": "Adrià va fer bastir un gran sepulcre de la seva dinastia a la riba dreta del Tíber. A l'edat mitjana es va convertir en la fortalesa que avui coneixem com a Castel Sant'Angelo.",
+     "llocs": [
+      "castell-sant-angelo"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Castel_Sant%27Angelo"
+    },
+    {
+     "any": 203,
+     "titol": "L'Arc de Septimi Sever",
+     "text": "L'arc triomfal del Fòrum commemora les victòries contra els parts. Va ser un dels punts de la Via Sacra més visibles.",
+     "llocs": [
+      "forum-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Arch_of_Septimius_Severus"
+    },
+    {
+     "any": 216,
+     "titol": "Inauguració de les Termes de Caracal·la",
+     "text": "Un dels grans complexos de banys públics de l'antiguitat, amb biblioteques, jardins, piscines i galeries. Es va acabar sota Caracal·la i va funcionar fins al segle VI.",
+     "llocs": [
+      "termes-caracalla"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Baths_of_Caracalla"
+    }
+   ]
+  },
+  {
+   "id": "crisi-s3",
+   "nom": "Crisi del s. III",
+   "inici": 235,
+   "fi": 284,
+   "intro": "Entre 235 i 284 es van succeir una vintena d'emperadors reconeguts, la majoria proclamats per les tropes i morts per violència. L'Imperi va patir invasions de gots, alamans i perses, una gran pesta, una moneda devaluada i la fragmentació temporal en tres estats.\n\nRoma va haver d'adaptar-se: Aurelià va aixecar una nova muralla al voltant de la ciutat, un fet inèdit en gairebé cinc segles. El culte cristià, malgrat les persecucions, va créixer en silenci i es va organitzar a les catacumbes i en cases privades.\n\nLa crisi es va tancar amb Dioclecià, proclamat el 284, que va reordenar el sistema de govern i l'exèrcit.",
+   "esdeveniments": [
+    {
+     "any": 235,
+     "titol": "Mort de Sever Alexandre",
+     "text": "L'assassinat de l'últim emperador de la dinastia dels Sever, per part de les seves pròpies tropes, obre mig segle d'inestabilitat, de generals proclamats per les legions i d'usurpacions constants.",
+     "llocs": [],
+     "font": "https://www.britannica.com/event/Crisis-of-the-Third-Century"
+    },
+    {
+     "any": 238,
+     "titol": "L'any dels sis emperadors",
+     "text": "Aquest any, la revolta contra Maximí Traci va portar al poder Gordià I i II, Pupè i Balbí, i finalment Gordià III. El Senat va intentar recuperar protagonisme, però els militars van acabar imposant-se.",
+     "llocs": [
+      "forum-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Year_of_the_Six_Emperors"
+    },
+    {
+     "any": 248,
+     "titol": "El mil·lenari de Roma",
+     "text": "L'emperador Filip l'Àrab va celebrar els mil anys de la fundació de la ciutat amb uns jocs extraordinaris. Segons l'Historia Augusta, hi van participar centenars de gladiadors i fieres.",
+     "llocs": [
+      "colosseu"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Philip_the_Arab"
+    },
+    {
+     "any": 249,
+     "titol": "La pesta de Ciprià",
+     "text": "Una epidèmia va afectar l'Imperi durant diverses dècades i va agreujar la crisi demogràfica i militar. Pren el nom del bisbe de Cartago que la va descriure.",
+     "llocs": [],
+     "font": "https://en.wikipedia.org/wiki/Plague_of_Cyprian"
+    },
+    {
+     "any": 258,
+     "titol": "Persecució de Valerià i martiri del papa Sixt II",
+     "text": "Valerià va dictar edictes contra els cristians, que incloïen la prohibició de reunir-se en els cementiris. El papa Sixt II va ser detingut i executat; la tradició el situa a les catacumbes de Roma.",
+     "llocs": [
+      "catacumbes"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Pope_Sixtus_II"
+    },
+    {
+     "any": 260,
+     "titol": "Captura de Valerià i Imperi de les Gàl·lies",
+     "text": "Valerià va caure presoner dels perses de Sapor I. L'Imperi es va fracturar en tres blocs: l'Imperi gal, l'Imperi romà central i, més tard, el regne de Palmira.",
+     "llocs": [],
+     "font": "https://en.wikipedia.org/wiki/Gallic_Empire"
+    },
+    {
+     "any": 271,
+     "titol": "La muralla d'Aurelià",
+     "text": "Davant el perill de les incursions germàniques, Aurelià va rodejar Roma d'una nova muralla de gairebé 19 km. És una de les defenses urbanes antigues millor conservades.",
+     "llocs": [
+      "mur-aurelia",
+      "piramide-cestia"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Aurelian_Walls"
+    },
+    {
+     "any": 274,
+     "titol": "El triomf d'Aurelià",
+     "text": "Després d'haver reunificat l'Imperi, Aurelià va celebrar un triomf per Roma, amb Zenòbia de Palmira entre els presoners, i va dedicar un temple al Sol Invicte.",
+     "llocs": [
+      "forum-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Aurelian"
+    },
+    {
+     "any": 284,
+     "titol": "Dioclecià és proclamat emperador",
+     "text": "L'ascens de Dioclecià per les tropes posa fi a la crisi. Els seus canvis administratius donarien lloc a la tetrarquia.",
+     "llocs": [],
+     "font": "https://en.wikipedia.org/wiki/Diocletian"
+    }
+   ]
+  },
+  {
+   "id": "baix-imperi",
+   "nom": "Baix Imperi",
+   "inici": 284,
+   "fi": 476,
+   "intro": "L'Imperi va esdevenir més burocràtic i militar. Dioclecià va crear la tetrarquia i Constantí va tornar a unificar el poder i va fundar Constantinoble. Roma va deixar de ser la residència habitual dels emperadors, però va mantenir el prestigi simbòlic i els grans monuments.\n\nEl cristianisme va passar de religió perseguida a religió oficial amb Teodosi I, i les esglésies es van construir al costat dels temples antics. Alhora, les migracions i les guerres van desgastar les defenses d'Occident.\n\nEl saqueig d'Alaric (410) i el dels vàndals (455) van mostrar la vulnerabilitat de la ciutat. El 476, l'últim emperador d'Occident, Ròmul Augústul, va ser deposat.",
+   "esdeveniments": [
+    {
+     "any": 286,
+     "titol": "Dioclecià reparteix el poder",
+     "text": "Dioclecià va nomenar Maximià coemperador i, el 293, va crear la tetrarquia amb dos augustos i dos cèsars. Les capitals van deixar de ser Roma i es van traslladar a ciutats més a prop de les fronteres.",
+     "llocs": [],
+     "font": "https://en.wikipedia.org/wiki/Tetrarchy"
+    },
+    {
+     "any": 303,
+     "titol": "La Gran Persecució",
+     "text": "Dioclecià i els seus col·legues van emetre edictes per destruir les esglésies, cremar els llibres sagrats i obligar a sacrificar. Va ser la persecució més sistemàtica contra els cristians.",
+     "llocs": [
+      "catacumbes"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Diocletianic_Persecution"
+    },
+    {
+     "any": 306,
+     "titol": "Termes de Dioclecià",
+     "text": "Va ser el major complex de termes de Roma, amb capacitat per a milers de banyistes. Part de l'estructura es va reaprofitar per a una església i, després, per a un museu.",
+     "llocs": [
+      "termes-diocleci",
+      "museu-termes-diocleci"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Baths_of_Diocletian"
+    },
+    {
+     "any": 308,
+     "titol": "Maxenci i els seus monuments",
+     "text": "Maxenci, proclamat a Roma el 306, va emprendre obres a la ciutat: una gran basílica al Fòrum, un temple de Roma, un circ a la Via Àpia i un mausoleu familiar.",
+     "llocs": [
+      "basilica-maxenci",
+      "circ-maxenci"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Maxentius"
+    },
+    {
+     "any": 312,
+     "titol": "Batalla del Pont Milvi",
+     "text": "Constantí va derrotar Maxenci a les portes de Roma i va esdevenir l'únic emperador d'Occident. Segons les fonts cristianes, va ser després d'un senyal celeste.",
+     "llocs": [
+      "arc-constanti"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Battle_of_the_Milvian_Bridge"
+    },
+    {
+     "any": 313,
+     "titol": "L'Edicte de Milà",
+     "text": "Constantí i Licini van acordar la tolerància religiosa a tot l'Imperi. Els cristians van deixar de ser perseguits i el cristianisme va començar a guanyar influència a la ciutat.",
+     "llocs": [
+      "catacumbes"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Edict_of_Milan"
+    },
+    {
+     "any": 315,
+     "titol": "L'Arc de Constantí",
+     "text": "El Senat va dedicar l'arc triomfal més gran de Roma, al costat del Colosseu, per celebrar la victòria. Es va construir en part reaprofitant relleus d'edificis d'èpoques anteriors.",
+     "llocs": [
+      "arc-constanti",
+      "colosseu"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Arch_of_Constantine"
+    },
+    {
+     "any": 330,
+     "titol": "Constantinoble, nova capital",
+     "text": "Constantí va fundar una nova capital a l'est, a l'antiga Bizanci. Roma va perdre pes polític, però va mantenir el prestigi simbòlic.",
+     "llocs": [],
+     "font": "https://en.wikipedia.org/wiki/Constantinople"
+    },
+    {
+     "any": 380,
+     "titol": "L'Edicte de Tessalònica",
+     "text": "Teodosi I va declarar el cristianisme niceà la religió oficial. Pocs anys després va prohibir els sacrificis públics als antics déus.",
+     "llocs": [],
+     "font": "https://en.wikipedia.org/wiki/Edict_of_Thessalonica"
+    },
+    {
+     "any": 394,
+     "titol": "Fi del culte de Vesta",
+     "text": "Amb la prohibició dels cultes pagans, es va extingir el col·legi de les vestals i es va apagar el foc sagrat. La casa de les vestals del Fòrum es va reaprofitar com a habitatge.",
+     "llocs": [
+      "casa-vestals",
+      "forum-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Vestal_Virgin"
+    },
+    {
+     "any": 403,
+     "titol": "Honori reforça la muralla",
+     "text": "Davant l'amenaça gòtica, l'emperador Honori va fer elevar la muralla d'Aurelià i reforçar-ne les portes.",
+     "llocs": [
+      "mur-aurelia"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Aurelian_Walls"
+    },
+    {
+     "any": 410,
+     "titol": "El saqueig d'Alaric",
+     "text": "Els visigots d'Alaric van entrar a Roma per la porta Salària, després de dos setges anteriors. Roma no havia caigut en mans d'un exèrcit enemic des del saqueig gal, vuit segles abans.",
+     "llocs": [
+      "forum-roma",
+      "mur-aurelia"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Sack_of_Rome_(410)"
+    },
+    {
+     "any": 455,
+     "titol": "El saqueig dels vàndals",
+     "text": "Els vàndals de Genseric van saquejar la ciutat durant dues setmanes. Segons la tradició, el botí incloïa objectes del Temple de Jerusalem portats a Roma per Titus.",
+     "llocs": [
+      "capitoli"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Sack_of_Rome_(455)"
+    },
+    {
+     "any": 476,
+     "titol": "Ròmul Augústul és deposat",
+     "text": "Odoacre va deposar l'últim emperador d'Occident i va enviar les insígnies a Constantinoble. La data se sol prendre com a fi simbòlica de l'Imperi romà d'Occident.",
+     "llocs": [],
+     "font": "https://en.wikipedia.org/wiki/Romulus_Augustulus"
+    }
+   ]
+  },
+  {
+   "id": "despres",
+   "nom": "Després de Roma",
+   "inici": 476,
+   "fi": 2026,
+   "intro": "Després de l'Imperi, els monuments de Roma es van reaprofitar: temples convertits en esglésies, amfiteatres en fortaleses i edificis desmuntats per treure'n pedra, marbre i metall. Durant l'edat mitjana, el Fòrum esdevingué un camp de pastura i les ruïnes van quedar mig enterrades.\n\nAmb el Renaixement, els papes i els artistes van començar a mirar els edificis antics com a model. Es van redescobrir les pintures de la Domus Àuria, es van desenterrar escultures famoses i es van col·leccionar peces que després van formar els museus.\n\nA partir del segle XIX es van fer excavacions sistemàtiques. Al segle XX, la Via dei Fori Imperiali, oberta per Mussolini amb finalitats de propaganda, va destruir barris sencers i va tapar part dels fòrums. Avui el centre és Patrimoni de la Humanitat i les excavacions continuen.",
+   "esdeveniments": [
+    {
+     "any": 523,
+     "titol": "Últims espectacles al Colosseu",
+     "text": "Les caceres amb fieres són l'últim espectacle documentat, i els combats de gladiadors s'havien abandonat segles abans. L'amfiteatre es va anar reutilitzant per a altres usos.",
+     "llocs": [
+      "colosseu"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Colosseum"
+    },
+    {
+     "any": 608,
+     "titol": "El Panteó esdevé església",
+     "text": "L'emperador bizantí Focas va donar l'edifici al papa Bonifaci IV, que el va consagrar com a Santa Maria dels Màrtirs. Va ser aquesta conversió la que el va salvar de l'espoli.",
+     "llocs": [
+      "pantheon"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Pantheon,_Rome"
+    },
+    {
+     "any": 1349,
+     "titol": "El terratrèmol i la pedrera del Colosseu",
+     "text": "Un terratrèmol va fer caure el costat sud de l'amfiteatre. Al llarg de l'edat mitjana i el Renaixement, bona part del travertí es va aprofitar per a edificis nous.",
+     "llocs": [
+      "colosseu"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Colosseum"
+    },
+    {
+     "any": 1471,
+     "titol": "Naixement dels Museus Capitolins",
+     "text": "El papa Sixt IV va donar al poble de Roma un conjunt de bronzes antics, entre ells la lloba. Es considera l'origen del museu públic més antic del món.",
+     "llocs": [
+      "musei-capitolins",
+      "capitoli"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Capitoline_Museums"
+    },
+    {
+     "any": 1480,
+     "titol": "Redescobriment de la Domus Àuria",
+     "text": "Uns joves van caure per una esquerda al turó i hi van trobar sales pintades. Artistes del Renaixement hi van baixar a copiar els motius, que van batejar 'grotescos'.",
+     "llocs": [
+      "domus-aurea"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Domus_Aurea"
+    },
+    {
+     "any": 1506,
+     "titol": "Troballa del Laocoont",
+     "text": "Una escultura famosa de l'antiguitat va aparèixer en una vinya a la zona de l'Esquilí, a prop de les ruïnes de la Domus Àuria. El papa Juli II la va comprar, i va ser el nucli dels futurs Museus Vaticans.",
+     "llocs": [
+      "domus-aurea",
+      "musei-vaticans"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Laoco%C3%B6n_and_His_Sons"
+    },
+    {
+     "any": 1536,
+     "titol": "Carles V i la neteja del Fòrum",
+     "text": "Amb motiu de l'entrada triomfal de l'emperador Carles V, Pau III va fer netejar la Via Sacra i enderrocar edificis que tapaven l'Arc de Titus. El Fòrum, però, va continuar sent un pasturatge ('Campo Vaccino').",
+     "llocs": [
+      "forum-roma",
+      "arc-titus"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Roman_Forum"
+    },
+    {
+     "any": 1587,
+     "titol": "Sant Pere i Sant Pau sobre les columnes",
+     "text": "Sixt V va fer coronar la columna de Trajà amb una estàtua de sant Pere, i la de Marc Aureli amb una de sant Pau, en un gest d'apropiació cristiana dels monuments imperials.",
+     "llocs": [
+      "columna-trajana",
+      "columna-marc-aureli"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Trajan%27s_Column"
+    },
+    {
+     "any": 1749,
+     "titol": "El Colosseu, lloc de martiri",
+     "text": "El papa Benet XIV el va consagrar a la Passió de Crist, amb l'argument que hi havien mort màrtirs. Aquesta decisió va frenar l'espoli de pedra i va donar origen a la tradició del Viacrucis.",
+     "llocs": [
+      "colosseu"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Colosseum"
+    },
+    {
+     "any": 1871,
+     "titol": "Roma, capital d'Itàlia",
+     "text": "Amb la unificació, Roma passa a ser la capital del nou Regne. Es van fer obres urbanístiques que van fer sortir a la llum molts monuments antics.",
+     "llocs": [
+      "forum-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Rome"
+    },
+    {
+     "any": 1898,
+     "titol": "Excavacions de Giacomo Boni",
+     "text": "L'arqueòleg Giacomo Boni va dirigir excavacions estratigràfiques al Fòrum, entre elles la zona del Lapis Niger. Va ser un dels primers a aplicar mètodes científics a Roma.",
+     "llocs": [
+      "forum-roma"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Giacomo_Boni"
+    },
+    {
+     "any": 1932,
+     "titol": "Mussolini i la Via dei Fori Imperiali",
+     "text": "El règim feixista va obrir una gran avinguda entre la plaça de Venècia i el Colosseu, que va enderrocar barris sencers i va enterrar part dels Fòrums Imperials. Era un acte de propaganda que feia lligar l'Imperi antic amb el present.",
+     "llocs": [
+      "forum-traja",
+      "forum-cesar",
+      "forum-august",
+      "colosseu"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Via_dei_Fori_Imperiali"
+    },
+    {
+     "any": 1937,
+     "titol": "Mostra Augustea i maqueta de Roma",
+     "text": "L'exposició per al bimil·lenari d'August va mostrar la maqueta de la Roma antiga de Gismondi. El material va donar lloc al Museu de la Civilització Romana.",
+     "llocs": [
+      "museu-civilta-romana"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Museo_della_Civilt%C3%A0_Romana"
+    },
+    {
+     "any": 1938,
+     "titol": "Reconstrucció de l'Ara Pacis",
+     "text": "L'altar va ser reconstruït a partir de peces trobades al subsòl del Palazzo Fiano, i es va muntar a la riba del Tíber, al costat del mausoleu d'August, que va ser despullat de les edificacions medievals.",
+     "llocs": [
+      "ara-pacis",
+      "mausoleu-august"
+     ],
+     "font": "https://en.wikipedia.org/wiki/Ara_Pacis"
+    }
+   ]
+  }
+ ],
+ "emperadors": [
+  {
+   "nom": "August",
+   "regnat": "27 aC – 14 dC",
+   "dinastia": "Julioclàudia",
+   "text": "Primer emperador. Va posar fi a les guerres civils, va reorganitzar l'Estat i va transformar Roma amb nous edificis.",
+   "llocs": [
+    "ara-pacis",
+    "forum-august",
+    "mausoleu-august",
+    "domus-augusti"
+   ]
+  },
+  {
+   "nom": "Tiberi",
+   "regnat": "14 – 37",
+   "dinastia": "Julioclàudia",
+   "text": "Fillastre d'August; va governar amb prudència però es va retirar a Capri. Va passar els últims anys retirat a Capri.",
+   "llocs": [
+    "palati"
+   ]
+  },
+  {
+   "nom": "Calígula",
+   "regnat": "37 – 41",
+   "dinastia": "Julioclàudia",
+   "text": "Jove i autoritari, va tenir un regnat curt i violent acabat per un complot de la guàrdia pretoriana.",
+   "llocs": [
+    "palati"
+   ]
+  },
+  {
+   "nom": "Claudi",
+   "regnat": "41 – 54",
+   "dinastia": "Julioclàudia",
+   "text": "Va conquerir part de Britània i va ampliar el port d'Òstia. Va ser el primer emperador nascut fora d'Itàlia.",
+   "llocs": [
+    "ostia-antica",
+    "porta-maggiore"
+   ]
+  },
+  {
+   "nom": "Neró",
+   "regnat": "54 – 68",
+   "dinastia": "Julioclàudia",
+   "text": "Va viure l'incendi de Roma i va construir la Domus Àuria. Es va suïcidar quan els exèrcits el van abandonar.",
+   "llocs": [
+    "domus-aurea",
+    "circ-maxim"
+   ]
+  },
+  {
+   "nom": "Galba",
+   "regnat": "68 – 69",
+   "dinastia": "Any dels quatre emperadors",
+   "text": "Governador d'Hispània, proclamat per les legions. Va ser assassinat pels pretorians als pocs mesos.",
+   "llocs": [
+    "forum-roma"
+   ]
+  },
+  {
+   "nom": "Otó",
+   "regnat": "69",
+   "dinastia": "Any dels quatre emperadors",
+   "text": "Va prendre el poder amb un cop contra Galba i es va suïcidar després d'una derrota militar.",
+   "llocs": []
+  },
+  {
+   "nom": "Vitel·li",
+   "regnat": "69",
+   "dinastia": "Any dels quatre emperadors",
+   "text": "Proclamat per les legions del Rin, va regnar uns mesos fins a la victòria dels partidaris de Vespasià.",
+   "llocs": [
+    "forum-roma"
+   ]
+  },
+  {
+   "nom": "Vespasià",
+   "regnat": "69 – 79",
+   "dinastia": "Flàvia",
+   "text": "Va restablir l'ordre després de la guerra civil i va començar el Colosseu amb els diners del botí de Judea.",
+   "llocs": [
+    "colosseu",
+    "forum-pau"
+   ]
+  },
+  {
+   "nom": "Titus",
+   "regnat": "79 – 81",
+   "dinastia": "Flàvia",
+   "text": "Va inaugurar el Colosseu i va afrontar l'erupció del Vesuvi. El seu arc és al Fòrum.",
+   "llocs": [
+    "colosseu",
+    "arc-titus"
+   ]
+  },
+  {
+   "nom": "Domicià",
+   "regnat": "81 – 96",
+   "dinastia": "Flàvia",
+   "text": "Va fer aixecar el gran palau imperial del Palatí i un estadi al Camp de Mart. Va ser assassinat.",
+   "llocs": [
+    "palati",
+    "estadi-domicia",
+    "ludus-magnus"
+   ]
+  },
+  {
+   "nom": "Nerva",
+   "regnat": "96 – 98",
+   "dinastia": "Nerva-Antonina",
+   "text": "Elegit pel Senat de gran, va adoptar Trajà per assegurar la successió.",
+   "llocs": [
+    "forum-roma"
+   ]
+  },
+  {
+   "nom": "Trajà",
+   "regnat": "98 – 117",
+   "dinastia": "Nerva-Antonina",
+   "text": "Va conquerir la Dàcia i va donar a l'Imperi la seva màxima extensió. Va dotar Roma d'un gran fòrum.",
+   "llocs": [
+    "forum-traja",
+    "mercats-traja",
+    "columna-trajana"
+   ]
+  },
+  {
+   "nom": "Adrià",
+   "regnat": "117 – 138",
+   "dinastia": "Nerva-Antonina",
+   "text": "Emperador viatger i arquitecte aficionat. Va reconstruir el Panteó i va deixar la seva vil·la a Tívoli.",
+   "llocs": [
+    "pantheon",
+    "temple-venus-roma",
+    "castell-sant-angelo",
+    "villa-adriana"
+   ]
+  },
+  {
+   "nom": "Antoní Pius",
+   "regnat": "138 – 161",
+   "dinastia": "Nerva-Antonina",
+   "text": "Regnat llarg i tranquil, sense grans guerres. Va completar el temple de Venus i Roma.",
+   "llocs": [
+    "temple-venus-roma"
+   ]
+  },
+  {
+   "nom": "Marc Aureli",
+   "regnat": "161 – 180",
+   "dinastia": "Nerva-Antonina",
+   "text": "Emperador filòsof; va viure guerres al Danubi i la pesta antonina. La seva columna narra les campanyes.",
+   "llocs": [
+    "columna-marc-aureli"
+   ]
+  },
+  {
+   "nom": "Còmmode",
+   "regnat": "180 – 192",
+   "dinastia": "Nerva-Antonina",
+   "text": "Fill de Marc Aureli. Es va fer retratar com a Hèrcules i va combatre a l'arena. Va ser assassinat.",
+   "llocs": [
+    "colosseu",
+    "ludus-magnus"
+   ]
+  },
+  {
+   "nom": "Pertinax",
+   "regnat": "193",
+   "dinastia": "Any dels cinc emperadors",
+   "text": "Va ser proclamat després de l'assassinat de Còmmode i mort pels pretorians al cap de tres mesos.",
+   "llocs": []
+  },
+  {
+   "nom": "Dídiu Julià",
+   "regnat": "193",
+   "dinastia": "Any dels cinc emperadors",
+   "text": "Va 'comprar' l'Imperi als pretorians en una subhasta i va ser enderrocat en poques setmanes.",
+   "llocs": []
+  },
+  {
+   "nom": "Septimi Sever",
+   "regnat": "193 – 211",
+   "dinastia": "Severiana",
+   "text": "Africà d'origen, va fundar una dinastia amb suport militar. El seu arc és al Fòrum.",
+   "llocs": [
+    "forum-roma",
+    "palati"
+   ]
+  },
+  {
+   "nom": "Caracal·la",
+   "regnat": "211 – 217",
+   "dinastia": "Severiana",
+   "text": "Va estendre la ciutadania romana a gairebé tots els homes lliures i va fer construir uns grans banys públics.",
+   "llocs": [
+    "termes-caracalla"
+   ]
+  },
+  {
+   "nom": "Geta",
+   "regnat": "211",
+   "dinastia": "Severiana",
+   "text": "Coemperador amb el seu germà Caracal·la, que el va assassinar al cap de pocs mesos.",
+   "llocs": []
+  },
+  {
+   "nom": "Macrí",
+   "regnat": "217 – 218",
+   "dinastia": "Severiana",
+   "text": "Primer emperador que no era senador. Va ser derrotat pels partidaris d'Heliogàbal.",
+   "llocs": []
+  },
+  {
+   "nom": "Heliogàbal",
+   "regnat": "218 – 222",
+   "dinastia": "Severiana",
+   "text": "Sacerdot del déu sirià Elagàbal, va intentar imposar-ne el culte a Roma. Va ser assassinat.",
+   "llocs": [
+    "palati"
+   ]
+  },
+  {
+   "nom": "Sever Alexandre",
+   "regnat": "222 – 235",
+   "dinastia": "Severiana",
+   "text": "Últim Sever. La seva mort a mans de les tropes va obrir la crisi del segle III.",
+   "llocs": []
+  },
+  {
+   "nom": "Maximí Traci",
+   "regnat": "235 – 238",
+   "dinastia": "Crisi del segle III",
+   "text": "Primer 'emperador soldat', procedent de la tropa. No va entrar mai a Roma durant el regnat.",
+   "llocs": []
+  },
+  {
+   "nom": "Gordià III",
+   "regnat": "238 – 244",
+   "dinastia": "Crisi del segle III",
+   "text": "Emperador molt jove amb un regnat dominat pel seu prefecte. Va morir durant la campanya contra els perses.",
+   "llocs": []
+  },
+  {
+   "nom": "Filip l'Àrab",
+   "regnat": "244 – 249",
+   "dinastia": "Crisi del segle III",
+   "text": "Va celebrar el mil·lenari de la ciutat el 248, amb jocs a gran escala.",
+   "llocs": [
+    "colosseu"
+   ]
+  },
+  {
+   "nom": "Deci",
+   "regnat": "249 – 251",
+   "dinastia": "Crisi del segle III",
+   "text": "Va ordenar que tothom sacrifiqués als déus de l'Estat, la primera persecució general de cristians.",
+   "llocs": [
+    "catacumbes"
+   ]
+  },
+  {
+   "nom": "Treboniano Gal",
+   "regnat": "251 – 253",
+   "dinastia": "Crisi del segle III",
+   "text": "Va governar durant una pesta i una pressió constant de gots i perses. Va ser assassinat per les seves tropes.",
+   "llocs": []
+  },
+  {
+   "nom": "Valerià",
+   "regnat": "253 – 260",
+   "dinastia": "Crisi del segle III",
+   "text": "Va perseguir els cristians i va ser capturat pel rei persa Sapor I, un fet sense precedents.",
+   "llocs": [
+    "catacumbes"
+   ]
+  },
+  {
+   "nom": "Gal·liè",
+   "regnat": "253 – 268",
+   "dinastia": "Crisi del segle III",
+   "text": "Va regnar en el pitjor moment de la crisi. Va reformar l'exèrcit i va acabar la persecució.",
+   "llocs": []
+  },
+  {
+   "nom": "Claudi II Gòtic",
+   "regnat": "268 – 270",
+   "dinastia": "Crisi del segle III",
+   "text": "Va derrotar els gots a Naissus i va morir de pesta.",
+   "llocs": []
+  },
+  {
+   "nom": "Aurelià",
+   "regnat": "270 – 275",
+   "dinastia": "Crisi del segle III",
+   "text": "Va reunificar l'Imperi i va construir la muralla que encara envolta bona part de Roma.",
+   "llocs": [
+    "mur-aurelia"
+   ]
+  },
+  {
+   "nom": "Tàcit",
+   "regnat": "275 – 276",
+   "dinastia": "Crisi del segle III",
+   "text": "Senador gran elegit pel Senat; va regnar uns mesos.",
+   "llocs": []
+  },
+  {
+   "nom": "Probe",
+   "regnat": "276 – 282",
+   "dinastia": "Crisi del segle III",
+   "text": "Gran general que va restablir les fronteres; va morir en un motí.",
+   "llocs": []
+  },
+  {
+   "nom": "Car",
+   "regnat": "282 – 283",
+   "dinastia": "Crisi del segle III",
+   "text": "Prefecte pretorià i emperador. Va morir durant la campanya contra els perses.",
+   "llocs": []
+  },
+  {
+   "nom": "Dioclecià",
+   "regnat": "284 – 305",
+   "dinastia": "Tetrarquia",
+   "text": "Va estabilitzar l'Imperi amb el repartiment de poders. Va fer les termes més grans de Roma i va abdicar voluntàriament.",
+   "llocs": [
+    "termes-diocleci",
+    "museu-termes-diocleci"
+   ]
+  },
+  {
+   "nom": "Maximià",
+   "regnat": "286 – 305",
+   "dinastia": "Tetrarquia",
+   "text": "Coemperador d'Occident al costat de Dioclecià.",
+   "llocs": []
+  },
+  {
+   "nom": "Constanci Clor",
+   "regnat": "293 – 306",
+   "dinastia": "Tetrarquia",
+   "text": "Cèsar i després august d'Occident. Pare de Constantí.",
+   "llocs": []
+  },
+  {
+   "nom": "Galeri",
+   "regnat": "293 – 311",
+   "dinastia": "Tetrarquia",
+   "text": "Cèsar i, després, augusto d'Orient. Va impulsar la Gran Persecució.",
+   "llocs": []
+  },
+  {
+   "nom": "Maxenci",
+   "regnat": "306 – 312",
+   "dinastia": "Constantiniana",
+   "text": "Governant de Roma i Itàlia. Va construir la basílica del Fòrum i un circ a la Via Àpia.",
+   "llocs": [
+    "basilica-maxenci",
+    "circ-maxenci"
+   ]
+  },
+  {
+   "nom": "Constantí I",
+   "regnat": "306 – 337",
+   "dinastia": "Constantiniana",
+   "text": "Va derrotar Maxenci, va afavorir el cristianisme i va fundar Constantinoble.",
+   "llocs": [
+    "arc-constanti"
+   ]
+  },
+  {
+   "nom": "Constanci II",
+   "regnat": "337 – 361",
+   "dinastia": "Constantiniana",
+   "text": "Fill de Constantí. Va visitar Roma el 357 i va quedar impressionat pels seus monuments.",
+   "llocs": [
+    "forum-traja"
+   ]
+  },
+  {
+   "nom": "Julià",
+   "regnat": "361 – 363",
+   "dinastia": "Constantiniana",
+   "text": "Conegut com l'Apòstata per intentar restaurar els cultes tradicionals. Va morir en campanya.",
+   "llocs": []
+  },
+  {
+   "nom": "Valentinià I",
+   "regnat": "364 – 375",
+   "dinastia": "Valentiniana",
+   "text": "Emperador militar d'Occident. Va defensar el Rin i el Danubi.",
+   "llocs": []
+  },
+  {
+   "nom": "Gracià",
+   "regnat": "367 – 383",
+   "dinastia": "Valentiniana",
+   "text": "Va retirar l'altar de la Victòria del Senat. Va ser assassinat durant una usurpació.",
+   "llocs": []
+  },
+  {
+   "nom": "Teodosi I",
+   "regnat": "379 – 395",
+   "dinastia": "Teodosiana",
+   "text": "Últim emperador a governar tot l'Imperi. Va declarar el cristianisme religió oficial.",
+   "llocs": [
+    "forum-roma"
+   ]
+  },
+  {
+   "nom": "Honori",
+   "regnat": "393 – 423",
+   "dinastia": "Teodosiana",
+   "text": "Emperador d'Occident durant el saqueig de Roma el 410. Va fer reforçar la muralla.",
+   "llocs": [
+    "mur-aurelia"
+   ]
+  },
+  {
+   "nom": "Valentinià III",
+   "regnat": "425 – 455",
+   "dinastia": "Teodosiana",
+   "text": "Va regnar des de nen. Va viure la pèrdua de bona part d'Occident i els atacs dels huns i vàndals.",
+   "llocs": []
+  },
+  {
+   "nom": "Petroni Màxim",
+   "regnat": "455",
+   "dinastia": "Darrers emperadors d'Occident",
+   "text": "Va regnar només uns mesos i va morir quan els vàndals s'acostaven a Roma.",
+   "llocs": []
+  },
+  {
+   "nom": "Avit",
+   "regnat": "455 – 456",
+   "dinastia": "Darrers emperadors d'Occident",
+   "text": "Gal·loromà proclamat amb suport visigot. Va ser deposat per generals romans.",
+   "llocs": []
+  },
+  {
+   "nom": "Majorià",
+   "regnat": "457 – 461",
+   "dinastia": "Darrers emperadors d'Occident",
+   "text": "Va intentar restaurar l'autoritat imperial a Itàlia i les Gàl·lies; es va ocupar també de la protecció dels edificis antics.",
+   "llocs": []
+  },
+  {
+   "nom": "Líbius Sever",
+   "regnat": "461 – 465",
+   "dinastia": "Darrers emperadors d'Occident",
+   "text": "Emperador titella de Ricimer, el cap militar germànic.",
+   "llocs": []
+  },
+  {
+   "nom": "Antemi",
+   "regnat": "467 – 472",
+   "dinastia": "Darrers emperadors d'Occident",
+   "text": "Emperador enviat des de Constantinoble. Va morir en un conflicte amb Ricimer.",
+   "llocs": []
+  },
+  {
+   "nom": "Olibri",
+   "regnat": "472",
+   "dinastia": "Darrers emperadors d'Occident",
+   "text": "Va regnar durant uns mesos, imposat per Ricimer.",
+   "llocs": []
+  },
+  {
+   "nom": "Glicseri",
+   "regnat": "473 – 474",
+   "dinastia": "Darrers emperadors d'Occident",
+   "text": "Imposat pel burgundi Gundobad, va ser desplaçat per Juli Nepot.",
+   "llocs": []
+  },
+  {
+   "nom": "Juli Nepot",
+   "regnat": "474 – 475",
+   "dinastia": "Darrers emperadors d'Occident",
+   "text": "Reconegut per Constantinoble, va ser expulsat d'Itàlia per Orestes. Va mantenir una autoritat nominal a Dalmàcia fins al 480.",
+   "llocs": []
+  },
+  {
+   "nom": "Ròmul Augústul",
+   "regnat": "475 – 476",
+   "dinastia": "Darrers emperadors d'Occident",
+   "text": "Adolescent proclamat pel seu pare Orestes. Odoacre el va deposar el 476, fet que se sol prendre com la fi de l'Imperi d'Occident.",
+   "llocs": []
+  }
+ ],
+ "fonts": [
+  {
+   "titol": "Wikipedia (en) — articles citats a cada esdeveniment",
+   "url": "https://en.wikipedia.org/wiki/Ancient_Rome"
+  },
+  {
+   "titol": "Encyclopaedia Britannica — Ancient Rome",
+   "url": "https://www.britannica.com/place/ancient-Rome"
+  },
+  {
+   "titol": "LacusCurtius (Bill Thayer) — Roma antiga i autors clàssics",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/home.html"
+  },
+  {
+   "titol": "Perseus Digital Library — Titus Livi, Tàcit, Salusti",
+   "url": "https://www.perseus.tufts.edu/hopper/"
+  },
+  {
+   "titol": "Suetoni, Vides dels dotze Cèsars (LacusCurtius)",
+   "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Suetonius/12Caesars/home.html"
+  }
+ ],
+ "validar": [
+  "Dates de regnat dels emperadors: comprovar-ne una a una amb Wikipedia/Britannica abans de publicar (les dades s'han posat de memòria de manera consistent, però no s'han tornat a verificar a la font).",
+  "Dates tradicionals de la monarquia (753–509 aC) són llegendàries; són una tradició, no una cronologia confirmada.",
+  "Anys aproximats: 600 aC (Cloaca Màxima, Regia), 308 (obres de Maxenci), 1349 (terratrèmol), 126 (Panteó), 144 aC (Aqua Marcia).",
+  "URL de Britannica (5 enllaços) no verificades: el servidor bloqueja peticions automàtiques (HTTP 403); comprovar-les amb el navegador."
+ ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Roma Antiga",
+  "short_name": "Roma Antiga",
+  "description": "Guia personal de viatge a la Roma antiga: llocs, mapa, cronologia i rutes. Funciona sense connexió.",
+  "lang": "ca",
+  "dir": "ltr",
+  "start_url": "./index.html#/",
+  "scope": "./",
+  "id": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4efe6",
+  "theme_color": "#9c4527",
+  "categories": ["travel", "education"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
